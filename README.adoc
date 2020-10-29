@@ -1,0 +1,16 @@
+= inofficial corona.hhu.de backup
+:icons: font
+:icon-set: fa
+:source-highlighter: rouge
+:experimental:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+This is a simple backup repository of the corona.hhu.de website. Simply watch this repository to get notified when anything changes and see the changes as a git diff :tada:
+
+I run the script every 20 minutes as a cron job on a raspberry pi so updates should be somewhat timely.
