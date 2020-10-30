@@ -1,11 +1,11 @@
-[Zum Inhalt springen](zur-forschung.html#content)[Informationen für
-Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen und
-Juniorprofessuren](zur-forschung.html#c452944)[Kongressreisen und
+[Zum Inhalt springen](zur-forschung.html#content)[Kongressreisen und
 Projekttreffen (Dienstreisen)](zur-forschung.html#c452945)[Laborbetrieb unter
 COVID-19-Bedingungen](zur-forschung.html#c452941)[Corona-Informationen der
 Förderorganisationen](zur-forschung.html#c452942)[Hinweise für internationale
 Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung.html#c452943) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
+forschung.html#c452943)[Informationen für Promovierende, Promotionsbetreuende,
+Postdocs, Nachwuchsgruppenleitungen und Juniorprofessuren](zur-
+forschung.html#c452944) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
 zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
 Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
 unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
@@ -38,7 +38,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -71,7 +71,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 

@@ -30,7 +30,7 @@ policy.html#c439136)[As a supervisor – how do I proceed if one of my employees
 reports a (suspected) infection with COVID-19?](covid-19-suspected-and-
 confirmed-cases-hygiene-policy.html#c0)
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+  * [DE](../hygienekonzept.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
@@ -65,7 +65,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+  * [DE](../hygienekonzept.html)
   * EN
   * [Intranet](https://www.mitarbeiter.hhu.de/)
 

@@ -12,7 +12,8 @@ chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
 studierende.html#c439254)[Das Wichtigste für Studierende in Kürze](fuer-
-studierende.html#c438637)
+studierende.html#c438637)[Lernräume auf dem Campus](fuer-
+studierende.html#c513981)
 
   * DE
   * [EN](en/for-students.html)
@@ -41,7 +42,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -74,7 +75,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -93,32 +94,30 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
 
 ## Das Wichtigste für Studierende in Kürze
 
-  * Ab dem 26.10.2020 öffnet die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
-  * Alle von den Fachschaften im Rahmen der Orientierungswoche für Erstsemester (ESAG) organisierten Präsenzveranstaltungen entfallen. Die Fachschaften haben digitale Angebote geplant und werden sich über diese Angebote an die Studienanfänger wenden.
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
+  * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
+  * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
   * Bitte beachten Sie die [ Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
-  * Personen, die aus einem von der Bundesregierung benannten internationalen Risikogebiet eingereist sind, dürfen den Campus nicht betreten, solange durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
-  * Personen aus nationalen Gebieten, in denen häufiger Infektionen mit dem Coronavirus auftreten und die daher teilweise missverständlich als „Risikogebiet“ bezeichnet werden, dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * In allen Gebäuden auf dem Campus sowie in von der HHU genutzten Räumen außerhalb des Campus besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Die Mund-Nasen-Bedeckung darf nur abgesetzt werden, wenn man sich allein in einem Raum oder in mindestens zu 1,5 m Abstand zu anderen Personen an einem festen Platz aufhält. Die Verpflichtung zum Tragen einer Mund-Nasen-Bedeckung gilt seit dem 20.10.2020 auch auf der Magistrale – von Gebäude 16.11 bis zum ZIM – sowie weiteren stark frequentierten Wegen auf dem Campus der HHU, auf denen der Mindestabstand nicht gewährleistet werden kann, siehe hierzu die [ Markierungen auf dem Campusplan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf). Weitere Konkretisierungen in Bereichen der Krankenversorgung sind zu beachten.
-  * Auslandsaufenthalte mit HHU-Stipendien können weiterhin geplant und unter Beachtung der aktuellen Situation durchgeführt werden. Wenden Sie sich dazu möglichst frühzeitig an das International Office.
   * Im Oktober 2020 stattfindende Klausuren, die zu Veranstaltungen des Sommersemesters 2020 zählen, fallen ebenfalls unter die Regelung zum zusätzlichen Wiederholungsversuch.
   * Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren und kontaktieren zu können, muss die Rückverfolgbarkeit in allen Präsenzveranstaltungen sichergestellt sein. Daher werden in allen Präsenzveranstaltungen Name, Matrikelnummer und Telefonnummer erhoben.
+  * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
 
-Letzte Aktualisierungen:  26.10.2020: Das Wichtigste in Kürze; 22.10.2020:
-Allgemeine Informationen.
+Letzte Aktualisierungen:  30.10.2020: Das Wichtigste in Kürze für Studierende;
+Allgemeine Informationen; Termine; Lernräume auf dem Campus.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
 ## Allgemeine Informationen
 
-[Update: 22.10.2020]
+[Update: 30.10.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
 Maßnahmen. Diese Maßnahmen gelten unabhängig davon, ob erste
 Krankheitssymptome bereits aufgetreten sind.
 
-  1. In allen Gebäuden auf dem Campus der HHU sowie in von der HHU genutzten Räumen außerhalb des Campus besteht seit dem 1. September 2020 die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Diese darf nur abgesetzt werden, wenn man sich allein in einem Raum oder in mindestens 1,5 m Abstand zu anderen Personen an einem festen Platz aufhält. Weitere Konkretisierungen in Bereichen der Krankenversorgung sind zu beachten. Ausgenommen von der Verpflichtung sind Personen, die aus medizinischen Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
+  1. Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Weitere Konkretisierungen in Bereichen der Krankenversorgung sind zu beachten. Ausgenommen von der Verpflichtung sind Personen, die aus medizinischen Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
   2. Studierende, bei denen eine Infektion mit SARS-Co-V-2 besteht, dürfen die HHU nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   3. Für Studierende, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Studierende, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, weil sie z.B. diese pflegen oder mit ihnen in häuslicher Gemeinschaft leben, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist. Weitere Konkretisierungen, etwa im UKD in Bereichen der Krankenversorgung, sind zu befolgen.
   4. Personen aus nationalen Gebieten, in denen häufiger Infektionen mit dem Coronavirus auftreten und die daher teilweise missverständlich als „Risikogebiet“ bezeichnet werden, dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
@@ -144,9 +143,9 @@ vernichtet.
 
 ## Termine
 
-[Update: 21.10.2020]
+[Update: 30.10.2020]
 
-  * Die Vorlesungszeit des Wintersemesters beginnt am 26. Oktober 2020\. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
+  * Die Vorlesungszeit des Wintersemesters hat am 26. Oktober 2020 begonnen. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
   * Die Vorlesungszeit für Erstsemester der Bachelorstudiengänge und der Studiengänge mit staatlichem Abschluss beginnt am 2. November 2020.
   * Einige Fachbereiche werden ggf. schon frühere Angebote für Studierende höherer Fachsemester machen. So beginnt die Medizin bereits am 19. Oktober mit digitalen Lehrveranstaltungen für höhere Fachsemester.
   * Zudem gibt es vor dem Beginn der Vorlesungszeit eine Orientierungswoche für Erstsemesterstudierende (ESAG), die vom 19. bis 23. Oktober ausschließlich als Onlineangebot stattfindet.
@@ -235,6 +234,86 @@ Sommersemester optimiert, so dass die Systeme gut für das Wintersemester
 aufgestellt sind. Studierende finden auch im Wintersemester im HIS LSF und auf
 den entsprechenden Webseiten der Fächer die Details zu den Lehrveranstaltungen
 und die angebotenen Modi.
+
+## [ Lernräume auf dem Campus ](fuer-studierende.html#)
+
+## Lernräume auf dem Campus
+
+[Neu: 30.10.2020]
+
+Im Zuge der Durchführung des „hybriden“ Wintersemesters, bestehend aus
+Präsenz- und Onlinelehre, stellt die HHU ihren Studierenden Lernräume auf dem
+Campus zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund
+von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im
+Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen.
+Das Raumkontingent wird bei Bedarf erweitert. Bitte informieren Sie sich
+regelmäßig an dieser Stelle über das Angebot. Die Regeln zur Nutzung der Räume
+finden Sie unter den jeweiligen Überschriften weiter unten.
+
+#### **Kleine Lernräume**
+
+Ab dem 2. November 2020 werden kleine Lernräume zur individuellen Nutzung auf
+dem Campus der HHU bereitgestellt. Die kleinen Lernräume sind in erster Linie
+für die Teilnahme an der Onlinelehre gedacht, die eine aktive Teilnahme der
+Studierenden erfordern. Aktive Teilnahme heißt beispielweise, dass
+mitdiskutiert werden muss.
+
+Die kleinen Lernräume sind montags bis donnerstags in der Zeit von 10.30 Uhr
+bis 18.00 Uhr geöffnet und jeweils für einen Veranstaltungsslot über eine
+Webanwendung buchbar. Die Webanwendung wird spätestens im Laufe des 2.
+Novembers [über diesen Link](https://www.philo.hhu.de/studium-und-
+lehre/studium/allgemeine-informationen/raumbuchungssysteme.html) erreichbar
+sein.
+
+Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
+Zu den Regeln gehören neben den [allgemeinen
+Verhaltensregeln](hygienekonzept.html) insbesondere die Verpflichtung, den
+Raum nur einzeln zu nutzen. Die Einhaltung der Regeln wird durch den
+Sicherheitsdienst überprüft. Sollte sich herausstellen, dass die Räume von
+Gruppen genutzt werden oder anderweitig gegen die geltenden Regeln verstoßen
+wird, muss das Angebot leider wieder eingestellt werden.
+
+#### **Lernort Hörsaal**
+
+Ab dem 04. November 2020 steht von montags bis donnerstags von 10.30 bis 16.00
+Uhr ein Hörsaal als Lernort zur Verfügung:
+
+  * Montag: Hörsaal 3D in Gebäude 23.01
+  * Dienstag: Ersatzhörsaal Gebäude 16.12
+  * Mittwoch: Hörsaal 5D in Gebäude 25.21
+  * Donnerstag: Hörsaal 2D in Gebäude 22.01
+
+Bitte beachten Sie, dass die Öffnung mit dem 04. November an einem Mittwoch
+beginnt und damit in der ersten Woche nur mittwochs und donnerstags genutzt
+werden kann.
+
+In dem Hörsaal können Studierende an Einzelarbeitsplätzen lernen oder der
+Onlinelehre, die eher eine passive bzw. stille Teilnahme erfordert, folgen.
+Die Nutzung anderer (freier) Hörsäle als Lernort ist nicht gestattet.
+
+Für die Nutzung eines Lernplatzes im Hörsaal ist keine Voranmeldung nötig.
+Interessierte melden sich am Haupteingang des Hörsaals beim Aufsichtspersonal
+an und geben ihre Kontaktdaten [ über diesen
+Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+ab, den Sie bereits ausgedruckt mitbringen. Die Hörsäle dürfen nur mit einer
+beschränkten Anzahl an Personen belegt werden. Sofern noch ein belegbarer
+Sitzplatz frei ist, wird Ihnen nach Abgabe Ihrer Kontaktdaten ein Sitzplatz im
+Hörsaal zugewiesen. Die Sitzplätze sind markiert und es dürfen nur diese
+Sitzplätze genutzt werden.
+
+Bitte bringen Sie für die Nutzung der Räume ihre eigenen Endgeräte (Notebook,
+Tablet, etc.) und (falls notwendig) Kopfhörer mit. Online-Lehrveranstaltungen
+mit Ton dürfen nur mit Kopfhörern verfolgt werden, so dass die Geräuschkulisse
+im Saal auf ein Minimum reduziert wird.
+
+Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
+Zu den Regeln gehören die [allgemeinen Verhaltensregeln](hygienekonzept.html) 
+sowie insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
+Kommilitonen nicht beim Lernen zu stören. Die Einhaltung der Regeln wird durch
+das Aufsichtspersonal überprüft.
+
+Sollte sich herausstellen, dass gegen die geltenden Regeln verstoßen wird,
+muss das Angebot leider wieder eingestellt werden.
 
 ## [ Prüfungen ](fuer-studierende.html#)
 

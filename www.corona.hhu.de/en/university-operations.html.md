@@ -1,15 +1,15 @@
-[Jump to content](university-operations.html#content)[Events, conferences,
+[Jump to content](university-operations.html#content)[Committee
+work](university-operations.html#c453005)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
 teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Committee work](university-
-operations.html#c453005)[[Translate to English:] (Kopie 3)](university-
-operations.html#c452578)[Information on University operations](university-
-operations.html#c438674)[Main points for university operations in
-brief](university-operations.html#c438676)[University operations](university-
-operations.html#c453016)[Still have questions?](university-
-operations.html#c439220)[Main points for university operations in
-brief](university-operations.html#c438675)
+coronavirus!](university-operations.html#c453009)[[Translate to English:]
+(Kopie 3)](university-operations.html#c452578)[Information on University
+operations](university-operations.html#c438674)[Main points for university
+operations in brief](university-operations.html#c438676)[University
+operations](university-operations.html#c453016)[Still have
+questions?](university-operations.html#c439220)[Main points for university
+operations in brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN

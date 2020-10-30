@@ -42,7 +42,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -75,7 +75,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -88,15 +88,15 @@ Corona](../corona.hhu.de/index.html) **für Beschäftigte**
 
 ## Das Wichtigste für Beschäftigte in Kürze
 
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Im Kontext des aktuellen hybriden Lehrbetriebs aus einer sinnvollen Mischung aus Online-Veranstaltungen in Veranstaltungen in Präsenz besteht die aktuelle Aufgabe in der Realisierung eines Corona-adaptierten Präsenzbetriebs unter strikter Beachtung aller einschlägigen Hygiene- und Abstandsregeln.
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 30. November 2020 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
   * Für Beschäftigte mit schweren Vorerkrankungen sowie für Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Personen leben, besteht unabhängig von den allgemeinen Regelungen unter bestimmten, unten näher erläuterten Bedingungen die Möglichkeit, in Heim- und Telearbeit zu arbeiten.
   * Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   * Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
-  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [ hier](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen) auf dieser Corona-Website.
-  * In allen Gebäuden auf dem Campus der HHU sowie in von der HHU genutzten Räumen außerhalb des Campus besteht, außer am eigenen Arbeitsplatz und unter der Voraussetzung, dass dort der Mindestabstand von 1,5 m eingehalten werden kann, die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen.  Diese Verpflichtung besteht seit dem 20.10.2020 auch auf der Magistrale auf dem Campus – von Gebäude 16.11 bis zum ZIM – sowie weiteren stark frequentierten Wegen auf dem Campus der HHU, auf denen der Mindestabstand nicht gewährleistet werden kann, siehe hierzu die [ Markierungen auf dem Campusplan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf).
+  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](hygienekonzept.html) auf dieser Corona-Website.
   * Die Möglichkeit von Dienstreisen richtet sich nach den Reisewarnungen der Bundesregierung, bis auf Weiteres sind keine Dienstreisen in Risikogebiete zulässig. . Dieses Dienstreiseverbot gilt ebenfalls für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem Inzidenzwert ≥ 50.
-  * Letzte Aktualisierungen: 29.10.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben; Heim- und Telearbeit/Arbeitszeitkonten; 27.10.2020: Dienstreisen.
+  * Letzte Aktualisierungen: 30.10.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; 29.10.2020: Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben; Heim- und Telearbeit/Arbeitszeitkonten; 27.10.2020: Dienstreisen.
 
 Vorbemerkung:
 
@@ -109,7 +109,7 @@ angesprochenen Bereiche die Regelungen des Universitätsklinikums Düsseldorf.**
 
 ## Generelle Schutzhinweise
 
-[Update: 29.10.2020]
+[Update: 30.10.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
@@ -117,13 +117,13 @@ Maßnahmen. Diese Maßnahmen gelten unabhängig davon, ob erste
 Krankheitssymptome bereits aufgetreten sind.
 
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 30. November 2020 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus zur Aufrechterhaltung des Dienstbetriebs erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
-  * In allen Gebäuden auf dem Campus der HHU (einschließlich Schloss Mickeln, Haus der Universität und Außenstellen wie bspw. Ulenbergstraße 127) besteht ab dem 1. September 2020 die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Diese darf nur abgesetzt werden, wenn man sich, insbesondere am eigenen Arbeitsplatz, allein im Raum oder in mindestens 1,5 m Abstand zu anderen Personen an einem festen Platz aufhält. Diese Verpflichtung zum Tragen einer Mund-Nasen-Bedeckung besteht seit dem 20.10.2020 auch auf der Magistrale auf dem Campus – von Gebäude 16.11 bis zum ZIM – sowie weiteren stark frequentierten Wegen auf dem Campus der HHU, auf denen der Mindestabstand nicht gewährleistet werden kann, siehe hierzu die [ Markierungen auf dem Campusplan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf). Weitere Konkretisierungen, etwa im UKD in Bereichen der Krankenversorgung, sind zu beachten.  
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Weitere Konkretisierungen, etwa im UKD in Bereichen der Krankenversorgung, sind zu beachten.  
 Ausgenommen von dieser Verpflichtung sind Personen, die aus medizinischen
 Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein
 ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
 
   1. Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
-  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [ hier](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen) auf dieser Corona-Website.
+  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](hygienekonzept.html) auf dieser Corona-Website.
   3. Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, weil sie z.B. diese pflegen oder mit ihnen in häuslicher Gemeinschaft leben, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die [allgemeinen Regelungen des Landes NRW](https://www.mags.nrw./coronavirus) häusliche Quarantäne vorgeschrieben ist.
   4. Die Entgeltfortzahlung für die Zeit der von Seiten der zuständigen Behörden angeordneten häuslichen Quarantäne und des daraus resultierenden Betretungsverbots des Campus richtet sich nach den einschlägigen gesetzlichen Regelungen insbesondere des Infektionsschutzgesetzes. Im Normalfall zahlt die HHU das Entgelt längstens sechs Wochen weiter und lässt sich dieses anschließend von den zuständigen Behörden erstatten. Sollte es hier zu rechtlichen Änderungen kommen, denen zufolge z.B. bei Reiserückkehrern aus Risikogebieten unter bestimmten Voraussetzungen keine Lohnfortzahlung mehr erfolgen darf, wird die HHU diese neuen Regelungen selbstverständlich umsetzen.  
 Beschäftigte, bei denen häusliche Quarantäne angeordnet worden ist oder diese

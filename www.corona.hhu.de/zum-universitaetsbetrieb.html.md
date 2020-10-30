@@ -1,9 +1,9 @@
-[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Videokonferenzen
-und Online-Lehre](zum-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-
-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
+[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Hacker nutzen
+Corona-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
 universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
+universitaetsbetrieb.html#c453008) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -38,7 +38,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -71,7 +71,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -84,11 +84,11 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Das Wichtigste zum Universitätsbetrieb in Kürze
 
-  * In allen Gebäuden auf dem Campus der HHU sowie in von der HHU genutzten Räumen außerhalb des Campus besteht, außer am eigenen Arbeitsplatz und unter der Voraussetzung, dass dort der Mindestabstand von 1,5 m eingehalten werden kann, die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Diese Verpflichtung besteht seit dem 20.10.2020 auch auf der Magistrale auf dem Campus – von Gebäude 16.11 bis zum ZIM – sowie weiteren stark frequentierten Wegen auf dem Campus der HHU, auf denen der Mindestabstand nicht gewährleistet werden kann, siehe hierzu die [ Markierungen auf dem Campusplan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf).
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplat, sofern dort die notwendigen Hygienmaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Die Außentüren der Gebäude (außer der ULB und des SSC – siehe hierzu gesonderte Öffnungszeiten) sind gem. Hausordnung der HHU in der Zeit von montags bis freitags von 06:30 Uhr bis 20:00 Uhr geöffnet.
   * Das [Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html) und Schloss Mickeln sind im eingeschränkten Umfang geöffnet. Auch auf dem Campus können kleinere wissenschaftliche Veranstaltungen durchgeführt werden.
-  * Ab dem 26.10.2020 öffnet die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
-  * Letzte Aktualisierungen:  23.10.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
+  * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
+  * Letzte Aktualisierungen:  30.10.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
 
 ## Universitätsbetrieb
 

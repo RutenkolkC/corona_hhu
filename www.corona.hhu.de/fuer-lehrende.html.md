@@ -1,7 +1,8 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Hilfestellungen für den
-digitalen Lehrbetrieb](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
+lehrende.html#c452908)[Hilfestellungen für den digitalen Lehrbetrieb](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Prüfungen](fuer-
 lehrende.html#c452909)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
@@ -36,7 +37,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -69,7 +70,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -87,18 +88,18 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 
 ## Das Wichtigste für Lehrende in Kürze
 
-  * Ab dem 26.10.2020 öffnet die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
+  * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
+  * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Alle von den Fachschaften im Rahmen der Orientierungswoche für Erstsemester (ESAG) organisierten Präsenzveranstaltungen entfallen. Die Fachschaften haben digitale Angebote geplant und werden sich über diese Angebote an die Studienanfänger wenden.
   * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
   * Bitte beachten Sie die [ Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
-  * Personen, die aus einem von der Bundesregierung benannten internationalen Risikogebiet eingereist sind, dürfen den Campus nicht betreten, solange durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
-  * Personen aus nationalen Gebieten, in denen häufiger Infektionen mit dem Coronavirus auftreten und die daher teilweise missverständlich als „Risikogebiet“ bezeichnet werden, dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * In allen Gebäuden auf dem Campus der HHU sowie in von der HHU genutzten Räumen außerhalb des Campus besteht, außer am eigenen Arbeitsplatz und unter der Voraussetzung, dass dort der Mindestabstand von 1,5 m eingehalten werden kann, die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Diese Verpflichtung besteht seit dem 20.10.2020 auch auf der Magistrale auf dem Campus – von Gebäude 16.11 bis zum ZIM – sowie weiteren stark frequentierten Wegen auf dem Campus der HHU, auf denen der Mindestabstand nicht gewährleistet werden kann, siehe hierzu die [ Markierungen auf dem Campusplan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf). Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Bei sämtlichen Präsenzveranstaltungen mit Studierenden (unabhängig von der Gruppengröße) muss die Telefonnummer erhoben werden.
+  * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite](https://www.elearning.hhu.de) der HHU.  
   
-Letzte Aktualisierungen: 26.10.2020: Das Wichtigste in Kürze; 22.10.2020:
-Lehr- und Studienbetrieb.
+Letzte Aktualisierungen: 30.10.2020: Das Wichtigste für Lehrende in Kürze;
+Termine; 22.10.2020: Lehr- und Studienbetrieb.
 
 ## Lehrende
 
@@ -106,9 +107,9 @@ Lehr- und Studienbetrieb.
 
 ## Termine
 
-[Update: 21.10.2020]
+[Update: 30.10.2020]
 
-  * Die Vorlesungszeit des Wintersemesters beginnt am 26. Oktober 2020\. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
+  * Die Vorlesungszeit des Wintersemesters hat am 26. Oktober 2020 begonnen. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
   * Die Vorlesungszeit für Erstsemester der Bachelorstudiengänge und der Studiengänge mit staatlichem Abschluss beginnt am 02. November 2020.
   * Einige Fachbereiche werden ggfs. schon frühere Angebote für Studierende höherer Fachsemester machen. So beginnt die Medizin bereits am 19. Oktober mit digitalen Lehrveranstaltungen für höhere Fachsemester.
   * Zudem gibt es vor dem Beginn der Vorlesungszeit eine Orientierungswoche für Erstsemesterstudierende (ESAG), die vom 19. bis 23. Oktober ausschließlich als Onlineangebot stattfindet.

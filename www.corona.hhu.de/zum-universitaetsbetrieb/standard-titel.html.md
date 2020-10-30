@@ -28,7 +28,7 @@ Willkommen!
     * [für Beschäftigte](../fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](../hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -61,7 +61,7 @@ Corona](../../corona.hhu.de/index.html)
     * [für Beschäftigte](../fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](../hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 

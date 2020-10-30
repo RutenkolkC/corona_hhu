@@ -1,7 +1,7 @@
 [Jump to content](hygiene-policy.html#content)[Hygiene policy](hygiene-
 policy.html#c440587)
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen#c453066)
+  * [DE](../../../../../hygienekonzept.html#c453066)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
@@ -36,7 +36,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen#c453066)
+  * [DE](../../../../../hygienekonzept.html#c453066)
   * EN
   * [Intranet](https://www.mitarbeiter.hhu.de/)
 

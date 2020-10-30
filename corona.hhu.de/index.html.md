@@ -34,7 +34,7 @@ Willkommen!
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](../www.corona.hhu.de/zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](../www.corona.hhu.de/hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -66,7 +66,7 @@ Willkommen!
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](../www.corona.hhu.de/zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](../www.corona.hhu.de/hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -83,7 +83,7 @@ Willkommen!
   * Hier finden Sie [ Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (Stand: 21.10.2020) umzugehen ist.
   * Hier finden Sie Hinweise zu der Frage, wie [ betroffene Mitarbeiter/innen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf) und [ Fachvorgesetzte](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf) mit Infektions(verdachts)fällen umzugehen haben.
   * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2\. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
-  * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen#c453066).
+  * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](../www.corona.hhu.de/hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](../www.corona.hhu.de/fuer-beschaeftigte.html#c452970) zusammengefasst.
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 30. November 2020 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
@@ -128,8 +128,7 @@ Willkommen!
 
 ## COVID-19 Verdachts- und Kontaktfälle Hygienekonzept
 
-](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen
-"Teaserlink")
+](../www.corona.hhu.de/hygienekonzept.html "Teaserlink")
 
 [
 
