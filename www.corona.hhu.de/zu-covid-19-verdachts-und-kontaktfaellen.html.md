@@ -1,22 +1,22 @@
 [Zum Inhalt springen](zu-covid-19-verdachts-und-
-kontaktfaellen.html#content)[Was ist zu tun, wenn ich in Kontakt stand mit
+kontaktfaellen.html#content)[Woran erkennt man eine Erkrankung?](zu-
+covid-19-verdachts-und-kontaktfaellen.html#c453059)[Wie kann man sich
+schützen?](zu-covid-19-verdachts-und-kontaktfaellen.html#c453060)[Was ist zu
+tun, wenn man sich krank fühlt?](zu-covid-19-verdachts-und-
+kontaktfaellen.html#c453061)[Was ist zu tun, wenn ich in Kontakt stand mit
 einer infizierten Person oder einem Verdachtsfall?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453062)[Hygienekonzept](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453066)[Plakate „Allgemeine Hygienemaßnahmen“,
-„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453067)[Wie kann man sich schützen?](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453060)[Was ist zu tun, wenn man
-sich krank fühlt?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453061)[Welche Personen gehören zu besonderen
+kontaktfaellen.html#c453062)[Wichtige Telefonnnummern und Kontaktadressen](zu-
+covid-19-verdachts-und-kontaktfaellen.html#c453064)[Hygienekonzept /
+Schutzmaßnahmen der HHU](zu-covid-19-verdachts-und-
+kontaktfaellen.html#c453066)[Coronavirus / SARS-CoV-2 / COVID-19](zu-
+covid-19-verdachts-und-kontaktfaellen.html#c453058)[Plakate „Allgemeine
+Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-
+kontaktfaellen.html#c453067)[Welche Personen gehören zu besonderen
 Risikogruppen?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453063)[Wichtige Telefonnnummern und Kontaktadressen](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453064)[Informationsvideos zum
-Coronavirus](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453065)[Coronavirus / SARS-CoV-2 / COVID-19](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453058)[Woran erkennt man eine
-Erkrankung?](zu-covid-19-verdachts-und-kontaktfaellen.html#c453059) [(Kopie
-3)](zu-covid-19-verdachts-und-kontaktfaellen.html#c452580)[Informationen zu
-COVID-19, Verdachts- und Kontaktfällen](zu-covid-19-verdachts-und-
+kontaktfaellen.html#c453063)[Informationsvideos zum Coronavirus](zu-
+covid-19-verdachts-und-kontaktfaellen.html#c453065) [(Kopie 3)](zu-
+covid-19-verdachts-und-kontaktfaellen.html#c452580)[Informationen zu COVID-19,
+Verdachts- und Kontaktfällen](zu-covid-19-verdachts-und-
 kontaktfaellen.html#c438660)[Das Wichtigste zu COVID-19 und zum Umgang mit
 Verdachts- und Kontaktfällen in Kürze](zu-covid-19-verdachts-und-
 kontaktfaellen.html#c439137)[COVID-19, Verdachts- und Kontaktfälle](zu-
@@ -24,7 +24,7 @@ covid-19-verdachts-und-kontaktfaellen.html#c453068)[Noch unbeantwortete
 Fragen?](zu-covid-19-verdachts-und-kontaktfaellen.html#c439138)[Das Wichtigste
 zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in Kürze](zu-
 covid-19-verdachts-und-kontaktfaellen.html#c439136)[Was muss ich als
-Fachvorgesetzter tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet
+Fachvorgesetzte*r tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet
 wird?](zu-covid-19-verdachts-und-kontaktfaellen.html#c490924)
 
   * DE
@@ -102,9 +102,9 @@ Kontaktfällen**
 ## Das Wichtigste zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen
 in Kürze
 
-  * Enge Kontaktpersonen sind solche, bei denen kumulativ mindestens ein 15-minütiger Gesichtskontakt ("face-to-face") zu einer an COVID-19 erkrankten Person bestand oder Personen, die direkten Kontakt zu Sekreten oder Körperflüssigkeiten eines bestätigten COVID-19-Falls hatten.
+  * Enge Kontaktpersonen sind solche, bei denen kumulativ mindestens ein 15-minütiger Gesichtskontakt ("face-to-face") zu einer an COVID-19 erkrankten Person bestand oder Personen, die direkten Kontakt zu Sekreten oder Körperflüssigkeiten eines bestätigten COVID-19-Falls hatten.  Ein enger Kontakt kann auch gegeben sein bei Personen die mit hoher Wahrscheinlichkeit einer hohen Konzentration von infektiösem Aerosol im Raum ausgesetzt waren (z.B. Feiern, gemeinsames Singen oder Sporttreiben in Innenräumen ohne adäquate Lüftung).
   * Solche engen Kontaktperson folgen den Hinweisen im Unterpunkt "Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem Verdachtsfall?".
-  * Letzte Aktualisierungen: 06.10.2020: Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem Verdachtsfall?; Was muss ich als Fachvorgesetzter tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet wird?
+  * Letzte Aktualisierungen: 30.10.2020: Coronavirus / SARS-Cov-2 / COVID-19; Woran erkennt man eine Erkrankung? Wie kann man sich schützen?; Was ist zu tun, wenn man sich krank fühlt?; Wichtige Telefonnummern und Kontaktadressen.
 
 ## COVID-19, Verdachts- und Kontaktfälle
 
@@ -112,6 +112,8 @@ in Kürze
 kontaktfaellen.html#)
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
+
+[Update: 30.10.2020]
 
 Das Coronavirus SARS-CoV-2 löst die Erkrankung COVID-19 (Coronavirus Disease
 2019) aus. Am 11. März 2020 wurde die weltweite Ausbreitung von COVID-19 von
@@ -122,8 +124,8 @@ eingestuft (Stand 26.03.2020).
 Die Universitätsleitung der Heinrich-Heine-Universität (HHU) hat eine
 Taskforce eingerichtet, die sich regelmäßig trifft. Außerdem tauscht sich die
 Universitätsleitung ständig mit den Fakultäten, den zentralen Einrichtungen,
-der Universitätsverwaltung und der Leitung des Universitätsklinikums
-Düsseldorf (UKD) aus und bewertet kontinuierlich die Lage aufgrund der
+der Universitätsverwaltung, der Leitung des Universitätsklinikums Düsseldorf
+(UKD) sowie der Behörden aus und bewertet kontinuierlich die Lage aufgrund der
 Empfehlungen des Robert-Koch-Instituts (RKI), des Gesundheitsamts Düsseldorf
 sowie des Landes- und Bundesgesundheitsministeriums.
 
@@ -131,6 +133,8 @@ sowie des Landes- und Bundesgesundheitsministeriums.
 kontaktfaellen.html#)
 
 ## Woran erkennt man eine Erkrankung?
+
+[Update: 30.10.2020]
 
 Wie andere respiratorische Erreger kann eine Infektion mit dem neuartigen
 Coronavirus zu Symptomen wie Husten, Schnupfen, Halskratzen, Fieber und neu
@@ -140,34 +144,49 @@ Geschmackssinns kommen.
 
 Bei einem Teil der Patienten scheint das Virus mit einem schwereren Verlauf
 einherzugehen und zu Atemproblemen und Lungenentzündung zu führen. Todesfälle
-traten bisher vor allem bei Patienten auf, die älter waren und/oder zuvor an
-chronischen Grunderkrankungen litten.
+treten vor allem bei Patienten auf, die älter waren und/oder zuvor an
+chronischen Grunderkrankungen litten.  Ein enger Kontakt kann auch gegeben
+sein bei Personen, die mit hoher Wahrscheinlichkeit einer hohen Konzentration
+von infektiösem Aerosol im Raum ausgesetzt waren (z.B. Feiern, gemeinsames
+Singen oder Sporttreiben in Innenräumen ohne adäquate Lüftung). Siehe hierzu
+diese [Seite des RKI zu hospitalisierten
+COVID-19-Erkrankten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText12)
+sowie deren [Epidemiologisches Bulletin
+41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
 ## [ Wie kann man sich schützen? ](zu-covid-19-verdachts-und-
 kontaktfaellen.html#)
 
 ## Wie kann man sich schützen?
 
-Spezifische Vorsichtsmaßnahmen zur Verhinderung einer Infektion mit dem neuen
-Coronavirus gibt es laut dem Gesundheitsamt Düsseldorf zurzeit nicht. Es ist
-jedoch immer sinnvoll, die Standardhygienemaßnahmen zu beachten, wie sie
-allein schon bei der ebenfalls durch Tröpfchen übertragbaren Influenza
-notwendig sind. Der wirksamste Schutz vor einer persönlichen Ansteckung sowie
-einer Ansteckung anderer Menschen mit dem Coronavirus umfasst laut dem Robert-
-Koch-Institut vor allem:
+[Update: 30.10.2020]
+
+Spezifische Vorsorgemaßnahmen (z.B. Impfung / medikamentöse Prophylaxe) zur
+Verhinderung einer Infektion mit dem neuen Coronavirus gibt es zurzeit nicht.
+
+Es ist jedoch immer notwendig, Standardhygienemaßnahmen zu beachten, die bei
+durch Tröpfchen /Aerosol übertragbaren Atemwegserkrankungen anzuwenden sind.
+Der wirksamste Schutz vor einer persönlichen Ansteckung sowie einer Ansteckung
+anderer Menschen mit dem SARS-Coronavirus-2 umfasst laut dem Robert-Koch-
+Institut vor allem:
 
   * Häufigeres Händewaschen: mit Wasser und Seife (für ca. 20 Sekunden).
-  * Hustenhygiene: Nicht in den Raum und nicht in die Hand husten, sondern in die Ellenbeuge.
-  * Abstand zu anderen Personen halten (etwa 1 bis 2 Meter).
-  * Verzicht auf Händeschütteln, Umarmungen etc.
+  * Husten-/Nießetikette: Nicht in den Raum und nicht in die Hand husten, sondern in die Ellenbeuge.
+  * Abstand zu anderen Personen halten (>1,5 Meter).
+  * Direkte Kontakte vermeiden: Verzicht auf Händeschütteln, Umarmungen etc.
+  * Verwendung eines Mund-/Nasen Schutzes oder bei der Knappheit einer textilen Barriere im Sinne eines MNS, einer sog. Mund-Nasen-Bedeckung („Community Mask“) zum Abfangen von Tröpfchen.
+  * Innenräume regelmäßig lüften.
+  * Informiert bleiben über das Infektionsgeschehen.
 
-Diese Maßnahmen sind auch in Anbetracht von Grippeinfektionen überall und
-jederzeit angeraten.
+Diese Maßnahmen schützen auch vor anderen Atemwegsinfektionen (wie z.B.
+Grippeinfektionen).
 
 ## [ Was ist zu tun, wenn man sich krank fühlt? ](zu-covid-19-verdachts-und-
 kontaktfaellen.html#)
 
 ## Was ist zu tun, wenn man sich krank fühlt?
+
+[Update: 30.10.2020]
 
 Wer sich selber krank fühlt und unsicher ist, was mit ihm los ist, sollte
 zunächst mit seinem/seiner Hausarzt/Hausärztin telefonieren oder sich mit dem
@@ -179,14 +198,14 @@ gilt: Menschen mit Symptomen, die auf eine Viruserkrankung hindeuten, sollten
 nicht spontan ohne vorherige telefonische Ankündigung zum Arzt fahren, um die
 Ausbreitung von Infektionen zu vermeiden.
 
-Die Landeshauptstadt Düsseldorf hat eine Hotline eingerichtet für alle
-Bürgerinnen und Bürger sowie für alle, die in der Stadt arbeiten:
-0211-8996090. Das speziell geschulte Team führt eine standardisierte, vom
-Robert-Koch-Institut entwickelte Abfrage durch. Sollte sich dabei
-herausstellen, dass die Anrufer*innen getestet werden müssen, kann ein Termin
-in der zentralen Diagnoseeinrichtung (Witzelstraße 54-56), dem Drive-In-
-Testzentrum oder dem mobilen Abstrichdienst der Stadt Düsseldorf vergeben
-werden.
+Die Landeshauptstadt Düsseldorf hat eine Corona-Hotline eingerichtet für alle
+Bürgerinnen und Bürger der Stadt sowie für alle, die in der Stadt arbeiten:
+0211-8996090 (Fax für Hörgeschädigte: 0211 89-35674). Das speziell geschulte
+Team der Corona-Hotline führt eine standardisierte, vom Robert-Koch-Institut
+entwickelte Abfrage durch. Sollte sich dabei herausstellen, dass die
+Anrufer*innen getestet werden müssen, kann ein Termin in der zentralen
+Diagnoseeinrichtung (Witzelstraße 54-56), dem Drive-In-Testzentrum oder dem
+mobilen Abstrichdienst der Stadt Düsseldorf vergeben werden.
 
 ## [ Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person
 oder einem Verdachtsfall? ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
@@ -204,10 +223,10 @@ folgende Hinweise:
   * Kontaktformular Symptomkontrolle (Download [ Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf))
   * Formular Ermittlung Kontaktpersonen (Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf); Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx))
 
-## [ Was muss ich als Fachvorgesetzter tun, wenn mir ein Infektions- oder
+## [ Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
 Verdachtsfall gemeldet wird? ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
 
-## Was muss ich als Fachvorgesetzter tun, wenn mir ein Infektions- oder
+## Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
 Verdachtsfall gemeldet wird?
 
 [Update: 06.10.2020]
@@ -241,50 +260,26 @@ kontaktfaellen.html#)
 
 ## Wichtige Telefonnnummern und Kontaktadressen
 
-Es wurde eine neue Hotline der Stadt Düsseldorf eingerichtet – für alle
-Bürgerinnen und Bürger sowie für alle, die in der Stadt arbeiten:
-0211-8996090. Das speziell geschulte Team führt eine standardisierte, vom
-Robert-Koch-Institut entwickelte Abfrage durch. Sollte sich dabei
-herausstellen, dass die Anrufer getestet werden müssen, wird unmittelbar ein
-Termin in der zentralen Diagnoseeinrichtung der Stadt Düsseldorf (Witzelstraße
-54-56) vergeben.
+[Update: 30.10.2020]
+
+Es wurde eine Corona-Hotline der Stadt Düsseldorf eingerichtet – für alle
+Bürgerinnen und Bürger der Stadt sowie für alle, die in der Stadt arbeiten:
+0211-8996090 (Fax für Hörgeschädigte: 0211 89-35674). Das speziell geschulte
+Team der Corona-Hotline führt eine standardisierte, vom Robert-Koch-Institut
+entwickelte Abfrage durch. Sollte sich dabei herausstellen, dass die Anrufer
+getestet werden müssen, wird unmittelbar ein Termin in der zentralen
+Diagnoseeinrichtung der Stadt Düsseldorf (Witzelstraße 54-56) vergeben.
 
 Die Landesregierung Nordrhein-Westfalen hat eine neue Rufnummer für das
 Bürgertelefon zum Coronavirus eingeführt, sie ist erreichbar unter
 0211-91191001.
 
-## [ Informationsvideos zum Coronavirus ](zu-covid-19-verdachts-und-
+## [ Hygienekonzept / Schutzmaßnahmen der HHU ](zu-covid-19-verdachts-und-
 kontaktfaellen.html#)
 
-## Informationsvideos zum Coronavirus
+## Hygienekonzept / Schutzmaßnahmen der HHU
 
-Am 5. März informierte die Universität alle Beschäftigten über das Coronavirus
-und die daraus resultierende Erkrankung sowie über hilfreiche Verhaltensregeln
-und universitätsinterne Regelungen.
-
-[Videoaufzeichnung der Veranstaltung in der HHU-
-Mediathek](https://mediathek.hhu.de/watch/b857a0d8-372b-4027-bc19-32fd67a1ce8b)  
-[ Präsentationsfolien von Prof. Dr. Jörg
-Timm](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Praesentation_Prof._Dr._Joerg_Timm_am_5._Maerz_2020.pdf)
-
-Am 16. März informierten Experten aus Universitätsklinikum und HHU über den
-aktuellen Stand der Coronakrise und beantworteten Fragen. Dabei waren: Prof.
-Dr. Dr. Frank Schneider, Ärztlicher Direktor UKD; Prof. Dr. Anja Steinbeck,
-Rektorin HHU; Prof. Dr. Jörg Timm, Institut für Virologie; Prof. Dr. Klaus
-Pfeffer, Institut für Medizinische Mikrobiologie und Krankenhaushygiene; Prof.
-Dr. Detlef Kindgen-Milles, Ärztlicher Leiter Interdisziplinäre Operative
-Intensivstation; Dr. Björn-Erik Ole Jensen, Klinik für Gastroenterologie,
-Hepatologie und Infektiologie; Dr. Susanne Kolbe-Busch, Leitende
-Krankenhaushygienikerin
-
-[Video „Corona-Krise: Experten antworten“ vom 16. März 2020 in der HHU-
-Mediathek](https://mediathek.hhu.de/watch/6fc780f1-1072-40e5-90c1-d0d10614cf62)
-
-## [ Hygienekonzept ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
-
-## Hygienekonzept
-
-[Update: 23.10.2020]
+[Update: 30.10.2020]
 
 Auf diesen Seiten finden Sie zum Download eine Unterweisung zu Schutzmaßnahmen
 gegen das Coronavirus sowie verschiedene Merkblätter für verschiedene
@@ -292,7 +287,7 @@ Bereiche.
 
 Zu den Downloads:
 
-  * Unterweisung Schutzmaßnahmen Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf)]
+  * Unterweisung Schutzmaßnahmen Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pdf)]
   * Merkblatt zu Hygienemaßnahmen im Bürobetrieb [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Buerobetrieb_2020-10-23.pdf)]
   * Merkblatt zu Hygienemaßnahmen für Verantwortliche bei der Durchführung von Prüfungen [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04.pdf)]
   * Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten im Labor [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27.pdf)] – Stand 27.08.2020
