@@ -1,9 +1,10 @@
-[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Videokonferenzen
-und Online-Lehre](zum-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-
-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
+[Zum Inhalt springen](zum-
+universitaetsbetrieb.html#content)[Gremienarbeit](zum-
 universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
+universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
+universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
