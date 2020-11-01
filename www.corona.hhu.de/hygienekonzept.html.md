@@ -1,14 +1,15 @@
-[Zum Inhalt springen](hygienekonzept.html#content)[Was ist zu tun, wenn man
-sich krank fühlt?](hygienekonzept.html#c453061)[Was ist zu tun, wenn ich in
-Kontakt stand mit einer infizierten Person oder einem
+[Zum Inhalt springen](hygienekonzept.html#content)[Hygienekonzept /
+Schutzmaßnahmen der HHU](hygienekonzept.html#c453066)[Coronavirus / SARS-CoV-2
+/ COVID-19](hygienekonzept.html#c453058)[Plakate „Allgemeine
+Hygienemaßnahmen“, „Maskenpflicht“ und
+„Lüften“](hygienekonzept.html#c453067)[Woran erkennt man eine
+Erkrankung?](hygienekonzept.html#c453059)[Wie kann man sich
+schützen?](hygienekonzept.html#c453060)[Was ist zu tun, wenn man sich krank
+fühlt?](hygienekonzept.html#c453061)[Was ist zu tun, wenn ich in Kontakt stand
+mit einer infizierten Person oder einem
 Verdachtsfall?](hygienekonzept.html#c453062)[Wichtige Telefonnnummern und
-Kontaktadressen](hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen
-der HHU](hygienekonzept.html#c453066)[Coronavirus / SARS-CoV-2 /
-COVID-19](hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
-„Maskenpflicht“ und „Lüften“](hygienekonzept.html#c453067)[Woran erkennt man
-eine Erkrankung?](hygienekonzept.html#c453059)[Wie kann man sich
-schützen?](hygienekonzept.html#c453060)[Welche Personen gehören zu besonderen
-Risikogruppen?](hygienekonzept.html#c453063)[Informationsvideos zum
+Kontaktadressen](hygienekonzept.html#c453064)[Welche Personen gehören zu
+besonderen Risikogruppen?](hygienekonzept.html#c453063)[Informationsvideos zum
 Coronavirus](hygienekonzept.html#c453065) [(Kopie
 3)](hygienekonzept.html#c452580)[Informationen zu COVID-19, Verdachts- und
 Kontaktfällen](hygienekonzept.html#c438660)[Das Wichtigste zu COVID-19 und zum
