@@ -1,25 +1,22 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#content)[What should I do if I had contact with an infected person
 or a person who is suspected to have contracted COVID-19?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453062)[Hygiene
-policy](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation to wear a
-face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
+and-confirmed-cases-hygiene-policy.html#c453062)[Important telephone numbers
+and addresses](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation
+to wear a face covering’ and ‘airing of rooms’](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
 COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
 and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
 ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
 confirmed-cases-hygiene-policy.html#c453061)[Who is most at
-risk?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453063)[Important telephone numbers and
-addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[HHU coronavirus information videos](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453065)[[Translate to English:]
-(Kopie 3)](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c452580)["COVID-19, Suspected and confirmed cases, Hygiene policy"
-topic group](covid-19-suspected-and-confirmed-cases-hygiene-
+risk?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453063)[HHU
+coronavirus information videos](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453065)["COVID-19, Suspected and confirmed cases, Hygiene
+policy" topic group](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c438660)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
@@ -103,9 +100,13 @@ COVID-19, Suspected and confirmed cases, Hygiene policy**
 ## Main points in brief on COVID-19 and on handling suspected and confirmed
 cases
 
-  * Close contacts are those with whom you had face-to-face contact for at least 15 minutes or those who had direct contact with secretions or bodily fluids of a confirmed case of COVID-19.
-  * Such close contacts must follow the [ instructions of this page](covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html).
-  * Last updated: 06 October 2020: What do I do when I had contact with a person (suspected to be) infected with COVID-19? 29 September 2020: As a supervisor, how do I proceed when one of my employees reports an infection/suspected infection?
+  * Close contacts are those who have had face-to-face contact for at least 15 minutes cumulatively with a person ill with COVID-19 or those who had direct contact with secretions or bodily fluids of a confirmed case of COVID-19. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation).
+  * Such close contacts must follow the instructions on this site [ instructions of this page.](covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
+
+Last updated: 30 October 2020: Coronavirus / SARS-Cov-2 / COVID-19; How do you
+recognise the disease? How can we protect ourselves?; What should I do if I
+feel ill?; important telephone numbers and contact addresses; hygiene policy /
+hygiene measures at HHU.
 
 ## COVID-19
 
@@ -114,6 +115,8 @@ cases-hygiene-policy.html#)
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
 
+[Last updated: 30 October 2020]
+
 Coronavirus SARS-CoV-2 causes the disease COVID-19 (Coronavirus Disease 2019).
 On 11 March 2020, the World Health Organization WHO declared the worldwide
 spread of COVID-19 a pandemic. The Robert Koch Institute has assessed the risk
@@ -121,51 +124,60 @@ level for Germany as high overall (as of 26 March 2020).
 
 The management of Heinrich Heine University (HHU) has set up a task force
 which meets regularly. In addition, the University’s management is in constant
-contact with the faculties, the central facilities, the university management
-and the management of Düsseldorf University Hospital (UKD) and continuously
-re-assesses the situation following the recommendations made by the Robert
-Koch Institute (RKI), the local Düsseldorf health authorities and the State
-and Federal Ministries of Health.
+contact with the faculties, the central facilities, the university management,
+the Düsseldorf University Hospital (UKD) management as well as the responsible
+authorities and continuously re-assesses the situation following the
+recommendations made by the Robert Koch Institute (RKI), the local Düsseldorf
+health authorities and the State and Federal Ministries of Health. 
 
 ## [ How do you recognise the disease? ](covid-19-suspected-and-confirmed-
 cases-hygiene-policy.html#)
 
 ## How do you recognise the disease?
 
+[Last updated: 30 October 2020]
+
 As with other respiratory pathogens, an infection with the novel coronavirus
 can lead to symptoms such as coughing, rhinitis, sore throat, fever and newly
 occurring shortness of breath; some patients may also suffer from diarrhoea.
 Sense of smell and/or of taste may also be affected.
 
-In some patients, the infection appears to take a severe course, leading to
-respiratory problems and pneumonia. Deaths have so far occurred mainly in
-elderly patients and/or patients with pre-existing, chronic health
-conditions.v
+  * In some patients, the infection appears to take a severe course, leading to respiratory problems and pneumonia. Deaths occurred mainly in elderly patients and/or patients with pre-existing, chronic health conditions. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation). For more information [visit this RKI site on hospitalised COVID-19 patients](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText12) and also their [epidemiologic bulletin 41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
 ## [ How can we protect ourselves? ](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html#)
 
 ## How can we protect ourselves?
 
-According to the local Düsseldorf health authorities, there are currently no
-specific precautions to prevent infection with the novel coronavirus. However,
-it is always advisable to observe the standard hygiene measures, as is
-necessary in the case of influenza, which is also transmitted by droplets.
-According to the Robert Koch Institute, the most effective ways to protect
-yourself and others against infection with coronavirus include:
+[Last updated: 30 October 2020]
+
+There are currently no specific precautionary measures (such as
+vaccinations/medicinal prophylaxis) that can be taken to prevent infection
+with the novel coronavirus.
+
+However, it is always necessary to observe the standard hygiene measures which
+should be observed in in connection with respiratory diseases that are
+transmitted by droplet/aerosols. According to the Robert Koch Institute, the
+most effective ways to protect yourself and others against infection with
+SARS-CoV-2 include:
 
   * Wash your hands more frequently: with soap and water (for approx. 20 seconds).
-  * Cough hygiene: do not cough openly into a room and do not cough into your hand. Cover your mouth and nose with your bent elbow.
-  * Keep a distance of about 1 to 2 metres from other people.
-  * Do not shake hands with or hug other people.
+  * Cough and sneeze hygiene: do not cough openly into a room and do not cough into your hand but into the crook of your arm.
+  * Keep a distance of ≥1.5 to 2 metres from other people.
+  * Avoid direct contact: do not shake hands with or hug other people.
+  * Wear a face mask or, in case of scarcity, a textile-based covering to cover the mouth and nose (‘Community Mask’) to catch droplets.
+  * Ventilate rooms regularly.
+  * Stay informed about the infection and the latest developments.
 
-These measures are advisable everywhere and at all times, also in view of flu
-infections.
+These measures are also a protection against other respiratory diseases (such
+as the flu).
 
 ## [ What should I do if I feel ill? ](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html#)
 
 ## What should I do if I feel ill?
+
+[Last updated: 30 October 2020]
 
 If you feel ill yourself and are unsure what is wrong with you, you should
 first call your family doctor or the on-call doctor (using the telephone
@@ -176,12 +188,14 @@ people with symptoms that indicate a viral disease should not go to see their
 doctor spontaneously, without prior notification by telephone, in order to
 avoid the spread of infections.
 
-The state capital of Düsseldorf has set up a hotline for all citizens and for
-everyone working in the city: 0211-8996090. The specially trained team carries
-out a standardised query developed by the Robert Koch Institute. If it turns
-out that a caller needs to be tested for the virus, an appointment can be made
-at the central diagnostic facility (Witzelstraße 54-56), the drive-in test
-centre or the mobile pap test service of the city of Düsseldorf.
+The state capital of Düsseldorf has set up a ‘corona hotline’ for all
+Düsseldorf citizens and for everyone working in the city: 0211-8996090 (fax
+number for the hearing impaired: 0211 89-35674). The specially trained corona
+hotline team carries out a standardised query developed by the Robert Koch
+Institute. If it turns out that a caller needs to be tested for the virus, an
+appointment can be made at the central diagnostic facility (Witzelstraße
+54-56), the drive-in test centre or the mobile pap test service of the city of
+Düsseldorf.
 
 ## [ What should I do if I had contact with an infected person or a person who
 is suspected to have contracted COVID-19? ](covid-19-suspected-and-confirmed-
@@ -190,15 +204,11 @@ cases-hygiene-policy.html#)
 ## What should I do if I had contact with an infected person or a person who
 is suspected to have contracted COVID-19?
 
-[Update: 06 October 2020]
+[Last updated: 06 October 2020]
 
 If you had close contact with a person infected with SARS-COVID-19 while
 working at HHU or in your personal environment, please observe the information
 below:
-
-### Did you have close* contact with a person who has contracted SARS-CoV-2?
-
-Then please contact your supervisor and observe the following information:
 
   * [ Handling (suspected) infections with COVID-19](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06_GB.pdf) (Download)
   * [ Fact sheet Symptomkontrolle](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf) (Download)
@@ -211,7 +221,7 @@ hygiene-policy.html#)
 ## As a supervisor – how do I proceed if one of my employees reports a
 (suspected) infection with COVID-19?
 
-[Last updated: 29 September 2020]
+[Last updated: 06 October 2020]
 
 As a supervisor – how do I proceed if one of my employees reports a
 (suspected) infection with COVID-19?
@@ -242,51 +252,26 @@ confirmed-cases-hygiene-policy.html#)
 
 ## Important telephone numbers and addresses
 
-A new hotline of the city of Düsseldorf has been set up - for all citizens and
-for everyone working in the city: 0211-8996090. The specially trained team
-carries out a standardised query developed by the Robert Koch Institute. If it
-turns out that a caller needs to be tested for the virus, an appointment can
-be made at the central diagnostic facility (Witzelstraße 54-56), the drive-in
-test centre or the mobile pap test service of the city of Düsseldorf.
+[Last updated: 30 October 2020]
+
+A new corona hotline of the city of Düsseldorf has been set up - for all
+Düsseldorf citizens and for everyone working in the city: 0211-8996090 (fax
+number for the hearing impaired: 0211 89-35674). The specially trained corona
+hotline team carries out a standardised query developed by the Robert Koch
+Institute. If it turns out that a caller needs to be tested for the virus, an
+appointment can be made at the central diagnostic facility (Witzelstraße
+54-56), the drive-in test centre or the mobile pap test service of the city of
+Düsseldorf.
 
 The state government of North Rhine-Westphalia has introduced a new
 coronavirus service hotline for its citizens: 0211-91191001.
 
-## [ HHU coronavirus information videos ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
-
-## HHU coronavirus information videos
-
-On 5 March, the University informed all employees about coronavirus and the
-resulting disease, internal university regulations and gave helpful
-information about how to behave to avoid infection.
-
-The event was recorded:
-
-[Link to the video in the HHU media
-library](https://mediathek.hhu.de/watch/b857a0d8-372b-4027-bc19-32fd67a1ce8b)
-
-[ Presentation slides of Prof. Dr. Jörg
-Timm](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Praesentation_Prof._Dr._Joerg_Timm_am_5._Maerz_2020.pdf)
-
-On 16 March HHU and University Hospital experts gave a briefing on the current
-state of affairs in the coronavirus crisis and answered questions. On the
-panel were: Prof Dr Dr Frank Schneider, Chief of Medicine UKD; Prof Dr Anja
-Steinbeck, HHU President; Prof Dr Jörg Timm, Institute of Virology; Prof Dr
-Klaus Pfeffer, Institute of Medical Microbiology and Hospital Hygiene; Prof Dr
-Detlef Kindgen-Milles, Medical Director Interdisciplinary Surgical ICU; Dr
-Björn-Erik Ole Jensen, Department of Gastroenterology, Hepatology and
-Infectiology; Dr Susanne Kolbe-Busch, Head of Hospital Hygiene
-
-[Video „Coronavirus Crisis: experts give answers“, 16 March
-2020](https://mediathek.hhu.de/watch/6fc780f1-1072-40e5-90c1-d0d10614cf62)
-
-## [ Hygiene policy ](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#)
+## [ Hygiene policy/protective measures at HHU ](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#)
 
 ## Hygiene policy
 
-[Updated on: 23 October 2020]
+[Updated on: 30 October 2020]
 
 On these pages you can download a briefing describing safety measures to be
 taken against the coronavirus as well as several leaflets addressing various
@@ -294,7 +279,7 @@ topics.
 
 To the downloads:
 
-  * Briefing Safety Measures Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pdf)] [](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pptx)
+  * Briefing Safety Measures Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030_ENG.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030_ENG.pdf)] [](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pptx)
   * Hygiene measures for office work [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Buerobetrieb_2020-10-23_GB.pdf)]
   * Hygiene measures for exam supervisors [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04_GB.pdf)]
   * Briefing Research Work in Laboratories under COVID-19 conditions [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27_GB.pdf)] – as of 27 August 2020

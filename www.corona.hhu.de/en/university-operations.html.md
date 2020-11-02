@@ -1,10 +1,10 @@
-[Jump to content](university-operations.html#content)[Warning: Hackers exploit
-fear of coronavirus!](university-operations.html#c453009)[Committee
+[Jump to content](university-operations.html#content)[Committee
 work](university-operations.html#c453005)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
-teaching](university-operations.html#c453008)[[Translate to English:] (Kopie
-3)](university-operations.html#c452578)[Information on University
+teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
+coronavirus!](university-operations.html#c453009)[[Translate to English:]
+(Kopie 3)](university-operations.html#c452578)[Information on University
 operations](university-operations.html#c438674)[Main points for university
 operations in brief](university-operations.html#c438676)[University
 operations](university-operations.html#c453016)[Still have
@@ -83,11 +83,12 @@ university operations**
 
 ## Main points for university operations in brief
 
-  * A simple face covering must be worn inside all buildings on HHU campus as well as all buildings used by HHU off-campus, expect in your own workspace, provided that the minimum distance of 1.5m can be maintained there. On 20 October 2020, this obligation to wear a face covering was extended to include the ‚Magistrale‘, the campus’ main artery, which leads from building 16.11 to the ZIM building as well as other heavily frequented routes on HHU’s campus where the minimum distance cannot be maintained. For clarification, the relevant areas **have** been [ highlighted on the campus plan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf).
-  * The main entrances of buildings in which the examinations and work/laboratory placements take place are open.
-  * _[Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html)_ and _Schloss Mickeln_ are available for events. Capacities, however, are limited . There, as well as on campus, smaller science events may take place .
-  * From 26 October, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via the [Studierendenwerk website](https://www.stw-d.de/).
-  * Last updated: 22 October 2020: Main points for university operations in brief.
+  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.
+  * The main entrances of all buildings (except for ULB and SSC – see special opening hours) are open Monday – Friday from 06:30am to 8pm, in accordance with HHU’s house rules.
+  * [Haus der Universität and Schloss Mickeln](https://www.hhu.de/en/news/veranstaltungen-im-haus-der-universitaet-wieder-moeglich) are available for events. Capacities, however, are limited. There, as well as on campus, smaller science events may take place.
+  * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
+
+Last updated: 30 October 2020: Main points for university operations in brief.
 
 ## University operations
 
