@@ -1,13 +1,13 @@
-[Jump to content](for-employees.html#content)[General guidelines](for-
+[Jump to content](for-employees.html#content)[Central University
+Administration Information](for-employees.html#c452971)[Support for scientists
+against the background of the coronavirus pandemic](for-
+employees.html#c452972)[General guidelines](for-
 employees.html#c452967)[Regulations for employees with a severe pre-existing
 condition or employees who live in the same household as a person with a
 severe pre-existing condition, in effect from 29 June 2020](for-
 employees.html#c452968)[Working from home and teleworking](for-
-employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
-University Administration Information](for-employees.html#c452971)[Support for
-scientists against the background of the coronavirus pandemic](for-
-employees.html#c452972)[[Translate to English:] (Kopie 4)](for-
-employees.html#c452577)["Employees" topic group](for-
+employees.html#c452969)[Business trips](for-
+employees.html#c452970)["Employees" topic group](for-
 employees.html#c438661)[Main points for employees in brief](for-
 employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
 questions?](for-employees.html#c439184)[Main points for employees in
@@ -85,17 +85,20 @@ Willkommen!
 
 ## Main points for employees in brief
 
-  * In the context of resumed examinations and on-campus teaching that by and large is limited to classes in which personal presence of the students is indispensable, the core focus currently lies on the realisation of in-person teaching that takes into account the current challenges and which guarantees the strict implementation of all required hygiene and social distancing regulations.
-  * Regarding work from home/telework, the regulations as stipulated in the relevant service agreements apply. At the time being, they do not allow the processing of personal data by employees when working from home due to data security and data protection issues. 
-  * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is, under certain conditions that will be explained below, still possible to work from home even after 26 June 2020 when HHU returns to the service agreement regulating work from home/telework.   
+  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.  
+  * In the context of the hybrid teaching situation that is currently in operation at HHU, which is a mix of online teaching and on-campus teaching, the core focus currently lies on the realisation of in-person teaching that takes into account the current challenges and which guarantees the strict implementation of all required hygiene and social distancing regulations.
+  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended from 02 November to 30 November in the light of the relevant rulings by the Federal Government. Persons whose physical presence is required on campus as well as persons who can perform their duties only on campus continue to be obliged to come to campus for work. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. The responsible supervisors are tasked to organise and guarantee operational functions under these conditions.
+  * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is under certain conditions which will be explained below, possible to work from home/perform telework irrespective of the relevant service agreement.
   * Employees who have been diagnosed with SARS-CoV-2 must not enter the premises of Heinrich Heine University (buildings or grounds) until they can prove that are no longer infected and/or infectious.  
   * Employees who have entered Germany from one of the high-risk areas as specified by the German Government and employees who were or still are in close contact with a person who is infected with COVID-19 must not enter HHU’s campus if they have to undergo a period of self-isolation mandated by either the appropriate health authorities or stipulated by NRW state legislation.  
   * Check the following link on the corona website for [ information about what to do in case of suspected infections and personal contact with infected persons](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
-  * It is mandatory to wear a face covering in all HHU buildings on campus and all rooms used by HHU outside its campus with the exception of your own work area, provided a minimal distance of 1.5m to other persons can be maintained at all times.  On 20 October 2020, this obligation has been extended to HHU campus’ main artery (‘Magistrale’) which runs from building 16.11 to the ZIM building – as well as other heavily frequented routes on campus where the minimum distance cannot be maintained. For clarification, the relevant areas have been [ highlighted on the campus plan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf).
-  * Business travel is possible to those countries for which the German Ministry of Foreign Affairs has not issued a travel warning.  At this time, business travel to high-risk areas is banned. This business travel ban also extends to districts (‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence value  ≥ 50.  
-  
-Last updated: 27 October 2020: Main points for employees in brief; Business
-trips; 23 October 2020: General guidelines.  
+  * Business travel is possible to those countries for which the German Ministry of Foreign Affairs has not issued a travel warning.  At this time, business travel to high-risk areas is banned. This business travel ban also extends to districts (‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence value  ≥ 50.
+
+Last updated: 30 October 2020: Main points for employees in brief; general
+guidelines; 29 October 2020: regulations for employees with a severe pre-
+existing condition or employees who live in the same household as a person
+with a severe pre-existing condition; work from home/telework/FLAZ; 27 October
+2020:  business trips.  
   
 Preliminary comment:  
 **For employees who work in the Faculty of Medicine or at UKD, the regulations
@@ -107,33 +110,37 @@ of Düsseldorf University Hospital apply for all topics addressed here.**
 
 ## General guidelines
 
-[Updated on: 23 October 2020]
+[Updated on: 30 October 2020]
 
 To protect your own health and to avoid further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
 regardless of whether first symptoms of the disease have already appeared.
 
-Continued remuneration for the time of self-isolation by order of the
-appropriate authorities and the resulting ban from entering HHU campus will be
-in accordance with the appropriate legislation and the German Infection
-Protection Act. Normally, HHU will continue to pay your wages for six weeks to
-then claim a refund for this sum from the appropriate authorities. Should the
-legal provisions change, e.g. if in certain cases people returning from high-
-risk areas are no longer entitled to receive any payments, HHU will, of
-course, implement these new regulations. Employees who have been mandated to
-self-isolate or who self-isolate in accordance with state legislations are
-obliged to contact Division 3 (Personnel Management Division) immediately .
+The regulations concerning work from home/telework as stipulated in the
+relevant service agreement have been suspended from 02 November to 30 November
+in the light of the relevant rulings by the Federal Government. Persons whose
+physical presence is required on campus as well as persons who can perform
+their duties only on campus continue to be obliged to come to campus for work.
+For all other persons it is possible to fully or in parts work from
+home/perform telework or mobile work. The responsible supervisors are tasked
+to organise and guarantee operational functions under these conditions. 
 
-  1. From 01 September 2020, it is mandatory to wear a face covering in all buildings on HHU’s campus (including Schloss Mickeln, University House and all branches such as Ulenbergstraße 127). It may only be removed when you are alone in a room, especially at your place of work, or if you can keep a minimal distance of 1.5m to other persons and have an allocated seat. On 20 October 2020, the obligation to wear a face covering was extended to also cover the ‘Magistrale’, which runs from building 16.11 to the ZIM building – as well as other highly frequented routes on campus where the minimum distance cannot be maintained. For clarification, the relevant areas have been [ highlighted on the campus plan](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Campusplan_Maskenpflicht_2020-10-23.pdf). Further specifications, e.g. in areas at UKD where patients are treated must be observed.     
-  
+A simple face covering must be worn everywhere on HHU campus as well as all
+inside all buildings used by HHU. The only exceptions are for lecturers during
+their lectures, provided that the minimum distance of 1.5m to other persons
+can be maintained, and for employees in their own workspace, provided that the
+required hygiene measures (e.g. a minimum distance of 1.5m to other persons or
+separated by (acrylic) glass) can be maintained there. Further specifications,
+e.g. in areas at UKD where patients are treated must be observed.
+
 Persons who cannot wear a face covering for medical reasons are exempt from
 this obligation if they are in possession of an appropriate medical
-certificate which they must carry with them at all times.
+certificate which they must carry with them at all times. 
 
-  2. Employees with an active SARS-CoV-2 infection must not enter Heinrich Heine University (buildings or grounds) until they can prove that they are no longer infected and/or no longer infectious.
-  3. Check the following link on the corona website for [ information about what to do in case of suspected infections and personal contact with infected persons](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
-  4. Employees who have entered Germany from an international ‚high-risk area‘ as specified by the German Federal Government and employees who were or are still in close contact with a person who is infected with COVID-19 e.g. because they live in the same household or because they are their carers, must not enter HHU campus for as long as the health authorities or the [appropriate NRW regulations](https://www.mags.nrw./coronavirus) stipulate a period of self-isolation.  
-
+  1. Employees with an active SARS-CoV-2 infection must not enter Heinrich Heine University (buildings or grounds) until they can prove that they are no longer infected and/or no longer infectious.
+  2. Check the following link on the corona website for information about what to do in case of suspected infections and personal contact with infected persons: [www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen](../hygienekonzept.html).
+  3. 4Employees who have entered Germany from an international ‚high-risk area‘ as specified by the German Federal Government and employees who were or are still in close contact with a person who is infected with COVID-19 e.g. because they live in the same household or because they are their carers, must not enter HHU campus for as long as the health authorities or the appropriate [NRW regulations](https://www.mags.nrw./coronavirus) stipulate a period of self-isolation.  
+  4. 5Continued remuneration for the time of self-isolation by order of the appropriate authorities and the resulting ban from entering HHU campus will be in accordance with the appropriate legislation and the German Infection Protection Act. Normally, HHU will continue to pay your wages for six weeks to then claim a refund for this sum from the appropriate authorities. Should the legal provisions change, e.g. if in certain cases people returning from high-risk areas are no longer entitled to receive any payments, HHU will, of course, implement these new regulations. Employees who have been mandated to self-isolate or who self-isolate in accordance with state legislations are obliged to contact Division 3 (Personnel Management Division) immediately .
 
 ## [ Regulations for employees with a severe pre-existing condition or
 employees who live in the same household as a person with a severe pre-
@@ -154,39 +161,37 @@ existing condition who would, compared to everyday life, have an increased
 risk of infection and therefore an increased risk of suffering a particularly
 severe course of the infection even if the employee exercises extreme caution.
 
-In order to obtain such a special permission to work from home, the employee
-must describe his or her personal situation, supported by a medical
-certificate confirming that working on campus would be too high a risk for the
-employee or a person in the same household. This will have to be approved by
-at least the employee’s supervisor in ULB, ZIM or ZUV and must also be
-approved by the respective management. Organisational units other than the
-three service units mentioned are authorised to define additional requirements
-in addition to the approval of the supervisor. From 29 June on, there will be
-a new booking item „Besonderer Arbeitsort (BAO)“ will be available in FLAZ to
-reflect this. 
+For these employees it is, if certain conditions are met, possible to work
+from home/perform telework, irrespective of the general regulations. In order
+to obtain such a special permission to work from home, the employee must
+describe his or her personal situation, supported by a medical certificate
+confirming that working on campus would be too high a risk for the employee or
+a person in the same household. This will have to be approved by at least the
+employee’s supervisor in ULB, ZIM or ZUV and must also be approved by the
+respective management. Organisational units other than the three service units
+mentioned are authorised to define additional requirements in addition to the
+approval of the supervisor. From 29 June on, there will be a new item in the
+FLAZ system „Besonderer Arbeitsort (BAO)“ to reflect this. 
 
 ## [ Working from home and teleworking ](for-employees.html#)
 
 ## Working from home and teleworking
 
-[Last updated: 20 October 2020]
+[Last updated: 29 October 2020]
 
-Where work from home/telework is concerned, the regulations as stipulated in
-the relevant service agreements apply. At the time being, they do not allow
-the processing of personal data by employees working from home due to data
-security and data protection issues.
-
-The only exception are employees with severe pre-existing conditions and
-employees who live in the same household as a person suffering from a severe
-pre-existing condition who can continue to work from home under certain
-conditions even after 26 June 2020, as explained above.
+  * In those areas in which employees work flexible hours with work time recording, the work from home/teleworking days must be recorded via the WebService of the ZEUS time management software. To do this, choose the item “Fehlzeitantrag” in the drop-down menu and enter “Corona FZ” as the reason for absence on those days that you worked from home/performed telework.
+  * The request via WebService can be submitted in advance or after you have returned to the office. After approval of the workflow request, you will be credited with the regular daily target working hours for each day that you worked from home/performed telework (cf. § 9 Para. 3 of the service agreement on alternating/mobile work from home/telework). This means that a fixed working time applies on the days that you work from home / perform telework and the time sovereignty which usually applies in the FLAZ system is suspended, i.e. you cannot independently reduce or extend your working hours.
+  * An extension of the regular daily working hours, which may be necessary in individual cases due to special tasks or work that cannot be delayed, can only be considered, if overtime has been mandated in advance. The Human Resources Department is the authority responsible in this case; only in very urgent cases is the immediate supervisor responsible point of contact. Only in these cases will the actual working hours get recorded via clock-in/clock-out bookings, which must be indicated separately in the comments field.
+  * When you combine work from home/telework and physical presence at HHU at one and the same day, you do not have to clock in with the help of the time recording device.
+  * Employees who do not participate in flextime must coordinate their presence at work/absence from work with their supervisor on the basis of the current coronavirus regulations. The Human Resources Department need not be notified.  
+  * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is under certain conditions possible to work from home/perform telework, as explained above. To register this in the flextime system, choose the item ‘Besonderer Arbeitsort (BOA)’.
 
 ### Working from home/teleworking
 
 The Centre for Information and Media Technology (ZIM) has set up a Wiki with
 information on how to get access to HHU systems (VPN, WebDAV) so you can work
 from home and how to set up video conferences: [ZIM
-Wiki](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
+Wiki.](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
 ## [ Business trips ](for-employees.html#)
 

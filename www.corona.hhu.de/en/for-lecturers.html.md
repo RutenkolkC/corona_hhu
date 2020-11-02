@@ -84,19 +84,18 @@ and/or your study programme.
 
 ## Main points for lecturers in brief
 
-  * From 26 October, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via the [Studierendenwerk website](https://www.stw-d.de/).
+  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
+  * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
+  * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
   * All on-campus events organised by the respective student councils to take place during the orientation week for first-year students (ESAG) have been cancelled. The student councils have made plans to reach out to the first-year students online instead.
   * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * Please observe the [ specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (as of: 21 October 2020).
-  * Persons who have entered Germany from a risk area as defined by the German Federal Government must not enter HHU campus until the end of the mandatory self-isolating period as stipulated in the General Regulations of the State of NRW.
-  * Persons from areas within Germany that experience an increased number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * It is mandatory to wear a face covering in all buildings on HHU's campus, on the ‘Magistrale’ which leads from building 16.11 to the ZIM building and in all locations used by HHU off-campus. It may only be taken off when you are alone in a room or if a minimum distance of 1.5m can be kept to other persons and you are sitting in an allocated seat. Please comply with the further specifications on the employees’ website and additional specifications for the health care sector. Persons who cannot wear a face covering for medical reasons are exempt from the obligation to wear one. To prove this, they need a medical certificate, which they must carry on their person at all times.  
   * The telephone number must be collected for all in-person events with students (irrespective of the group size).
-  * You can find more information about digital lectures on HHU‘s [central e-learning website](https://www.elearning.hhu.de).  
-  
-Last updated: 22 October 2020: Main points in brief; teaching and studying; 21
-October 2020: dates; booking rooms; 19 October 2020: assistance for digital
-teaching.
+  * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
+  * You can find more information about digital lectures on HHU‘s [central e-learning website](https://www.elearning.hhu.de).
+
+Last updated: 30 October 2020: Main points for lecturers in brief; dates and
+deadlines; 22 October 2020: teaching and studying.
 
 ## Lecturers
 
@@ -104,9 +103,9 @@ teaching.
 
 ### Dates
 
-[Updated on: 21 October 2020]
+ [Last updated: 30 October 2020]
 
-  * The winter semester lecture period starts on 26 October 2020. This applies to students in higher semesters and master’s degree students.
+  * The winter semester lecture period started on 26 October 2020. This applies to students in higher semesters and master’s degree students.
   * The lecture period for first-year students in bachelor’s degree courses and in state examination study programmes starts on 02 November 2020.  
   * Some departments may offer courses for higher-semester students earlier than that. Online courses for higher-semester medical students, for example, will start on 19 October.
   * Before the start of the lecture period, there will also be an orientation week for first-year students (ESAG) which will take place exclusively online from 19 to 23 October.  

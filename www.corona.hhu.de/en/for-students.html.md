@@ -1,12 +1,12 @@
-[Jump to content](for-students.html#content)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Faculty information](for-
+[Jump to content](for-students.html#content)[Course organisation](for-
+students.html#c450965)[Information for international students](for-
+students.html#c450971)[Information for students with disabilities or chronic
+illnesses](for-students.html#c450972)[Services of the central
+institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for HHU students](for-
-students.html#c438639)[Main points for students in brief](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Information for HHU
+students](for-students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
 students.html#c438637)[Dates & Deadlines](for-students.html#c0)
@@ -89,20 +89,17 @@ and that you check your HHU e-mail account on regular basis.
 
 ## Main points for students in brief
 
-  * From 26 October, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via the [Studierendenwerk website](https://www.stw-d.de/).
-  * All on-campus events organised by the respective student councils to take place during the orientation week for first-year students (ESAG) have been cancelled. The student councils has made plans to reach out online to the first-year students instead.
+  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
+  * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
+  * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
   * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
-  * Please observe the [ specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (as of: 21 October 2020).
-  * Persons who have entered Germany from a risk area as defined by the German Federal Government must not enter HHU campus until the end of the mandatory self-isolating period as stipulated in the General Regulations of the State of NRW.
-  * Persons from areas within Germany that experience an increased number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * It is mandatory to wear a face covering in all buildings on HHU's campus  as well as the ‘Magistrale’ from building 16.11 to the ZIM building and in all locations used by HHU off-campus. It may only be taken off when you are alone in a room or if a minimum distance of 1.5m can be kept to other persons and you are sitting in an allocated seat. Please check the 'employees‘ site for further specifications. Specifications for the health care sector must be observed. Persons who cannot wear a face covering for medical reasons are exempt from the obligation to wear one. To prove this, they need a medical certificate which they must carry on their person at all times.
-  * Stays abroad with HHU scholarships can still be planned and carried out, taking the current situation into consideration. Please contact the International Office about this as soon as possible.
-  * For written exams which are set to take place in October 2020 but which are written in connection with a course that took place in summer semester 2020, the regulations regarding an additional attempt to pass apply.   
-  * In order to quickly identify and contact any contact persons in the event of a COVID-19 infection it is mandatory to maintain a list of all attendees of on-campus courses. This is why students must leave their names, student registration number and telephone number when attending an on-campus event.    
+  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 12 October 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)].
+  * For written exams, which are set to take place in October 2020 but which are written in connection with a course that took place in summer semester 2020, the regulations regarding an additional attempt to pass apply.   
+  * In order to quickly identify and contact any contact persons in the event of a COVID-19 infection, it is mandatory to maintain a list of all attendees of on-campus courses. This is why students must leave their names, student registration number and telephone number when attending an on-campus event.   
+  * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Last updated: 22 October 2020: Main points in brief; General information;
-teaching and studying; 21 October 2020: dates/deadlines; 19 October 2020:
-services of central institutions.
+Latest updates: 30 October 2020: Main points for students in brief; general
+information; dates and deadlines; study rooms on campus.
 
 ## Students
 
@@ -110,14 +107,14 @@ services of central institutions.
 
 ## General information
 
-[Last updated: 22 October 2020]
+[Last updated: 30 October 2020]
 
 To protect individual health and prevent further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
 irrespective of whether initial symptoms of the disease have already been
 detected.
 
-  1. Since 1 September 2020, it is mandatory to wear a face covering in all buildings on HHU campus and in all locations used by HHU off-campus. It may only be removed when you are alone in a room or if you can keep a minimum distance of 1.5m to other persons and you are sitting in an allocated seat. Further specifications for the health care sector must be observed. Persons who cannot wear a face covering for medical reasons are exempt from the obligation to wear one. To prove this, they need a medical certificate which they must carry on their person at all times.
+  1. A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there. Further specifications for the health care sector must be observed. Persons who cannot wear a face covering for medical reasons are exempt from the obligation to wear one. To prove this, they need a medical certificate which they must carry on their person at all times. 
   2. Students who are infected with SARS-Co-V-2 are not allowed to enter HHU (premises and buildings) until it has been proven that the disease has been cured or is no longer contagious.
   3. Provided that a stay-at-home order is mandatorily required by the public health office or the general regulations of the state of NRW, a ban from entering the campus is in place for students who have entered from an international high-risk area that has been designated as such by the Federal Government as well as for students who were or still are in close contact with persons infected with the coronavirus because they, e.g., are taking care of them or live with them in a common household. Compliance with further specifications, for example, in UKD in the health care sector, must be ensured.
   4. Persons from areas within Germany that experience an increased number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
@@ -144,12 +141,13 @@ weeks.
 
 ## Dates & Deadlines
 
-[Last updated: 21 October 2020]
+[Last updated: 30 October 2020]  
 
-  * The winter semester’s lecture period starts on 26 October 2020. This applies to students in higher study semesters and in Master’s degree programmes.
+
+  * The winter semester’s lecture period started on 26 October 2020\. This applies to students in higher study semesters and in Master’s degree programmes.
   * The lecture period for first-semester students in Bachelor’s degree courses and students in a state examination programme starts on 2 November 2020.
   * Some departments/faculties may offer earlier courses for students in higher semesters. For example, the Medical Department is already starting digital courses for higher semesters on 19 October.
-  * There will be an orientation week for first-semester students (ESAG)  before the lecture period starts. It will take place from 19 to 23 October and will be exclusively online. .
+  * There will be an orientation week for first-semester students (ESAG)  before the lecture period starts. It will take place from 19 to 23 October and will be exclusively online.
   * The welcome event for first year students will take place online this year from 12 October until 08 November 2020.  Click here for information about this [online event and the accompanying info fair](https://hhu.de/die-hhu/presse-und-marketing/aktuelles/zentrale-veranstaltungen-der-hhu/virtuelle-erstsemesterbegruessung-2020).
   * The welcome address by the HHU President and the Vice President for Quality in Studies and Teaching will be on 02 November 2020 during the online welcome event for first year students. This link will take you to the [welcome event for first year students](https://hhu.expo-ip.com/).
   * The lecture period ends on 12 February 2021 for all students.
@@ -232,6 +230,82 @@ access to HHU’s systems was optimised so that the systems are efficiently set
 up for the winter semester. Students can also find details of the courses and
 modes offered in winter semester in HIS LSF and on the relevant subjects’
 websites.
+
+## [ Study rooms on campus ](for-students.html#)
+
+[New: 30 October 2020]
+
+In the context of the ‚hybrid‘ winter semester, which consists of on-campus as
+well as online teaching, HHU provides study rooms on campus for its students.
+These rooms are intended for those students who attend on-campus classes and
+who wish to take part in an online class before or after the on-campus class.
+More rooms can be made available should the demand exceed the number of rooms
+currently offered. Please check this site regularly for the latest
+information. You can find out more about the terms of use below in the
+respective sections. 
+
+#### Small study rooms
+
+From 02 November 2020 on, small study rooms are available for individual use
+on HHU’s campus. These small study rooms are primarily intended for
+participation in online classes which require active involvement such as
+taking an active part in a discussion. 
+
+These small study rooms are open Monday – Friday from 10.30am to 6pm and can
+be booked via a web application for an allocated time slot. This web
+application will go online on 02 November at the latest and can be accessed
+[via this link](https://www.philo.hhu.de/en/studium-und-
+lehre/lehre/allgemeine-informationen/raumbuchungen).
+
+It is in the uses’ responsibility to abide by these terms of use.These
+include, besides the [ general rules of
+behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
+cases-hygiene-policy), single-person occupancy of the study rooms. Should it
+become obvious that the study rooms are used by groups or that the terms of
+use are violated in any other way, we will be forced to end this offer. 
+
+#### Lecture theatres as a place to study
+
+From 04 November 2020 on, a lecture theatre will be made available as a place
+to study, from Monday – Thursday, 10:30am – 4pm:
+
+  * Monday: lecture theatre 3D in building 23.01
+  * Tuesday: Substitute lecture theatre in building 16.12
+  * Wednesday: lecture theatre 5D in building 25.21
+  * Thursday: lecture theatre 2D in building 22.01
+
+Please note that 04 November, when this offer becomes available, is a
+Wednesday which means that during that week only on Wednesday and Thursday
+lecture theatres are available to study. 
+
+In these lecture theatres, students can study in single-use workspaces or
+follow online classes which require only passive or silent participation. The
+use of other, unoccupied, lecture theatres as a place to study in is not
+permitted. 
+
+You do not need to book a seat in advance in order to use one of the
+workspaces in the lecture theatre. You simply report to the invigilator at the
+entrance of the lecture theatre who will then take your contact details  \-
+please print out and [ fill in this
+form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+and bring it with you. Only a limited number of persons can be admitted to a
+single lecture theatre. For as long as there are workspaces available you will
+be admitted after you have left your contact details at the entrance. The
+available workspaces are marked as such, please use only those seats. 
+
+Please bring your own end devices (notebook, tablet, etc.) and (if necessary)
+headphones. Online classes with sound may only be followed while wearing
+headphones in order to reduce the background noise in the lecture theatre to
+an absolute minimum. 
+
+It is in the users’ responsibility to comply with the terms of use. They
+include the [ general rules of
+behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
+cases-hygiene-policy)but also the obligation to behave quietly so as not to
+disturb your fellow students. The invigilators will monitor compliance with
+these rules. 
+
+Should these rules be violated we will be forced to end this offer.
 
 ## [ Exams ](for-students.html#)
 
