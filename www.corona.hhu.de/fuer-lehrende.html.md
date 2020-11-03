@@ -94,12 +94,12 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
   * Alle von den Fachschaften im Rahmen der Orientierungswoche für Erstsemester (ESAG) organisierten Präsenzveranstaltungen entfallen. Die Fachschaften haben digitale Angebote geplant und werden sich über diese Angebote an die Studienanfänger wenden.
   * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
   * Bitte beachten Sie die [ Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
-  * Bei sämtlichen Präsenzveranstaltungen mit Studierenden (unabhängig von der Gruppengröße) muss die Telefonnummer erhoben werden.
+  * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite](https://www.elearning.hhu.de) der HHU.  
   
-Letzte Aktualisierungen: 30.10.2020: Das Wichtigste für Lehrende in Kürze;
-Termine; 22.10.2020: Lehr- und Studienbetrieb.
+Letzte Aktualisierungen: 02.11.2020: Das Wichtigste für Lehrende in Kürze;
+Termine; Hilfestellungen für den Lehr- und Studienbetrieb.
 
 ## Lehrende
 
@@ -107,17 +107,21 @@ Termine; 22.10.2020: Lehr- und Studienbetrieb.
 
 ## Termine
 
-[Update: 30.10.2020]
+[Update: 02.11.2020]
 
-  * Die Vorlesungszeit des Wintersemesters hat am 26. Oktober 2020 begonnen. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
-  * Die Vorlesungszeit für Erstsemester der Bachelorstudiengänge und der Studiengänge mit staatlichem Abschluss beginnt am 02. November 2020.
-  * Einige Fachbereiche werden ggfs. schon frühere Angebote für Studierende höherer Fachsemester machen. So beginnt die Medizin bereits am 19. Oktober mit digitalen Lehrveranstaltungen für höhere Fachsemester.
-  * Zudem gibt es vor dem Beginn der Vorlesungszeit eine Orientierungswoche für Erstsemesterstudierende (ESAG), die vom 19. bis 23. Oktober ausschließlich als Onlineangebot stattfindet.
-  * Die HHU lädt ich diesem Jahr zu einer virtuellen Erstsemesterbegrüßung vom 12. Oktober bis 08. November 2020. Hier finden sich [Infos zur virtuellen Begrüßung und der dazugehörigen Infomesse](https://www.hhu.de/die-hhu/presse-und-marketing/aktuelles/zentrale-veranstaltungen-der-hhu/virtuelle-erstsemesterbegruessung-2020).
-  * Die offizielle Begrüßung der Rektorin und des Prorektors für Studienqualität und Lehre findet am 02. November 2020 im Rahmen der virtuellen Erstsemesterbegrüßung statt. [Hier geht´s zur Erstsemesterbegrüßung](http://http://).
-  * Das Vorlesungsende ist für alle Studierenden der 12. Februar 2021.
-  * Die Klausurphase im Anschluss an das Wintersemester beträgt 4 Wochen und liegt in der Zeit vom 16. Februar bis 12. März 2021.
-  * Die Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2. bis 5. April 2021).
+Der Beginn der Vorlesungszeit ist im Wintersemester 2020/2021 auf den 26.
+Oktober (für höhere Semester und in Masterstudiengängen) bzw. auf den 2.
+November (für Erstsemester in den Bachelorstudiengängen und der Studiengänge
+mit staatlichem Abschluss verschoben. Alle Termine sowie mögliche Änderungen
+finden Sie unter [Termine und
+Fristen](https://www.hhu.de/studium/studienorganisation/vorlesungszeiten
+"Termine").
+
+Die Klausurphase im Anschluss an das Wintersemester beträgt 4 Wochen und liegt
+in der Zeit vom 16. Februar bis 12. März 2021. Die Klausurphase vor dem
+Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
+22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
+bis 5. April 2021).
 
 ## [ Lehr- und Studienbetrieb ](fuer-lehrende.html#)
 
@@ -253,7 +257,7 @@ haben wir Leitfälen erstellt:
 
 ## Hilfestellungen für den digitalen Lehrbetrieb
 
-[Update: 19.10.2020]
+[Update: 02.11.2020]
 
 Im Wintersemester 2020/2021 ist Präsenzlehre nur eingeschränkt möglich. Daher
 haben wir Ihnen auf dieser Seite einige konkrete Informationsangebote
@@ -276,8 +280,9 @@ Lehre](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/
 
 Eine wöchentliche Sprechstunde zur digitalen Lehre gibt es im
 [Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde) der
-HHU. Immer mittwochs von 13.30 bis 14.30 Uhr beantworten dort E-Learning-
-Expert*innen Ihre Fragen, die Sie gerne auch schon vorher einstellen können.
+HHU. Immer montags und mittwochs von 13.30 bis 14.30 Uhr beantworten dort
+E-Learning-Expert/innen Ihre Fragen, die Sie gerne auch schon vorher
+einstellen können.
 
 #### Vorlesungsaufzeichnungen
 
