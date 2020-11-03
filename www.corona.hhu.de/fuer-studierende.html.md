@@ -1,14 +1,13 @@
-[Zum Inhalt springen](fuer-
-studierende.html#content)[Studienorganisation](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Termine](fuer-
+studierende.html#c450924)[Prüfungen](fuer-
+studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
 studierende.html#c450974)[Allgemeine Informationen](fuer-
 studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Internationale Studierende](fuer-
+studierende.html#c450922)[Weitere Informationen](fuer-
+studierende.html#c450983)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450979)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -98,14 +97,12 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
   * Bitte beachten Sie die [ Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
-  * Im Oktober 2020 stattfindende Klausuren, die zu Veranstaltungen des Sommersemesters 2020 zählen, fallen ebenfalls unter die Regelung zum zusätzlichen Wiederholungsversuch.
-  * Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren und kontaktieren zu können, muss die Rückverfolgbarkeit in allen Präsenzveranstaltungen sichergestellt sein. Daher werden in allen Präsenzveranstaltungen Name, Matrikelnummer und Telefonnummer erhoben.
+  * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
 
-Letzte Aktualisierungen:  30.10.2020: Das Wichtigste in Kürze für Studierende;
-Allgemeine Informationen; Termine; Lernräume auf dem Campus.
+Letzte Aktualisierungen:  02.11.2020: Das Wichtigste in Kürze für Studierende;
+Termine; Lernräume auf dem Campus; Prüfungen; Studienorganisation.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
@@ -144,58 +141,47 @@ vernichtet.
 
 ## Termine
 
-[Update: 30.10.2020]
+[Update: 02.11.2020]
 
-  * Die Vorlesungszeit des Wintersemesters hat am 26. Oktober 2020 begonnen. Dies gilt für Studierende in höheren Fachsemestern und in Masterstudiengängen.
-  * Die Vorlesungszeit für Erstsemester der Bachelorstudiengänge und der Studiengänge mit staatlichem Abschluss beginnt am 2. November 2020.
-  * Einige Fachbereiche werden ggf. schon frühere Angebote für Studierende höherer Fachsemester machen. So beginnt die Medizin bereits am 19. Oktober mit digitalen Lehrveranstaltungen für höhere Fachsemester.
-  * Zudem gibt es vor dem Beginn der Vorlesungszeit eine Orientierungswoche für Erstsemesterstudierende (ESAG), die vom 19. bis 23. Oktober ausschließlich als Onlineangebot stattfindet.
-  * Die HHU lädt dieses Jahr zu einer virtuellen Erstsemesterbegrüßung vom 12. Oktober bis 8. November 2020. [Hier](https://hhu.de/die-hhu/presse-und-marketing/aktuelles/zentrale-veranstaltungen-der-hhu/virtuelle-erstsemesterbegruessung-2020) finden sich Infos zur virtuellen Begrüßung und der dazugehörigen Infomesse.
-  * Die offizielle Begrüßung der Rektorin und des Prorektors für Studienqualität und Lehre findet am 2. November 2020 im Rahmen der virtuellen Erstsemesterbegrüßung statt. [Hier](https://hhu.expo-ip.com/) geht’s zur Erstsemesterbegrüßung.
-  * Das Vorlesungsende ist für alle Studierenden der 12. Februar 2021.
-  * Die Klausurphase im Anschluss an das Wintersemester beträgt 4 Wochen und liegt in der Zeit vom 16. Februar bis 12. März 2021.
-  * Die Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2. bis 5. April 2021).
+Der Beginn der Vorlesungszeit ist im Wintersemester 2020/2021 auf den 26.
+Oktober (für höhere Semester und in Masterstudiengängen) bzw. auf den 2.
+November (für Erstsemester in den Bachelorstudiengängen und der Studiengänge
+mit staatlichem Abschluss verschoben. Alle Termine sowie mögliche Änderungen
+finden Sie unter [Termine und
+Fristen](https://www.hhu.de/studium/studienorganisation/vorlesungszeiten
+"Termine").
+
+Die Klausurphase im Anschluss an das Wintersemester beträgt 4 Wochen und liegt
+in der Zeit vom 16. Februar bis 12. März 2021. Die Klausurphase vor dem
+Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
+22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
+bis 5. April 2021).  
+
 
 ## [ Lehr- und Studienbetrieb ](fuer-studierende.html#)
 
 ## Lehr- und Studienbetrieb
 
-[Update: 22.10.2020]
+[Update: 02..11.2020]
 
 Das Wintersemester 2020/2021 wird an der HHU ein Hybridsemester als
-Kombination aus Präsenz- und Onlinelehre. Präsenzveranstaltungen finden in dem
-Umfang statt, wie es ein verantwortungsvoller Umgang mit dem Coronavirus
-erlaubt. Aufgrund der derzeitigen Rahmenbedingungen wird die Online-Lehre
-dennoch den größten Anteil des Gesamtangebots an Lehrveranstaltungen
-einnehmen.
-
-Zum Ende des Sommersemesters 2020 hat die HHU eine Befragung aller
-Studierenden und Lehrenden zu ihren Erfahrungen mit dem Online-Semester
-durchgeführt. Die [Ergebnisse](https://www.mitarbeiter.hhu.de/intranet-
-aktuell/aktuelle-meldungen-intranet/news-detail/article/die-umstellung-auf-
-digitale-lehre-hat-ganz-gut-geklappt.html) (Log-in mit Uni-Kennung) sind in
-die Planungen des Wintersemesters 2020/2021 eingeflossen.
+Kombination aus Präsenz- und Onlinelehre. Es ist wichtig, dass Sie sich
+regelmäßig zu Veränderungen im Lehrgeschehen und Ihren Lehrveranstaltungen
+informieren. Lesen Sie daher die Informationen auf den Corona-Webseiten der
+HHU und den Webseiten Ihres Faches und prüfen Sie regelmäßig Ihre Uni-E-
+Mailadresse.
 
 #### Präsenzlehre
 
-Präsenzlehrveranstaltungen werden unter Berücksichtigung der geltenden
-Coronaschutzverordnung und der Allgemeinverfügung des Landes NRW durchgeführt.
-Am Mindestabstand von 1,5 Metern hält die HHU in der Regel bei allen
-Präsenzformaten fest. Zudem dürfen maximal 50 Personen an Lehrveranstaltungen
-mit physischer Präsenz teilnehmen, sofern es die räumlichen Gegebenheiten
-zulassen. Nur in wenigen Ausnahmefällen, in denen Studierende über das
-Semester hinweg in einer Kleingruppe unterrichtet werden, kann vom
-Mindestabstand abgewichen werden. Lehrveranstaltungen wie Laborpraktika oder
-Unterricht am Krankenbett, die eine Präsenz zwingend erfordern und in
-besonderen Räumlichkeiten stattfinden, werden soweit möglich und unter
-Berücksichtigung des Infektionsschutzes auch in Präsenz durchgeführt.
+Informationen zu Lehrveranstaltungen, die in Präsenz stattfinden, erhalten Sie
+in der Regel über die Lernplattformen ILIAS und Moodle sowie von Ihren
+Lehrenden. Die Kommunikation erfolgt hierbei über Ihre Uni-E-Mailadresse. Bei
+Fragen zu einer Lehrveranstaltung nehmen Sie bitte Kontakt zu jeweiligen
+Lehrenden auf.
 
-Das Rektorat hat sich gemeinsam mit der Task Force Lehre intensiv mit den
-Rahmenbedingungen und Möglichkeiten für die Durchführung von
-Lehrveranstaltungen mit physischer Präsenz im Wintersemester 2020/2021 befasst
-und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
-beschlossen und geben den Rahmen für die Durchführung von
-Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
+Für die Durchführung von Präsenzveranstaltungen im Wintersemester hat die HHU
+einen Rahmen definiert und Verfahrensweisen erarbeitet. Die gültigen
+Verfahrensweisen in der zuletzt gültigen Fassung finden Sie unter:
 
 [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen
 im Wintersemester 2020/2021 an der
@@ -210,7 +196,7 @@ Dokuments.
 In allen Präsenzveranstaltungen (Lehrveranstaltungen, Sprechstunden, Prüfungen
 etc.) ist die durch die Coronaschutzverordnung vorgeschriebene
 Rückverfolgbarkeit von Infektionsketten sicherzustellen. Die Lehrenden werden
-hierfür die Kontaktdaten (Name, Matrikelnummer, Telefonnummer) aller in der
+hierfür Ihre Kontaktdaten (Name, Matrikelnummer, Telefonnummer) aller in der
 Präsenzveranstaltung anwesenden Personen erheben und können hierfür [ diesen
 Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
 Die dazugehörigen [ Datenschutzhinweise können
@@ -219,28 +205,16 @@ heruntergeladen werden.
 
 #### Online-Lehre
 
-Aufgrund begrenzter Raumressourcen wird die Mehrzahl der Lehrveranstaltungen
-erneut in rein digitaler Form stattfinden müssen. Um Studierenden, die aus
-verschiedenen Gründen ganz oder zeitweise nicht an der Präsenzlehre teilnehmen
-können, die Teilhabe an der Lehre grundsätzlich zu ermöglichen, sollen
-Lehrende sämtliche Präsenzlehrveranstaltungen überdies auch online anbieten.
-Ausgenommen von dieser Regelung sind Veranstaltungen, deren Eigenart zwingend
-eine Anwesenheit erfordert.
-
-Um die Interaktion zwischen den Lehrveranstaltungsteilnehmenden zu fördern,
-wurden die Lehrenden gebeten, ihre digitale Lehrveranstaltung zumindest
-phasenweise live anzubieten, falls dies nicht bereits im Sommersemester der
-Fall war. Der Zugriff auf die HHU-Systeme wurde nach den Rückmeldungen zum
-Sommersemester optimiert, so dass die Systeme gut für das Wintersemester
-aufgestellt sind. Studierende finden auch im Wintersemester im HIS LSF und auf
-den entsprechenden Webseiten der Fächer die Details zu den Lehrveranstaltungen
-und die angebotenen Modi.
+**Im Wintersemester wird die Mehrzahl der Lehrveranstaltungen digital
+stattfinden.** Wir haben Ihnen ein paar [Tipps und Tricks für das digitale
+Studium](https://www.hhu.de/lehre/tipps-und-tricks-fuer-das-digitale-studium
+"Tipps") zusammengestellt.
 
 ## [ Lernräume auf dem Campus ](fuer-studierende.html#)
 
 ## Lernräume auf dem Campus
 
-[Neu: 30.10.2020]
+[Neu: 02.11.2020]
 
 Im Zuge der Durchführung des „hybriden“ Wintersemesters, bestehend aus
 Präsenz- und Onlinelehre, stellt die HHU ihren Studierenden Lernräume auf dem
@@ -260,11 +234,9 @@ Studierenden erfordern. Aktive Teilnahme heißt beispielweise, dass
 mitdiskutiert werden muss.
 
 Die kleinen Lernräume sind montags bis donnerstags in der Zeit von 10.30 Uhr
-bis 18.00 Uhr geöffnet und jeweils für einen Veranstaltungsslot über eine
-Webanwendung buchbar. Die Webanwendung wird spätestens im Laufe des 2.
-Novembers [über diesen Link](https://www.philo.hhu.de/studium-und-
-lehre/studium/allgemeine-informationen/raumbuchungssysteme.html) erreichbar
-sein.
+bis 18.00 Uhr geöffnet und jeweils für einen Veranstaltungsslot [über eine
+Webanwendung buchbar](https://www.philo.hhu.de/studium-und-
+lehre/studium/allgemeine-informationen/raumbuchungssysteme.html "Buchen").
 
 Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
 Zu den Regeln gehören neben den [allgemeinen
@@ -285,8 +257,8 @@ Uhr ein Hörsaal als Lernort zur Verfügung:
   * Donnerstag: Hörsaal 2D in Gebäude 22.01
 
 Bitte beachten Sie, dass die Öffnung mit dem 04. November an einem Mittwoch
-beginnt und damit in der ersten Woche nur mittwochs und donnerstags genutzt
-werden kann.
+beginnt und damit der Hörsaal in der ersten Woche nur mittwochs und
+donnerstags genutzt werden kann.
 
 In dem Hörsaal können Studierende an Einzelarbeitsplätzen lernen oder der
 Onlinelehre, die eher eine passive bzw. stille Teilnahme erfordert, folgen.
@@ -320,7 +292,7 @@ muss das Angebot leider wieder eingestellt werden.
 
 ## Prüfungen
 
-[Update: 14.09.2020]
+[Update: 02.11.2020]
 
 #### Allgemeine Regelungen
 
@@ -339,17 +311,16 @@ und gelten bis auf Weiteres für die Bachelor- und Masterstudiengänge an der
 HHU, sofern in den Prüfungsordnungen keine abweichenden Regelungen getroffen
 werden.
 
-### Klausuren
+### Klausuren und Klausureneinsichten
 
-Die Prüfungszeiträume im Sommersemester müssen aufgrund der begrenzten
-Hörsaalkapazitäten ausgeweitet werden. Bitte informieren Sie sich zu den
-Klausurterminen, den Prüfungsregularien sowie den geltenden An- und
-Abmelderegularien für Prüfungen für das Sommersemester 2020 auf den Seiten des
+Bitte informieren Sie sich zu den Klausurterminen, den Prüfungsregularien
+sowie den geltenden An- und Abmelderegularien für Prüfungen auf den Seiten des
 von Ihnen studierten Faches bzw. der Fächer, im Studierendenportal sowie auf
 den Seiten der Fakultäten. Bei Fragen wenden Sie sich per E-Mail an die
 zuständigen Studiendekanate.
 
-Bei Prüfungen in Präsenz sind die Regelungen des [ HHU-
+Bei Prüfungen in Präsenz wie auch bei Klausureneinsichten sind die Regelungen
+des [ HHU-
 Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
 einzuhalten. Ihre Dozierenden informieren Sie im Vorfeld der Prüfung ggbf.
 über weitere Hygienemaßnahmen. Bitte machen Sie sich mit den Regelungen und
@@ -364,16 +335,6 @@ Bis auf Weiteres wird ein Nichtantreten bei einer Klausur auch als zulässiger
 Rücktritt gewertet, sofern dies nach dem jeweiligen Prüfungsrecht zulässig
 ist. Bei Fragen wenden Sie sich bitte an Ihr Studiendekanat oder an den
 jeweiligen Prüfungsausschuss.
-
-### Klausureinsichten
-
-Klausureinsichten sind unter Beachtung der generellen Hygienevorgaben möglich.
-Bitte melden Sie sich für eine Klausureinsicht bei Ihrer bzw. Ihrem
-Dozierenden an. Hier finden Sie [Empfehlungen für die Durchführung von
-Klausureinsichten in Zeiten von Corona](https://www.math-nat-
-fak.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
-Naturwissenschaftliche_Fakultaet/Dekanat/Dokumente/MNF-
-Empfehlungen_zur_Durchfuehrung_von_Klausureinsichten.pdf "Cor").
 
 ### Mündliche Prüfungen
 
@@ -395,31 +356,11 @@ Prüfung erfolgen. Der Rücktritt kann direkt gegenüber dem Prüfer bzw. der
 Prüferin erklärt werden. Ein Rücktritt mit ärztlichem Attest aufgrund akut
 auftretender Prüfungsunfähigkeit ist auch am Tag der Prüfung möglich.
 
-### Regelungen zu Frei- und Wiederholungsversuchen
-
-Studierende der Bachelor- und Masterstudiengänge an der HHU erhalten zu jeder
-im Sommersemester 2020 abgelegten und nicht bestandenen Modulprüfung einen
-zusätzlichen Wiederholungsversuch. Diese Regelung greift für jede Modulprüfung
-nur einmal und gilt unabhängig davon, um den wievielten Prüfungsversuch es
-sich handelt. Auch im Oktober 2020 stattfindenden Klausuren, die zu
-Veranstaltungen des Sommersemesters 2020 zählen, fallen unter diese Regelung.
-
-Ferner gilt für Studierende in Staatsexamensstudiengängen der Juristischen
-Fakultät: Das Sommersemester 2020 bleibt bei der Berechnung der Semesterzahl
-für den Freiversuch nach § 25 Abs.1 S. 1 JAG NRW unberücksichtigt. In diesem
-Sommersemester erbrachte Leistungen können trotzdem anerkannt werden. Details
-zu den Regelungen können dem [Schreiben des Justizprüfungsamts vom 19. Mai
-2020](https://www.olg-duesseldorf.nrw.de/aufgaben/pruefungsamt/Hinweis-
-Freiversuch-_Stand-19_05_2020-Internet_.pdf) entnommen werden.  
-  
-Die Staatsexamensstudiengänge der Humanmedizin und Zahnmedizin sind von der
-Frei- und Wiederholungsversuchsregelung ausgenommen.
-
 ## [ Studienorganisation ](fuer-studierende.html#)
 
 ## Studienorganisation
 
-[Update: 02.10.2020]
+[Update: 02.11.2020]
 
 ### Einschreibungen und Rückmeldungen
 
@@ -440,33 +381,15 @@ der Telefonnummer 0211-8112345 oder . Weitere Zuständigkeiten finden Sie [im
 OnSSC](http://www.uni-duesseldorf.de/home/studium-und-lehre-an-der-
 hhu/studium/studienberatung2/onssc.html).
 
-### Regelstudienzeit
-
-Das Sommersemester 2020 wird bei der Zählung der Fachsemester nicht
-berücksichtigt. Ausgenommen sind Studiengänge mit staatlichen
-Abschlussprüfungen, wenn die entsprechenden staatlichen Regelungen eine
-Erhöhung der Regelstudienzeit um ein Semester vorsehen. Die Umsetzung der
-Regelung erfolgt dadurch, dass die individuelle Regelstudienzeit der bzw. des
-Studierenden ein Semester höher ist, als dies in der jeweils gültigen
-Prüfungsordnung als allgemeine Regelstudienzeit festgeschrieben ist.
-
-Die Regelung wurde aufgrund landesrechtlicher Vorgaben am 02.09.2020
-angepasst. Studierende, die durch die Erhöhung der individuellen
-Regelstudienzeit um ein Semester im Gegensatz zur zuvor angekündigten
-Nichtzählung des Fachsemesters Nachteile erfahren haben, können sich
-nachträglich für das Sommersemester 2020 aus „sonstigen wichtigen Gründen“
-beurlauben lassen. Studierende wenden sich bei Bedarf hierfür an die
-Studierenden- und Prüfungsverwaltung der HHU.
-
 ### Studienabschnitte im Ausland
 
-Erasmus-Aufenthalte ab dem Wintersemester 2020/21 können Sie wie geplant
-durchführen, sofern die Gastuniversität weiterhin Gaststudierende aufnimmt.
-Dabei ist eine Kombination von digitalem und physischem Aufenthalt möglich.
-Eine finanzielle Förderung erhalten Sie lediglich für Aufenthaltszeiträume im
-Ausland, egal ob Sie dort rein digitale oder physische Unterrichtsangebote
-nutzen. Solange Sie dem Unterricht von Deutschland aus digital folgen, darf
-das International Office dies nicht finanziell unterstützen.
+Erasmus-Aufenthalte können Sie wie geplant durchführen, sofern die
+Gastuniversität weiterhin Gaststudierende aufnimmt. Dabei ist eine Kombination
+von digitalem und physischem Aufenthalt möglich. Eine finanzielle Förderung
+erhalten Sie lediglich für Aufenthaltszeiträume im Ausland, egal ob Sie dort
+rein digitale oder physische Unterrichtsangebote nutzen. Solange Sie dem
+Unterricht von Deutschland aus digital folgen, darf das International Office
+dies nicht finanziell unterstützen.
 
 Ein Auslandsaufenthalt ist zwar auch bei einer bestehenden Reisewarnung des
 Auswärtigen Amtes möglich und förderbar. Jedoch weist das International Office
