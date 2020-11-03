@@ -1,8 +1,7 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation
-to wear a face covering’ and ‘airing of rooms’](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
+policy.html#content)[Posters ‘General hygiene measures’, ‘obligation to wear a
+face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
 COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
 and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
@@ -13,8 +12,9 @@ with an infected person or a person who is suspected to have contracted
 COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453062)[Important telephone numbers and
 addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Who is most at risk?](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c453063)[HHU coronavirus information
+policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453066)[Who is most at risk?](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c453063)[HHU coronavirus information
 videos](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453065)["COVID-19, Suspected and confirmed cases, Hygiene policy"
 topic group](covid-19-suspected-and-confirmed-cases-hygiene-
