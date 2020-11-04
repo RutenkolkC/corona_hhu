@@ -1,10 +1,9 @@
-[Zum Inhalt springen](zum-
-universitaetsbetrieb.html#content)[Gremienarbeit](zum-
+[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Videokonferenzen
+und Online-Lehre](zum-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-
+Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
 universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453007) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -87,9 +86,9 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplat, sofern dort die notwendigen Hygienmaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Die Außentüren der Gebäude (außer der ULB und des SSC – siehe hierzu gesonderte Öffnungszeiten) sind gem. Hausordnung der HHU in der Zeit von montags bis freitags von 06:30 Uhr bis 20:00 Uhr geöffnet.
-  * Das [Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html) und Schloss Mickeln sind im eingeschränkten Umfang geöffnet. Auch auf dem Campus können kleinere wissenschaftliche Veranstaltungen durchgeführt werden.
+  * Das [Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html) und Schloss Mickeln sind bis zum Jahresende für die Öffentlichkeit geschlossen.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
-  * Letzte Aktualisierungen:  30.10.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
+  * Letzte Aktualisierungen:  03.11.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
 
 ## Universitätsbetrieb
 
@@ -109,25 +108,17 @@ und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 
 ## Veranstaltungen, Tagungen, Workshops
 
-[Update: 01.09.2020]
+[Update: 02.11.2020]
 
 Auf dem Campus sind Tagung, Workshops und ähnliche Veranstaltungen im Bereich
 der Forschung unter Einhaltung der notwendigen Hygiene- und
-Infektionsschutzkonzepte (vgl. § 2, 2a und 2 b Coronaschutzverordnung vom 30.
-Mai) zulässig, sofern sie von Mitgliedern oder Angehörigen der HHU
+Infektionsschutzkonzepte (vgl. § 2 - 4a Coronaschutzverordnung vom 30.
+Oktober) zulässig, sofern sie von Mitgliedern oder Angehörigen der HHU
 veranstaltet werden. Externe Veranstaltungen können bis auf Weiteres nicht
 stattfinden.
 
-Im Haus der Universität können im eingeschränkten Rahmen seit dem 2. Juni
-wieder Veranstaltungen stattfinden; nähere Informationen [finden Sie
-hier](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-
-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html).
-
-Schloss Mickeln hat am 1. Juni den Beherberungsbetrieb wieder aufgenommen. Der
-Blaue Salon und die Remise stehen wieder für **max. acht** Personen für
-Veranstaltungen von Mitgliedern oder Angehörigen der HHU zur Verfügung, sofern
-die Hygiene- und Infektionsschutzkonzepte (§ 2, 2a und 2 b
-Coronaschutzverordnung vom 30. Mai) eingehalten werden.
+Das Haus der Universität und Schloss Mickeln sind bis zum Jahresende für die
+Öffentlichkeit geschlossen.
 
 ## [ Gebäudeschließungen ](zum-universitaetsbetrieb.html#)
 
