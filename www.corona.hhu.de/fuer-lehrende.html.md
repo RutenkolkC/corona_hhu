@@ -1,8 +1,7 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
-Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Hilfestellungen für den digitalen Lehrbetrieb](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Prüfungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
+lehrende.html#c452908)[Hilfestellungen für den Lehrbetrieb](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Prüfungen](fuer-
 lehrende.html#c452909)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
@@ -91,15 +90,14 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * Alle von den Fachschaften im Rahmen der Orientierungswoche für Erstsemester (ESAG) organisierten Präsenzveranstaltungen entfallen. Die Fachschaften haben digitale Angebote geplant und werden sich über diese Angebote an die Studienanfänger wenden.
-  * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität findet am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
-  * Bitte beachten Sie die [ Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
+  * Bitte beachten Sie die [ Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 03.11.2020).
   * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite](https://www.elearning.hhu.de) der HHU.  
   
-Letzte Aktualisierungen: 02.11.2020: Das Wichtigste für Lehrende in Kürze;
-Termine; Hilfestellungen für den Lehr- und Studienbetrieb.
+Letzte Aktualisierungen: 04.11.2020: Das Wichtigste für Lehrende in Kürze;
+Lehr- und Studienbetrieb; 02.11.2020: Termine; Hilfestellungen für den Lehr-
+und Studienbetrieb.
 
 ## Lehrende
 
@@ -127,7 +125,7 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 22.10.2020]
+[Update: 04.11.2020]
 
 Das Wintersemester 2020/2021 wird an der HHU als Hybridsemester als
 Kombination aus Präsenz- und Onlinelehre stattfinden.  Nur so kann die HHU in
@@ -150,7 +148,7 @@ und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
 beschlossen und geben den Rahmen für die Durchführung von
 Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
 
-  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (Stand: 21.10.2020).
+  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 03.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
 dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
@@ -255,7 +253,7 @@ haben wir Leitfälen erstellt:
 
 ## [ Hilfestellungen für den digitalen Lehrbetrieb ](fuer-lehrende.html#)
 
-## Hilfestellungen für den digitalen Lehrbetrieb
+## Hilfestellungen für den Lehrbetrieb
 
 [Update: 02.11.2020]
 
