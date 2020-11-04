@@ -1,13 +1,14 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Lehr- und
-Studienbetrieb](fuer-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
+[Zum Inhalt springen](fuer-
+studierende.html#content)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
 studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Informationen der Fakultäten](fuer-
+studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+studierende.html#c450922)[Termine](fuer-
+studierende.html#c450924)[Prüfungen](fuer-
+studierende.html#c450965)[Internationale Studierende](fuer-
+studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -98,11 +99,13 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Bitte beachten Sie die [ Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
+  * Studierende, die neu an der HHU sind, werden aufgefordert, schnellstmöglich ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht. Sollte Ihre Uni-Kennung noch nicht angekommen sein, melden Sie sich bitte  .
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
 
-Letzte Aktualisierungen:  02.11.2020: Das Wichtigste in Kürze für Studierende;
-Termine; Lernräume auf dem Campus; Prüfungen; Studienorganisation.
+Letzte Aktualisierungen:  04.11.2020: Das Wichtigste in Kürze für Studierende;
+Allgemine Informationen; 02.11.2020: Termine, Lernräume auf dem Campus,
+Prüfungen, Studienorganisation.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
