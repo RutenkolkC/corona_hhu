@@ -1,22 +1,23 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[How can we protect ourselves?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453060)[What should I do if I feel
-ill?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453061)[What
-should I do if I had contact with an infected person or a person who is
-suspected to have contracted COVID-19?](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c453062)[Important telephone numbers and
-addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation
-to wear a face covering’ and ‘airing of rooms’](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
+policy.html#content)[Posters ‘General hygiene measures’, ‘obligation to wear a
+face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
 COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453059)[Who is most at
-risk?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453063)[HHU
-coronavirus information videos](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453065)["COVID-19, Suspected and confirmed cases, Hygiene
-policy" topic group](covid-19-suspected-and-confirmed-cases-hygiene-
+and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
+ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c453061)[What should I do if I had contact
+with an infected person or a person who is suspected to have contracted
+COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453062)[Important telephone numbers and
+addresses](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453066)[Who is most at risk?](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c453063)[HHU coronavirus information
+videos](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453065)["COVID-19, Suspected and confirmed cases, Hygiene policy"
+topic group](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c438660)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
