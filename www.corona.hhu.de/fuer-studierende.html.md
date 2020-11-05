@@ -1,14 +1,13 @@
-[Zum Inhalt springen](fuer-
-studierende.html#content)[Studienorganisation](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Lehr- und
+Studienbetrieb](fuer-studierende.html#c450922)[Termine](fuer-
+studierende.html#c450924)[Prüfungen](fuer-
+studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
 studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Internationale Studierende](fuer-
+studierende.html#c450916)[Weitere Informationen](fuer-
+studierende.html#c450983)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450979)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -111,7 +110,7 @@ Prüfungen, Studienorganisation.
 
 ## Allgemeine Informationen
 
-[Update: 30.10.2020]
+[Update: 30.10.2020 + 03.11.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
@@ -128,8 +127,8 @@ covid-19-verdachts-und-kontaktfaellen.html) auf der Corona-Webseite.
 
 Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
 Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
-an der HHU (Stand: 21.10.2020).
+2020/2021](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf)
+an der HHU (Stand: 03.11.2020).
 
 Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren
 und kontaktieren zu können, muss die Rückverfolgbarkeit in allen
@@ -165,14 +164,19 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 02..11.2020]
+[Update: 04.11.2020]
 
 Das Wintersemester 2020/2021 wird an der HHU ein Hybridsemester als
 Kombination aus Präsenz- und Onlinelehre. Es ist wichtig, dass Sie sich
 regelmäßig zu Veränderungen im Lehrgeschehen und Ihren Lehrveranstaltungen
 informieren. Lesen Sie daher die Informationen auf den Corona-Webseiten der
 HHU und den Webseiten Ihres Faches und prüfen Sie regelmäßig Ihre Uni-E-
-Mailadresse.
+Mailadresse. Studierende, die neu an der HHU sind, werden dringend
+aufgefordert, ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie
+hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-
+unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das
+Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht.
+Sollte Ihre Uni-Kennung noch nicht angekommen sein, .
 
 #### Präsenzlehre
 
