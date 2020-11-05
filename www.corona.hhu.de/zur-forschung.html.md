@@ -1,11 +1,11 @@
-[Zum Inhalt springen](zur-forschung.html#content)[Laborbetrieb unter
+[Zum Inhalt springen](zur-forschung.html#content)[Kongressreisen und
+Projekttreffen (Dienstreisen)](zur-forschung.html#c452945)[Laborbetrieb unter
 COVID-19-Bedingungen](zur-forschung.html#c452941)[Corona-Informationen der
 Förderorganisationen](zur-forschung.html#c452942)[Hinweise für internationale
 Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
 forschung.html#c452943)[Informationen für Promovierende, Promotionsbetreuende,
 Postdocs, Nachwuchsgruppenleitungen und Juniorprofessuren](zur-
-forschung.html#c452944)[Kongressreisen und Projekttreffen (Dienstreisen)](zur-
-forschung.html#c452945) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
+forschung.html#c452944) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
 zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
 Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
 unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
@@ -38,7 +38,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -71,7 +71,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -86,8 +86,9 @@ Corona](../corona.hhu.de/index.html) **zur Forschung**
 
 ## Das Wichtigste zur Forschung in Kürze
 
-Letzte Aktualisierungen: 23.10.2020: Hinweise für internationale
-Wissenschaftler*innen und Gastwissenschaftler*innen
+Letzte Aktualisierungen: 04.11.2020: Hinweise zu Dienstreisen und
+Projekttreffen und Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten im
+Labor
 
 ## Forschung
 
@@ -95,15 +96,15 @@ Wissenschaftler*innen und Gastwissenschaftler*innen
 
 ## Laborbetrieb unter COVID-19-Bedingungen
 
-[Update: 01.09.2020]
+[Update: 04.11.2020]
 
 _Labor- und Arbeitsgruppenleiter/innen mit Aufgaben in der   Krankenversorgung
 beachten bitte vorrangig etwaige Hinweise des UKD._
 
 Hier finden Sie die das Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten
 im Labor: [ Download
-PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27.pdf)
-(Stand: 27.08.2020)
+PDF](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Merkblatt_Laborbetrieb_4.11.2020.pdf)
+(Stand: 04.11.2020)
 
 ## [ Corona-Informationen der Förderorganisationen ](zur-forschung.html#)
 
@@ -125,7 +126,7 @@ Gastwissenschaftler*innen ](zur-forschung.html#)
 ## Hinweise für internationale Wissenschaftler*innen und
 Gastwissenschaftler*innen
 
-[Update: 23.10.2020]
+[Update: 02.11.2020]
 
 Internationale Mitarbeiter*innen der HHU können sich jederzeit zur
 Unterstützung bei allen administrativen und aufenthaltsrechtlichen Fragen an
@@ -150,7 +151,7 @@ Nachwuchsgruppenleitungen und Juniorprofessuren ](zur-forschung.html#)
 ## Informationen für Promovierende, Promotionsbetreuende, Postdocs,
 Nachwuchsgruppenleitungen und Juniorprofessuren
 
-[Update: 27.05.2020]
+[Update: 02.11.2020]
 
 ### **Juristische Fakultät**
 
@@ -193,7 +194,14 @@ Die Möglichkeit von Dienstreisen und damit auch die Bearbeitung von
 entsprechenden Anträgen richtet sich nach den Reisewarnungen der
 Bundesregierung, die [hier](https://www.auswaertiges-
 amt.de/de/ReiseUndSicherheit/reise-gesundheit/gesundheit-
-fachinformationen/reisemedizinische-hinweise/Coronavirus) zu finden sind.
+fachinformationen/reisemedizinische-hinweise/Coronavirus) zu finden sind.  
+  
+Vor dem Hintergrund des dynamischen Infektionsgeschehens sind Dienstreisen in
+Risikogebiete bis auf Weiteres nicht zulässig. Dieses Dienstreiseverbot gilt
+auch für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem
+Inzidenzwert ≥ 50. Dies bedeutet auch, dass Genehmigungen von Dienstreisen
+erlöschen, wenn nach dem Genehmigungszeitpunkt, jedoch vor Reiseantritt eine
+Reisewarnung für das Zielgebiet ausgesprochen wird.
 
 Dabei sind folgende Punkte zu beachten:
 
@@ -201,14 +209,9 @@ Dabei sind folgende Punkte zu beachten:
 
   2. Es wird ausdrücklich auf die Entscheidung der Bundesregierung hingewiesen, keine erneute Rückholaktion zu starten. Ebenso wird darauf hingewiesen, dass die Antragsteller selbst für die Einhaltung der Einreisebestimmungen ihrer Zielländer verantwortlich sind.
 
-  3. Auslandsdienstreisen in Länder, für die die COVID-19-Reisewarnung der Bundesregierung gilt, werden bis zum 31. August 2020 grundsätzlich nicht genehmigt.
+  3. Dienstreisen in Länder, bei denen nach der Ankunft im Zielland oder bei der Rückkehr nach Deutschland eine Quarantänezeit vorgeschrieben ist, sind nicht zulässig.
 
-  4. Dienstreisen in Länder, bei denen nach der Ankunft im Zielland oder bei der Rückkehr nach Deutschland eine Quarantänezeit vorgeschrieben ist, sind nicht zulässig.
-
-  5. Für Beschäftigte der Medizinischen Fakultät gelten aufgrund der (potenziellen) Auswirkungen auf die Krankenversorgung die Dienstreisebestimmungen des Universitätsklinikums Düsseldorf.
-
-Der Austausch mit Kooperationspartnern soll über andere Kommunikationsmittel
-wie Telefon-, Video- oder Webkonferenzen erfolgen.
+  4. Für Beschäftigte der Medizinischen Fakultät gelten aufgrund der (potenziellen) Auswirkungen auf die Krankenversorgung die Dienstreisebestimmungen des Universitätsklinikums Düsseldorf.
 
 Weitere Hinweise zum Thema Dienstreisen finden Sie auf den Seiten des
 [Personaldezernats (Intranet).](https://www.mitarbeiter.hhu.de/zuv-zentrale-
