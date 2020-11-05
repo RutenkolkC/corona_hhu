@@ -1,15 +1,15 @@
-[Jump to content](university-operations.html#content)[Closure of
+[Jump to content](university-operations.html#content)[Committee
+work](university-operations.html#c453005)[Events, conferences,
+workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
 teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Committee work](university-
-operations.html#c453005)[Events, conferences, workshops](university-
-operations.html#c453006)[[Translate to English:] (Kopie 3)](university-
-operations.html#c452578)[Information on University operations](university-
-operations.html#c438674)[Main points for university operations in
-brief](university-operations.html#c438676)[University operations](university-
-operations.html#c453016)[Still have questions?](university-
-operations.html#c439220)[Main points for university operations in
-brief](university-operations.html#c438675)
+coronavirus!](university-operations.html#c453009)[[Translate to English:]
+(Kopie 3)](university-operations.html#c452578)[Information on University
+operations](university-operations.html#c438674)[Main points for university
+operations in brief](university-operations.html#c438676)[University
+operations](university-operations.html#c453016)[Still have
+questions?](university-operations.html#c439220)[Main points for university
+operations in brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
@@ -85,10 +85,11 @@ university operations**
 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.
   * The main entrances of all buildings (except for ULB and SSC – see special opening hours) are open Monday – Friday from 06:30am to 8pm, in accordance with HHU’s house rules.
-  * [Haus der Universität and Schloss Mickeln](https://www.hhu.de/en/news/veranstaltungen-im-haus-der-universitaet-wieder-moeglich) are available for events. Capacities, however, are limited. There, as well as on campus, smaller science events may take place.
+  * [Haus der Universität and Schloss Mickeln](https://www.hhu.de/en/news/veranstaltungen-im-haus-der-universitaet-wieder-moeglich) are closed to the public until the end of the year.
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Last updated: 30 October 2020: Main points for university operations in brief.
+Last updated: 03 November 2020: Main points for university operations in
+brief.
 
 ## University operations
 
@@ -112,25 +113,18 @@ topics/committee-work/committee-work/guidelines-for-committee-work.html)
 
 ## Events, conferences, workshops
 
-[Last updated: 05 June 2020]
+[Last updated: 02 November 2020]
 
-Research conferences, workshops and similar events can once again take place
-on campus if the necessary hygiene and infection prevention provisions are
-observed (compare sections 2, 2a and 2b of the Corona Epidemic Ordinance of 30
-May 2020) and provided they are organised by HHU employees or members. Until
-31 August, external events are not permitted.
+Research conferences, workshops and similar events can take place on campus if
+the necessary hygiene and infection prevention regulations are observed
+(compare § 2-4b of the Corona Epidemic Ordinance of 30 October 2020) and
+provided they are organised by full or associated members of HHU. External
+events cannot take place until further notice.
 
-On 02 June, _Haus der Universität_ opened for events. Capacities, however,
-remain limited; please [click here for more detailed
-information](https://www.uni-duesseldorf.de/home/startseite/news-
-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-
-moeglich.html).
-
-On 01 June, Schloss Mickeln opened for guests. The blue room and the
-outbuilding are open to groups of up to eight persons for events organised by
-HHU employees or members, provided that the hygiene and infection prevention
-provisions are observed (sections 2, 2a and 2 b of the Corona Epidemic
-Ordinance of 30 May 2020).
+The _Haus der Universität_ and _Schloss Mickeln_ are closed to the public
+until the end of the year; please [click here for more detailed
+information](https://www.hhu.de/en/news/haus-der-universitaet-wieder-
+geoeffnet).
 
 ## [ Closure of buildings ](university-operations.html#)
 
