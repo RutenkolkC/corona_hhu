@@ -1,23 +1,21 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[What should I do if I had contact with an infected person
-or a person who is suspected to have contracted COVID-19?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453062)[Important telephone numbers
-and addresses](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#content)[How can we protect ourselves?](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c453060)[What should I do if I feel
+ill?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453061)[What
+should I do if I had contact with an infected person or a person who is
+suspected to have contracted COVID-19?](covid-19-suspected-and-confirmed-
+cases-hygiene-policy.html#c453062)[Important telephone numbers and
+addresses](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation
 to wear a face covering’ and ‘airing of rooms’](covid-19-suspected-and-
 confirmed-cases-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
 COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
-ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453061)[Who is most at
+and-confirmed-cases-hygiene-policy.html#c453059)[Who is most at
 risk?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453063)[HHU
 coronavirus information videos](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453065)["COVID-19, Suspected and confirmed cases, Hygiene
-policy" topic group](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c438660)[Main points in brief on COVID-19 and on handling
+hygiene-policy.html#c453065)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453068)[Still have questions?](covid-19-suspected-and-confirmed-
@@ -27,7 +25,7 @@ cases-hygiene-policy.html#c439136)[As a supervisor – how do I proceed if one
 of my employees reports a (suspected) infection with
 COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c0)
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+  * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
@@ -62,7 +60,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [ DE](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
+  * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
   * [Intranet](https://www.mitarbeiter.hhu.de/)
 
@@ -94,8 +92,6 @@ Willkommen!
 COVID-19, Suspected and confirmed cases, Hygiene policy**
 
 # COVID-19, Suspected and confirmed cases, Hygiene policy
-
-## "COVID-19, Suspected and confirmed cases, Hygiene policy" topic group
 
 ## Main points in brief on COVID-19 and on handling suspected and confirmed
 cases
@@ -271,7 +267,7 @@ confirmed-cases-hygiene-policy.html#)
 
 ## Hygiene policy
 
-[Updated on: 30 October 2020]
+[Updated on: 03 November 2020]
 
 On these pages you can download a briefing describing safety measures to be
 taken against the coronavirus as well as several leaflets addressing various
@@ -296,16 +292,18 @@ policy.html#)
 ## Posters ‘General hygiene measures’, ‘obligation to wear a face covering’
 and ‘airing of rooms’
 
-We’ve prepared a poster with important information on how to avoid infection
+[Last updated: 22 October 2020]
+
+We have prepared a poster with important information on how to avoid infection
 with coronavirus. It has been distributed across campus and can be downloaded
 as a PDF file [[Download
 PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
 Plakat_Allgemeine-Hygienemassnahmen_Okt2020.pdf)]. In addition to that, the
-following posters are available as pdf files for download „ A face covering
+following posters are available as pdf files for download „A face covering
 must be worn inside all buildings“ [[Download
 PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
-Plakat_Maskenpflicht-in-Gebaeuden_Okt2020.pdf)] and „Obligation to air rooms“
-[[Download
+Plakat_Maskenpflicht-in-Gebaeuden_Okt2020.pdf)] and „Required ventilation of
+rooms“ [[Download
 PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
 Plakat_Lueften_Okt2020.pdf)].
 

@@ -122,8 +122,9 @@ Krankheitssymptome bereits aufgetreten sind.
   3. Für Studierende, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Studierende, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, weil sie z.B. diese pflegen oder mit ihnen in häuslicher Gemeinschaft leben, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist. Weitere Konkretisierungen, etwa im UKD in Bereichen der Krankenversorgung, sind zu befolgen.
   4. Personen aus nationalen Gebieten, in denen häufiger Infektionen mit dem Coronavirus auftreten und die daher teilweise missverständlich als „Risikogebiet“ bezeichnet werden, dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
 
-Die aktuellen, generellen Hygienehinweise finden Sie [hier](zu-
-covid-19-verdachts-und-kontaktfaellen.html) auf der Corona-Webseite.
+Die aktuellen, generellen Hygienehinweise finden Sie
+[hier](https://www.corona.hhu.de/zu-covid-19-verdachts-und-
+kontaktfaellen.html) auf der Corona-Webseite.
 
 Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
 Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
