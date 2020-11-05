@@ -247,11 +247,11 @@ lehre/studium/allgemeine-informationen/raumbuchungssysteme.html "Buchen").
 
 Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
 Zu den Regeln gehören neben den [allgemeinen
-Verhaltensregeln](hygienekonzept.html) insbesondere die Verpflichtung, den
-Raum nur einzeln zu nutzen. Die Einhaltung der Regeln wird durch den
-Sicherheitsdienst überprüft. Sollte sich herausstellen, dass die Räume von
-Gruppen genutzt werden oder anderweitig gegen die geltenden Regeln verstoßen
-wird, muss das Angebot leider wieder eingestellt werden.
+Verhaltensregeln](https://www.corona.hhu.de/hygienekonzept) insbesondere die
+Verpflichtung, den Raum nur einzeln zu nutzen. Die Einhaltung der Regeln wird
+durch den Sicherheitsdienst überprüft. Sollte sich herausstellen, dass die
+Räume von Gruppen genutzt werden oder anderweitig gegen die geltenden Regeln
+verstoßen wird, muss das Angebot leider wieder eingestellt werden.
 
 #### **Lernort Hörsaal**
 
@@ -287,8 +287,9 @@ mit Ton dürfen nur mit Kopfhörern verfolgt werden, so dass die Geräuschkuliss
 im Saal auf ein Minimum reduziert wird.
 
 Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
-Zu den Regeln gehören die [allgemeinen Verhaltensregeln](hygienekonzept.html) 
-sowie insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
+Zu den Regeln gehören die [allgemeinen
+Verhaltensregeln](https://www.corona.hhu.de/hygienekonzept)  sowie
+insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
 Kommilitonen nicht beim Lernen zu stören. Die Einhaltung der Regeln wird durch
 das Aufsichtspersonal überprüft.
 

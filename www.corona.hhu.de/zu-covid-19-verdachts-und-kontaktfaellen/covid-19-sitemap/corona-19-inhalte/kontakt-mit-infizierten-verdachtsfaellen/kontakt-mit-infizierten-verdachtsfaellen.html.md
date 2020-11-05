@@ -30,7 +30,7 @@ Willkommen!
     * [für Beschäftigte](../../../../fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../../../../zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](../../../../zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](../../../../hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -63,15 +63,15 @@ Corona](../../../../../corona.hhu.de/index.html)
     * [für Beschäftigte](../../../../fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../../../../zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](../../../../zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](../../../../hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen)
 
 [HHU](https://www.hhu.de/)[HHU-Informationen zu
 Corona](../../../../../corona.hhu.de/index.html)[zu COVID-19, Verdachts- und
-Kontaktfällen](../../../../hygienekonzept.html)[Was ist zu tun, wenn ich in
-Kontakt stand mit einer infizierten Person oder einem
-Verdachtsfall?](../kontakt-mit-infizierten-verdachtsfaellen.html) **Was ist zu
-tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
-Verdachtsfall?**
+Kontaktfällen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-
+kontaktfaellen)[Was ist zu tun, wenn ich in Kontakt stand mit einer
+infizierten Person oder einem Verdachtsfall?](../kontakt-mit-infizierten-
+verdachtsfaellen.html) **Was ist zu tun, wenn ich in Kontakt stand mit einer
+infizierten Person oder einem Verdachtsfall?**
 
 # Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder
 einem Verdachtsfall?

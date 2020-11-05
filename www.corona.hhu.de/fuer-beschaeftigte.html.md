@@ -1,15 +1,16 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Heim- und Telearbeit /
-Arbeitszeitkonten](fuer-beschaeftigte.html#c452969)[Erleichterungen für
-Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
-beschaeftigte.html#c452970)[Dienstreisen](fuer-
-beschaeftigte.html#c452971)[Informationen aus der Zentralen
-Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Generelle
 Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
 mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-beschaeftigte.html#c452968)
-[(Kopie 4)](fuer-beschaeftigte.html#c452577)[Informationen für
-Beschäftigte](fuer-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte
-in Kürze](fuer-beschaeftigte.html#c438664)[Beschäftigte](fuer-
+mit schwer vorerkrankten Angehörigen leben](fuer-
+beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
+beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
+Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
+beschaeftigte.html#c452971)[Informationen aus der Zentralen
+Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972) [(Kopie
+4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
+beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
 beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438663)
@@ -41,7 +42,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -74,7 +75,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
@@ -93,7 +94,7 @@ Corona](../corona.hhu.de/index.html) **für Beschäftigte**
   * Für Beschäftigte mit schweren Vorerkrankungen sowie für Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Personen leben, besteht unabhängig von den allgemeinen Regelungen unter bestimmten, unten näher erläuterten Bedingungen die Möglichkeit, in Heim- und Telearbeit zu arbeiten.
   * Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   * Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
-  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](hygienekonzept.html) auf dieser Corona-Website.
+  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   * Die Möglichkeit von Dienstreisen richtet sich nach den Reisewarnungen der Bundesregierung, bis auf Weiteres sind keine Dienstreisen in Risikogebiete zulässig. . Dieses Dienstreiseverbot gilt ebenfalls für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem Inzidenzwert ≥ 50.
   * Letzte Aktualisierungen: 30.10.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; 29.10.2020: Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben; Heim- und Telearbeit/Arbeitszeitkonten; 27.10.2020: Dienstreisen.
 
@@ -122,7 +123,7 @@ Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein
 ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
 
   1. Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
-  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](hygienekonzept.html) auf dieser Corona-Website.
+  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   3. Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, weil sie z.B. diese pflegen oder mit ihnen in häuslicher Gemeinschaft leben, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die [allgemeinen Regelungen des Landes NRW](https://www.mags.nrw./coronavirus) häusliche Quarantäne vorgeschrieben ist.
   4. Die Entgeltfortzahlung für die Zeit der von Seiten der zuständigen Behörden angeordneten häuslichen Quarantäne und des daraus resultierenden Betretungsverbots des Campus richtet sich nach den einschlägigen gesetzlichen Regelungen insbesondere des Infektionsschutzgesetzes. Im Normalfall zahlt die HHU das Entgelt längstens sechs Wochen weiter und lässt sich dieses anschließend von den zuständigen Behörden erstatten. Sollte es hier zu rechtlichen Änderungen kommen, denen zufolge z.B. bei Reiserückkehrern aus Risikogebieten unter bestimmten Voraussetzungen keine Lohnfortzahlung mehr erfolgen darf, wird die HHU diese neuen Regelungen selbstverständlich umsetzen.  
 Beschäftigte, bei denen häusliche Quarantäne angeordnet worden ist oder diese

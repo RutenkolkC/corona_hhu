@@ -1,10 +1,9 @@
-[Zum Inhalt springen](zum-
-universitaetsbetrieb.html#content)[Gremienarbeit](zum-
+[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Hacker nutzen
+Corona-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
 universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
 universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453008) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -39,7 +38,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -72,7 +71,7 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 

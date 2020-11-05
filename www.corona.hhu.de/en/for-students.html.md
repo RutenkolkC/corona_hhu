@@ -1,11 +1,12 @@
-[Jump to content](for-students.html#content)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Information for HHU students](for-
+[Jump to content](for-students.html#content)[Exams](for-
+students.html#c450924)[Course organisation](for-
+students.html#c450965)[Information for international students](for-
+students.html#c450971)[Information for students with disabilities or chronic
+illnesses](for-students.html#c450972)[Services of the central
+institutions](for-students.html#c450973)[Faculty information](for-
+students.html#c450974)[Further information](for-students.html#c450979)[General
+information](for-students.html#c450916)[Teaching and studying](for-
+students.html#c450922)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
@@ -124,7 +125,7 @@ hygiene-policy.html).
 Please also observe the [ specifications regarding the organisation of on-
 campus courses at HHU for students and lecturers in winter semester
 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
-(as of: 21 October 2020).
+(as of: 03 November 2020).
 
 To be able to quickly identify and contact any contact persons in case of a
 COVID-19 infection, traceability must be ensured in all in-person events
@@ -157,21 +158,25 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## Teaching and studying
 
-[Last updated: 02 November 2020]
+[Last updated: 04 November 2020]
 
 Winter semester 2020/2021 at HHU will be a hybrid semester comprised of in-
 person and online teaching. It is important for you to stay informed about any
 changes concerning your courses or regarding teaching. To do this, please read
 the information on HHU’s corona website and the website of your subject and
-check your university e-mail account regularly. 
+check your university e-mail account regularly. New students at HHU are asked
+to activate their uni ID as soon as possible. [This link will tell you
+how](https://www.zim.hhu.de/en/services-des-zim/uni-kennung/aktivierung-ihrer-
+uni-kennung-und-hhu-card). For the activation you will need your student
+registration number and the initial password that gets sent to you by post. In
+case you haven’t received your uni Id yet, please . 
 
 #### In-person, classroom teaching
 
 You can usually find information about courses/lectures that take place on-
 campus on the learning platforms ILIAS and Moodle and you can also get it from
 your lecturers. The corresponding communication will take place via your
-university e-mail address. If you have questions concerning a course/lecture,
-please contact the responsible lecturer.
+university e-mail address.
 
 HHU has defined a framework and established procedures for on-campus courses
 this winter semester. Find the relevant version of the procedures in place
@@ -464,20 +469,20 @@ chronic diseases.
 
 ## Services of the central institutions
 
-[Last updated on: 14 September 2020]
+[Last updated on: 19 October 2020]
 
 Information on the current service and counselling offered and on how to reach
 the central institutions (e.g. Student Services Center, International Office,
 Studierendenwerk etc.) can be found on the respective websites of the
 individual institutions.
 
-### Student Services Center (SSC)
+#### Student Services Center (SSC)
 
 The SSC is open for you Monday-Friday, from 9am-4pm. Of course, you can still
 contact the SSC regarding your issue by phone, e-mail or post. A list of the
 digital services available is provided at [OnSSC](https://www.hhu.de/onssc). 
 
-### University and State Library
+#### University and State Library
 
 The University and State Library (ULB) has expanded its digital offers and
 consultation services. You can use these services onsite. You can find all
@@ -490,11 +495,11 @@ get all information about this
 here](https://www.ulb.hhu.de/covid-19-aktuell/faqs-rund-um-die-aktuelle-
 bibliotheksnutzung/antwort/lernarbeitsplaetze.html).
 
-### Centre for Information and Media Technology
+#### Centre for Information and Media Technology
 
 You can find an [initial overview of the offerings and services provided by
 ZIM here](https://www.zim.hhu.de/Ankommen-im-Studium). This is where you will
-find information on your univ. ID, VPN access, your e-mail and HHU’s learning
+find information on your uni ID, VPN access, your e-mail and HHU’s learning
 platforms. [Further information on ZIM's services is available
 here](https://www.zim.hhu.de/services-des-zim.html).
 

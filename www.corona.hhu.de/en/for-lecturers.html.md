@@ -1,7 +1,7 @@
-[Jump to content](for-lecturers.html#content)[Room bookings](for-
-lecturers.html#c452909)[Assistance for digital lectures](for-
-lecturers.html#c452910)[Examinations](for-lecturers.html#c452908)[Information
-pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Teaching
+resources and assistance](for-lecturers.html#c452910)[Information pages of
+faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
 lecturers.html#c438666)[Main points for lecturers in brief](for-
 lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
 questions?](for-lecturers.html#c439228)[Main points for lecturers in
@@ -87,13 +87,13 @@ and/or your study programme.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * Please observe the [ specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (as of: 21 October 2020).
+  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021 [[updated PDF document](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)] (as of: 03 November 2020).
   * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
   * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Last updated: 02 November 2020: Main points in brief;  dates and deadlines;
-assistance for online teaching
+Last updated: 04 November 2020: Main points in brief; teaching and studying;
+02 November; assistance for online teaching
 
 ## Lecturers
 
@@ -117,9 +117,7 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## [ Teaching activities and studies ](for-lecturers.html#)
 
-#### Teaching activities and studies in summer semester 2020
-
-[Last updated: 22 October 2020]
+** ** [Last updated: 04 November 2020]
 
 The winter semester 2020/21 at HHU will be a hybrid semester comprised of in-
 person, classroom teaching and online teaching. Only in this way can HHU
@@ -144,8 +142,8 @@ semester 2020/2021 at HHU:
 
 [ Specifications regarding the organisation of on-campus teaching for students
 and lecturers in winter semester 2020/2021 at
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
-(as of: 21 October 2020).
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)
+(as of: 03 November 2020).
 
 These organisation specifications will be updated regularly and adapted in
 accordance with the changing threat situation in connection with the Covid-19
@@ -235,7 +233,8 @@ Empfehlungen_zur_Durchfuehrung_von_Klausureinsichten.pdf).
 
 #### Oral exams
 
-For oral exams requiring in-person presence, the hygiene concept regulations
+For oral exams requiring in-person presence, the [ hygiene concept
+regulations](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)
 (in particular, continuous adherence to maintaining the minimum distance of
 1.5 metres) must be strictly complied with and traceability must be ensured.
  The relevant examiners are responsible for ensuring compliance.
@@ -248,9 +247,9 @@ this:
   * [Online written exams](https://www.philo.hhu.de/en/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren?https%3A%2F%2Fwww_philo_hhu_de%2Fstudium-und-lehre%2Flehre%2Fleitfaden-zur-durchfuehrung-von-online-klausuren_html=&cHash=93277f8562cbdf503e4fe0d975beb6ac)
   * [ Oral online video examinations](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-## [ Assistance for digital lectures ](for-lecturers.html#)
+## [ Teaching resources and assistance ](for-lecturers.html#)
 
-## Assistance for digital lectures
+## Teaching resources and assistance
 
 [Updated on: 02 November 2020]
 
