@@ -1,31 +1,33 @@
-[Zum Inhalt springen](zu-covid-19-verdachts-und-
-kontaktfaellen.html#content)[Woran erkennt man eine Erkrankung?](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453059)[Wie kann man sich
-schützen?](zu-covid-19-verdachts-und-kontaktfaellen.html#c453060)[Was ist zu
-tun, wenn man sich krank fühlt?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453061)[Was ist zu tun, wenn ich in Kontakt stand mit
-einer infizierten Person oder einem Verdachtsfall?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453062)[Wichtige Telefonnnummern und Kontaktadressen](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453064)[Hygienekonzept /
-Schutzmaßnahmen der HHU](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453066)[Coronavirus / SARS-CoV-2 / COVID-19](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453058)[Plakate „Allgemeine
-Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453067)[Welche Personen gehören zu besonderen
-Risikogruppen?](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c453063)[Informationsvideos zum Coronavirus](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453065) [(Kopie 3)](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c452580)[Informationen zu COVID-19,
-Verdachts- und Kontaktfällen](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c438660)[Das Wichtigste zu COVID-19 und zum Umgang mit
+[Zum Inhalt springen](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#content)[Wichtige Telefonnnummern und Kontaktadressen](zu-
+covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen der HHU](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
+/ SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
+„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453067)[Woran erkennt man eine Erkrankung?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
+man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453060)[Was ist zu tun, wenn man sich krank fühlt?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453061)[Was ist zu
+tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
+Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453062)[Welche Personen gehören zu besonderen
+Risikogruppen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453063)[Informationsvideos zum Coronavirus](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453065) [(Kopie
+3)](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c452580)[Das
+Wichtigste zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in
+Kürze](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c439137)[COVID-19, Verdachts- und Kontaktfälle](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453068)[Noch
+unbeantwortete Fragen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c439138)[Das Wichtigste zu COVID-19 und zum Umgang mit
 Verdachts- und Kontaktfällen in Kürze](zu-covid-19-verdachts-und-
-kontaktfaellen.html#c439137)[COVID-19, Verdachts- und Kontaktfälle](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c453068)[Noch unbeantwortete
-Fragen?](zu-covid-19-verdachts-und-kontaktfaellen.html#c439138)[Das Wichtigste
-zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in Kürze](zu-
-covid-19-verdachts-und-kontaktfaellen.html#c439136)[Was muss ich als
-Fachvorgesetzte*r tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet
-wird?](zu-covid-19-verdachts-und-kontaktfaellen.html#c490924)
+kontaktfaellen-hygienekonzept.html#c439136)[Was muss ich als Fachvorgesetzte*r
+tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet wird?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c490924)
 
   * DE
   * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
@@ -54,7 +56,7 @@ Willkommen!
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -87,17 +89,15 @@ Corona](../corona.hhu.de/index.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
       * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen](hygienekonzept.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
 [HHU](https://www.hhu.de/)[HHU-Informationen zu
 Corona](../corona.hhu.de/index.html) **zu COVID-19, Verdachts- und
-Kontaktfällen**
+Kontaktfällen, Hygienekonzept**
 
-# zu COVID-19, Verdachts- und Kontaktfällen
-
-## Informationen zu COVID-19, Verdachts- und Kontaktfällen
+# zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept
 
 ## Das Wichtigste zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen
 in Kürze
@@ -109,7 +109,7 @@ in Kürze
 ## COVID-19, Verdachts- und Kontaktfälle
 
 ## [ Coronavirus / SARS-CoV-2 / COVID-19 ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+kontaktfaellen-hygienekonzept.html#)
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
 
@@ -130,7 +130,7 @@ Empfehlungen des Robert-Koch-Instituts (RKI), des Gesundheitsamts Düsseldorf
 sowie des Landes- und Bundesgesundheitsministeriums.
 
 ## [ Woran erkennt man eine Erkrankung? ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+kontaktfaellen-hygienekonzept.html#)
 
 ## Woran erkennt man eine Erkrankung?
 
@@ -154,8 +154,8 @@ COVID-19-Erkrankten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronaviru
 sowie deren [Epidemiologisches Bulletin
 41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
-## [ Wie kann man sich schützen? ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+## [ Wie kann man sich schützen? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Wie kann man sich schützen?
 
@@ -182,7 +182,7 @@ Diese Maßnahmen schützen auch vor anderen Atemwegsinfektionen (wie z.B.
 Grippeinfektionen).
 
 ## [ Was ist zu tun, wenn man sich krank fühlt? ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+kontaktfaellen-hygienekonzept.html#)
 
 ## Was ist zu tun, wenn man sich krank fühlt?
 
@@ -208,7 +208,8 @@ Diagnoseeinrichtung (Witzelstraße 54-56), dem Drive-In-Testzentrum oder dem
 mobilen Abstrichdienst der Stadt Düsseldorf vergeben werden.
 
 ## [ Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person
-oder einem Verdachtsfall? ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
+oder einem Verdachtsfall? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder
 einem Verdachtsfall?
@@ -224,7 +225,8 @@ folgende Hinweise:
   * Formular Ermittlung Kontaktpersonen (Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf); Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx))
 
 ## [ Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
-Verdachtsfall gemeldet wird? ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
+Verdachtsfall gemeldet wird? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
 Verdachtsfall gemeldet wird?
@@ -237,7 +239,7 @@ Verdachtsfall gemeldet wird:
   * Hinweis für Fachvorgesetzte (Download [ PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf))
 
 ## [ Welche Personen gehören zu besonderen Risikogruppen? ](zu-
-covid-19-verdachts-und-kontaktfaellen.html#)
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#)
 
 ## Welche Personen gehören zu besonderen Risikogruppen?
 
@@ -256,7 +258,7 @@ Zu den entsprechenden [Seiten des
 RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html).
 
 ## [ Wichtige Telefonnnummern und Kontaktadressen ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+kontaktfaellen-hygienekonzept.html#)
 
 ## Wichtige Telefonnnummern und Kontaktadressen
 
@@ -275,7 +277,7 @@ Bürgertelefon zum Coronavirus eingeführt, sie ist erreichbar unter
 0211-91191001.
 
 ## [ Hygienekonzept / Schutzmaßnahmen der HHU ](zu-covid-19-verdachts-und-
-kontaktfaellen.html#)
+kontaktfaellen-hygienekonzept.html#)
 
 ## Hygienekonzept / Schutzmaßnahmen der HHU
 
@@ -303,7 +305,8 @@ Mund-Nase-Schutz.pdf).
 Wenn Sie darüber hinaus noch Fragen zu den Hygienemaßnahmen haben, schreiben
 Sie bitte eine Nachricht an diese Adresse.
 
-## [ Informationsplakate ](zu-covid-19-verdachts-und-kontaktfaellen.html#)
+## [ Informationsplakate ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Plakate „Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“
 
