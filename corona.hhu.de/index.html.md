@@ -88,7 +88,7 @@ Willkommen!
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 03.11.2020]
+[Letztes Update: 04.11.2020]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
