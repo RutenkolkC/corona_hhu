@@ -1,7 +1,7 @@
-[Jump to content](for-lecturers.html#content)[Room bookings](for-
-lecturers.html#c452909)[Assistance for digital lectures](for-
-lecturers.html#c452910)[Examinations](for-lecturers.html#c452908)[Information
-pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Assistance
+for digital lectures](for-lecturers.html#c452910)[Information pages of
+faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
 lecturers.html#c438666)[Main points for lecturers in brief](for-
 lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
 questions?](for-lecturers.html#c439228)[Main points for lecturers in
@@ -87,15 +87,13 @@ and/or your study programme.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * All on-campus events organised by the respective student councils to take place during the orientation week for first-year students (ESAG) have been cancelled. The student councils have made plans to reach out to the first-year students online instead.
-  * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * Please observe the [ specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) (as of: 21 October 2020).
-  * The telephone number must be collected for all in-person events with students (irrespective of the group size).
+  * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
+  * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
-  * You can find more information about digital lectures on HHU‘s [central e-learning website](https://www.elearning.hhu.de).
 
-Last updated: 30 October 2020: Main points for lecturers in brief; dates and
-deadlines; 22 October 2020: teaching and studying.
+Last updated: 02 November 2020: Main points in brief;  dates and deadlines;
+assistance for online teaching
 
 ## Lecturers
 
@@ -103,17 +101,19 @@ deadlines; 22 October 2020: teaching and studying.
 
 ### Dates
 
- [Last updated: 30 October 2020]
+ [Last updated: 02 November 2020]
 
-  * The winter semester lecture period started on 26 October 2020. This applies to students in higher semesters and master’s degree students.
-  * The lecture period for first-year students in bachelor’s degree courses and in state examination study programmes starts on 02 November 2020.  
-  * Some departments may offer courses for higher-semester students earlier than that. Online courses for higher-semester medical students, for example, will start on 19 October.
-  * Before the start of the lecture period, there will also be an orientation week for first-year students (ESAG) which will take place exclusively online from 19 to 23 October.  
-  * HHU’s annual welcome event for first-year students will take place online this time from 12 October – 08 November 2020. Here you can find information about the [welcome event and the accompanying info fair](https://www.hhu.de/die-hhu/presse-und-marketing/aktuelles/zentrale-veranstaltungen-der-hhu/virtuelle-erstsemesterbegruessung-2020).
-  * The official welcome address by the HHU President and the Vice President for the Quality in Studies will be on 02 November 2020. [This link will take you to the welcome address](https://hhu.expo-ip.com/).
-  * The lecture period ends on 12 February 2021 for all students.  
-  * The four-week phase of written examinations following the winter semester will be from 16 February to 12 March 2021.
-  * The written examination phase before the summer semester 2021 will presumably take place from 22 March to 09 April 2021 (over the Easter holidays: 02 April-05 April 2021).
+The start of the lecture period for winter semester 2020/2021 has been
+postponed to 26 October (for higher semesters and students in master’s
+programmes) and 02 November (for first-year students in bachelor’s programmes
+and study programmes with a state degree). You can find all dates and
+potential changes under [dates and
+deadlines](https://www.hhu.de/en/studium/studienorganisation/vorlesungszeiten).
+
+The phase of written examinations following the winter semester is four weeks
+long, from 16 February to 12 March 2021. The phase of written examinations
+before summer semester 2021 is planned to take place from 22 March to 09 April
+2021 (over the Easter holidays 2021: from 02 to 05 April 2021). 
 
 ## [ Teaching activities and studies ](for-lecturers.html#)
 
@@ -252,7 +252,7 @@ this:
 
 ## Assistance for digital lectures
 
-[Last updated on: 14 October 2020]
+[Updated on: 02 November 2020]
 
 In winter semester 2020/2021 the possibilities for on-campus teaching will be
 limited. We have therefore compiled information material on this site that can
@@ -273,8 +273,8 @@ teaching](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Pres
 
 Once a week there is an [HHU RocketChat on digital
 teaching](https://rocketchat.hhu.de/channel/elearning-sprechstunde). Every
-Wednesday from 1.30pm to 2.30pm e-learning experts will answer your questions,
-which you can submit to them prior to the actual chat. 
+Monday and Wednesday from 1.30pm to 2.30pm e-learning experts will answer your
+questions, which you can submit to them prior to the actual chat. 
 
 #### Lecture recordings
 
