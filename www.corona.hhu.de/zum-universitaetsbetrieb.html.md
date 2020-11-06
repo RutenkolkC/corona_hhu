@@ -1,10 +1,10 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb.html#content)[Gebäudeschließungen](zum-
+universitaetsbetrieb.html#content)[Gremienarbeit](zum-
+universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
+universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
 universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
 universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
-universitaetsbetrieb.html#c453006) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -89,7 +89,7 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
   * Die Außentüren der Gebäude (außer der ULB und des SSC – siehe hierzu gesonderte Öffnungszeiten) sind gem. Hausordnung der HHU in der Zeit von montags bis freitags von 06:30 Uhr bis 20:00 Uhr geöffnet.
   * Das [Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html) und Schloss Mickeln sind bis zum Jahresende für die Öffentlichkeit geschlossen.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
-  * Letzte Aktualisierungen:  03.11.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
+  * Letzte Aktualisierungen:  05.11.2020: Handlungsleitfaden Gremienarbeit Version Nov.2020; 03.11.2020: Das Wichtigste zum Universitätsbetrieb in Kürze.
 
 ## Universitätsbetrieb
 
@@ -97,13 +97,15 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Gremienarbeit
 
-[Update: 31.07.2020]
+[Update: 05.11.2020]
 
 Handlungsleitfaden für die Durchführung von universitätsinternen
 Gremiensitzungen (z.B. Fakultätsräte, Ausschüsse, Berufungskommissionen o.ä.)
 und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 
-[Zum Handlungsleitfaden](zum-universitaetsbetrieb/standard-titel.html) 
+[ Zum
+Handlungsleitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
+Gremien_Stand_2020-11-05.pdf) (Pdf-Download)
 
 ## [ Veranstaltungen ](zum-universitaetsbetrieb.html#)
 
