@@ -1,11 +1,11 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
 lehrende.html#c452908)[Hilfestellungen für den Lehrbetrieb](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
-Studienbetrieb](fuer-lehrende.html#c452907)[Prüfungen](fuer-
-lehrende.html#c452909)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Informationen für Lehrende](fuer-
-lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
-lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
+lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452912)[Prüfungen](fuer-lehrende.html#c452909)[Informationen
+für Lehrende](fuer-lehrende.html#c438666)[Das Wichtigste für Lehrende in
+Kürze](fuer-lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
 Lehrende in Kürze](fuer-lehrende.html#c438667)
 
