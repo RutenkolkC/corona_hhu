@@ -93,11 +93,9 @@ Willkommen!
   * Check the following link on the corona website for [ information about what to do in case of suspected infections and personal contact with infected persons](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
   * Business travel is possible to those countries for which the German Ministry of Foreign Affairs has not issued a travel warning.  At this time, business travel to high-risk areas is banned. This business travel ban also extends to districts (‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence value  ≥ 50.
 
-Last updated: 30 October 2020: Main points for employees in brief; general
-guidelines; 29 October 2020: regulations for employees with a severe pre-
-existing condition or employees who live in the same household as a person
-with a severe pre-existing condition; work from home/telework/FLAZ; 27 October
-2020:  business trips.  
+Last updated: 04 November 2020: information about business trips and project
+meetings and info sheet on hygiene measures in the context of lab research
+work.  
   
 Preliminary comment:  
 **For employees who work in the Faculty of Medicine or at UKD, the regulations
