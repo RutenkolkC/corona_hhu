@@ -2,8 +2,8 @@
 students](for-students.html#c450971)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
 central institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[Further information](for-students.html#c450979)[General
-information](for-students.html#c450916)[Teaching and studying](for-
+students.html#c450974)[General information](for-students.html#c450916)[Further
+information](for-students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
