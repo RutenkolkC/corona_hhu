@@ -1,11 +1,11 @@
-[Jump to content](research.html#content)[Working in laboratories under
-COVID-19 conditions](research.html#c452941)[Coronavirus-related information of
+[Jump to content](research.html#content)[Coronavirus-related information of
 funding organisations](research.html#c452942) [Information for international
 scientists/researchers and visiting
 scientists/researchers](research.html#c452943)[Information for doctoral
 students, doctoral supervisors, postdocs, young scientist group leaders and
 assistant professors](research.html#c452944)[Congress trips and project
-meetings (business trips)](research.html#c452945)[Main points for research in
+meetings (business trips)](research.html#c452945)[Working in laboratories
+under COVID-19 conditions](research.html#c452941)[Main points for research in
 brief](research.html#c438673)["Research" topic group](research.html#c452951)
 [Still have questions?](research.html#c439236)[Main points for research in
 brief](research.html#c438672)
@@ -80,8 +80,9 @@ research**
 
 ## Main points for research in brief
 
-Last updated: 23 October 2020: information for international
-scientists/researchers and visiting scientists/researchers.
+Last updated: 04 November 2020: information about business trips and project
+meetings and info sheet on hygiene measures in the context of lab research
+work.
 
 ## "Research" topic group
 
@@ -89,29 +90,29 @@ scientists/researchers and visiting scientists/researchers.
 
 ## Working in laboratories under COVID-19 conditions
 
-[Last updated: 19 June 2020]
+[Last updated: 04 November 2020]
 
 _Laboratory and working group leaders who work in health care should give
 priority to any information provided by UKD._
 
 Here you will find the leaflet describing hygiene measures in connection with
 research work in laboratories: [ download
-PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27_GB.pdf)
-(as of 27 August 2020)
+PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Laborbetrieb_04-11-20_Eng.pdf)
+(as of 04 November 2020).
 
 ## [ Coronavirus-related information of funding organisations
 ](research.html#)
 
 ## Coronavirus-related information of funding organisations
 
-[Corona information of the funding organizations](https://www.forschung.uni-
-duesseldorf.de/en/funding-organizations-and-corona)
+[Coronavirus-related information of sponsoring
+organisations](https://www.forschung.uni-duesseldorf.de/en/funding-
+organizations-and-corona)
 
-[To the Research Management and Transfer
-Department](https://www.forschung.uni-duesseldorf.de/en/)
+[Sites of research management](https://www.forschung.uni-duesseldorf.de/en/)
 
-[Corona Information Scientific Time Contract Law /
-Wissenschaftzeitvertragsgesetz
+[Coronavirus-related information regarding the
+_Wissenschaftszeitvertragsgesetz_
 (WissZeitVG)](https://www.bmbf.de/de/karrierewege-fuer-den-wissenschaftlichen-
 nachwuchs-an-hochschulen-verbessern-1935.html)
 
@@ -121,7 +122,7 @@ scientists/researcherss ](research.html#)
 ## Information for international scientists/researchers and visiting
 scientists/researchers
 
-[Last updated: 23 October 2020]
+[Last updated: 02 November 2020]
 
 International employees at HHU can contact the Junior Scientist and
 International Researcher Center (JUNO) at any time for [support with all
@@ -139,13 +140,17 @@ forschende/welcome-center).
 For up-to-date information on the regulations for entering Germany, please
 [check this page](http://www.juno.hhu.de/covid19-entry).
 
+
+
+
+
 ## [ Information for doctoral students, doctoral supervisors, postdocs, young
 scientist group leaders and assistant professors ](research.html#)
 
 ## Information for doctoral students, doctoral supervisors, postdocs, young
 scientist group leaders and assistant professors
 
-[Last updated: 27 May 2020]
+[Last updated: 02 November 2020]
 
 ### Faculty of Law
 
@@ -206,16 +211,19 @@ found [here](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-
 gesundheit/gesundheit-fachinformationen/reisemedizinische-
 hinweise/Coronavirus).
 
+ In light of the infection’s dynamic nature, business trips to high-risk areas
+are currently banned. This business travel ban also extends to districts
+(‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence
+value  ≥ 50. This also means that any approvals of business trips can be
+revoked in cases where after the time of approval but before the beginning of
+the trip a travel warning is issued for that destination.    
+
 In this context, the following must be observed:
 
   1. Business travel should be limited to inevitable trips. 
-  2. We would like to explicitly point out the decision of the German Federal Government that it will not undertake another mission to bring back German tourists stranded abroad. We would also like to point out that it is in each applicant’s responsibility to comply with the entry regulations of their respective travel destination.  
-  3. Business travel to countries for which the Federal Government has issued a COVID-19 travel warning will not be approved as a rule until 31 August 2020.
-  4. Business travel to countries where a period of quarantine after entering or returning from that country is required is not permitted.
-  5. Business travel regulations of the Düsseldorf University Hospital (UKD) apply for all Faculty of Medicine staff due to the (potential) impact on the health care situation.
-
-The exchange with cooperation partners is to be conducted via other means of
-communication such as telephone, video or web conferences.
+  2. We would like to explicitly point out the decision of the German Federal Government that it will not undertake another mission to bring back German tourists stranded abroad. We would also like to point out that it is in each applicant’s responsibility to comply with the entry regulations of their respective travel destination.
+  3. Business travel to countries where a period of quarantine after entering or returning from that country is required is not permitted.
+  4. Business travel regulations of the Düsseldorf University Hospital (UKD) apply for all Faculty of Medicine staff due to the (potential) impact on the health care situation.
 
 Please check the [Personnel Department’s website](http://Link) for further
 information on business trips (Intranet).
