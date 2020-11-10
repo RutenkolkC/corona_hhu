@@ -1,9 +1,5 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[Posters ‘General hygiene measures’, ‘obligation to wear a
-face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
-COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
+policy.html#content)[How do you recognise the disease?](covid-19-suspected-
 and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
 ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
@@ -12,9 +8,14 @@ with an infected person or a person who is suspected to have contracted
 COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453062)[Important telephone numbers and
 addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Hygiene policy](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453066)[Who is most at risk?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453063)[HHU coronavirus information
+policy.html#c453064)[Hygiene policy/protective measures at
+HHU](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation to wear a
+face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
+COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453058)[Who is most at risk?](covid-19-suspected-and-confirmed-
+cases-hygiene-policy.html#c453063)[HHU coronavirus information
 videos](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453065)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
@@ -266,7 +267,7 @@ coronavirus service hotline for its citizens: 0211-91191001.
 ## [ Hygiene policy/protective measures at HHU ](covid-19-suspected-and-
 confirmed-cases-hygiene-policy.html#)
 
-## Hygiene policy
+## Hygiene policy/protective measures at HHU
 
 [Updated on: 03 November 2020]
 
@@ -276,7 +277,7 @@ topics.
 
 To the downloads:
 
-  * Briefing Safety Measures Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030_ENG.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030_ENG.pdf)] [](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pptx)
+  * Briefing Safety Measures Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)] [](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pptx)
   * Hygiene measures for office work [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Buerobetrieb_2020-10-23_GB.pdf)]
   * Hygiene measures for exam supervisors [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04_GB.pdf)]
   * Briefing Research Work in Laboratories under COVID-19 conditions [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27_GB.pdf)] – as of 27 August 2020
