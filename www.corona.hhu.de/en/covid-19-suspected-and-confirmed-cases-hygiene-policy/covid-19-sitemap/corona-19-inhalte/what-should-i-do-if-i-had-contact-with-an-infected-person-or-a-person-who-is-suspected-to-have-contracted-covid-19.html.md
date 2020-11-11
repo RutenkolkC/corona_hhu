@@ -27,7 +27,7 @@ Willkommen!
     * [on research](../../../research.html)
     * [for employees](../../../for-employees.html)
     * [on university operations](../../../university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](../../../zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](../../../university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -38,7 +38,8 @@ Willkommen!
 
   * [ DE](../../../../zu-covid-19-verdachts-und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-verdachtsfaellen.html)
   * EN
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
@@ -59,7 +60,7 @@ Willkommen!
     * [on research](../../../research.html)
     * [for employees](../../../for-employees.html)
     * [on university operations](../../../university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](../../../zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](../../../university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [HHU](https://www.hhu.de/en/)[HHU information on
