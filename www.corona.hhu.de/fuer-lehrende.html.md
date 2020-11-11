@@ -1,11 +1,11 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+[Zum Inhalt springen](fuer-lehrende.html#content)[Prüfungen](fuer-
+lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
 Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Hilfestellungen für den Lehrbetrieb](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Prüfungen](fuer-lehrende.html#c452909)[Informationen
-für Lehrende](fuer-lehrende.html#c438666)[Das Wichtigste für Lehrende in
-Kürze](fuer-lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
+lehrende.html#c452908)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452912)[Informationen für Lehrende](fuer-
+lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
+lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
 Lehrende in Kürze](fuer-lehrende.html#c438667)
 
@@ -46,7 +46,8 @@ Willkommen!
 
   * DE
   * [EN](en/for-lecturers.html)
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
@@ -88,16 +89,15 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 ## Das Wichtigste für Lehrende in Kürze
 
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
-  * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
-  * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * Bitte beachten Sie die [ Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 03.11.2020).
+  * Bitte beachten Sie die Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
   * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
+  * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Details finden Sie auf der Corona-Webseite für Studierende unter der Überschrift „Lernräume auf dem Campus“.
   * Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite](https://www.elearning.hhu.de) der HHU.  
   
-Letzte Aktualisierungen: 04.11.2020: Das Wichtigste für Lehrende in Kürze;
-Lehr- und Studienbetrieb; 02.11.2020: Termine; Hilfestellungen für den Lehr-
-und Studienbetrieb.
+Letzte Aktualisierungen: 10.11.2020: Das Wichtigste für Lehrende in Kürze;
+Lehr- und Studienbetrieb; Rückverfolgbarkeit, Hilfestellungen für die digitale
+Lehre; 04.11.2020: Lehr- und Studienbetrieb.
 
 ## Lehrende
 
@@ -148,24 +148,12 @@ und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
 beschlossen und geben den Rahmen für die Durchführung von
 Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
 
-  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 03.11.2020).
+  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf) (Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
 dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
 angepasst. Auf dieser Webseite finden Sie regelmäßig die aktuelle Version des
 Dokuments.
-
-In allen Präsenzveranstaltungen (Lehrveranstaltungen, Sprechstunden, Prüfungen
-etc.) ist die durch die Coronaschutzverordnung vorgeschriebene
-Rückverfolgbarkeit von Infektionsketten sicherzustellen. Die Daten für die
-Rückverfolgbarkeit können mit [ diesem
-Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
-erhoben werden. Die dazugehörigen [ Datenschutzhinweise finden Sie
-hier](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf).
-Für die besondere Rückverfolgbarkeit muss zusätzlich ein Sitzplan erstellt
-werden, um nachvollziehen zu können, wer neben wem gesessen hat.
-Verantwortlich für die Erhebung der Daten zur Rückverfolgbarkeit sind Sie als
-Lehrende/r.
 
 #### Online-Lehre
 
@@ -186,6 +174,36 @@ mit dem Dozierenden und den Kommilitonen zu ermöglichen. Davon unabhängig legt
 die HHU den Dozierenden nahe, sämtliche (Live-)Formate für die Studierenden
 zusätzlich aufzuzeichnen und ihnen flexibel bereitzustellen (z. B. über die
 HHU-Mediathek).
+
+**Rückverfolgbarkeit**
+
+Nach der derzeit geltenden Coronaschutzverordnung des Landes NRW und der für
+den Lehrbetrieb geltenden Allgemeinverfügung sind in allen Lehr- und
+Praxisveranstaltungen mit physischer Präsenz personenbezogene Daten zu
+erheben, um im Falle einer Infektion mögliche Infektionsketten nachverfolgen
+zu können. Dies betrifft die Durchführung von Lehrveranstaltungen, Prüfungen,
+Klausureinsichten, Informationsveranstaltungen, Sprechstunden, Nutzung der
+Lernräume etc. mit physischer Präsenz. In den Verfahrensweisen für
+Präsenzveranstaltungen, die Sie auf der [ Seite zum
+Hygienekonzept](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-
+_und_Infektionsfaellen_2020-10-06.pdf) herunterladen können, finden Sie
+Hinweise zur einfachen und besonderen Rückverfolgbarkeit sowie zu der Frage,
+wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist. Bitte
+beachten Sie, dass die Erhebung dieser Daten ausschließlich dem Zwecke der
+Nachverfolgung dient und die Daten auch nur auf Verlangen dem zuständigen
+Gesundheitsamt vorzulegen sind. Die Lehrenden sind demnach verpflichtet, die
+Daten zu erheben, sie geschützt und vor dem Zugriff unbefugter Dritter
+gesichert aufzubewahren und nach Ablauf von 4 Wochen datenschutzkonform zu
+vernichten.
+
+Für die Erhebung der Daten können Sie [ diesen Vordruck
+nutzen.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+
+Die dazugehörigen Datenschutzhinweise finden Sie hier in [
+](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)[deutscher](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
+und in [
+englischer](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf)
+Sprache.
 
 ## [ Prüfungen ](fuer-lehrende.html#)
 
@@ -253,28 +271,33 @@ haben wir Leitfälen erstellt:
 
 ## [ Hilfestellungen für den digitalen Lehrbetrieb ](fuer-lehrende.html#)
 
-## Hilfestellungen für den Lehrbetrieb
+## Hilfestellungen für die digitale Lehre
 
-[Update: 02.11.2020]
+[Update: 10.11.2020]
 
 Im Wintersemester 2020/2021 ist Präsenzlehre nur eingeschränkt möglich. Daher
 haben wir Ihnen auf dieser Seite einige konkrete Informationsangebote
 zusammengestellt, die Ihnen Anregungen für Ihre Onlinelehre geben können.
 
-Einen ersten Überblick erhalten Sie auf der [zentralen E-Learning-
-Webseite](https://www.elearning.hhu.de/) der HHU. Hier finden Sie
-Informationen und Anleitungen zu den zentralen E-Learning-Tools, zu
-Ansprechpersonen, Service-Angeboten sowie weiteren hilfreichen Links rund um
-die digitale Lehre an der HHU.
+Einen gebündelten Überblick zum E-Learning erhalten Sie auf der [zentralen
+E-Learning-Webseite](https://www.elearning.hhu.de/). Hier finden Sie
+Informationen und Anleitungen zu den
 
-Generelle Anregungen und didaktische Hilfestellung für die Gestaltung
-digitaler Lehre finden Sie zudem [in diesem
-Leitfaden](https://www.philo.hhu.de/studium-und-lehre/lehre/digitalisierung-
-der-lehre-an-der-philosophischen-fakultaet-sommersemester-2020.html), in der
-[Lernplattform
-ILIAS](https://ilias.hhu.de/ilias/login.php?target=wiki_wpage_8149_615900&cmd=force_login&lang=de)
-(Log-in mit Uni-Kennung) oder in diesem [Leitfaden zu barrierearmer, digitaler
-Lehre](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Onlinelehre_barrierearm_gestalten_20200505.pdf).
+  * zentralen E-Learning-Tools,
+  * zum Lernmanagementsystem ILIAS,
+  * zu Ansprechpersonen,
+  * Service-Angeboten,
+  * zur Projektförderung für digitale Lehre,
+  * zum Lehrpreis für digitale Lehre,
+  * zu Videotutorials
+
+sowie weiteren hilfreichen Links rund um die digitale Lehre an der HHU.
+
+Generelle Anregungen für die Gestaltung barrierearmer digitaler Lehr- und
+Prüfungsformate  finden Sie [ in diesem
+Leitfaden.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Onlinelehre_barrierearm_gestalten_20200505.pdf)
+
+**E-Learning-Sprechstunde**
 
 Eine wöchentliche Sprechstunde zur digitalen Lehre gibt es im
 [Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde) der
@@ -288,8 +311,11 @@ In allen Hörsälen der HHU stehen Mikrofonanlagen zur Verfügung bzw. werden
 derzeit installiert, die es erlauben, das gesprochene Wort mit dem eigenen
 Rechner aufzuzeichnen und zu streamen und als Screencast in die im Hörsaal
 gezeigte Präsentation einzubinden. Über die LAN-Anschlüsse in den Hörsälen
-soll es möglich sein, die Präsenz-Lehrveranstaltung live zu streamen. Im
-Hörsaal produzierte Screencasts können anschließend z.B. über die HHU-
+soll es möglich sein, die Präsenz-Lehrveranstaltung live zu streamen.
+Detaillierte Informationen finden Sie
+[hier.](https://wiki.hhu.de/pages/viewpage.action?pageld=218072271\])
+
+Im Hörsaal produzierte Screencasts können anschließend z.B. über die HHU-
 Mediathek zur Verfügung gestellt werden. In einigen Hörsälen werden als
 Pilotprojekt Rekorder installiert, die die Aufzeichnung von Präsentation und
 Ton erleichtern. An diese Rekorder können auch Kameras angeschlossen werden.
@@ -299,22 +325,23 @@ diesen Geräten selbst aneignen.
 Um Vorlesungen live zu streamen und/oder als Screencast-Videos zum Abruf
 bereit zu stellen, können außerhalb des Hörsaals  z. B. externe
 Webkonferenztools wie Cisco Webex genutzt werden. Die Nutzung dieser externen
-Systeme geht ohne eine Belastung der HHU-Netzwerkinfrastruktur einher.
-
-Vorlesungsaufzeichnungen im Hörsaal mit technischer Unterstützung durch das
-ZIM oder das MMZ können im Rahmen der vorhandenen technischen und personellen
-Ressourcen nur punktuell durchgeführt werden.
-
-Die Bereitstellung aller digitalisierter Vorlesungen kann über die HHU-
-Mediathek erfolgen. Die Videos können anschließend in die Lernplattformen wie
-ILIAS eingebunden werden.
+Systeme geht ohne eine Belastung der HHU-Netzwerkinfrastruktur einher. Die
+Bereitstellung aller digitalisierter Vorlesungen kann über die HHU-Mediathek
+erfolgen. Die Videos können anschließend in die Lernplattformen wie ILIAS
+eingebunden werden.
 
 Generell sind bei dem Live-Streamen und beim Aufzeichnen von
 Lehrveranstaltungen die Urheberrechte in der Lehre, der Datenschutz und die
 Persönlichkeitsrechte der Teilnehmenden zu beachten. Hinweise finden sich z.B.
-auf den [Webseiten des Justitiariats](https://www.mitarbeiter.hhu.de/zuv-
-zentrale-universitaetsverwaltung/stabsstelle-justitiariat/informationen-zum-
-urheberrecht.html).
+auf den [Webseiten des Justitiariat](https://www.hhu.de/die-hhu/organisation-
+und-gremien/die-zentrale-universitaetsverwaltung-zuv/stabsstellen-der-
+hhu/stabsstelle-justitiariat/informationen-zum-urheberrecht-
+intern)[s](https://www.hhu.de/die-hhu/organisation-und-gremien/die-zentrale-
+universitaetsverwaltung-zuv/stabsstellen-der-hhu/stabsstelle-
+justitiariat/datenschutzauskunfts-und-beschwerdestelle) sowie auf der
+[Webseite der Stabsstelle Datenschutz.](https://www.hhu.de/die-
+hhu/organisation-und-gremien/die-zentrale-universitaetsverwaltung-
+zuv/stabsstellen-der-hhu/stabsstelle-datenschutz)
 
 #### Lernplattform ILIAS
 
@@ -325,27 +352,7 @@ Performance von ILIAS stark beeinträchtigt wird. Vorlesungsaufzeichnungen
 sollten stattdessen in der HHU-Mediathek bereitgestellt und in ILIAS verlinkt
 werden.
 
-Das ZIM optimiert und stabilisiert mit Unterstützung eines spezialisierten
-Dienstleisters derzeit die Lernplattform ILIAS. Um im Wintersemester dennoch
-eine Überlastung von ILIAS durch eine zu hohe Zahl gleichzeitiger Zugriffe zu
-vermeiden, werden die Dozierenden gebeten, Materialien frühzeitig zur
-Verfügung zu stellen und dies auch an die Studierenden zu kommunizieren. Dabei
-sollte beachtet werden, dass insbesondere montags die Zugriffszahlen auf ILIAS
-hoch sind und es dadurch zu einer verlangsamten Reaktionszeit des Systems
-kommt. Es wird dringend darum gebeten, den Download von Materialien durch die
-Studierenden gestreckt über einen Zeitraum zu ermöglichen.
 
-#### Urheberrecht
-
-  * Im [Wegweiser für Digitales Lehren und Lernen](https://ilias.hhu.de/ilias/ilias.php?ref_id=702464&cmdClass=ilrepositorygui&cmdNode=6k&baseClass=ilRepositoryGUI) in ILIAS finden Sie die rechtlichen Hintergründe, Tipps und Anschauungsmaterial (Login mit Uni-Kennung).
-  * [Informationen und Materialien](https://www.mitarbeiter.hhu.de/zuv-zentrale-universitaetsverwaltung/stabsstelle-justitiariat/informationen-zum-urheberrecht.html) des Justitiariats der HHU zu in Lehrveranstaltungen geltenden rechtlichen Aspekten des Urheber- und Persönlichkeitsrechts.
-  * [Urheberrecht in der Wissenschaft](https://www.bmbf.de/upload_filestore/pub/Handreichung_UrhWissG.pdf).
-
-#### Digitalisierungshilfskräfte
-
-Die vom Rektorat geförderten Digitialisierungshilfskräfte können sich
-[hier](https://www.iqu.hhu.de/qualifizierung-fuer-
-digitalisierungshilfskraefte.html) für die angebotene Qualifizierung anmelden.
 
 ## [ Raumbuchungen ](fuer-lehrende.html#)
 
