@@ -48,7 +48,8 @@ Willkommen!
 
   * DE
   * [EN](en/research.html)
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)

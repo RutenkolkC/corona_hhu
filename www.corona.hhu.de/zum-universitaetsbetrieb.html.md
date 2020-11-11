@@ -1,10 +1,10 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb.html#content)[Gebäudeschließungen](zum-
+universitaetsbetrieb.html#content)[Gremienarbeit](zum-
+universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
+universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
 universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
 universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
-universitaetsbetrieb.html#c453006) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -49,7 +49,8 @@ Willkommen!
 
   * DE
   * [EN](en/university-operations.html)
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
@@ -105,7 +106,7 @@ und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 
 [ Zum
 Handlungsleitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
-Gremien_Stand_2020-11-05.pdf) (Pdf-Download)
+Gremien_Stand_2020-11-05.pdf) (PDF-Download)
 
 ## [ Veranstaltungen ](zum-universitaetsbetrieb.html#)
 
