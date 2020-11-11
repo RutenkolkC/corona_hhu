@@ -1,15 +1,14 @@
-[Jump to content](university-operations.html#content)[Closure of
-buildings](university-operations.html#c453007)[Video conferences and online
-teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Committee work](university-
-operations.html#c453005)[Events, conferences, workshops](university-
-operations.html#c453006)[[Translate to English:] (Kopie 3)](university-
-operations.html#c452578)[Information on University operations](university-
-operations.html#c438674)[Main points for university operations in
-brief](university-operations.html#c438676)[University operations](university-
-operations.html#c453016)[Still have questions?](university-
-operations.html#c439220)[Main points for university operations in
-brief](university-operations.html#c438675)
+[Jump to content](university-operations.html#content)[Video conferences and
+online teaching](university-operations.html#c453008)[Warning: Hackers exploit
+fear of coronavirus!](university-operations.html#c453009)[Committee
+work](university-operations.html#c453005)[Events, conferences,
+workshops](university-operations.html#c453006)[Closure of
+buildings](university-operations.html#c453007)[Information on University
+operations](university-operations.html#c438674)[Main points for university
+operations in brief](university-operations.html#c438676)[University
+operations](university-operations.html#c453016)[Still have
+questions?](university-operations.html#c439220)[Main points for university
+operations in brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
@@ -37,7 +36,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -70,7 +69,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -98,16 +97,14 @@ brief.
 
 ## Committee work
 
-[Updated on: 31 July 2020]
+[Updated on: 10 November 2020]
 
 Guidelines for conducting internal university committee meetings (e.g. faculty
 councils, boards, appointment committees, et.al.) and for elections during the
 time of limited operations at HHU.
 
-[To the guidelines (link on sub-
-page)](https://www.corona.hhu.de/en/university-operations/information-of-
-university-operation-sitemap/information-of-university-operation-
-topics/committee-work/committee-work/guidelines-for-committee-work.html)  
+[ To the guidelines (PDF
+Download)](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handlungsleitfaden_Stand_November2020_eng.pdf)  
 
 
 ## [ Events, conferences, workshops ](university-operations.html#)

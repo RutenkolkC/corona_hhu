@@ -1,7 +1,8 @@
-[Jump to content](standard-titel.html#content)
+[Jump to content](standard-titel.html#content)[Guidelines for committee
+work](standard-titel.html#c475517)
 
   * [DE](../../zum-universitaetsbetrieb/standard-titel.html)
-  * [EN](standard-titel.html)
+  * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
 
@@ -26,7 +27,7 @@ Willkommen!
     * [on research](../research.html)
     * [for employees](../for-employees.html)
     * [on university operations](../university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](standard-titel.html)
+      * [Guidelines for committee work](../university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -36,7 +37,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * [DE](../../zum-universitaetsbetrieb/standard-titel.html)
-  * [EN](standard-titel.html)
+  * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
 
@@ -59,249 +60,248 @@ Willkommen!
     * [on research](../research.html)
     * [for employees](../for-employees.html)
     * [on university operations](../university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](standard-titel.html)
+      * [Guidelines for committee work](../university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
 [HHU](https://www.hhu.de/en/)[HHU information on
 coronavirus](../index.html)[on university operations](../university-
-operations.html) **Handlungsleitfaden Gremienarbeit**
+operations.html) **Guidelines for committee work**
 
-# Handlungsleitfaden Gremienarbeit
+# Guidelines for committee work
 
-[Update: 31.07.2020]
+[Updated on: 05 November 2020]
 
-#### I. Durchführung von Gremiensitzungen
+#### I. Holding committee meetings
 
-Die Durchführung von Gremiensitzungen ist auf der Grundlage des
-Hochschulgesetzes NRW und der **aktuellsten Fassungen** der
-Coronaschutzverordnung, der Corona-Epidemie-Hochschulverordnung sowie der
-Allgemeinverfügung des Ministeriums für Arbeit, Gesundheit und Soziales wie
-folgt möglich:
+On the basis of the Higher Education Act NRW and the **latest versions** of
+the   Corona Epidemic Ordinance, the Corona Epicemic Higher Education
+Ordinance and the General Decree of the Ministry of Labour, Health and Social
+Affairs) committee meetings are permitted again if the following is observed:
 
-#### 1\. Präsenzsitzungen, d.h. in physischer Anwesenheit der Mitglieder
+#### 1\. On-site meetings, i.e. members are physically present
 
-Sitzungen der rechtlich vorgesehenen universitären Gremien, d.h. alle
-öffentlichen (z.B. Fakultätsrat) und nicht-öffentlichen Sitzungen sind als
-Sitzungen in persönlicher Anwesenheit zulässig.
+Meetings of legally stipulated committees, i.e. all public (e.g. faculty
+council) and non-public meetings remain permissible as meetings in personal
+attendance if they cannot be held via telephone or video conference.
 
-Auch die Durchführung dienstlicher interner Besprechungen ist in persönlicher
-Anwesenheit zulässig, da diese der Aufrechterhaltung der öffentlichen
-Sicherheit und Ordnung dienen.
+Having official internal meetings in which the participants are present in
+person is also permissible because they contribute to maintaining public
+safety and order.   
 
-Die Einhaltung der infektionsschutzrechtlichen Bestimmungen  – geeignete
-Vorkehrungen zur Hygiene und Gewährleistung des Mindestabstands von 1,5 m –
-bei diesen Präsenzsitzungen ist nunmehr **nicht mehr zwingend erforderlich** ,
-wird aber dennoch empohlen. Sollte der Mindestabstand von 1,5 m bei den
-Präsenzsitzungen nicht eingehalten werden können, so sollen die
-Teilnehmerinnen und Teilnehmer auf festen Plätzen sitzen und es soll ein
-Sitzplan erstellt werden.
+However, the following must be observed:
 
-**B** ei allen Veranstaltungen und Versammlungen, d.h. auch bei
-Gremiensitzungen, muss die **Rückverfolgbarkeit** aller anwesenden Personen
-sichergestellt werden muss (vgl. § 2a Coronaschutzverordnung in der ab 15.
-Juni 2020 gültigen Fassung). Dies muss mit dem Einverständnis der jeweiligen
-Person durch Aufnahme von Name, Adresse und Telefonnummer erfolgen. Die
-erhobenen Daten sind vor dem Zugriff Unbefugter zu sichern und nach Ablauf von
-4 Wochen zu löschen. Die Erfassung von Adresse und Telefonnummer ist nicht
-erforderlich, wenn diese Daten für die/den Verantwortlichen bereits verfügbar
-sind. Auf Verlangen sind die Daten der zuständigen Behörde zur Verfügung zu
-stellen.
+  * As a rule, no more than 20 persons may attend a committee meeting. Also, the specifications defined by the Task Force must be followed, namely that in all HHU seminar and conference rooms the minimum space available for each person present of 8 m2 must be guaranteed.   
+  * A meeting with more than 20 participants may only take place if there are compelling reasons why it has to take place in November 2020, why it has to take place on-campus and why the intended number of participants is required. The permit for such a meeting must be requested by the responsible regulatory authorities and the meeting must be approved by them before it can take place.   
 
-#### 2\. Sitzungen in elektronischer Form, d.h. per Video- oder
-Telefonkonferenz
+The observation of all regulations regarding infection protection – adequate
+provisions regarding hygiene and a minimum distance of 1.5 metres – must be
+guaranteed as a rule in this type of meeting and wearing a textile face
+covering, in particular, is mandatory. The minimum distance between persons of
+1.5m may only be disregarded when the size of the room does not allow for the
+seats to be arranged otherwise. Adequate ventilation of the room/regular
+airing of the room must be guaranteed. 
 
-Gemäß § 5 Abs. 2 S. 1, 1. HS. der Corona-Epidemie-Hochschulverordnung können
-Sitzungen der Gremien der Hochschule auch in elektronischer Kommunikation,
-d.h. per Telefon- oder Videokonferenz stattfinden. Ebenso können Beschlüsse
-auf diesem Wege gefasst werden.
+For all events and assemblies, i.e. also for committee meetings, a **record of
+every person present** must be kept. As a rule, ‘basic traceability’ is
+sufficient . For this, each person must agree to have their name, address and
+telephone number registered when attending such a meeting – in the case of
+persons who are not regular attendees, such as guests, the time and length of
+their stay must be noted down as well. This data must be secured from
+unauthorized access and be deleted after four weeks. If the relevant data is
+already available to the organisers, addresses and telephone number of the
+participants do not have to be registered again. Upon request, the data must
+be made accessible to the responsible authorities.
 
-Aus Gründen des Datenschutzes und der Zuverlässigkeit sollte möglichst nicht
-_Skype_ benutzt werden, sondern z.B. die Software CISCO Webex-Meetings.
-Näheres zu den von der HHU angebotenen Systemen für Videokonferenzen [finden
-Sie hier](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366). Nach
-derzeitigem Stand sind die technischen Voraussetzungen für eine geheime
-Abstimmung in Videokonferenzen an der HHU noch nicht gegeben.
+A particular traceability must be ensured when in a committee meeting the
+minimum distance between cannot, as previously approved by the responsible
+authority, be maintained. This is particular traceability is ensured when the
+person responsible, in addition to collecting the above mentioned data, makes
+a plan which shows clearly which participant sat in which seat. This seating
+plan must also be kept for four weeks.
 
-Auch **öffentliche Sitzungen** , wie z.B. Fakultätsratssitzungen, Senat etc.,
-können demnach auf elektronischem Wege durchgeführt werden. Allerdings muss
-sichergestellt werden, dass die Öffentlichkeit Zugang zu den Sitzungen erhält.
-Hierfür ist Folgendes notwendig:
+#### 2\. Meetings in electronic form, i.e. via video or telephone conference
 
-  * Benennung einer/eines Verantwortlichen für die Video- oder Telefonkonferenz und das Zurverfügungstellen von Zugangsdaten und Passwörtern
-  * Hinweis auf den Termin der Sitzung an geeigneter Stelle, z.B. durch Aushänge und einen Hinweis auf der Homepage mit dem Zusatz, dass Interessierte die Zugangsdaten und das Passwort für die Video- oder Telefonkonferenz bei der Verantwortlichen/dem Verantwortlichen erhalten können.
+According to section 5 (2) (1) clause 2 of the Corona Epidemic Higher
+Education Ordinance, meetings of university committees can also take place
+with the help of electronic communication, i.e.  via telephone or video
+conference. Decisions can also be taken in this form. 
 
-In der Corona-Epidemie-Hochschulverordnung ist in § 5 Abs. 6 explizit
-geregelt, dass die Bild- und Tonübertragung der öffentlichen Sitzungen der
-Gremien zulässig ist. Auch hier ist jedoch zu beachten, dass geheime
-Abstimmungen nicht möglich sind.
+  
+For reasons of date protection and service reliability, software other than
+_Skype_ should be used, e.g. CISCO Webex-Meetings. [For more information on
+video conference systems provided by HHU see
+here](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366). As the time
+being, the technical requirements for secret voting at HHU are not yet in
+place. 
 
-#### 3\. Durchführung von Sitzungen in einer Mischform
+**Public meetings** , such as faculty council meetings, senate meetings etc.,
+can also take place electronically provided the public’s access to these
+meetings is ensured. In this context, the following must be observed: 
 
-§ 5 Abs. 5 S. 1 Nr. 3 der Corona-Epidemie-Hochschulverordnung sieht explizit
-die Zulässigkeit von Gremiensitzungen vor, die in einer Mischung aus einer
-physischen Anwesenheit und aus einer elektronischen Anwesenheit durchgeführt
-werden.
+• Appointment of a person responsible for the video or telephone conference
+and the provision of login details and passwords
 
-Ebenso ist eine Beschlussfassung in einer solchen Mischform zulässig, d.h. im
-Rahmen solcher „gemischten Sitzungen“ können auch Beschlüsse in entsprechender
-gemischter Kommunikation gefasst werden.
+• Information about the date of the meeting in appropriate locations, e.g. via
+announcements on campus and a notice on the homepage pointing out that
+interested parties can obtain the necessary access data and the password from
+the person in charge.
 
-**Wichtig:** **Die Entscheidung darüber, in welcher der o.g. Form die
-Gremiensitzung stattfindet, wird von der oder dem Vorsitzenden des Gremiums
-getroffen. Bei der Entscheidung muss die oder der Vorsitzende angemessen die
-auf eine Infektionsvermeidung bezogenen schutzwürdigen Interessen der
-Gremienmitglieder berücksichtigen.**
+The Corona Epidemic Higher Education Ordinance, section 5 (3), explicitly
+states that video and audio transmissions of the public committee sessions are
+admissible. However, please note that secret ballots are not possible. 
 
-**Ferner obliegt der oder dem Vorsitzenden auch die Entscheidung darüber, ob
-Beschlüsse im Umlaufverfahren (vgl. unten), in elektronischer Kommunikation
-oder in Mischformen der Kommunikation von physisch und elektronisch Anwesenden
-gefasst werden.**
+#### 3\. Having meetings in a mixed form
 
-#### II. Beschlussfassung im Umlaufverfahren
+Section 5 (1) no.3 of the Corona Epidemic Higher Education Ordinance
+explicitly permits committee sessions which take place in a mix of physical
+presence and electronic attendance. 
 
-Es kann gemäß § 5 Abs. 2, S. 1, 2. HS. der Corona-Epidemie-Hochschulverordnung
-auf eine Beschlussfassung im **schriftlichen Umlaufverfahren** zurückgegriffen
-werden. Dies kann durch Versand der betreffenden Entscheidungsvorlage per
-E-Mail durch die oder den Vorsitzenden des Gremiums und durch Rückübermittlung
-des Votums ebenfalls per E-Mail erfolgen. Im schriftlichen
-Abstimmungsverfahren ist es besonders wichtig, dass der zu entscheidende
-Sachverhalt in der Entscheidungsvorlage in den für die Entscheidung
-wesentlichen Aspekten ausreichend dargestellt und mit einem konkreten
-Beschlussvorschlag versehen wird. Mit der Entscheidungsvorlage können auch
-entscheidungsrelevante Dokumente per E-Mail versandt werden.
+Passing resolutions in such a mixed form is also permissible, i.e. during such
+‚mixed meetings‘ resolutions can be passed in a correspondingly mixed form.  
 
-Im Hinblick auf die Beschlüsse von Senat und Fakultätsrat, deren Sitzungen
-nach dem Hochschulgesetz öffentlich sind, muss gemäß § 5 Abs. 2 S. 2 der
-Corona-Epidemie-Hochschulverordnung sichergestellt werden, dass die
-Öffentlichkeit durch geeignete Maßnahmen über die im Umlaufverfahren gefassten
-Beschlüsse informiert wird. Dies kann z.B. durch Veröffentlichung der
-Beschlüsse auf der Homepage des entsprechenden Gremiums erfolgen.
+**Important:** **The decision as to which of the above mentioned form the
+meeting should be held in is taken by the committee’s chairperson. In his or
+her decision, the chairperson must take into account the legitimate interests
+of the committee members in terms of infection protection.**
 
-#### III. Beschlussfähigkeit von Gremien
+**The chairperson must also decide whether decisions are taken via circulation
+procedure (see below), via electronic communication or in mixed forms of
+communication of physical presence and electronic attendance.  **
 
-Hinsichtlich der Beschlussfähigkeit von Gremien ist gemäß § 5 Abs. 3 der
-Corona-Epidemie-Hochschulverordnung vorgesehen, dass grundsätzlich die
-Beschlussfähigkeit auch dann gegeben ist, wenn die Sitzung ordnungsgemäß
-einberufen wurde und die in elektronischer Kommunikation anwesenden oder nach
-Maßgabe der infektionsschutzrechtlichen Bestimmungen zulässigerweise physisch
-anwesenden Mitglieder weniger als die Hälfte der Stimmen des Gremiums auf sich
-vereinen.
+#### II. Decision-making via written circulation procedure
 
-Dies gilt jedoch nur unter der **einschränkenden Voraussetzung** , dass die
-anwesenden Mitglieder des Gremiums – ob in elektronischer Form oder in
-persönlicher Anwesenheit – mindestens ein Viertel der Stimmen des Gremiums auf
-sich vereinen; anders wäre es nur, wenn Ordnungen der Hochschule abweichende
-Regelungen enthalten würden.
+According to section 5 (2) (1) clause 2 of the Corona Epidemic Higher
+Educataion Ordinance, decisions can be taken via **written circulation
+procedure**. The committee’s chairperson can send the respective draft
+decision memo to the committee members by e-mail who will then return their
+vote to him or her also by e-mail. For the written voting procedure it is
+particularly important that in the draft decision the issue to be decided on
+is sufficiently presented in all aspects that are essential for a decision.
+Documents relevant for the decision can be sent together with the draft
+decision by e-mail.
 
-Das bedeutet, dass die Corona-Epidemie-Hochschulverordnung – vorbehaltlich
-anderer Regelungen der Hochschule – ein **Mindestanwesenheitsquorum von einem
-Viertel der Stimmen** der in elektronischer Kommunikation oder physisch
-anwesender Mitglieder vorsieht.
+Regarding the decisions of the senate and the faculty council, whose meetings
+are public under the Higher Education Act (Hochschulgesetz), and according to
+section 5 (2) (2) of the Corona Epidemic Higher Education Ordinance, it must
+be ensured that the public is informed about the decisions taken in the
+circulation procedure via appropriate means, e.g. publishing the decisions on
+the respective committee’s homepage. 
 
-#### IV. Eilentscheidung der oder der Vorsitzenden des Gremiums
+#### III. Presence of a quorum
 
-Schließlich lässt das Hochschulgesetz in jedem Fall darüber hinaus gemäß § 12
-Abs. 4 S. 2 eine sog. **Eilentscheidung der oder des Vorsitzenden des
-Gremiums** in unaufschiebbaren Angelegenheiten, in denen ein Beschluss des an
-sich zuständigen Gremiums nicht rechtzeitig herbeigeführt werden kann, zu. Im
-Vorfeld eines solchen Beschlusses besteht selbstverständlich für die
-Vorsitzende oder den Vorsitzenden des Gremiums die Möglichkeit, sich mit Hilfe
-von E-Mail, Telefon- oder Videokonferenz ein Stimmungsbild über den zu
-beschließenden Sachverhalt einzuholen. Jedoch sollte von dieser Möglichkeit
-nur sehr restriktiv Gebrauch gemacht werden und darauf geachtet werden, dass
-bei einer möglichen vorherigen Abfrage tatsächlich alle Mitglieder des
-Gremiums einbezogen werden, damit die Entscheidung nicht angreifbar ist. 
+Regarding the quorum of committees, section 5 (3) of the Corona Epidemic
+Higher Education Ordinance stipulates that in principle a quorum is also
+present when the meeting was duly called and when the turnout of the members
+present, who either participate via electronic means or who are physically
+present while observing all relevant regulations for infection prevention, is
+less than half of the total vote of the committee.
 
-**Wichtig:** Unabhängig vom Format der Sitzungsdurchführung ist möglichst bald
-im Anschluss an die Sitzung – wie zuvor auch bereits notwendig - ein
-Ergebnisprotokoll mit allen gefassten Beschlüssen zu erstellen.
+However, this applies only under the **restricting condition** that the
+turnout of the committee members present – either electronically or in person
+– is at least one quarter of the committees’ votes; this might differ in cases
+in which the University regulations provide for different solutions. 
 
-#### V. Sonderfälle
+This means that the Corona Epidemic Higher Education Ordinance – except in
+cases where the University regulations differ – stipulate a **minimal
+attendance of a quarter of the votes** of the members participating in the
+meeting, either via electronic means or in person. 
 
-#### 1\. Sonderfall: Geheime Abstimmungen, insb. Entscheidungen über
-Personalangelegenheiten
+#### 4\. Express decisions of the committee’s chairperson  
 
-Da jedoch nunmehr die Durchführung von Sitzungen in persönlicher Anwesenheit
-wieder erlaubt ist (vgl. oben), können auch Beratungen in
-Personalangelegenheiten, die nach der Grundordnung der HHU geheim erfolgen
-müssen, im Rahmen dieser Sitzungen wieder erfolgen.
+Finally, the Higher Education Act, in accordance with section 12 (4) (2),
+allows for an **express decision of the committees’ chairperson** in matters
+that cannot be postponed, i.e. in cases where a decision of the responsible
+committee cannot be made in time. Prior to such an express decision, the
+committee’s chairperson of course has the right to obtain an impression of the
+committee members’ opinions via e-mail, telephone or video conference.
+However, the chairperson should only make use of this possibility only very
+restrictively and make sure that every single committee member is in fact
+contacted in the event of such a pre-decision inquiry in order to ensure that
+the decision cannot be contested.   
+  
+**Important** : Irrespective of the meeting’s format, all decisions must be
+recorded in **decision minutes** as soon as possible after the end of the
+meeting. 
 
-Sollten im Rahmen von Sitzungen ohne physische Präsenz Personalangelegenheiten
-entschieden werden müssen, weise ich darauf hin, dass nach jetzigem Stand der
-Technik die Umsetzung der Vorschrift der geheimen Abstimmung in einer
-Videokonferenz an der HHU nicht umsetzbar ist.
+#### V. Special cases
 
-Jedoch können Entscheidungen über Personalangelegenheiten – sollten Sitzungen
-mit persönlicher Anwesenheit der Mitglieder z.B. aufgrund fehlender
-Möglichkeit, die empfohlenen Hygiene- und Abstandsregelungen einzuhalten,
-nicht gewollt sein – in einem **schriftlichen Umlaufverfahren** , analog einer
-Briefwahl, erfolgen. Hierzu sendet die oder der Vorsitzende des Gremiums den
-stimmberechtigten Mitgliedern eine Entscheidungsvorlage zu, die die üblichen
-Angaben über den zu entscheidenden Sachverhalt sowie Markierungen für die
-jeweils bestehenden Abstimmungsoptionen enthält. Das kann per E-Mail erfolgen.
-Die zur Stimmabgabe berechtigten Mitglieder des Gremiums senden die
-Entscheidungsvorlage mit der Markierung ihres Votums in einem neutralen, zuvor
-nicht beschrifteten und verschlossenen Umschlag zurück. Daneben müssen die
-stimmberechtigten Mitglieder des Gremiums in einem weiteren Umschlag eine
-schriftliche Erklärung übersenden, dass sie oder er an der schriftlichen
-Abstimmung teilgenommen hat; auf dieser Erklärung oder dem Umschlag muss zudem
-der Name der Absenderin/des Absenders erkennbar sein. Ein Muster für eine
-entsprechende Erklärung ist als pdf.-Dokument abrufbar. Für die Zeit vom
-Versand der Unterlagen bis zur Rückmeldung ist eine angemessene Frist zu
-setzen, längstens jedoch zwei Wochen.
+#### 1\. Special case: Secret ballot, in particular decisions on personnel
+matters
 
-Die oder der Vorsitzende des Gremiums öffnet die eingegangenen Briefe in
-Anwesenheit mindestens einer weiteren Person und nimmt das Abstimmungsergebnis
-zu Protokoll.
+Since the holding of meetings in personal attendance is now permitted again
+(see above), consultations on personnel matters, which according to HHU’s
+constitution must be held in secret, can again be held during these
+meetings.   
 
-Dieses Verfahren kann bei allen geheimen Abstimmungen angewandt werden.
+I would like to point out that in case personnel matters have to be decided on
+during meetings without physical attendance of the members, the technology
+currently available at HHU does not allow for a secret ballot via video
+conference.  
 
-#### 2\. Sonderfall: Berufungen
+However, should meetings in personal attendance of the members not be wished,
+e.g. due to the lack of means to comply with the recommended hygiene and
+distancing regulations, decisions on personnel matters can be taken via
+**written circulation procedure** , analogous to postal vote. For this
+purpose, the committee’s chairperson sends a draft decision containing the
+usual information on the matter to be decided on as well as markings for all
+existing voting options to all members who are eligible to vote. This can be
+done by e-mail. The committee members who are eligible to vote return the
+decision paper with their vote marked in a neutral, previously unlabelled und
+sealed envelope. In addition to that, the committee members who are eligible
+to vote must send a written statement to the chairperson of the committee in
+another envelope confirming that he or she has participated in the written
+vote; the name of the sender must be visible on either the statement or the
+envelope. A template for a corresponding statement is available as a pdf
+document. A reasonable deadline must be set between the dispatch of the
+documents and the response, but it must not exceed two weeks. 
 
-Da die Behandlung von Berufungsverfahren in den Gremien unter Ausschluss der
-Öffentlichkeit stattfindet, vgl. § 32 der Berufungsordnung der HHU, gelten für
-Beratungen und Entscheidungen in Berufungskommissionen die Rahmenbedingungen
-für **nicht-öffentliche Sitzungen; vor diesem Hintergrund sind nunmehr auch
-diese Sitzungen wieder in persönlicher Anwesenheit wieder zulässig (vgl. I.
-Ziff. 1 des Handlungsleitfadens)**. Daneben stehen auch die o.g. alternativen
-Beratungsformen zur Verfügung.
+The committee’s chairperson opens these letters in the presence of at least
+one other person and records the results of the vote.
 
-Der Lehr- und Prüfungsbetrieb an Hochschulen bleibt unter Berücksichtigung der
-Anforderungen des Infektionsschutzgesetzes möglich, so dass grundsätzlich auch
-Probelehrveranstaltungen im Rahmen von Berufungsverfahren stattfinden können.
-Hierbei müssen aber die Vorgaben der Allgemeinverfügung des Ministeriums für
-Arbeit, Gesundheit und Soziales vom 15. Juni 2020 eingehalten werden.
+This procedure may be used for all secret ballots.
 
-Aufgrund der mit Blick auf die aktuell gültigen Regelungen auf digitale
-Formate umgestellten Lehr- und Praxisveranstaltungen ist auch die Durchführung
-von im Auswahlverfahren vorgesehenen **Probevorträgen** mit Diskussion der
-Bewerberinnen und Bewerber im Wege einer Videokonferenz möglich. **Wichtig ist
-jedoch** , dass für alle Bewerber und Bewerberinnen im Rahmen des jeweiligen
-Berufungsverfahrens die gleichen Bedingungen, d.h. identisches Format des
-Probevortrags gelten müssen. Ich darf insoweit auf die Berufungsordnung der
-HHU vom 25. Juli 2007 verweisen.
+#### 2\. Special case: Appointments
 
-#### 3\. Sonderfall: Wahlen  
+Because appointment procedures take place in the committees in camera, compare
+section 32, HHU Appointments Regulation, deliberations and decisions in
+appointment committees are subject to the same framework conditions as
+**committee meetings**.  
 
-Die Durchführung von Wahlen ist grundsätzlich nur in persönlicher Anwesenheit
-der stimmberechtigten Mitglieder des Gremiums möglich. Zudem müssen Wahlen
-geheim durchführbar sein, also durch anonyme Abgabe eines Stimmzettels.
+Teaching activities and examinations at universities remain possible when the
+Infection Protection Act’s requirements are met. This means that in principle
+trial lectures in connection with the appointment procedures can take place.
+However, the specifications in the Ministry of Labour, Health and Social
+Affairs’ general direction, dated 02 June 2020, must be observed.
 
-Da nicht für alle Gremien Briefwahl vorgesehen ist und auch für den Fall, dass
-Briefwahl zwar möglich, aber faktisch wegen der Anzahl der Wahlberechtigten,
-z.B. Gremienwahlen in der Gruppe der Studierenden, nicht realisierbar ist,
-kann es sein, dass Mitglieder von Gremien nicht rechtzeitig zum Ablauf der
-Amtszeit der amtierenden Mitglieder gewählt werden können. Dann sind die
-amtierenden Mitglieder berechtigt, aber auch verpflichtet, ihr Amt
-kommissarisch so lange weiter auszuüben, bis eine Wahl möglich und
-abgeschlossen ist.
+In compliance with the most recent legal provisions, teaching and practical
+activities are now offered in a digital format. This is why **trial
+presentations** with discussions of the job applicants as part of the
+selection process are now also possible via video conference. **It is
+important however** , that all applicants participating in the same
+appointment procedure perform under identical conditions, i.e. the same format
+of the trial presentation. In this context, I would like to refer to HHU’s
+appointment regulations, dated 25 July 2007. 
 
-#### Dokumentvorlage zum Herunterladen
+#### 3\. Special case: elections  
 
-Formularschriftliche Erklärung bei Abstimmungen: [ ausfüllbares PDF-
-Formular](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Formular_Abstimmung_Gremien.pdf)
+In principle, elections can only be held when the committee members who are
+eligible to vote are present in person. Furthermore, it must be possible to
+have a secret ballot, i.e. the ballot paper must be submitted anonymously.
+
+Since the possibility of a postal vote is not provided for in all committees,
+and also in cases where postal voting is possible but is not feasible in
+practice due to the number of eligible voters, e.g. student committee
+elections, it is possible that committee members cannot be elected in time
+before the end of the current incumbents’ tenure. In this case, the current
+incumbents are entitled, but also obliged, to continue to exercise their
+office provisionally until an election is possible and completed. 
+
+#### Templates for download
+
+[ Written declaration for voting (pdf form to be filled
+in)](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Formular_Abstimmung_Gremien.pdf)
 
 Responsible for the content:
 
