@@ -1,13 +1,13 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
-Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Lehr- und
+Studienbetrieb](fuer-studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
+studierende.html#c450974)[Allgemeine Informationen](fuer-
+studierende.html#c450916)[Weitere Informationen](fuer-
 studierende.html#c450983)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450972)[Informationen der Fakultäten](fuer-
+studierende.html#c450979)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -52,7 +52,8 @@ Willkommen!
 
   * DE
   * [EN](en/for-students.html)
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
@@ -97,20 +98,19 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * Bitte beachten Sie die [ Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf) an der HHU (Stand: 21.10.2020).
+  * Bitte beachten Sie die Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
   * Studierende, die neu an der HHU sind, werden aufgefordert, schnellstmöglich ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht. Sollte Ihre Uni-Kennung noch nicht angekommen sein, melden Sie sich bitte  .
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
 
-Letzte Aktualisierungen:  04.11.2020: Das Wichtigste in Kürze für Studierende;
-Allgemine Informationen; 02.11.2020: Termine, Lernräume auf dem Campus,
-Prüfungen, Studienorganisation.
+Letzte Aktualisierungen:  10.11.2020: Das Wichtigste in Kürze; Lernräume auf
+dem Campus; 04.11.2020, Allgemeine Informationen; Lehr- und Studienbetrieb.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
 ## Allgemeine Informationen
 
-[Update: 30.10.2020 + 03.11.2020]
+[Update: 04.11.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
@@ -128,8 +128,8 @@ kontaktfaellen.html) auf der Corona-Webseite.
 
 Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
 Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
-2020/2021](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/20_11_03_Handreichung_Lehre_WS2021_v2.pdf)
-an der HHU (Stand: 03.11.2020).
+2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+an der HHU (Stand: 09.11.2020).
 
 Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren
 und kontaktieren zu können, muss die Rückverfolgbarkeit in allen
@@ -165,7 +165,7 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 04.11.2020]
+[Update: 09.11.2020]
 
 Das Wintersemester 2020/2021 wird an der HHU ein Hybridsemester als
 Kombination aus Präsenz- und Onlinelehre. Es ist wichtig, dass Sie sich
@@ -193,8 +193,8 @@ Verfahrensweisen in der zuletzt gültigen Fassung finden Sie unter:
 
 [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen
 im Wintersemester 2020/2021 an der
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
-(Stand: 21.10.2020).
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+(Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
 dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
@@ -235,24 +235,27 @@ finden Sie unter den jeweiligen Überschriften weiter unten.
 
 #### **Kleine Lernräume**
 
-Ab dem 2. November 2020 werden kleine Lernräume zur individuellen Nutzung auf
-dem Campus der HHU bereitgestellt. Die kleinen Lernräume sind in erster Linie
-für die Teilnahme an der Onlinelehre gedacht, die eine aktive Teilnahme der
-Studierenden erfordern. Aktive Teilnahme heißt beispielweise, dass
-mitdiskutiert werden muss.
+Seit dem 2. November 2020 sind kleine Lernräume zur individuellen Nutzung auf
+dem Campus der HHU bereitgestellt. Die kleinen Lernräume sind ausschließlich
+zur Einzelnutzung und in erster Linie für die Teilnahme an der Onlinelehre
+gedacht, die eine aktive Teilnahme der Studierenden erfordern. Aktive
+Teilnahme heißt beispielweise, dass mitdiskutiert werden muss. Nutzer*innen
+sind verpflichtet, die Regeln einzuhalten. Neben den allgemeinen [
+Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf)
+gehört dazu insbesondere die Verpflichtung, den Raum nur einzeln zu nutzen.
+Eine Nutzung in Gruppen oder für andere Zwecke als die Teilnahme an Online-
+Kursen ist nicht gestattet. Reine Lernplätze stehen in der Bibliothek zur
+Verfügung. Die Einhaltung der Regeln wird durch den Sicherheitsdienst geprüft.
+Sollte sich herausstellen, dass die Räume von Gruppen genutzt werden oder
+anderweitig gegen die geltenden Regeln verstoßen wird, muss das Angebot leider
+wieder eingestellt werden.
 
-Die kleinen Lernräume sind montags bis donnerstags in der Zeit von 10.30 Uhr
-bis 18.00 Uhr geöffnet und jeweils für einen Veranstaltungsslot [über eine
-Webanwendung buchbar](https://www.philo.hhu.de/studium-und-
+Die kleinen Lernräume sind montags bis freitags in der Zeit von 10.30 Uhr bis
+18.00 Uhr geöffnet. Die Räume in Gebäude 23.02 stehen von 8.00 bis 18.00 Uhr
+zur Verfügung. Die kleinen Lernräume sind jeweils für einen Veranstaltungsslot
+[über eine Webanwendung buchbar](https://www.philo.hhu.de/studium-und-
 lehre/studium/allgemeine-informationen/raumbuchungssysteme.html "Buchen").
-
-Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
-Zu den Regeln gehören neben den [allgemeinen
-Verhaltensregeln](https://www.corona.hhu.de/hygienekonzept) insbesondere die
-Verpflichtung, den Raum nur einzeln zu nutzen. Die Einhaltung der Regeln wird
-durch den Sicherheitsdienst überprüft. Sollte sich herausstellen, dass die
-Räume von Gruppen genutzt werden oder anderweitig gegen die geltenden Regeln
-verstoßen wird, muss das Angebot leider wieder eingestellt werden.
+Eine vorherige Platzbuchung ist zwingend erforderlich.
 
 #### **Lernort Hörsaal**
 
@@ -263,10 +266,6 @@ Uhr ein Hörsaal als Lernort zur Verfügung:
   * Dienstag: Ersatzhörsaal Gebäude 16.12
   * Mittwoch: Hörsaal 5D in Gebäude 25.21
   * Donnerstag: Hörsaal 2D in Gebäude 22.01
-
-Bitte beachten Sie, dass die Öffnung mit dem 04. November an einem Mittwoch
-beginnt und damit der Hörsaal in der ersten Woche nur mittwochs und
-donnerstags genutzt werden kann.
 
 In dem Hörsaal können Studierende an Einzelarbeitsplätzen lernen oder der
 Onlinelehre, die eher eine passive bzw. stille Teilnahme erfordert, folgen.
