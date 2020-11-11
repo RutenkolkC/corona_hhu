@@ -1,15 +1,15 @@
-[Jump to content](university-operations.html#content)[Warning: Hackers exploit
-fear of coronavirus!](university-operations.html#c453009)[Committee
-work](university-operations.html#c453005)[Events, conferences,
-workshops](university-operations.html#c453006)[Closure of
+[Jump to content](university-operations.html#content)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
-teaching](university-operations.html#c453008)[[Translate to English:] (Kopie
-3)](university-operations.html#c452578)[Information on University
-operations](university-operations.html#c438674)[Main points for university
-operations in brief](university-operations.html#c438676)[University
-operations](university-operations.html#c453016)[Still have
-questions?](university-operations.html#c439220)[Main points for university
-operations in brief](university-operations.html#c438675)
+teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
+coronavirus!](university-operations.html#c453009)[Committee work](university-
+operations.html#c453005)[Events, conferences, workshops](university-
+operations.html#c453006)[[Translate to English:] (Kopie 3)](university-
+operations.html#c452578)[Information on University operations](university-
+operations.html#c438674)[Main points for university operations in
+brief](university-operations.html#c438676)[University operations](university-
+operations.html#c453016)[Still have questions?](university-
+operations.html#c439220)[Main points for university operations in
+brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
@@ -48,7 +48,8 @@ Willkommen!
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)

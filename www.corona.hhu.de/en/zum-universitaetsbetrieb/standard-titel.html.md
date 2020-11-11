@@ -37,7 +37,8 @@ Willkommen!
 
   * [DE](../../zum-universitaetsbetrieb/standard-titel.html)
   * [EN](standard-titel.html)
-  * [Intranet](https://www.mitarbeiter.hhu.de/)
+  * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
+  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
