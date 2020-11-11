@@ -1,12 +1,13 @@
-[Jump to content](for-students.html#content)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
+[Jump to content](for-students.html#content)[General information](for-
+students.html#c450916)[Further information](for-
+students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for international
 students](for-students.html#c450971)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Information for HHU
-students](for-students.html#c438639)[Main points for students in brief](for-
+central institutions](for-students.html#c450973)[Faculty information](for-
+students.html#c450974)[Information for HHU students](for-
+students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
 students.html#c438637)[Dates & Deadlines](for-students.html#c0)
@@ -37,7 +38,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -70,7 +71,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
+      * [Guidelines for committee work](university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)

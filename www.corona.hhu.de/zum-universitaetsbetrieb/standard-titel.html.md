@@ -2,7 +2,7 @@
 Gremienarbeit](standard-titel.html#c475517)
 
   * DE
-  * EN
+  * [ EN](../en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
@@ -37,7 +37,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * EN
+  * [ EN](../en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
 
