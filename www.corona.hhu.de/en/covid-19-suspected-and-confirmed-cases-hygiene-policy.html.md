@@ -52,6 +52,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
+      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -84,6 +85,7 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
+      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)

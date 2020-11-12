@@ -1,6 +1,6 @@
-[Jump to content](for-lecturers.html#content)[Teaching resources and
-assistance](for-lecturers.html#c452910)[Examinations](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Information
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
 pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
 lecturers.html#c438666)[Main points for lecturers in brief](for-
 lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
@@ -33,7 +33,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -66,7 +65,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -86,15 +84,15 @@ and/or your study programme.
 ## Main points for lecturers in brief
 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
-  * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
-  * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021 [[updated PDF document](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)] (as of: 03 November 2020).
+  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021 [[updated PDF document](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)] (as of: 09 November 2020). Here you will find information about on-campus courses and about what to do in the case of (suspected) infections.
   * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
   * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
+  * From 02 November on, study rooms are available on campus for students. They are intended for those students who are on campus for an on-site course and who wish to take part in an online class before or after the on-campus activity. For more information, check the coronavirus website for students under ‘study rooms on campus’.
 
-Last updated: 04 November 2020: Main points in brief; teaching and studying;
-02 November; assistance for online teaching
+Last updated: 10 November 2020: Main points in brief; teaching and studying;
+traceability; assistance for digital teaching; 02 November; teaching and
+studying
 
 ## Lecturers
 
@@ -148,20 +146,7 @@ HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pr
 
 These organisation specifications will be updated regularly and adapted in
 accordance with the changing threat situation in connection with the Covid-19
-pandemic. You can find the latest version of this document on this website. 
-
-The traceability of all participants in case of infection must be guaranteed
-for all on-campus courses and events (lectures, personal consultations,
-examinations, etc.) as stipulated by the Corona Pandemic Ordinance. To that
-aim, the lecturers will note down the contact details (name, matriculation
-number, telephone number) of all participants in on-campus lectures. They can
-use [ this
-form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
-The corresponding [ data protection information can be downloaded
-here](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
-To be able to trace contact persons more accurately, a seating plan showing
-who sat next to who must be kept. This is the individual lecturer’s
-responsibility.
+pandemic. You can find the latest version of this document on this website. 
 
 #### Online teaching
 
@@ -180,6 +165,34 @@ so that students can directly interact with the lecturers and fellow students.
 Independently of this, HHU suggests that lecturers additionally record all
 (live) formats for the students and provide them to the students in a flexible
 way (e.g. via the HHU media library). 
+
+#### Traceability
+
+In accordance with the Coronavirus Pandemic Ordinance of the State of NRW that
+is currently in place and the general directive applicable to teaching,
+personal data must be collected for all teaching and practical activities
+which take place on campus in order to be able to trace back potential chains
+of infection in the event of an infection. This applies to courses,
+examinations, exam viewings, info events, consultation hours, the use of study
+rooms, etc. if these activities place on campus. The specifications about on-
+campus courses which you can download from the [ hygiene policy
+site](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-
+hygiene-policy), also contains information about basic and advanced
+traceability as well as what to do in case of a (suspected) infection in a
+teaching environment. Please note that the collection of this data is for
+tracing purposes only and that the data will only be passed on to the
+responsible health authorities upon request. The lecturers are obliged to
+collect the data, keep it safe and protected from access by unauthorised third
+parties and to destroy it after four weeks in accordance with data protection
+regulations. 
+
+For the collection of the data you can use [ this
+form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+
+The corresponding date protection information [ can be found here in
+German](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
+and [ in
+English](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
 
 ## [ Examinations ](for-lecturers.html#)
 
@@ -248,28 +261,35 @@ this:
   * [Online written exams](https://www.philo.hhu.de/en/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren?https%3A%2F%2Fwww_philo_hhu_de%2Fstudium-und-lehre%2Flehre%2Fleitfaden-zur-durchfuehrung-von-online-klausuren_html=&cHash=93277f8562cbdf503e4fe0d975beb6ac)
   * [ Oral online video examinations](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-## [ Teaching resources and assistance ](for-lecturers.html#)
+## [ Resources and assistance for online teaching ](for-lecturers.html#)
 
-## Teaching resources and assistance
+## Resources and assistance for online teaching
 
-[Updated on: 02 November 2020]
+[Updated on: 10 November 2020]
 
 In winter semester 2020/2021 the possibilities for on-campus teaching will be
 limited. We have therefore compiled information material on this site that can
 help you plan your digital courses. 
 
-For a first overview please check HHU’s [central e-learning
-website](https://www.elearning.hhu.de/). It gives you information and
-instructions regarding central e-learning tools, contact persons, services
-offered as well as further helpful links surrounding digital teaching at HHU.
+For a multiplexed e-learning overview please check the [central e-learning
+website](https://www.elearning.hhu.de/en/). It gives you information and
+provides resources regarding
 
-You can find further general suggestions and didactic assistance for your
-digital courses [in these guidelines](https://www.philo.hhu.de/studium-und-
-lehre/lehre/digitalisierung-der-lehre-an-der-philosophischen-fakultaet-
-sommersemester-2020.html), on the [learning platform
-ILIAS](https://ilias.hhu.de/ilias/login.php?target=wiki_wpage_8149_615900&cmd=force_login&lang=de)
-(Login mit Uni-Kennung), or in these [ guidelines on low-barrier online
-teaching](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Onlinelehre_barrierearm_gestalten_20200505.pdf).
+  * central e-learning tools,
+  * the ILIAS study management system
+  * contact persons,
+  * services provided
+  * online teaching project sponsoring
+  * the _Lehrpreis_ teaching award for online teaching
+  * video tutorials
+
+as well as further helpful links surrounding digital teaching at HHU.
+
+You can find general information about setting up low-barrier online teaching
+and examination formats [ in these
+guidelines](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Diversity_Portal/Dokumente/onlinelehre_barrierearm_gestalten_Mai20.pdf).
+
+#### E-learning consultation hour
 
 Once a week there is an [HHU RocketChat on digital
 teaching](https://rocketchat.hhu.de/channel/elearning-sprechstunde). Every
@@ -282,31 +302,31 @@ Microphone systems are available or currently being installed in all of HHU’s
 lecture theatres. These systems make it possible to record and stream speech
 with your own computer and to integrate it into a presentation shown in the
 lecture theatre as a screencast. LAN connections in the lecture theatres
-enable the in-person lecture to be streamed live. Screencasts produced in the
-lecture theatre can then, e.g., be made available through HHU’s media library.
-In the scope of a pilot project, recorders are being installed in some lecture
-theatres, which will make it easier to record presentations and sound. Cameras
-can be connected to these recorders, too. Lecturers have to operate the
-cameras and learn how to use these devices.
+enable the in-person lecture to be streamed live. [Click here for more
+detailed
+information](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366).
+Screencasts produced in the lecture theatre can then, e.g., be made available
+through HHU’s media library. In the scope of a pilot project, recorders are
+being installed in some lecture theatres, which will make it easier to record
+presentations and sound. Cameras can be connected to these recorders, too.
+Lecturers have to operate the cameras and learn how to use these devices.
 
 To stream lectures live and/or make them available as screencast videos, you
 can use, e.g., external web conference tools like Cisco Webex outside of the
 lecture hall. Use of these external systems cannot overload HHU’s network
 infrastructure.
 
-Lecture recordings in the lecture hall with technical support from ZIM or MMZ
-can only be done on a very limited basis due to the existing technical and
-personnel resources.
-
 All digitalised lectures can be provided via the HHU media library. The videos
-can then be integrated into learning platforms like ILIAS.
+can then be integrated into learning platforms such as ILIAS.
 
 In general, when live streaming and recording lectures, copyright law in
 teaching, data protection and personal rights of the participants must be
 taken into account. Information about this can, e.g., be found on the [Legal
 Department’s website](https://www.mitarbeiter.hhu.de/en/zentrale-
 universitaetsverwaltung/stabsstellen/stabsstelle-justitiariat/informationen-
-zum-urheberrecht).
+zum-urheberrecht) and also on the [Data Protection Unit’s
+website](https://www.hhu.de/en/about-hhu/organisation-and-bodies/central-
+university-administration/staff-units/staff-unit-data-protection).
 
 #### Learning platform ILIAS
 
@@ -315,28 +335,6 @@ offers like chats, forums and online tests as well as pdf files. Video
 material should not be uploaded in ILIAS because this will have a strongly
 negative impact on ILIAS’ performance. Instead, lecture recordings should be
 provided in the HHU media library and interlinked in ILIAS.
-
-Supported by a specialised service provider, ZIM is currently optimising and
-stabilising the learning platform ILIAS. However, in order to prevent
-overloading of ILIAS in the winter semester due to an overly high number of
-simultaneous accesses, lecturers are asked to provide the materials in a
-timely manner and to also communicate this to the students. Here, it should be
-taken into consideration that access rates on ILIAS are particularly high on
-Mondays, which slows down the system’s response time. We therefore urgently
-ask you to make it possible for the students to download materials in a
-staggered way over a period of time.
-
-#### Copyright law
-
-  * In the [guide for digital teaching and learning](https://ilias.hhu.de/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=6k&baseClass=ilrepositorygui) in ILIAS, you’ll find legal backgrounds, tips and illustrative material (log in using your univ. ID).
-  * [Information and material](https://www.mitarbeiter.hhu.de/en/zentrale-universitaetsverwaltung/stabsstellen/stabsstelle-justitiariat/informationen-zum-urheberrecht) regarding legally applicable aspects of copyright and personal right law in lectures concerning the [issue of data protection](https://www.mitarbeiter.hhu.de/en/zentrale-universitaetsverwaltung/stabsstellen/stabsstelle-datenschutz/datenschutz-bei-foto-und-filmaufnahmen) for audio and film recordings (log in using your univ. ID).
-  * [Copyright law in science](https://www.bmbf.de/de/was-forschende-und-lehrende-wissen-sollten-9523.html).
-
-#### Digitalisation assistants
-
-The digitalisation assistants requested by the rectorate can [register
-here](https://www.iqu.hhu.de/qualifizierung-fuer-
-digitalisierungshilfskraefte.html) for the qualification offered.
 
 ## [ Room bookings ](for-lecturers.html#)
 

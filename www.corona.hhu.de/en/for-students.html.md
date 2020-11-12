@@ -1,11 +1,11 @@
-[Jump to content](for-students.html#content)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
+[Jump to content](for-students.html#content)[Information for international
 students](for-students.html#c450971)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
 central institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Information for HHU students](for-
+information](for-students.html#c450979)[Teaching and studying](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Course
+organisation](for-students.html#c450965)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
@@ -37,7 +37,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -70,7 +69,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -93,12 +91,12 @@ and that you check your HHU e-mail account on regular basis.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 21 October 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)].
+  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 09 November 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)]. Here you will find information about on-campus courses and about what to do in case of (suspected) infections.
   * From 02 November 2020 on, there will be study rooms available on campus for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use below under the topic ‘study rooms on campus’.  
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Latest updates: 02 November 2020: Main points in brief; dates and deadlines;
-study rooms on campus; examination; organisation of studies.
+Latest updated: 10 November 2020: Main points in brief; study rooms on campus;
+04 November 2020: general information; teaching and studying.
 
 ## Students
 
@@ -106,7 +104,7 @@ study rooms on campus; examination; organisation of studies.
 
 ## General information
 
-[Last updated: 30 October 2020]
+[Last updated: 04 November 2020]
 
 To protect individual health and prevent further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
@@ -124,7 +122,7 @@ hygiene-policy.html).
 
 Please also observe the [ specifications regarding the organisation of on-
 campus courses at HHU for students and lecturers in winter semester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
+2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 (as of: 03 November 2020).
 
 To be able to quickly identify and contact any contact persons in case of a
@@ -184,8 +182,8 @@ here:
 
 [ Specifications regarding the organisation of on-campus teaching for students
 and lecturers in winter semester 2020/2021 at
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_21.10.2020_01.pdf)
-(as of: 21 October 2020).
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+(as of: 09 November 2020).
 
 The traceability of all participants in case of infection must be guaranteed
 for all on-campus courses and events (lectures, personal consultations,
@@ -218,33 +216,35 @@ respective sections.
 #### Small study rooms
 
 From 02 November 2020 on, small study rooms are available for individual use
-on HHU’s campus. These small study rooms are primarily intended for
-participation in online classes which require active involvement such as
-taking an active part in a discussion. 
-
-These small study rooms are open Monday – Friday from 10.30am to 6pm and can
-be booked via a web application for an allocated time slot.
-
-It is in the uses’ responsibility to abide by these terms of use.These
-include, besides the [ general rules of
+on HHU’s campus. These small study rooms may only be used by one person at a
+time and are primarily intended for participation in online classes which
+require active involvement such as taking an active part in a discussion. It
+is the users’ responsibility to abide by the terms of use. These include,
+besides the [ general rules of
 behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
-cases-hygiene-policy), single-person occupancy of the study rooms. Should it
-become obvious that the study rooms are used by groups or that the terms of
-use are violated in any other way, we will be forced to end this offer. 
+cases-hygiene-policy) the obligation to respect the single-person occupancy
+rule. It is not permitted to use these rooms as a group or for purposes other
+than the participation in online courses. Spaces that are intended exclusively
+for studying are available in the library. HHU’s security contractor will make
+sure that these rules are obeyed. Should it become apparent that the rooms are
+used by groups or that the terms or use are violated in any other way, we will
+be forced to discontinue this service. 
+
+These small study rooms are open Monday – Friday from 10.30am to 6pm. The
+rooms in building 23.02 are available from 8am – 6pm. The small study rooms
+can be booked [via a web application](https://www.philo.hhu.de/en/studium-und-
+lehre/lehre/allgemeine-informationen/raumbuchungen) for an allocated time slot
+at a time. It is mandatory to book a space in advance.
 
 #### Lecture theatres as a place to study
 
 From 04 November 2020 on, a lecture theatre will be made available as a place
-to study, from Monday – Thursday, 10:30am – 4.30pm:
+to study, from Monday – Thursday, 10:30am – 6.00pm:
 
   * Monday: lecture theatre 3D in building 23.01
   * Tuesday: Substitute lecture theatre in building 16.12
   * Wednesday: lecture theatre 5D in building 25.21
   * Thursday: lecture theatre 2D in building 22.01
-
-Please note that 04 November, when this offer becomes available, is a
-Wednesday which means that during that week only on Wednesday and Thursday
-lecture theatres are available to study. 
 
 In these lecture theatres, students can study in single-use workspaces or
 follow online classes which require only passive or silent participation. The
