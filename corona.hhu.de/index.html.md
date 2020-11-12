@@ -33,7 +33,6 @@ Willkommen!
     * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](../www.corona.hhu.de/zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -66,7 +65,6 @@ Willkommen!
     * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](../www.corona.hhu.de/zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
