@@ -1,13 +1,14 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Prüfungen](fuer-
-lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
-Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Informationsseiten der Fakultäten](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
+lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Lehr- und Studienbetrieb](fuer-
+lehrende.html#c452907)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
-Lehrende in Kürze](fuer-lehrende.html#c438667)
+Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
+lehrende.html#c520798)
 
   * DE
   * [EN](en/for-lecturers.html)
@@ -35,7 +36,6 @@ Willkommen!
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -69,7 +69,6 @@ Corona](../corona.hhu.de/index.html)
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -89,15 +88,14 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 ## Das Wichtigste für Lehrende in Kürze
 
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
-  * Bitte beachten Sie die Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ ](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)[Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+  * Bitte beachten Sie die Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ ](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)[Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
   * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Details finden Sie auf der Corona-Webseite für Studierende unter der Überschrift „Lernräume auf dem Campus“.
-  * Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite](https://www.elearning.hhu.de) der HHU.  
-  
-Letzte Aktualisierungen: 10.11.2020: Das Wichtigste für Lehrende in Kürze;
-Lehr- und Studienbetrieb; Rückverfolgbarkeit, Hilfestellungen für die digitale
-Lehre; 04.11.2020: Lehr- und Studienbetrieb.
+
+Letzte Aktualisierungen: 12.11.2020: Rückverfolgbarkeit; 10.11.2020: Das
+Wichtigste in Kürze, Lehr- und Studienbetrieb, Hilfestellungen für die
+digitale Lehre
 
 ## Lehrende
 
@@ -148,7 +146,7 @@ und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
 beschlossen und geben den Rahmen für die Durchführung von
 Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
 
-  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf) (Stand: 09.11.2020).
+  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
 dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
@@ -175,7 +173,9 @@ die HHU den Dozierenden nahe, sämtliche (Live-)Formate für die Studierenden
 zusätzlich aufzuzeichnen und ihnen flexibel bereitzustellen (z. B. über die
 HHU-Mediathek).
 
-**Rückverfolgbarkeit**
+## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
+
+## Rückverfolgbarkeit
 
 Nach der derzeit geltenden Coronaschutzverordnung des Landes NRW und der für
 den Lehrbetrieb geltenden Allgemeinverfügung sind in allen Lehr- und
@@ -269,7 +269,7 @@ haben wir Leitfälen erstellt:
   * [Online-Klausuren](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren.html).
   * [ Mündliche Online-Video-Prüfungen](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-## [ Hilfestellungen für den digitalen Lehrbetrieb ](fuer-lehrende.html#)
+## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
 
 ## Hilfestellungen für die digitale Lehre
 
@@ -313,7 +313,7 @@ Rechner aufzuzeichnen und zu streamen und als Screencast in die im Hörsaal
 gezeigte Präsentation einzubinden. Über die LAN-Anschlüsse in den Hörsälen
 soll es möglich sein, die Präsenz-Lehrveranstaltung live zu streamen.
 Detaillierte Informationen finden Sie
-[hier.](https://wiki.hhu.de/pages/viewpage.action?pageld=218072271)
+[hier.](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
 Im Hörsaal produzierte Screencasts können anschließend z.B. über die HHU-
 Mediathek zur Verfügung gestellt werden. In einigen Hörsälen werden als
