@@ -1,8 +1,8 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Prüfungen](fuer-
-lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
 Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
@@ -313,7 +313,7 @@ Rechner aufzuzeichnen und zu streamen und als Screencast in die im Hörsaal
 gezeigte Präsentation einzubinden. Über die LAN-Anschlüsse in den Hörsälen
 soll es möglich sein, die Präsenz-Lehrveranstaltung live zu streamen.
 Detaillierte Informationen finden Sie
-[hier.](https://wiki.hhu.de/pages/viewpage.action?pageld=218072271\])
+[hier.](https://wiki.hhu.de/pages/viewpage.action?pageld=218072271)
 
 Im Hörsaal produzierte Screencasts können anschließend z.B. über die HHU-
 Mediathek zur Verfügung gestellt werden. In einigen Hörsälen werden als
@@ -333,15 +333,12 @@ eingebunden werden.
 Generell sind bei dem Live-Streamen und beim Aufzeichnen von
 Lehrveranstaltungen die Urheberrechte in der Lehre, der Datenschutz und die
 Persönlichkeitsrechte der Teilnehmenden zu beachten. Hinweise finden sich z.B.
-auf den [Webseiten des Justitiariat](https://www.hhu.de/die-hhu/organisation-
+auf den [Webseiten des Justitiariats](https://www.hhu.de/die-hhu/organisation-
 und-gremien/die-zentrale-universitaetsverwaltung-zuv/stabsstellen-der-
-hhu/stabsstelle-justitiariat/informationen-zum-urheberrecht-
-intern)[s](https://www.hhu.de/die-hhu/organisation-und-gremien/die-zentrale-
-universitaetsverwaltung-zuv/stabsstellen-der-hhu/stabsstelle-
-justitiariat/datenschutzauskunfts-und-beschwerdestelle) sowie auf der
-[Webseite der Stabsstelle Datenschutz.](https://www.hhu.de/die-
-hhu/organisation-und-gremien/die-zentrale-universitaetsverwaltung-
-zuv/stabsstellen-der-hhu/stabsstelle-datenschutz)
+hhu/stabsstelle-justitiariat) sowie auf der [Webseite der Stabsstelle
+Datenschutz.](https://www.hhu.de/die-hhu/organisation-und-gremien/die-
+zentrale-universitaetsverwaltung-zuv/stabsstellen-der-hhu/stabsstelle-
+datenschutz)
 
 #### Lernplattform ILIAS
 
