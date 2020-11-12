@@ -1,15 +1,16 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Heim- und Telearbeit /
-Arbeitszeitkonten](fuer-beschaeftigte.html#c452969)[Erleichterungen für
-Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Regelungen für
+Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher
+Gemeinschaft mit schwer vorerkrankten Angehörigen leben](fuer-
+beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
+beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
+Hintergrund der Corona-Pandemie](fuer-
 beschaeftigte.html#c452970)[Dienstreisen](fuer-
 beschaeftigte.html#c452971)[Informationen aus der Zentralen
 Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
-Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
-mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-beschaeftigte.html#c452968)
-[(Kopie 4)](fuer-beschaeftigte.html#c452577)[Informationen für
-Beschäftigte](fuer-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte
-in Kürze](fuer-beschaeftigte.html#c438664)[Beschäftigte](fuer-
+Schutzhinweise](fuer-beschaeftigte.html#c452967) [(Kopie 4)](fuer-
+beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
+beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
 beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438663)
@@ -40,7 +41,6 @@ Willkommen!
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -74,7 +74,6 @@ Corona](../corona.hhu.de/index.html)
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -267,14 +266,12 @@ zwingend notwendigen Einzelfällen kann die Ausgabe- und Rücknahme von
 Schließberechtigungen (Transponder/Schlüssel), nach vorheriger Absprache
 erfolgen.
 
-Bitte richten Sie Ihre Anfragen per E-Mail an das Funktionspostfach der
-Schlüsselverwaltung.
+Bitte richten Sie Ihre Anfragen per E-Mail an das .
 
 Die entsprechenden Anträge [finden Sie hier
-(Intranet)](https://www.mitarbeiter.hhu.de/zuv-zentrale-
-universitaetsverwaltung/dezernat-6-gebaeudemanagement-d6/infrastrukturelles-
-gebaeudemanagement-63/team-abteilung-63/raum-und-umzugsplanung-
-sachgebiet-633/schliessanlagenmanagement.html).
+(Intranet)](https://www.mitarbeiter.hhu.de/zentrale-
+universitaetsverwaltung/dezernat-6-gebaeudemanagement/serviceseiten-d6-mit-
+downloads).
 
 Sollten Sie keine Anbindung an das universitätsinterne Intranet haben, senden
 Sie bitte eine Anfrage per E-Mail an die Schlüsselverwaltung, die

@@ -1,9 +1,10 @@
-[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Videokonferenzen
-und Online-Lehre](zum-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-
-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
+[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Veranstaltungen,
+Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
+universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
+universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
+universitaetsbetrieb.html#c453005) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -37,7 +38,6 @@ Willkommen!
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -71,7 +71,6 @@ Corona](../corona.hhu.de/index.html)
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -85,7 +84,7 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Das Wichtigste zum Universitätsbetrieb in Kürze
 
-  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplat, sofern dort die notwendigen Hygienmaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Die Außentüren der Gebäude (außer der ULB und des SSC – siehe hierzu gesonderte Öffnungszeiten) sind gem. Hausordnung der HHU in der Zeit von montags bis freitags von 06:30 Uhr bis 20:00 Uhr geöffnet.
   * Das [Haus der Universität](https://www.uni-duesseldorf.de/home/startseite/news-detailansicht-inkl-gb/article/veranstaltungen-im-haus-der-universitaet-wieder-moeglich.html) und Schloss Mickeln sind bis zum Jahresende für die Öffentlichkeit geschlossen.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
@@ -113,8 +112,8 @@ Gremien_Stand_2020-11-05.pdf) (PDF-Download)
 
 [Update: 02.11.2020]
 
-Auf dem Campus sind Tagung, Workshops und ähnliche Veranstaltungen im Bereich
-der Forschung unter Einhaltung der notwendigen Hygiene- und
+Auf dem Campus sind Tagungen, Workshops und ähnliche Veranstaltungen im
+Bereich der Forschung unter Einhaltung der notwendigen Hygiene- und
 Infektionsschutzkonzepte (vgl. § 2 - 4a Coronaschutzverordnung vom 30.
 Oktober) zulässig, sofern sie von Mitgliedern oder Angehörigen der HHU
 veranstaltet werden. Externe Veranstaltungen können bis auf Weiteres nicht
