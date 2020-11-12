@@ -1,11 +1,10 @@
-[Zum Inhalt springen](fuer-
-studierende.html#content)[Studienorganisation](fuer-
-studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
+Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
 studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Internationale Studierende](fuer-
+studierende.html#c450965)[Studienorganisation](fuer-
+studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
+studierende.html#c450974)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
@@ -42,7 +41,6 @@ Willkommen!
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -76,7 +74,6 @@ Corona](../corona.hhu.de/index.html)
     * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-      * [Handlungsleitfaden Gremienarbeit](zum-universitaetsbetrieb/standard-titel.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -99,7 +96,7 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
-  * Bitte beachten Sie die Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+  * Bitte beachten Sie die Verfahrensweisen für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
   * Studierende, die neu an der HHU sind, werden aufgefordert, schnellstmöglich ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht. Sollte Ihre Uni-Kennung noch nicht angekommen sein, melden Sie sich bitte  [beim Studierendenservice](https://www.hhu.de/die-hhu/profil/facts-figures/infocenter-hhu-wichtiges-auf-einen-klick/kontakt/studierenden-service-center-ssc-alles-rund-ums-studium).
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
@@ -130,8 +127,10 @@ Webseite.
 
 Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
 Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
-an der HHU (Stand: 09.11.2020).
+2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+[
+](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)an
+der HHU (Stand: 09.11.2020).
 
 Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren
 und kontaktieren zu können, muss die Rückverfolgbarkeit in allen
@@ -179,7 +178,10 @@ aufgefordert, ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie
 hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-
 unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das
 Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht.
-Sollte Ihre Uni-Kennung noch nicht angekommen sein, .
+Sollte Ihre Uni-Kennung noch nicht angekommen sein, [melden Sie sich bitte
+beim Studierendenservice](https://www.hhu.de/die-hhu/profil/facts-
+figures/infocenter-hhu-wichtiges-auf-einen-klick/kontakt/studierenden-service-
+center-ssc-alles-rund-ums-studium).
 
 #### Präsenzlehre
 
@@ -195,7 +197,7 @@ Verfahrensweisen in der zuletzt gültigen Fassung finden Sie unter:
 
 [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen
 im Wintersemester 2020/2021 an der
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 (Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
@@ -261,7 +263,7 @@ Eine vorherige Platzbuchung ist zwingend erforderlich.
 
 #### **Lernort Hörsaal**
 
-Ab dem 04. November 2020 steht von montags bis donnerstags von 10.30 bis 16.00
+Ab dem 04. November 2020 steht von montags bis donnerstags von 10.30 bis 18.00
 Uhr ein Hörsaal als Lernort zur Verfügung:
 
   * Montag: Hörsaal 3D in Gebäude 23.01
@@ -289,9 +291,9 @@ mit Ton dürfen nur mit Kopfhörern verfolgt werden, so dass die Geräuschkuliss
 im Saal auf ein Minimum reduziert wird.
 
 Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
-Zu den Regeln gehören die [allgemeinen
-Verhaltensregeln](https://www.corona.hhu.de/hygienekonzept)  sowie
-insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
+Zu den Regeln gehören die [ allgemeinen
+Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf) 
+sowie insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
 Kommilitonen nicht beim Lernen zu stören. Die Einhaltung der Regeln wird durch
 das Aufsichtspersonal überprüft.
 
