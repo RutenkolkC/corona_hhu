@@ -1,12 +1,12 @@
-[Jump to content](for-employees.html#content)[General guidelines](for-
-employees.html#c452967)[Regulations for employees with a severe pre-existing
-condition or employees who live in the same household as a person with a
-severe pre-existing condition, in effect from 29 June 2020](for-
+[Jump to content](for-employees.html#content)[Regulations for employees with a
+severe pre-existing condition or employees who live in the same household as a
+person with a severe pre-existing condition, in effect from 29 June 2020](for-
 employees.html#c452968)[Working from home and teleworking](for-
 employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
 University Administration Information](for-employees.html#c452971)[Support for
 scientists against the background of the coronavirus pandemic](for-
-employees.html#c452972)["Employees" topic group](for-
+employees.html#c452972)[General guidelines](for-
+employees.html#c452967)["Employees" topic group](for-
 employees.html#c438661)[Main points for employees in brief](for-
 employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
 questions?](for-employees.html#c439184)[Main points for employees in
@@ -38,7 +38,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -71,7 +70,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
@@ -239,10 +237,9 @@ Please send your requests by e-mail to the Key Distribution Office’s shared
 mailbox: 
 
 [You can find the respective application forms
-here](https://www.mitarbeiter.hhu.de/zuv-zentrale-
-universitaetsverwaltung/dezernat-6-gebaeudemanagement-d6/infrastrukturelles-
-gebaeudemanagement-63/team-abteilung-63/raum-und-umzugsplanung-
-sachgebiet-633/schliessanlagenmanagement.html) (Intranet)
+here](https://www.mitarbeiter.hhu.de/en/zentrale-
+universitaetsverwaltung/dezernat-6-gebaeudemanagement/serviceseiten-d6-mit-
+downloads) (Intranet)
 
 If you do not have access the University’s intranet, please send an e-mail to
 the Key Distribution Office / Schlüsselverwaltung, which will then provide you

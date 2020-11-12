@@ -1,9 +1,9 @@
-[Jump to content](university-operations.html#content)[Video conferences and
-online teaching](university-operations.html#c453008)[Warning: Hackers exploit
-fear of coronavirus!](university-operations.html#c453009)[Committee
+[Jump to content](university-operations.html#content)[Committee
 work](university-operations.html#c453005)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
-buildings](university-operations.html#c453007)[Information on University
+buildings](university-operations.html#c453007)[Video conferences and online
+teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
+coronavirus!](university-operations.html#c453009)[Information on University
 operations](university-operations.html#c438674)[Main points for university
 operations in brief](university-operations.html#c438676)[University
 operations](university-operations.html#c453016)[Still have
@@ -36,7 +36,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -69,7 +68,6 @@ Willkommen!
     * [on research](research.html)
     * [for employees](for-employees.html)
     * [on university operations](university-operations.html)
-      * [Guidelines for committee work](https://www.corona.hhu.de/en/university-operations/translate-to-english-handlungsleitfaden-gremienarbeit)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
