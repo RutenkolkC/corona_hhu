@@ -1,8 +1,8 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+[Zum Inhalt springen](fuer-lehrende.html#content)[Prüfungen](fuer-
+lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
 Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452908)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
@@ -89,7 +89,7 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 ## Das Wichtigste für Lehrende in Kürze
 
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
-  * Bitte beachten Sie die Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
+  * Bitte beachten Sie die Verfahrensweise für Studierende und Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU (Stand: 09.11.2020). [ ](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)[Hier finden Sie Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)
   * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Details finden Sie auf der Corona-Webseite für Studierende unter der Überschrift „Lernräume auf dem Campus“.
@@ -184,17 +184,17 @@ erheben, um im Falle einer Infektion mögliche Infektionsketten nachverfolgen
 zu können. Dies betrifft die Durchführung von Lehrveranstaltungen, Prüfungen,
 Klausureinsichten, Informationsveranstaltungen, Sprechstunden, Nutzung der
 Lernräume etc. mit physischer Präsenz. In den Verfahrensweisen für
-Präsenzveranstaltungen, die Sie auf der [ Seite zum
-Hygienekonzept](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-
-_und_Infektionsfaellen_2020-10-06.pdf) herunterladen können, finden Sie
-Hinweise zur einfachen und besonderen Rückverfolgbarkeit sowie zu der Frage,
-wie mit Infektions(verdachts)fällen im Lehrbetrieb umzugehen ist. Bitte
-beachten Sie, dass die Erhebung dieser Daten ausschließlich dem Zwecke der
-Nachverfolgung dient und die Daten auch nur auf Verlangen dem zuständigen
-Gesundheitsamt vorzulegen sind. Die Lehrenden sind demnach verpflichtet, die
-Daten zu erheben, sie geschützt und vor dem Zugriff unbefugter Dritter
-gesichert aufzubewahren und nach Ablauf von 4 Wochen datenschutzkonform zu
-vernichten.
+Präsenzveranstaltungen, die Sie auf der [Seite zum
+Hygienekonzept](https://redaktion.hhu.de/VORSCHAU/www.corona.hhu.de/zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept#c453066) herunterladen
+können, finden Sie Hinweise zur einfachen und besonderen Rückverfolgbarkeit
+sowie zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb
+umzugehen ist. Bitte beachten Sie, dass die Erhebung dieser Daten
+ausschließlich dem Zwecke der Nachverfolgung dient und die Daten auch nur auf
+Verlangen dem zuständigen Gesundheitsamt vorzulegen sind. Die Lehrenden sind
+demnach verpflichtet, die Daten zu erheben, sie geschützt und vor dem Zugriff
+unbefugter Dritter gesichert aufzubewahren und nach Ablauf von 4 Wochen
+datenschutzkonform zu vernichten.
 
 Für die Erhebung der Daten können Sie [ diesen Vordruck
 nutzen.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
