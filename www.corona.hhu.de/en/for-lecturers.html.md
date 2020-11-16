@@ -107,7 +107,8 @@ postponed to 26 October (for higher semesters and students in master’s
 programmes) and 02 November (for first-year students in bachelor’s programmes
 and study programmes with a state degree). You can find all dates and
 potential changes under [dates and
-deadlines](https://www.hhu.de/en/studium/studienorganisation/vorlesungszeiten).
+deadlines](https://www.hhu.de/en/studies/organising-your-studies/translate-to-
+english-vorlesungszeiten).
 
 The phase of written examinations following the winter semester is four weeks
 long, from 16 February to 12 March 2021. The phase of written examinations
