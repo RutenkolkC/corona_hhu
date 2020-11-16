@@ -1,8 +1,8 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Raumbuchungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Hilfestellungen für die
+Online-Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Lehr- und Studienbetrieb](fuer-
 lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
-lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
-lehrende.html#c452910)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452909)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
@@ -269,15 +269,15 @@ haben wir Leitfälen erstellt:
   * [Online-Klausuren](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren.html).
   * [ Mündliche Online-Video-Prüfungen](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
+## [ Hilfestellungen für die Online-Lehre ](fuer-lehrende.html#)
 
-## Hilfestellungen für die digitale Lehre
+## Hilfestellungen für die Online-Lehre
 
 [Update: 10.11.2020]
 
 Im Wintersemester 2020/2021 ist Präsenzlehre nur eingeschränkt möglich. Daher
 haben wir Ihnen auf dieser Seite einige konkrete Informationsangebote
-zusammengestellt, die Ihnen Anregungen für Ihre Onlinelehre geben können.
+zusammengestellt, die Ihnen Anregungen für Ihre Online-Lehre geben können.
 
 Einen gebündelten Überblick zum E-Learning erhalten Sie auf der [zentralen
 E-Learning-Webseite](https://www.elearning.hhu.de/). Hier finden Sie
