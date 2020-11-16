@@ -1,15 +1,15 @@
-[Jump to content](for-students.html#content)[Faculty information](for-
+[Jump to content](for-students.html#content)[Services of the central
+institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for international
 students](for-students.html#c450971)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Information for HHU
-students](for-students.html#c438639)[Main points for students in brief](for-
-students.html#c438638)[Students](for-students.html#c450915)[Still have
-questions?](for-students.html#c439254)[Main points for students in brief](for-
-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
+disabilities or chronic illnesses](for-students.html#c450972)[Information for
+HHU students](for-students.html#c438639)[Main points for students in
+brief](for-students.html#c438638)[Students](for-students.html#c450915)[Still
+have questions?](for-students.html#c439254)[Main points for students in
+brief](for-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
@@ -145,7 +145,8 @@ postponed to 26 October (for higher semesters and students in master’s
 programmes) or 02 November respectively (for first-year students in bachelor’s
 programmes and study programmes with a state degree). You can find all dates
 and potential changes under [dates and
-deadlines](https://www.hhu.de/en/studium/studienorganisation/vorlesungszeiten).
+deadlines](https://www.hhu.de/en/studies/organising-your-studies/translate-to-
+english-vorlesungszeiten).
 
 The phase of written examinations following the winter semester is four weeks
 long and from 16 February to 12 March 2021. The phase of written examinations
