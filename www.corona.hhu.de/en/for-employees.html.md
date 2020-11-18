@@ -1,13 +1,12 @@
-[Jump to content](for-employees.html#content)[Central University
-Administration Information](for-employees.html#c452971)[Support for scientists
-against the background of the coronavirus pandemic](for-
-employees.html#c452972)[General guidelines](for-
+[Jump to content](for-employees.html#content)[Business trips](for-
+employees.html#c452970)[Central University Administration Information](for-
+employees.html#c452971)[Support for scientists against the background of the
+coronavirus pandemic](for-employees.html#c452972)[General guidelines](for-
 employees.html#c452967)[Regulations for employees with a severe pre-existing
 condition or employees who live in the same household as a person with a
 severe pre-existing condition, in effect from 29 June 2020](for-
 employees.html#c452968)[Working from home and teleworking](for-
-employees.html#c452969)[Business trips](for-
-employees.html#c452970)["Employees" topic group](for-
+employees.html#c452969)["Employees" topic group](for-
 employees.html#c438661)[Main points for employees in brief](for-
 employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
 questions?](for-employees.html#c439184)[Main points for employees in
