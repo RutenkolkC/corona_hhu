@@ -84,7 +84,7 @@ and/or your study programme.
 ## Main points for lecturers in brief
 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
-  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021 [[updated PDF document](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)] (as of: 09 November 2020). Here you will find information about on-campus courses and about what to do in the case of (suspected) infections.
+  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers in winter semester 2020/2021 [[updated PDF document](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)] (as of: 09 November 2020). Here you will find information about on-campus courses and about what to do in the case of (suspected) infections.
   * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
   * The official welcome address for first-year students by the HHU President and the Vice President for the Quality in Studies will take place on 02 November 2020 in the context of an [online welcome event for first-year students](https://hhu.expo-ip.com/).
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
@@ -117,7 +117,7 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## [ Teaching activities and studies ](for-lecturers.html#)
 
-** ** [Last updated: 04 November 2020]
+** ** [Last updated: 12 November 2020]
 
 The winter semester 2020/21 at HHU will be a hybrid semester comprised of in-
 person, classroom teaching and online teaching. Only in this way can HHU
@@ -142,8 +142,8 @@ semester 2020/2021 at HHU:
 
 [ Specifications regarding the organisation of on-campus teaching for students
 and lecturers in winter semester 2020/2021 at
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)
-(as of: 03 November 2020).
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)
+(as of: 09 November 2020).
 
 These organisation specifications will be updated regularly and adapted in
 accordance with the changing threat situation in connection with the Covid-19
