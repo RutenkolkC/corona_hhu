@@ -1,14 +1,14 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Erleichterungen für
-Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
-beschaeftigte.html#c452970)[Dienstreisen](fuer-
-beschaeftigte.html#c452971)[Informationen aus der Zentralen
-Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Generelle
 Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
 mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
 mit schwer vorerkrankten Angehörigen leben](fuer-
 beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
-beschaeftigte.html#c452969) [(Kopie 4)](fuer-
-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
+beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
+Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
+beschaeftigte.html#c452971)[Informationen aus der Zentralen
+Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972) [(Kopie
+4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
 beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
@@ -19,6 +19,7 @@ beschaeftigte.html#c438663)
   * [EN](en/for-employees.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -53,6 +54,7 @@ Willkommen!
   * [EN](en/for-employees.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)

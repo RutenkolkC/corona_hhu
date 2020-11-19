@@ -16,6 +16,7 @@ Kürze](zum-universitaetsbetrieb.html#c438675)
   * [EN](en/university-operations.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -50,6 +51,7 @@ Willkommen!
   * [EN](en/university-operations.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
