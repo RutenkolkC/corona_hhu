@@ -1,9 +1,9 @@
-[Jump to content](university-operations.html#content)[Warning: Hackers exploit
+[Jump to content](university-operations.html#content)[Video conferences and
+online teaching](university-operations.html#c453008)[Warning: Hackers exploit
 fear of coronavirus!](university-operations.html#c453009)[Committee
 work](university-operations.html#c453005)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
-buildings](university-operations.html#c453007)[Video conferences and online
-teaching](university-operations.html#c453008)[Information on University
+buildings](university-operations.html#c453007)[Information on University
 operations](university-operations.html#c438674)[Main points for university
 operations in brief](university-operations.html#c438676)[University
 operations](university-operations.html#c453016)[Still have
@@ -14,6 +14,7 @@ operations in brief](university-operations.html#c438675)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -48,6 +49,7 @@ Willkommen!
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
