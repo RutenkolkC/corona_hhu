@@ -1,16 +1,17 @@
-[Jump to content](for-lecturers.html#content)[Examinations](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
-and assistance for online teaching](for-lecturers.html#c452910)[Information
+[Jump to content](for-lecturers.html#content)[Resources and assistance for
+online teaching](for-lecturers.html#c452910)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Information
 pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
 lecturers.html#c438666)[Main points for lecturers in brief](for-
 lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
 questions?](for-lecturers.html#c439228)[Main points for lecturers in
-brief](for-lecturers.html#c438667)
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -45,6 +46,7 @@ Willkommen!
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
@@ -167,7 +169,13 @@ Independently of this, HHU suggests that lecturers additionally record all
 (live) formats for the students and provide them to the students in a flexible
 way (e.g. via the HHU media library). 
 
-#### Traceability
+
+
+## [ Traceability ](for-lecturers.html#)
+
+## Traceability
+
+[Last updated: 19 November 2020]
 
 In accordance with the Coronavirus Pandemic Ordinance of the State of NRW that
 is currently in place and the general directive applicable to teaching,
