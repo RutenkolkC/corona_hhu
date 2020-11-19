@@ -4,11 +4,11 @@ einer infizierten Person oder einem Verdachtsfall?](zu-covid-19-verdachts-und-
 kontaktfaellen-hygienekonzept.html#c453062)[Wichtige Telefonnnummern und
 Kontaktadressen](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen der HHU](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Plakate
-„Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453067)[Coronavirus
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
 / SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453058)[Woran erkennt man eine Erkrankung?](zu-
+hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
+„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453067)[Woran erkennt man eine Erkrankung?](zu-
 covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
 man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453060)[Was ist zu tun, wenn man sich krank fühlt?](zu-
@@ -33,6 +33,7 @@ kontaktfaellen-hygienekonzept.html#c490924)
   * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -67,6 +68,7 @@ Willkommen!
   * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
