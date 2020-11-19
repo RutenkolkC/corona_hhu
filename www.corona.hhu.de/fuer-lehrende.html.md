@@ -14,6 +14,7 @@ lehrende.html#c520798)
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -48,6 +49,7 @@ Willkommen!
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
   * [Impressum](https://www.hhu.de/impressum)
@@ -176,6 +178,8 @@ HHU-Mediathek).
 ## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
 
 ## Rückverfolgbarkeit
+
+[Update: 12.11.2020]
 
 Nach der derzeit geltenden Coronaschutzverordnung des Landes NRW und der für
 den Lehrbetrieb geltenden Allgemeinverfügung sind in allen Lehr- und

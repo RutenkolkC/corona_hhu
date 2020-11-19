@@ -1,11 +1,11 @@
-[Jump to content](research.html#content)[Coronavirus-related information of
+[Jump to content](research.html#content)[Working in laboratories under
+COVID-19 conditions](research.html#c452941)[Coronavirus-related information of
 funding organisations](research.html#c452942) [Information for international
 scientists/researchers and visiting
 scientists/researchers](research.html#c452943)[Information for doctoral
 students, doctoral supervisors, postdocs, young scientist group leaders and
 assistant professors](research.html#c452944)[Congress trips and project
-meetings (business trips)](research.html#c452945)[Working in laboratories
-under COVID-19 conditions](research.html#c452941)[Main points for research in
+meetings (business trips)](research.html#c452945)[Main points for research in
 brief](research.html#c438673)["Research" topic group](research.html#c452951)
 [Still have questions?](research.html#c439236)[Main points for research in
 brief](research.html#c438672)
@@ -14,6 +14,7 @@ brief](research.html#c438672)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
   * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
@@ -48,6 +49,7 @@ Willkommen!
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
