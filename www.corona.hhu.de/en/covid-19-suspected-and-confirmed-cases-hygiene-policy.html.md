@@ -29,7 +29,7 @@ COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c0)
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[Portals](https://portale.hhu.de "Portals")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -64,7 +64,7 @@ Willkommen!
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[Portals](https://portale.hhu.de "Portals")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
