@@ -1,8 +1,8 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+[Zum Inhalt springen](fuer-lehrende.html#content)[Prüfungen](fuer-
+lehrende.html#c452909)[Hilfestellungen für die Online-Lehre](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-lehrende.html#c452911)[Lehr- und
 Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die Online-Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452908)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
@@ -13,7 +13,7 @@ lehrende.html#c520798)
   * DE
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -48,7 +48,7 @@ Willkommen!
   * DE
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)

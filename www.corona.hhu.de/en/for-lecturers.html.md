@@ -1,6 +1,6 @@
-[Jump to content](for-lecturers.html#content)[Room bookings](for-
-lecturers.html#c452909)[Resources and assistance for online teaching](for-
-lecturers.html#c452910)[Examinations](for-lecturers.html#c452908)[Information
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
 pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
 lecturers.html#c438666)[Main points for lecturers in brief](for-
 lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
@@ -10,7 +10,7 @@ brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
   * [DE](../fuer-lehrende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[Portals](https://portale.hhu.de "Portals")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -45,7 +45,7 @@ Willkommen!
   * [DE](../fuer-lehrende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portals](https://portale.uni-duesseldorf.de "Portals")
+  * |[Portals](https://portale.hhu.de "Portals")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
