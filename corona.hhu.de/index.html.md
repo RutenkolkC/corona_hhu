@@ -10,7 +10,7 @@ Hygienekonzept](index.html#c452849)[Beschäftigte](index.html#c452753)
   * DE
   * [EN](../www.corona.hhu.de/en/index.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [](https://www.facebook.com/HHU.de/ "Facebook")
@@ -45,7 +45,7 @@ Willkommen!
   * DE
   * [EN](../www.corona.hhu.de/en/index.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
-  * |[Portale](https://portale.uni-duesseldorf.de "Portale")
+  * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
   * [Kontakt](https://www.hhu.de/die-hhu/kontakt-und-services)
