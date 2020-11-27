@@ -1,15 +1,15 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Dienstreisen](fuer-
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Heim- und Telearbeit /
+Arbeitszeitkonten](fuer-beschaeftigte.html#c452969)[Erleichterungen für
+Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
 beschaeftigte.html#c452971)[Informationen aus der Zentralen
 Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
 Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
 mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-
-beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
-beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
-Hintergrund der Corona-Pandemie](fuer-beschaeftigte.html#c452970) [(Kopie
-4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
-beschaeftigte.html#c438664)[Beschäftigte](fuer-
+mit schwer vorerkrankten Angehörigen leben](fuer-beschaeftigte.html#c452968)
+[(Kopie 4)](fuer-beschaeftigte.html#c452577)[Informationen für
+Beschäftigte](fuer-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte
+in Kürze](fuer-beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
 beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438663)
@@ -90,13 +90,13 @@ Corona](../corona.hhu.de/index.html) **für Beschäftigte**
 
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Im Kontext des aktuellen hybriden Lehrbetriebs aus einer sinnvollen Mischung aus Online-Veranstaltungen in Veranstaltungen in Präsenz besteht die aktuelle Aufgabe in der Realisierung eines Corona-adaptierten Präsenzbetriebs unter strikter Beachtung aller einschlägigen Hygiene- und Abstandsregeln.
-  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 30. November 2020 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
+  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 15. Januar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
   * Für Beschäftigte mit schweren Vorerkrankungen sowie für Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Personen leben, besteht unabhängig von den allgemeinen Regelungen unter bestimmten, unten näher erläuterten Bedingungen die Möglichkeit, in Heim- und Telearbeit zu arbeiten.
   * Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   * Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
   * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   * Die Möglichkeit von Dienstreisen richtet sich nach den Reisewarnungen der Bundesregierung, bis auf Weiteres sind keine Dienstreisen in Risikogebiete zulässig. . Dieses Dienstreiseverbot gilt ebenfalls für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem Inzidenzwert ≥ 50.
-  * Letzte Aktualisierungen: 30.10.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; 29.10.2020: Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben; Heim- und Telearbeit/Arbeitszeitkonten; 27.10.2020: Dienstreisen.
+  * Letzte Aktualisierungen: 27.11.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise.
 
 Vorbemerkung:
 
@@ -109,14 +109,14 @@ angesprochenen Bereiche die Regelungen des Universitätsklinikums Düsseldorf.**
 
 ## Generelle Schutzhinweise
 
-[Update: 30.10.2020]
+[Update: 27.11.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
 Maßnahmen. Diese Maßnahmen gelten unabhängig davon, ob erste
 Krankheitssymptome bereits aufgetreten sind.
 
-  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit vom 2\. November bis zum 30. November 2020 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus zur Aufrechterhaltung des Dienstbetriebs erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
+  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder für die Zeit bis zum 15. Januar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus zur Aufrechterhaltung des Dienstbetriebs erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Die jeweiligen Fachvorgesetzten haben die Aufgabe, den Dienstbetrieb unter diesen Bedingungen zu organisieren und zu gewährleisten.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Weitere Konkretisierungen, etwa im UKD in Bereichen der Krankenversorgung, sind zu beachten.  
 Ausgenommen von dieser Verpflichtung sind Personen, die aus medizinischen
 Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein
