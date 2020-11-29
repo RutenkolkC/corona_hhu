@@ -1,6 +1,6 @@
-[Jump to content](for-students.html#content)[General information](for-
-students.html#c450916)[Further information](for-
-students.html#c450979)[Teaching and studying](for-
+[Jump to content](for-students.html#content)[Further information](for-
+students.html#c450979)[General information](for-
+students.html#c450916)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for international
 students](for-students.html#c450971)[Information for students with
