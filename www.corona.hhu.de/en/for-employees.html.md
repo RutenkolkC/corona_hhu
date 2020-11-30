@@ -1,12 +1,12 @@
-[Jump to content](for-employees.html#content)[General guidelines](for-
-employees.html#c452967)[Regulations for employees with a severe pre-existing
-condition or employees who live in the same household as a person with a
-severe pre-existing condition, in effect from 29 June 2020](for-
+[Jump to content](for-employees.html#content)[Regulations for employees with a
+severe pre-existing condition or employees who live in the same household as a
+person with a severe pre-existing condition, in effect from 29 June 2020](for-
 employees.html#c452968)[Working from home and teleworking](for-
 employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
 University Administration Information](for-employees.html#c452971)[Support for
 scientists against the background of the coronavirus pandemic](for-
-employees.html#c452972)["Employees" topic group](for-
+employees.html#c452972)[General guidelines](for-
+employees.html#c452967)["Employees" topic group](for-
 employees.html#c438661)[Main points for employees in brief](for-
 employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
 questions?](for-employees.html#c439184)[Main points for employees in
@@ -87,14 +87,15 @@ Willkommen!
 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.  
   * In the context of the hybrid teaching situation that is currently in operation at HHU, which is a mix of online teaching and on-campus teaching, the core focus currently lies on the realisation of in-person teaching that takes into account the current challenges and which guarantees the strict implementation of all required hygiene and social distancing regulations.
-  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended from 02 November to 30 November in the light of the relevant rulings by the Federal Government. Persons whose physical presence is required on campus as well as persons who can perform their duties only on campus continue to be obliged to come to campus for work. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. The responsible supervisors are tasked to organise and guarantee operational functions under these conditions.
+  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended from 02 November to 15 January 2021 in the light of the relevant rulings by the Federal Government. Persons whose physical presence is required on campus as well as persons who can perform their duties only on campus continue to be obliged to come to campus for work. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. The responsible supervisors are tasked to organise and guarantee operational functions under these conditions.
   * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is under certain conditions which will be explained below, possible to work from home/perform telework irrespective of the relevant service agreement.
   * Employees who have been diagnosed with SARS-CoV-2 must not enter the premises of Heinrich Heine University (buildings or grounds) until they can prove that are no longer infected and/or infectious.  
   * Employees who have entered Germany from one of the high-risk areas as specified by the German Government and employees who were or still are in close contact with a person who is infected with COVID-19 must not enter HHU’s campus if they have to undergo a period of self-isolation mandated by either the appropriate health authorities or stipulated by NRW state legislation.  
   * Check the following link on the corona website for [ information about what to do in case of suspected infections and personal contact with infected persons](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
   * Business travel is possible to those countries for which the German Ministry of Foreign Affairs has not issued a travel warning.  At this time, business travel to high-risk areas is banned. This business travel ban also extends to districts (‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence value  ≥ 50.
 
-Last updated: 30 October 2020  
+Last updated: 27 November 2020: Main points for employees in brief; general
+guidelines.  
   
 Preliminary comment:  
 **For employees who work in the Faculty of Medicine or at UKD, the regulations
@@ -106,15 +107,15 @@ of Düsseldorf University Hospital apply for all topics addressed here.**
 
 ## General guidelines
 
-[Updated on: 30 October 2020]
+[Updated on: 27 November 2020]
 
 To protect your own health and to avoid further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
 regardless of whether first symptoms of the disease have already appeared.
 
 The regulations concerning work from home/telework as stipulated in the
-relevant service agreement have been suspended from 02 November to 30 November
-in the light of the relevant rulings by the Federal Government. Persons whose
+relevant service agreement have been suspended until 15 January 2021 in the
+light of the relevant rulings by the Federal Government. Persons whose
 physical presence is required on campus as well as persons who can perform
 their duties only on campus continue to be obliged to come to campus for work.
 For all other persons it is possible to fully or in parts work from
