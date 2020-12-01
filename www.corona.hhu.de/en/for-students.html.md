@@ -1,11 +1,11 @@
-[Jump to content](for-students.html#content)[Information for international
-students](for-students.html#c450971)[Information for students with
+[Jump to content](for-students.html#content)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
 central institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for HHU students](for-
+organisation](for-students.html#c450965)[Information for international
+students](for-students.html#c450971)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
@@ -90,10 +90,10 @@ and that you check your HHU e-mail account on regular basis.
 
 ## Main points for students in brief
 
+  * From 02 December on, in accordance with the new General Decree passed by the State of NRW, on-campus activities are no longer permitted until further notice. **Teaching will exclusively take place online.** One exception are classes and on-campus events where personal attendance is vital because the participants depend on special rooms (such as laboratories) or other special framework conditions (e.g. bedside teaching). Another exception are courses for first-year students in bachelor’s and state examination study programmes that have already started. In accordance with the previous regulations, examinations can still take place. Access to the library remains as is.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 09 November 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)]. Here you will find information about on-campus courses and about what to do in case of (suspected) infections.
   * From 02 November 2020 on, there will be study rooms available on campus for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use below under the topic ‘study rooms on campus’.  
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
