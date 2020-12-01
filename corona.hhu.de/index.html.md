@@ -77,11 +77,10 @@ Willkommen!
 
 ## Das Wichtigste in Kürze
 
+  * Aufgrund der neuen Allgemeinverfügung des Landes NRW sind ab dem 2. Dezember bis auf Weiteres Präsenzveranstaltungen nicht mehr erlaubt. **Die gesamte Lehre findet online statt.** Eine Ausnahme gilt für Lehr- und Praxisveranstaltungen, die zwingend in Präsenz abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z. B. Labore) oder sonstige besondere Rahmenbedingungen (z. B. Unterricht am Krankenbett) angewiesen sind. Ausgenommen sind zudem bereits laufende Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen. Prüfungen bleiben nach den bisherigen Regelungen zulässig. Der Zugang zur Bibliothek bleibt unverändert.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten.
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen, Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
-  * Die offizielle Begrüßung der Erstsemester durch die Rektorin und den Prorektor für Studienqualität fand am 2. November 2020 im Rahmen einer [virtuellen Erstsemesterbegrüßung](https://hhu.expo-ip.com/) statt.
-  * Hier finden Sie [ Hinweise zum Ablauf von Präsenzlehrveranstaltungen und zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 09.11.2020) umzugehen ist.
   * Hier finden Sie Hinweise zu der Frage, wie [ betroffene Mitarbeiter/innen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf) und [ Fachvorgesetzte](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf) mit Infektions(verdachts)fällen umzugehen haben.
   * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](../www.corona.hhu.de/fuer-beschaeftigte.html#c452970) zusammengefasst.
@@ -89,7 +88,7 @@ Willkommen!
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 27.11.2020]
+[Letztes Update: 01.12.2020]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
