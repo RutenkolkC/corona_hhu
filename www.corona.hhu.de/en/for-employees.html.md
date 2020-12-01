@@ -1,18 +1,12 @@
-[Jump to content](for-employees.html#content)[General guidelines](for-
-employees.html#c452967)[Regulations for employees with a severe pre-existing
-condition or employees who live in the same household as a person with a
-severe pre-existing condition, in effect from 29 June 2020](for-
-employees.html#c452968)[Working from home and teleworking](for-
-employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
-University Administration Information](for-employees.html#c452971)[Support for
-scientists against the background of the coronavirus pandemic](for-
-employees.html#c452972)["Employees" topic group](for-
-employees.html#c438661)[Main points for employees in brief](for-
-employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
-questions?](for-employees.html#c439184)[Main points for employees in
-brief](for-employees.html#c438663)
+Jump to contentGeneral guidelinesRegulations for employees with a severe pre-
+existing condition or employees who live in the same household as a person
+with a severe pre-existing condition, in effect from 29 June 2020Working from
+home and teleworkingBusiness tripsCentral University Administration
+InformationSupport for scientists against the background of the coronavirus
+pandemic"Employees" topic groupMain points for employees in
+briefEmployeesStill have questions?Main points for employees in brief
 
-  * [DE](../fuer-beschaeftigte.html)
+  * [DE](/fuer-beschaeftigte)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -25,21 +19,21 @@ brief](for-employees.html#c438663)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](/en/)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -47,7 +41,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [DE](../fuer-beschaeftigte.html)
+  * [DE](/fuer-beschaeftigte)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -64,20 +58,20 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+[To homepage: HHU information on coronavirus](/en/)
 
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
-**for employees**
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/) **for
+employees**
 
 # Employees
 
@@ -91,7 +85,7 @@ Willkommen!
   * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is under certain conditions which will be explained below, possible to work from home/perform telework irrespective of the relevant service agreement.
   * Employees who have been diagnosed with SARS-CoV-2 must not enter the premises of Heinrich Heine University (buildings or grounds) until they can prove that are no longer infected and/or infectious.  
   * Employees who have entered Germany from one of the high-risk areas as specified by the German Government and employees who were or still are in close contact with a person who is infected with COVID-19 must not enter HHU’s campus if they have to undergo a period of self-isolation mandated by either the appropriate health authorities or stipulated by NRW state legislation.  
-  * Check the following link on the corona website for [ information about what to do in case of suspected infections and personal contact with infected persons](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
+  * Check the following link on the corona website for [information about what to do in case of suspected infections and personal contact with infected persons](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy).
   * Business travel is possible to those countries for which the German Ministry of Foreign Affairs has not issued a travel warning.  At this time, business travel to high-risk areas is banned. This business travel ban also extends to districts (‚Kreis‘) and towns independent of a ‚Kreis‘ within Germany with an incidence value  ≥ 50.
 
 Last updated: 27 November 2020: Main points for employees in brief; general
@@ -103,7 +97,7 @@ of Düsseldorf University Hospital apply for all topics addressed here.**
 
 ## Employees
 
-## [ General guidelines ](for-employees.html#)
+##  General guidelines
 
 ## General guidelines
 
@@ -139,9 +133,9 @@ certificate which they must carry with them at all times. 
   3. 4Employees who have entered Germany from an international ‚high-risk area‘ as specified by the German Federal Government and employees who were or are still in close contact with a person who is infected with COVID-19 e.g. because they live in the same household or because they are their carers, must not enter HHU campus for as long as the health authorities or the appropriate [NRW regulations](https://www.mags.nrw./coronavirus) stipulate a period of self-isolation.  
   4. 5Continued remuneration for the time of self-isolation by order of the appropriate authorities and the resulting ban from entering HHU campus will be in accordance with the appropriate legislation and the German Infection Protection Act. Normally, HHU will continue to pay your wages for six weeks to then claim a refund for this sum from the appropriate authorities. Should the legal provisions change, e.g. if in certain cases people returning from high-risk areas are no longer entitled to receive any payments, HHU will, of course, implement these new regulations. Employees who have been mandated to self-isolate or who self-isolate in accordance with state legislations are obliged to contact Division 3 (Personnel Management Division) immediately .
 
-## [ Regulations for employees with a severe pre-existing condition or
+##  Regulations for employees with a severe pre-existing condition or
 employees who live in the same household as a person with a severe pre-
-existing condition, in effect from 29 June 2020 ](for-employees.html#)
+existing condition, in effect from 29 June 2020
 
 ## Regulations for employees with a severe pre-existing condition or employees
 who live in the same household as a person with a severe pre-existing
@@ -170,7 +164,7 @@ mentioned are authorised to define additional requirements in addition to the
 approval of the supervisor. From 29 June on, there will be a new item in the
 FLAZ system „Besonderer Arbeitsort (BAO)“ to reflect this. 
 
-## [ Working from home and teleworking ](for-employees.html#)
+##  Working from home and teleworking
 
 ## Working from home and teleworking
 
@@ -190,7 +184,7 @@ information on how to get access to HHU systems (VPN, WebDAV) so you can work
 from home and how to set up video conferences: [ZIM
 Wiki.](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
-## [ Business trips ](for-employees.html#)
+##  Business trips
 
 ## Business trips
 
@@ -224,7 +218,7 @@ downloads/formulare-und-informationen-d3/dienstreisen-dienstgaenge-und-
 fortbildungsreisen/aktuelle-informationen-zu-reiseeinschraenkungen-wegen-der-
 coronavirus-epidemie.html).
 
-## [ Central University Administration Information ](for-employees.html#)
+##  Central University Administration Information
 
 ## Central University Administration Information
 
@@ -265,8 +259,7 @@ may only be attached to the windows and glass doors in the foyers of the
 buildings. For all other announcements/bills, HHU’s billposting policy still
 applies.
 
-## [ Support for scientists against the background of the coronavirus pandemic
-](for-employees.html#)
+##  Support for scientists against the background of the coronavirus pandemic
 
 ## Support for scientists against the background of the coronavirus pandemic
 
@@ -289,7 +282,7 @@ scientists, we have compiled it here in the following guidelines:
   * HHU explicitly offers the possibility to make use of the regulations of section 4 (6) in the academic workload guidelines to count the compilation and maintenance of multimedia and virtual lectures with up to 25 per cent towards the academic workload requirements, provided it can be guaranteed that all courses can be offered in their entirety in the individual subjects. It is the dean’s responsibility to ascertain that these criteria are met. 
 
 [ Download as info
-sheet](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Erleichterungen_Wissenschaft_2020-09-28_GB.pdf).
+sheet](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Erleichterungen_Wissenschaft_2020-09-28_GB.pdf).
 
 * * *
 

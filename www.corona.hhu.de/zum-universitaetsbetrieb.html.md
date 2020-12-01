@@ -1,18 +1,11 @@
-[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Videokonferenzen
-und Online-Lehre](zum-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-
-Angst aus](zum-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
-universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007) [(Kopie 3)](zum-
-universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
-universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
-Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
-universitaetsbetrieb.html#c453016)[Noch unbeantwortete Fragen?](zum-
-universitaetsbetrieb.html#c439220)[Das Wichtigste zum Universitätsbetrieb in
-Kürze](zum-universitaetsbetrieb.html#c438675)
+Zum Inhalt springenVideokonferenzen und Online-LehreHacker nutzen Corona-Angst
+ausGremienarbeitVeranstaltungen, Tagungen, WorkshopsGebäudeschließungen (Kopie
+3)Informationen zum UniversitätsbetriebDas Wichtigste zum Universitätsbetrieb
+in KürzeUniversitätsbetriebNoch unbeantwortete Fragen?Das Wichtigste zum
+Universitätsbetrieb in Kürze
 
   * DE
-  * [EN](en/university-operations.html)
+  * [EN](/en/university-operations)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -24,21 +17,21 @@ Kürze](zum-universitaetsbetrieb.html#c438675)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
-    * [Informationen ...](../corona.hhu.de/index.html)
-    * [für Studierende](fuer-studierende.html)
-    * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
-    * [für Beschäftigte](fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+  * [HHU-Informationen zu Corona](/)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -47,7 +40,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](en/university-operations.html)
+  * [EN](/en/university-operations)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -63,21 +56,20 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
-Corona](../corona.hhu.de/index.html)
+[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
 
-    * [Informationen ...](../corona.hhu.de/index.html)
-    * [für Studierende](fuer-studierende.html)
-    * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
-    * [für Beschäftigte](fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu
-Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **zum
+Universitätsbetrieb**
 
 # zum Universitätsbetrieb
 
@@ -93,7 +85,7 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Universitätsbetrieb
 
-## [ Gremienarbeit ](zum-universitaetsbetrieb.html#)
+##  Gremienarbeit
 
 ## Gremienarbeit
 
@@ -103,11 +95,10 @@ Handlungsleitfaden für die Durchführung von universitätsinternen
 Gremiensitzungen (z.B. Fakultätsräte, Ausschüsse, Berufungskommissionen o.ä.)
 und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 
-[ Zum
-Handlungsleitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
+[ Zum Handlungsleitfaden](/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
 Gremien_Stand_2020-11-05.pdf) (PDF-Download)
 
-## [ Veranstaltungen ](zum-universitaetsbetrieb.html#)
+##  Veranstaltungen
 
 ## Veranstaltungen, Tagungen, Workshops
 
@@ -123,7 +114,7 @@ stattfinden.
 Das Haus der Universität und Schloss Mickeln sind bis zum Jahresende für die
 Öffentlichkeit geschlossen.
 
-## [ Gebäudeschließungen ](zum-universitaetsbetrieb.html#)
+##  Gebäudeschließungen
 
 ## Gebäudeschließungen
 
@@ -143,7 +134,7 @@ werden nicht von der HHU, sondern vom Studierendenwerk betrieben. Aktuelle
 Informationen zu den gastronomischen Einrichtungen auf dem Campus sind demnach
 auf der [Website des Studierendenwerks](https://www.stw-d.de) zu finden.
 
-## [ Videokonferenzen und Online-Lehre ](zum-universitaetsbetrieb.html#)
+##  Videokonferenzen und Online-Lehre
 
 ## Videokonferenzen und Online-Lehre
 
@@ -189,8 +180,7 @@ ein Eingriff in die Lehrfreiheit.“
 von Videokonferenzen (Intranet).](https://www.mitarbeiter.hhu.de/news-
 detailansicht/article/zoom-oder-nicht-zoom.html)
 
-## [ Achtung: Hacker nutzen Corona-Angst aus! ](zum-
-universitaetsbetrieb.html#)
+##  Achtung: Hacker nutzen Corona-Angst aus!
 
 ## Hacker nutzen Corona-Angst aus
 

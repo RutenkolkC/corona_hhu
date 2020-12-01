@@ -1,22 +1,13 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
-Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
-studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
-chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
-Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
-Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
-studierende.html#c439254)[Das Wichtigste für Studierende in Kürze](fuer-
-studierende.html#c438637)[Lernräume auf dem Campus](fuer-
-studierende.html#c513981)
+Zum Inhalt springenAllgemeine InformationenLehr- und
+StudienbetriebTerminePrüfungenStudienorganisationServices der zentralen
+EinrichtungenInformationen der FakultätenWeitere InformationenInternationale
+StudierendeInformationen für Studierende mit Behinderung oder chronischen
+ErkrankungenInformationen für StudierendeDas Wichtigste für Studierende in
+KürzeNoch unbeantwortete Fragen?Das Wichtigste für Studierende in
+KürzeLernräume auf dem Campus
 
   * DE
-  * [EN](en/for-students.html)
+  * [EN](/en/for-students)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -28,21 +19,21 @@ studierende.html#c513981)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
-    * [Informationen ...](../corona.hhu.de/index.html)
-    * [für Studierende](fuer-studierende.html)
-    * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
-    * [für Beschäftigte](fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+  * [HHU-Informationen zu Corona](/)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -51,7 +42,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](en/for-students.html)
+  * [EN](/en/for-students)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -67,21 +58,19 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
-Corona](../corona.hhu.de/index.html)
+[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
 
-    * [Informationen ...](../corona.hhu.de/index.html)
-    * [für Studierende](fuer-studierende.html)
-    * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
-    * [für Beschäftigte](fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu
-Corona](../corona.hhu.de/index.html) **für Studierende**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **für Studierende**
 
 # Studierende
 
@@ -105,7 +94,7 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
 
 Letzte Aktualisierungen:  01.12.2020: Das Wichtigste in Kürze.
 
-## [ Allgemeine Informationen ](fuer-studierende.html#)
+##  Allgemeine Informationen
 
 ## Allgemeine Informationen
 
@@ -128,9 +117,9 @@ Webseite.
 
 Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
 Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+2020/2021](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 [
-](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)an
+](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)an
 der HHU (Stand: 09.11.2020).
 
 Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren
@@ -142,7 +131,7 @@ vier Wochen vor dem Zugriff Unbefugter gesichert aufbewahrt, im Bedarfsfall
 der zuständigen Behörde zur Verfügung gestellt und nach Ablauf der vier Wochen
 vernichtet.
 
-## [ Termine ](fuer-studierende.html#)
+##  Termine
 
 ## Termine
 
@@ -163,7 +152,7 @@ Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
 bis 5. April 2021).  
 
 
-## [ Lehr- und Studienbetrieb ](fuer-studierende.html#)
+##  Lehr- und Studienbetrieb
 
 ## Lehr- und Studienbetrieb
 
@@ -198,7 +187,7 @@ Verfahrensweisen in der zuletzt gültigen Fassung finden Sie unter:
 
 [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen
 im Wintersemester 2020/2021 an der
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+HHU](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 (Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
@@ -211,9 +200,9 @@ etc.) ist die durch die Coronaschutzverordnung vorgeschriebene
 Rückverfolgbarkeit von Infektionsketten sicherzustellen. Die Lehrenden werden
 hierfür Ihre Kontaktdaten (Name, Matrikelnummer, Telefonnummer) aller in der
 Präsenzveranstaltung anwesenden Personen erheben und können hierfür [ diesen
-Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+Vordruck](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
 Die dazugehörigen [ Datenschutzhinweise können
-hier](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
+hier](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
 heruntergeladen werden.
 
 #### Online-Lehre
@@ -223,7 +212,7 @@ stattfinden.** Wir haben Ihnen ein paar [Tipps und Tricks für das digitale
 Studium](https://www.hhu.de/lehre/tipps-und-tricks-fuer-das-digitale-studium
 "Tipps") zusammengestellt.
 
-## [ Lernräume auf dem Campus ](fuer-studierende.html#)
+##  Lernräume auf dem Campus
 
 ## Lernräume auf dem Campus
 
@@ -246,7 +235,7 @@ zur Einzelnutzung und in erster Linie für die Teilnahme an der Onlinelehre
 gedacht, die eine aktive Teilnahme der Studierenden erfordern. Aktive
 Teilnahme heißt beispielweise, dass mitdiskutiert werden muss. Nutzer*innen
 sind verpflichtet, die Regeln einzuhalten. Neben den allgemeinen [
-Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf)
+Verhaltensregeln](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf)
 gehört dazu insbesondere die Verpflichtung, den Raum nur einzeln zu nutzen.
 Eine Nutzung in Gruppen oder für andere Zwecke als die Teilnahme an Online-
 Kursen ist nicht gestattet. Reine Lernplätze stehen in der Bibliothek zur
@@ -279,7 +268,7 @@ Die Nutzung anderer (freier) Hörsäle als Lernort ist nicht gestattet.
 Für die Nutzung eines Lernplatzes im Hörsaal ist keine Voranmeldung nötig.
 Interessierte melden sich am Haupteingang des Hörsaals beim Aufsichtspersonal
 an und geben ihre Kontaktdaten [ über diesen
-Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+Vordruck](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
 ab, den Sie bereits ausgedruckt mitbringen. Die Hörsäle dürfen nur mit einer
 beschränkten Anzahl an Personen belegt werden. Sofern noch ein belegbarer
 Sitzplatz frei ist, wird Ihnen nach Abgabe Ihrer Kontaktdaten ein Sitzplatz im
@@ -293,7 +282,7 @@ im Saal auf ein Minimum reduziert wird.
 
 Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
 Zu den Regeln gehören die [ allgemeinen
-Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf) 
+Verhaltensregeln](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf) 
 sowie insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
 Kommilitonen nicht beim Lernen zu stören. Die Einhaltung der Regeln wird durch
 das Aufsichtspersonal überprüft.
@@ -301,7 +290,7 @@ das Aufsichtspersonal überprüft.
 Sollte sich herausstellen, dass gegen die geltenden Regeln verstoßen wird,
 muss das Angebot leider wieder eingestellt werden.
 
-## [ Prüfungen ](fuer-studierende.html#)
+##  Prüfungen
 
 ## Prüfungen
 
@@ -312,9 +301,9 @@ muss das Angebot leider wieder eingestellt werden.
 Das Rektorat der HHU hat Regelungen zur Umsetzung der Corona-Epidemie-
 Hochschulverordnung (CEHVO) beschlossen.
 
-  * [ HHU-Regelungen vom 7. Mai 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
-  * [ Erste Änderung der Regelungen vom 21.08.2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
-  * [ Zweite Änderung der Regelungen vom 02.09.2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
+  * [ HHU-Regelungen vom 7. Mai 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
+  * [ Erste Änderung der Regelungen vom 21.08.2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
+  * [ Zweite Änderung der Regelungen vom 02.09.2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
 
 Durch die Regelungen werden insbesondere Aspekte wie flexible Lehr- und
 Prüfungsformate, Rücktrittsregelungen, Freiversuchs- bzw.
@@ -334,7 +323,7 @@ zuständigen Studiendekanate.
 
 Bei Prüfungen in Präsenz wie auch bei Klausureneinsichten sind die Regelungen
 des [ HHU-
-Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
+Hygienekonzepts](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
 einzuhalten. Ihre Dozierenden informieren Sie im Vorfeld der Prüfung ggbf.
 über weitere Hygienemaßnahmen. Bitte machen Sie sich mit den Regelungen und
 Abläufen vertraut und beachten Sie diese zwingend.
@@ -369,7 +358,7 @@ Prüfung erfolgen. Der Rücktritt kann direkt gegenüber dem Prüfer bzw. der
 Prüferin erklärt werden. Ein Rücktritt mit ärztlichem Attest aufgrund akut
 auftretender Prüfungsunfähigkeit ist auch am Tag der Prüfung möglich.
 
-## [ Studienorganisation ](fuer-studierende.html#)
+##  Studienorganisation
 
 ## Studienorganisation
 
@@ -440,7 +429,7 @@ Sommersemester verschieben, zum 01.11.2020 erneut für ein Stipendium bewerben,
 da die Stipendien an das Kalenderjahr gebunden sind. Fragen hierzu beantwortet
 .
 
-## [ Internationale Studierende ](fuer-studierende.html#)
+##  Internationale Studierende
 
 ## Internationale Studierende
 
@@ -486,8 +475,8 @@ Studienabschluss an der HHU anstreben, wenn sich bei Fragen per E-Mail an den
 Mit generellen Fragen zum Studieneinstieg wenden Sie sich bitte per E-Mail an
 den .
 
-## [ Informationen für Studierende mit Behinderung oder chronischen
-Erkrankungen ](fuer-studierende.html#)
+##  Informationen für Studierende mit Behinderung oder chronischen
+Erkrankungen
 
 ## Informationen für Studierende mit Behinderung oder chronischen Erkrankungen
 
@@ -505,7 +494,7 @@ digitale Lehre für
 Studierende“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/studierende-
 barrierefrei-hhu_Juli2020erg.pdf) [PDF-Dokument]
 
-## [ Services der zentralen Einrichtungen ](fuer-studierende.html#)
+##  Services der zentralen Einrichtungen
 
 ## Services der zentralen Einrichtungen
 
@@ -561,7 +550,7 @@ sich einen Webex-Account inklusive Lizenz erstellen, den Sie über die
 Schnittstelle auch wieder löschen können. Details erfahren Sie im [Wiki des
 ZIM](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366).
 
-## [ Informationen der Fakultäten ](fuer-studierende.html#)
+##  Informationen der Fakultäten
 
 ## Informationen der Fakultäten
 
@@ -574,7 +563,7 @@ fakultätsspezifischen Regelungen.
   * [Philosophische Fakultät](https://www.philo.hhu.de/)
   * [Wirtschaftswissenschaftliche Fakultät](https://www.wiwi.hhu.de/)
 
-## [ Weitere Informationen ](fuer-studierende.html#)
+##  Weitere Informationen
 
 ## Weitere Informationen
 
@@ -592,11 +581,11 @@ der Rektorin vom 7. April 2020
 "Video3") vom 25.05.2020  
   
 [ E-Mail-Text der
-Rektorin](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200715_Email-
+Rektorin](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200715_Email-
 R_Ende-Sommersemester.pdf) vom 15.07.2020
 
 [ E-Mail-Text der
-Rektorin](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_1.pdf)
+Rektorin](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_1.pdf)
 vom 31.08.2020
 
 * * *

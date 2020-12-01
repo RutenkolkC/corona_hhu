@@ -1,8 +1,7 @@
-[Jump to content](what-should.html#content)[What should I do if I had contact
-with an infected person or a person who is suspected to have contracted
-COVID-19?](what-should.html#c438776)
+Jump to contentWhat should I do if I had contact with an infected person or a
+person who is suspected to have contracted COVID-19?
 
-  * [ DE](../../../../../zu-covid-19-verdachts-und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-verdachtsfaellen/kontakt-mit-infizierten-verdachtsfaellen.html)
+  * [ DE](/zu-covid-19-verdachts-und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-verdachtsfaellen/kontakt-mit-infizierten-verdachtsfaellen)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -15,21 +14,21 @@ COVID-19?](what-should.html#c438776)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](../../../../index.html)
-    * [Information ...](../../../../index.html)
-    * [for students](../../../../for-students.html)
-    * [for lecturers](../../../../for-lecturers.html)
-    * [on research](../../../../research.html)
-    * [for employees](../../../../for-employees.html)
-    * [on university operations](../../../../university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](/en/)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -37,7 +36,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [ DE](../../../../../zu-covid-19-verdachts-und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-verdachtsfaellen/kontakt-mit-infizierten-verdachtsfaellen.html)
+  * [ DE](/zu-covid-19-verdachts-und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-verdachtsfaellen/kontakt-mit-infizierten-verdachtsfaellen)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -54,25 +53,25 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](../../../../index.html)
+[To homepage: HHU information on coronavirus](/en/)
 
-    * [Information ...](../../../../index.html)
-    * [for students](../../../../for-students.html)
-    * [for lecturers](../../../../for-lecturers.html)
-    * [on research](../../../../research.html)
-    * [for employees](../../../../for-employees.html)
-    * [on university operations](../../../../university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
-[HHU](https://www.hhu.de/en/)[HHU information on
-coronavirus](../../../../index.html)[on COVID-19, Suspected and confirmed
-cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-
-confirmed-cases-hygiene-policy)[What should I do if I had contact with an
-infected person or a person who is suspected to have contracted
-COVID-19?](../what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-
-person-who-is-suspected-to-have-contracted-covid-19.html) **What should I do
-if I had contact with an infected person or a person who is suspected to have
-contracted COVID-19?**
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/)[on
+COVID-19, Suspected and confirmed cases, Hygiene
+policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)[What should
+I do if I had contact with an infected person or a person who is suspected to
+have contracted COVID-19?](/en/covid-19-suspected-and-confirmed-cases-hygiene-
+policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-
+with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-
+covid-19) **What should I do if I had contact with an infected person or a
+person who is suspected to have contracted COVID-19?**
 
 # What should I do if I had contact with an infected person or a person who is
 suspected to have contracted COVID-19?
@@ -90,13 +89,13 @@ below:
   
 Then please contact your supervisor and observe the following information:  
 \- [ Fact sheet
-Kontaktpersonen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/COVID-19-Kontaktperson-
+Kontaktpersonen](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/COVID-19-Kontaktperson-
 Information-2020-03-26.pdf) (Download)  
 \- [ Fact sheet
-Symptomkontrolle](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-
+Symptomkontrolle](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-
 CoV-2_2020-03-26.pdf) (Download)  
 \- [ Form Ermittlung
-Kontaktpersonen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
+Kontaktpersonen](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
 SARS-CoV-2_2020-03-27.pdf) (Download)  
   
 If you have any questions, please contact  .  

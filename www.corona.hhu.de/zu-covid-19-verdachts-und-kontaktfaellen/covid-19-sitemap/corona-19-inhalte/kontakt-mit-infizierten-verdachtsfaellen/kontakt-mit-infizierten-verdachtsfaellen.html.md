@@ -1,10 +1,8 @@
-[Zum Inhalt springen](kontakt-mit-infizierten-
-verdachtsfaellen.html#content)[Was ist zu tun, wenn ich in Kontakt stand mit
-einer infizierten Person oder einem Verdachtsfall?](kontakt-mit-infizierten-
-verdachtsfaellen.html#c438776)
+Zum Inhalt springenWas ist zu tun, wenn ich in Kontakt stand mit einer
+infizierten Person oder einem Verdachtsfall?
 
   * DE
-  * [ EN](../../../../en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
+  * [ EN](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -16,21 +14,21 @@ verdachtsfaellen.html#c438776)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../../../../../corona.hhu.de/index.html)
-    * [Informationen ...](../../../../../corona.hhu.de/index.html)
-    * [für Studierende](../../../../fuer-studierende.html)
-    * [für Lehrende](../../../../fuer-lehrende.html)
-    * [zur Forschung](../../../../zur-forschung.html)
-    * [für Beschäftigte](../../../../fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](../../../../zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../../../../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+  * [HHU-Informationen zu Corona](/)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -39,7 +37,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [ EN](../../../../en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
+  * [ EN](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -55,24 +53,23 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
-Corona](../../../../../corona.hhu.de/index.html)
+[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
 
-    * [Informationen ...](../../../../../corona.hhu.de/index.html)
-    * [für Studierende](../../../../fuer-studierende.html)
-    * [für Lehrende](../../../../fuer-lehrende.html)
-    * [zur Forschung](../../../../zur-forschung.html)
-    * [für Beschäftigte](../../../../fuer-beschaeftigte.html)
-    * [zum Universitätsbetrieb](../../../../zum-universitaetsbetrieb.html)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../../../../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+    * [Informationen ...](/)
+    * [für Studierende](/fuer-studierende)
+    * [für Lehrende](/fuer-lehrende)
+    * [zur Forschung](/zur-forschung)
+    * [für Beschäftigte](/fuer-beschaeftigte)
+    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu
-Corona](../../../../../corona.hhu.de/index.html)[zu COVID-19, Verdachts- und
-Kontaktfällen, Hygienekonzept](../../../../zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html)[Was ist zu tun, wenn ich in Kontakt stand
-mit einer infizierten Person oder einem Verdachtsfall?](../kontakt-mit-
-infizierten-verdachtsfaellen.html) **Was ist zu tun, wenn ich in Kontakt stand
-mit einer infizierten Person oder einem Verdachtsfall?**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/)[zu COVID-19,
+Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept)[Was ist zu tun, wenn ich in Kontakt stand mit
+einer infizierten Person oder einem Verdachtsfall?](/zu-covid-19-verdachts-
+und-kontaktfaellen/covid-19-sitemap/corona-19-inhalte/kontakt-mit-infizierten-
+verdachtsfaellen) **Was ist zu tun, wenn ich in Kontakt stand mit einer
+infizierten Person oder einem Verdachtsfall?**
 
 # Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder
 einem Verdachtsfall?
@@ -88,17 +85,17 @@ folgende Hinweise:
 Dann informieren Sie bitte Ihre/n Fachvorgesetzten, zudem beachten Sie die
 folgenden Hinweise:  
 \- Informationsblatt Kontaktpersonen (Download [ COVID-19-Kontaktperson-
-Information-2020-03-26.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/COVID-19-Kontaktperson-
+Information-2020-03-26.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/COVID-19-Kontaktperson-
 Information-2020-03-26.pdf))  
 \- Kontaktformular Symptomkontrolle (Download [
 Kontaktperson_Symptomkontrolle_SARS-
-CoV-2_2020-03-26.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-
+CoV-2_2020-03-26.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-
 CoV-2_2020-03-26.pdf))  
 \- Formular Ermittlung Kontaktpersonen (Download [ Kontaktpersonen_Ermittlung-
 SARS-
-CoV-2_2020-03-27.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
+CoV-2_2020-03-27.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
 SARS-CoV-2_2020-03-27.pdf); Download [ Kontaktpersonen_Ermittlung-SARS-
-CoV-2_2020-03-27.xlsx](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
+CoV-2_2020-03-27.xlsx](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-
 SARS-CoV-2_2020-03-27.xlsx))  
 Richten Sie ggf. Ihre Fragen an  .
 

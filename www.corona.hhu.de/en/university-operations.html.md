@@ -1,16 +1,10 @@
-[Jump to content](university-operations.html#content)[Committee
-work](university-operations.html#c453005)[Events, conferences,
-workshops](university-operations.html#c453006)[Closure of
-buildings](university-operations.html#c453007)[Video conferences and online
-teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Information on University
-operations](university-operations.html#c438674)[Main points for university
-operations in brief](university-operations.html#c438676)[University
-operations](university-operations.html#c453016)[Still have
-questions?](university-operations.html#c439220)[Main points for university
-operations in brief](university-operations.html#c438675)
+Jump to contentCommittee workEvents, conferences, workshopsClosure of
+buildingsVideo conferences and online teachingWarning: Hackers exploit fear of
+coronavirus!Information on University operationsMain points for university
+operations in briefUniversity operationsStill have questions?Main points for
+university operations in brief
 
-  * [DE](../zum-universitaetsbetrieb.html)
+  * [DE](/zum-universitaetsbetrieb)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -23,21 +17,21 @@ operations in brief](university-operations.html#c438675)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](/en/)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -45,7 +39,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [DE](../zum-universitaetsbetrieb.html)
+  * [DE](/zum-universitaetsbetrieb)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -62,19 +56,19 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+[To homepage: HHU information on coronavirus](/en/)
 
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html) **on
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/) **on
 university operations**
 
 # University operations
@@ -93,7 +87,7 @@ brief.
 
 ## University operations
 
-## [ Committee work ](university-operations.html#)
+##  Committee work
 
 ## Committee work
 
@@ -104,10 +98,10 @@ councils, boards, appointment committees, et.al.) and for elections during the
 time of limited operations at HHU.
 
 [ To the guidelines (PDF
-Download)](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handlungsleitfaden_Stand_November2020_eng.pdf)  
+Download)](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handlungsleitfaden_Stand_November2020_eng.pdf)  
 
 
-## [ Events, conferences, workshops ](university-operations.html#)
+##  Events, conferences, workshops
 
 ## Events, conferences, workshops
 
@@ -124,7 +118,7 @@ until the end of the year; please [click here for more detailed
 information](https://www.hhu.de/en/news/haus-der-universitaet-wieder-
 geoeffnet).
 
-## [ Closure of buildings ](university-operations.html#)
+##  Closure of buildings
 
 ## Closure of buildings
 
@@ -181,7 +175,7 @@ the operation of the buildings.
 This also applies to buildings in the ‘22’ zone. Persons with an authorised
 access card can still enter the buildings at any time.
 
-## [ Video conferences and online teaching ](university-operations.html#)
+##  Video conferences and online teaching
 
 ## Video conferences and online teaching
 
@@ -226,7 +220,7 @@ interference with academic freedom.”
 video conferences (Intranet)](https://www.mitarbeiter.hhu.de/news-
 detailansicht/article/zoom-oder-nicht-zoom.html).
 
-## [ Hackers exploit fear of coronavirus ](university-operations.html#)
+##  Hackers exploit fear of coronavirus
 
 ## Warning: Hackers exploit fear of coronavirus!
 

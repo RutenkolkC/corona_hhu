@@ -1,16 +1,12 @@
-[Jump to content](research.html#content)[Working in laboratories under
-COVID-19 conditions](research.html#c452941)[Coronavirus-related information of
-funding organisations](research.html#c452942) [Information for international
-scientists/researchers and visiting
-scientists/researchers](research.html#c452943)[Information for doctoral
-students, doctoral supervisors, postdocs, young scientist group leaders and
-assistant professors](research.html#c452944)[Congress trips and project
-meetings (business trips)](research.html#c452945)[Main points for research in
-brief](research.html#c438673)["Research" topic group](research.html#c452951)
-[Still have questions?](research.html#c439236)[Main points for research in
-brief](research.html#c438672)
+Jump to contentWorking in laboratories under COVID-19 conditionsCoronavirus-
+related information of funding organisations Information for international
+scientists/researchers and visiting scientists/researchersInformation for
+doctoral students, doctoral supervisors, postdocs, young scientist group
+leaders and assistant professorsCongress trips and project meetings (business
+trips)Main points for research in brief"Research" topic group Still have
+questions?Main points for research in brief
 
-  * [DE](../zur-forschung.html)
+  * [DE](/zur-forschung)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -23,21 +19,21 @@ brief](research.html#c438672)
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](/en/)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -45,7 +41,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [DE](../zur-forschung.html)
+  * [DE](/zur-forschung)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -62,19 +58,19 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+[To homepage: HHU information on coronavirus](/en/)
 
-    * [Information ...](index.html)
-    * [for students](for-students.html)
-    * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
-    * [for employees](for-employees.html)
-    * [on university operations](university-operations.html)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](/en/)
+    * [for students](/en/for-students)
+    * [for lecturers](/en/for-lecturers)
+    * [on research](/en/research)
+    * [for employees](/en/for-employees)
+    * [on university operations](/en/university-operations)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html) **on
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/) **on
 research**
 
 # Research
@@ -87,7 +83,7 @@ work.
 
 ## "Research" topic group
 
-## [ Working in laboratories under COVID-19 conditions ](research.html#)
+##  Working in laboratories under COVID-19 conditions
 
 ## Working in laboratories under COVID-19 conditions
 
@@ -98,11 +94,10 @@ priority to any information provided by UKD._
 
 Here you will find the leaflet describing hygiene measures in connection with
 research work in laboratories: [ download
-PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Laborbetrieb_04-11-20_Eng.pdf)
+PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Laborbetrieb_04-11-20_Eng.pdf)
 (as of 04 November 2020).
 
-## [ Coronavirus-related information of funding organisations
-](research.html#)
+##  Coronavirus-related information of funding organisations
 
 ## Coronavirus-related information of funding organisations
 
@@ -117,8 +112,8 @@ _Wissenschaftszeitvertragsgesetz_
 (WissZeitVG)](https://www.bmbf.de/de/karrierewege-fuer-den-wissenschaftlichen-
 nachwuchs-an-hochschulen-verbessern-1935.html)
 
-## [ Information for international scientists/researchers and visiting
-scientists/researcherss ](research.html#)
+##  Information for international scientists/researchers and visiting
+scientists/researcherss
 
 ## Information for international scientists/researchers and visiting
 scientists/researchers
@@ -145,8 +140,8 @@ For up-to-date information on the regulations for entering Germany, please
 
 
 
-## [ Information for doctoral students, doctoral supervisors, postdocs, young
-scientist group leaders and assistant professors ](research.html#)
+##  Information for doctoral students, doctoral supervisors, postdocs, young
+scientist group leaders and assistant professors
 
 ## Information for doctoral students, doctoral supervisors, postdocs, young
 scientist group leaders and assistant professors
@@ -202,7 +197,7 @@ professors](http://www.juno.hhu.de/en/events-and-courses.html)
 students and postdocs](https://www.hera.hhu.de/en/hera-travel-grants/corona-
 emergency-grants.html)
 
-## [ Congress trips and project meetings (business trips) ](research.html#)
+##  Congress trips and project meetings (business trips)
 
 ## Congress trips and project meetings (business trips)
 
