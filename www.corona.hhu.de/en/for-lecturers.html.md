@@ -1,9 +1,13 @@
-Jump to contentExaminationsRoom bookingsResources and assistance for online
-teachingInformation pages of facultiesLecturers topic groupMain points for
-lecturers in briefLecturersStill have questions?Main points for lecturers in
-briefTraceability
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
+pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
+lecturers.html#c438666)[Main points for lecturers in brief](for-
+lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
+questions?](for-lecturers.html#c439228)[Main points for lecturers in
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
-  * [DE](/fuer-lehrende)
+  * [DE](../fuer-lehrende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -16,21 +20,21 @@ briefTraceability
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](/en/)
-    * [Information ...](/en/)
-    * [for students](/en/for-students)
-    * [for lecturers](/en/for-lecturers)
-    * [on research](/en/research)
-    * [for employees](/en/for-employees)
-    * [on university operations](/en/university-operations)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](index.html)
+    * [Information ...](index.html)
+    * [for students](for-students.html)
+    * [for lecturers](for-lecturers.html)
+    * [on research](research.html)
+    * [for employees](for-employees.html)
+    * [on university operations](university-operations.html)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -38,7 +42,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [DE](/fuer-lehrende)
+  * [DE](../fuer-lehrende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -55,20 +59,20 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](/en/)
+[To homepage: HHU information on coronavirus](index.html)
 
-    * [Information ...](/en/)
-    * [for students](/en/for-students)
-    * [for lecturers](/en/for-lecturers)
-    * [on research](/en/research)
-    * [for employees](/en/for-employees)
-    * [on university operations](/en/university-operations)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](index.html)
+    * [for students](for-students.html)
+    * [for lecturers](for-lecturers.html)
+    * [on research](research.html)
+    * [for employees](for-employees.html)
+    * [on university operations](university-operations.html)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/) **for
-lecturers**
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
+**for lecturers**
 
 # Lecturers
 
@@ -93,7 +97,7 @@ studying
 
 ## Lecturers
 
-##  Dates
+## [ Dates ](for-lecturers.html#)
 
 ### Dates
 
@@ -112,7 +116,7 @@ long, from 16 February to 12 March 2021. The phase of written examinations
 before summer semester 2021 is planned to take place from 22 March to 09 April
 2021 (over the Easter holidays 2021: from 02 to 05 April 2021). 
 
-##  Teaching activities and studies
+## [ Teaching activities and studies ](for-lecturers.html#)
 
 ** ** [Last updated: 12 November 2020]
 
@@ -139,7 +143,7 @@ semester 2020/2021 at HHU:
 
 [ Specifications regarding the organisation of on-campus teaching for students
 and lecturers in winter semester 2020/2021 at
-HHU](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)
 (as of: 09 November 2020).
 
 These organisation specifications will be updated regularly and adapted in
@@ -166,7 +170,7 @@ way (e.g. via the HHU media library).
 
 
 
-##  Traceability
+## [ Traceability ](for-lecturers.html#)
 
 ## Traceability
 
@@ -179,25 +183,26 @@ which take place on campus in order to be able to trace back potential chains
 of infection in the event of an infection. This applies to courses,
 examinations, exam viewings, info events, consultation hours, the use of study
 rooms, etc. if these activities place on campus. The specifications about on-
-campus courses which you can download from the [hygiene policy
-site](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy), also
-contains information about basic and advanced traceability as well as what to
-do in case of a (suspected) infection in a teaching environment. Please note
-that the collection of this data is for tracing purposes only and that the
-data will only be passed on to the responsible health authorities upon
-request. The lecturers are obliged to collect the data, keep it safe and
-protected from access by unauthorised third parties and to destroy it after
-four weeks in accordance with data protection regulations. 
+campus courses which you can download from the [ hygiene policy
+site](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-
+hygiene-policy), also contains information about basic and advanced
+traceability as well as what to do in case of a (suspected) infection in a
+teaching environment. Please note that the collection of this data is for
+tracing purposes only and that the data will only be passed on to the
+responsible health authorities upon request. The lecturers are obliged to
+collect the data, keep it safe and protected from access by unauthorised third
+parties and to destroy it after four weeks in accordance with data protection
+regulations. 
 
 For the collection of the data you can use [ this
-form](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
 
 The corresponding date protection information [ can be found here in
-German](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
+German](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
 and [ in
-English](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
+English](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
 
-##  Examinations
+## [ Examinations ](for-lecturers.html#)
 
 ## Examinations
 
@@ -208,9 +213,9 @@ English](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumen
 The Rectorate of HHU has adopted regulations to implement the Corona Epidemic
 University Ordinance (CEHVO).
 
-  * [ HHU regulations of 7 May 2020](/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_05_07_AB_26.pdf)
-  * [ Amendment to the regulations dated 12 August 2020](/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_08_21_AB_42.pdf)
-  * [ Second amendment to the regulations dated 2 September 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
+  * [ HHU regulations of 7 May 2020](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_05_07_AB_26.pdf)
+  * [ Amendment to the regulations dated 12 August 2020](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_08_21_AB_42.pdf)
+  * [ Second amendment to the regulations dated 2 September 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
 
 In particular, the regulations mandate aspects such as flexible teaching and
 examination formats, cancellation policies, free exam attempts or resit
@@ -229,28 +234,29 @@ Until further notice, written exams will be coordinated centrally because
 capacities in lecture theatres are limited due to the current hygiene
 regulations. Specifications regarding the use of lecture theatres and [
 recommendations for conducting written exams are provided in this
-guide](/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
+guide](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
 Naturwissenschaftliche_Fakultaet/Dekanat/Dokumente/20_05_20_Empfehlungen_Klausurdurchfuehrung.pdf),
 and in the [ leaflet on hygiene
-measures](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04_GB.pdf)
+measures](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04_GB.pdf)
 for implementing examinations.
 
 Depending on the size of the group, own office rooms, larger seminar rooms or
 lecture theatres can be used to view exam papers in compliance with [ HHU’s
 hygiene
-concept](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pdf)
+concept](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pdf)
 and the traceability regulations. For implementation in seminar rooms and
 lecture theatres, the dates must be registered in a timely manner with the
 respective dean of studies, also stating the preferred time slot and expected
 number of persons. [ Information on viewing exam papers is also provided in
-the guide](/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
+the
+guide](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
 Naturwissenschaftliche_Fakultaet/Dekanat/Dokumente/MNF-
 Empfehlungen_zur_Durchfuehrung_von_Klausureinsichten.pdf).
 
 #### Oral exams
 
 For oral exams requiring in-person presence, the [ hygiene concept
-regulations](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)
+regulations](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201103_ENG.pdf)
 (in particular, continuous adherence to maintaining the minimum distance of
 1.5 metres) must be strictly complied with and traceability must be ensured.
  The relevant examiners are responsible for ensuring compliance.
@@ -261,9 +267,9 @@ Oral and written exams can be taken online. We have developed guidelines for
 this:
 
   * [Online written exams](https://www.philo.hhu.de/en/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren?https%3A%2F%2Fwww_philo_hhu_de%2Fstudium-und-lehre%2Flehre%2Fleitfaden-zur-durchfuehrung-von-online-klausuren_html=&cHash=93277f8562cbdf503e4fe0d975beb6ac)
-  * [ Oral online video examinations](/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
+  * [ Oral online video examinations](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-##  Resources and assistance for online teaching
+## [ Resources and assistance for online teaching ](for-lecturers.html#)
 
 ## Resources and assistance for online teaching
 
@@ -289,7 +295,7 @@ as well as further helpful links surrounding digital teaching at HHU.
 
 You can find general information about setting up low-barrier online teaching
 and examination formats [ in these
-guidelines](/fileadmin/redaktion/Oeffentliche_Medien/Diversity_Portal/Dokumente/onlinelehre_barrierearm_gestalten_Mai20.pdf).
+guidelines](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Diversity_Portal/Dokumente/onlinelehre_barrierearm_gestalten_Mai20.pdf).
 
 #### E-learning consultation hour
 
@@ -338,7 +344,7 @@ material should not be uploaded in ILIAS because this will have a strongly
 negative impact on ILIAS’ performance. Instead, lecture recordings should be
 provided in the HHU media library and interlinked in ILIAS.
 
-##  Room bookings
+## [ Room bookings ](for-lecturers.html#)
 
 ## Room bookings
 
@@ -348,7 +354,7 @@ Room bookings for centrally managed rooms will be coordinated centrally until
 further notice and can only be booked through the deans of studies’ offices or
 the room booking management.
 
-##  Information pages of faculties
+## [ Information pages of faculties ](for-lecturers.html#)
 
 ## Information pages of faculties
 

@@ -1,18 +1,36 @@
-Zum Inhalt springenWichtige Telefonnnummern und KontaktadressenHygienekonzept
-/ Schutzmaßnahmen der HHUCoronavirus / SARS-CoV-2 / COVID-19Plakate
-„Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“Woran erkennt man
-eine Erkrankung?Wie kann man sich schützen?Was ist zu tun, wenn man sich krank
-fühlt?Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person
-oder einem Verdachtsfall?Welche Personen gehören zu besonderen
-Risikogruppen?Informationsvideos zum Coronavirus (Kopie 3)Das Wichtigste zu
-COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in KürzeCOVID-19,
-Verdachts- und KontaktfälleNoch unbeantwortete Fragen?Das Wichtigste zu
-COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in KürzeWas muss ich
-als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder Verdachtsfall
-gemeldet wird?
+[Zum Inhalt springen](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#content)[Was ist zu tun, wenn ich in Kontakt stand mit
+einer infizierten Person oder einem Verdachtsfall?](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#c453062)[Wichtige Telefonnnummern und
+Kontaktadressen](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen der HHU](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
+/ SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
+„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453067)[Woran erkennt man eine Erkrankung?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
+man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453060)[Was ist zu tun, wenn man sich krank fühlt?](zu-
+covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453061)[Informationsvideos zum Coronavirus](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453065)[Welche
+Personen gehören zu besonderen Risikogruppen?](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#c453063) [(Kopie 3)](zu-covid-19-verdachts-
+und-kontaktfaellen-hygienekonzept.html#c452580)[Das Wichtigste zu COVID-19 und
+zum Umgang mit Verdachts- und Kontaktfällen in Kürze](zu-covid-19-verdachts-
+und-kontaktfaellen-hygienekonzept.html#c439137)[COVID-19, Verdachts- und
+Kontaktfälle](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453068)[Noch unbeantwortete Fragen?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c439138)[Das
+Wichtigste zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in
+Kürze](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c439136)[Was muss ich als Fachvorgesetzte*r tun, wenn mir
+ein Infektions- oder Verdachtsfall gemeldet wird?](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#c490924)
 
   * DE
-  * [EN](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -24,21 +42,21 @@ gemeldet wird?
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](/)
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -47,7 +65,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -63,20 +81,22 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
+[Zur Übersichtsseite: HHU-Informationen zu
+Corona](../corona.hhu.de/index.html)
 
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **zu COVID-19,
-Verdachts- und Kontaktfällen, Hygienekonzept**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu
+Corona](../corona.hhu.de/index.html) **zu COVID-19, Verdachts- und
+Kontaktfällen, Hygienekonzept**
 
 # zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept
 
@@ -89,7 +109,8 @@ in Kürze
 
 ## COVID-19, Verdachts- und Kontaktfälle
 
-##  Coronavirus / SARS-CoV-2 / COVID-19
+## [ Coronavirus / SARS-CoV-2 / COVID-19 ](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#)
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
 
@@ -109,7 +130,8 @@ der Universitätsverwaltung, der Leitung des Universitätsklinikums Düsseldorf
 Empfehlungen des Robert-Koch-Instituts (RKI), des Gesundheitsamts Düsseldorf
 sowie des Landes- und Bundesgesundheitsministeriums.
 
-##  Woran erkennt man eine Erkrankung?
+## [ Woran erkennt man eine Erkrankung? ](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#)
 
 ## Woran erkennt man eine Erkrankung?
 
@@ -133,7 +155,8 @@ COVID-19-Erkrankten](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronaviru
 sowie deren [Epidemiologisches Bulletin
 41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
-##  Wie kann man sich schützen?
+## [ Wie kann man sich schützen? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Wie kann man sich schützen?
 
@@ -159,7 +182,8 @@ Institut vor allem:
 Diese Maßnahmen schützen auch vor anderen Atemwegsinfektionen (wie z.B.
 Grippeinfektionen).
 
-##  Was ist zu tun, wenn man sich krank fühlt?
+## [ Was ist zu tun, wenn man sich krank fühlt? ](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#)
 
 ## Was ist zu tun, wenn man sich krank fühlt?
 
@@ -184,8 +208,9 @@ Anrufer*innen getestet werden müssen, kann ein Termin in der zentralen
 Diagnoseeinrichtung (Witzelstraße 54-56), dem Drive-In-Testzentrum oder dem
 mobilen Abstrichdienst der Stadt Düsseldorf vergeben werden.
 
-##  Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person
-oder einem Verdachtsfall?
+## [ Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person
+oder einem Verdachtsfall? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Was ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder
 einem Verdachtsfall?
@@ -196,12 +221,13 @@ Wenn Sie bei Ihrer Tätigkeit an der HHU oder im persönlichen Umfeld engen*
 Kontakt mit an SARS-CoV-2 infizierten Personen hatten, dann beachten Sie bitte
 folgende Hinweise:
 
-  * Umgang mit Verdachts- und Infektionsfällen (Download [ Merkblatt_Umgang mit Verdachts- und Infektionsfaellen_2020-10-06.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf))
-  * Kontaktformular Symptomkontrolle (Download [ Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf))
-  * Formular Ermittlung Kontaktpersonen (Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf); Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx))
+  * Umgang mit Verdachts- und Infektionsfällen (Download [ Merkblatt_Umgang mit Verdachts- und Infektionsfaellen_2020-10-06.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf))
+  * Kontaktformular Symptomkontrolle (Download [ Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf))
+  * Formular Ermittlung Kontaktpersonen (Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf); Download [ Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.xlsx))
 
-##  Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
-Verdachtsfall gemeldet wird?
+## [ Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
+Verdachtsfall gemeldet wird? ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Was muss ich als Fachvorgesetzte*r tun, wenn mir ein Infektions- oder
 Verdachtsfall gemeldet wird?
@@ -211,9 +237,10 @@ Verdachtsfall gemeldet wird?
 Was muss ich als Fachvorgesetzter tun, wenn mir ein Infektions- oder
 Verdachtsfall gemeldet wird:
 
-  * Hinweis für Fachvorgesetzte (Download [ PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf))
+  * Hinweis für Fachvorgesetzte (Download [ PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf))
 
-##  Welche Personen gehören zu besonderen Risikogruppen?
+## [ Welche Personen gehören zu besonderen Risikogruppen? ](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#)
 
 ## Welche Personen gehören zu besonderen Risikogruppen?
 
@@ -231,7 +258,8 @@ Zu den Personen mit erhöhtem Risiko gehören u.a.:
 Zu den entsprechenden [Seiten des
 RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html).
 
-##  Wichtige Telefonnnummern und Kontaktadressen
+## [ Wichtige Telefonnnummern und Kontaktadressen ](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#)
 
 ## Wichtige Telefonnnummern und Kontaktadressen
 
@@ -249,7 +277,8 @@ Die Landesregierung Nordrhein-Westfalen hat eine neue Rufnummer für das
 Bürgertelefon zum Coronavirus eingeführt, sie ist erreichbar unter
 0211-91191001.
 
-##  Hygienekonzept / Schutzmaßnahmen der HHU
+## [ Hygienekonzept / Schutzmaßnahmen der HHU ](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#)
 
 ## Hygienekonzept / Schutzmaßnahmen der HHU
 
@@ -261,23 +290,24 @@ Bereiche.
 
 Zu den Downloads:
 
-  * Unterweisung Schutzmaßnahmen Coronavirus (SARS-CoV 2) [[Download PPTX](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pptx)] [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pdf)]
-  * Merkblatt zu Hygienemaßnahmen im Bürobetrieb [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Buerobetrieb_2020-10-23.pdf)]
-  * Merkblatt zu Hygienemaßnahmen für Verantwortliche bei der Durchführung von Prüfungen [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04.pdf)]
-  * Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten im Labor [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27.pdf)] – Stand 27.08.2020
-  * Merkblatt zu Hygienemaßnahmen bei Praktika und praktischem Unterricht [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Praktikumsbetrieb_2020-08-27.pdf)] – Stand 27.08.2020
-  * Merkblatt zum Umgang mit Kontaktpersonen von Infizierten [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Kontaktpersonen_von_Infizierten_2020-05-04.pdf)] 
-  * Merkblatt zu Hygienemaßnahmen bei der Nutzung von Seminar-/Besprechungsräumen [[Download PDF](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Seminar-und_Besprechungsraeume_2020-10-20.pdf)]
+  * Unterweisung Schutzmaßnahmen Coronavirus (SARS-CoV 2) [[Download PPTX](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pptx)] [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201030.pdf)]
+  * Merkblatt zu Hygienemaßnahmen im Bürobetrieb [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Buerobetrieb_2020-10-23.pdf)]
+  * Merkblatt zu Hygienemaßnahmen für Verantwortliche bei der Durchführung von Prüfungen [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04.pdf)]
+  * Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten im Labor [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Laborbetrieb_2020-08-27.pdf)] – Stand 27.08.2020
+  * Merkblatt zu Hygienemaßnahmen bei Praktika und praktischem Unterricht [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Praktikumsbetrieb_2020-08-27.pdf)] – Stand 27.08.2020
+  * Merkblatt zum Umgang mit Kontaktpersonen von Infizierten [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Kontaktpersonen_von_Infizierten_2020-05-04.pdf)] 
+  * Merkblatt zu Hygienemaßnahmen bei der Nutzung von Seminar-/Besprechungsräumen [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Seminar-und_Besprechungsraeume_2020-10-20.pdf)]
 
 Hier finden Sie eine [ Nähanleitung für einen Behelfs-Mund-Nasen-
-Schutz](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Naehanleitung_Behelfs-
+Schutz](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Naehanleitung_Behelfs-
 Mund-Nase-Schutz.pdf).
 
   
 Wenn Sie darüber hinaus noch Fragen zu den Hygienemaßnahmen haben, schreiben
 Sie bitte eine Nachricht an diese Adresse.
 
-##  Informationsplakate
+## [ Informationsplakate ](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#)
 
 ## Plakate „Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“
 
@@ -286,12 +316,12 @@ Sie bitte eine Nachricht an diese Adresse.
 Es wurde ein Plakat vorbereitet, das allgemeine Hygienemaßnahmen zum Schutz
 vor Ansteckungen mit dem Coronavirus enthält. Dieses Plakat wurde auf dem
 Campus verteilt und es steht als [ PDF-Dokument zum
-Download](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
+Download](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
 Plakat_Allgemeine-Hygienemassnahmen_Okt2020.pdf) bereit. Darüber hinaus gibt
 es Plakate zum [ „Zutritt zum Gebäude nur mit Mund-Nasen-
-Bedeckung“](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
+Bedeckung“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
 Plakat_Maskenpflicht-in-Gebaeuden_Okt2020.pdf) und zum [ „Lüftungsgebot in
-Räumen“](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
+Räumen“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Corona-
 Plakat_Lueften_Okt2020.pdf) als PDF-Dokument zum Download.
 
 Benötigen Sie ein ausgedrucktes Exemplar, dann wenden Sie sich an die

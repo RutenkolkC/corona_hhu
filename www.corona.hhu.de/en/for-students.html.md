@@ -1,11 +1,17 @@
-Jump to contentInformation for students with disabilities or chronic
-illnessesServices of the central institutionsFaculty informationGeneral
-informationFurther informationTeaching and studyingExamsCourse
-organisationInformation for international studentsInformation for HHU
-studentsMain points for students in briefStudentsStill have questions?Main
-points for students in briefDates & Deadlines
+[Jump to content](for-students.html#content)[Course organisation](for-
+students.html#c450965)[Information for international students](for-
+students.html#c450971)[Information for students with disabilities or chronic
+illnesses](for-students.html#c450972)[Services of the central
+institutions](for-students.html#c450973)[Faculty information](for-
+students.html#c450974)[General information](for-students.html#c450916)[Further
+information](for-students.html#c450979)[Teaching and studying](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Information for HHU
+students](for-students.html#c438639)[Main points for students in brief](for-
+students.html#c438638)[Students](for-students.html#c450915)[Still have
+questions?](for-students.html#c439254)[Main points for students in brief](for-
+students.html#c438637)[Dates & Deadlines](for-students.html#c0)
 
-  * [DE](/fuer-studierende)
+  * [DE](../fuer-studierende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -18,21 +24,21 @@ points for students in briefDates & Deadlines
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU information on coronavirus](/en/)
-    * [Information ...](/en/)
-    * [for students](/en/for-students)
-    * [for lecturers](/en/for-lecturers)
-    * [on research](/en/research)
-    * [for employees](/en/for-employees)
-    * [on university operations](/en/university-operations)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+  * [HHU information on coronavirus](index.html)
+    * [Information ...](index.html)
+    * [for students](for-students.html)
+    * [for lecturers](for-lecturers.html)
+    * [on research](research.html)
+    * [for employees](for-employees.html)
+    * [on university operations](university-operations.html)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -40,7 +46,7 @@ Willkommen!
 "YouTube") [](https://twitter.com/HHU_de "Twitter")
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
-  * [DE](/fuer-studierende)
+  * [DE](../fuer-studierende.html)
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
@@ -57,20 +63,20 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](/en/)
+[To homepage: HHU information on coronavirus](index.html)
 
-    * [Information ...](/en/)
-    * [for students](/en/for-students)
-    * [for lecturers](/en/for-lecturers)
-    * [on research](/en/research)
-    * [for employees](/en/for-employees)
-    * [on university operations](/en/university-operations)
-    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
+    * [Information ...](index.html)
+    * [for students](for-students.html)
+    * [for lecturers](for-lecturers.html)
+    * [on research](research.html)
+    * [for employees](for-employees.html)
+    * [on university operations](university-operations.html)
+    * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](/en/) **for
-students**
+[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
+**for students**
 
 # Students
 
@@ -96,7 +102,7 @@ Latest updated: 10 November 2020: Main points in brief; study rooms on campus;
 
 ## Students
 
-##  General information
+## [ General information ](for-students.html#)
 
 ## General information
 
@@ -113,13 +119,12 @@ detected.
   4. Persons from areas within Germany that experience an increased number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
 
 [Click here for more information about the latest hygiene and safety
-regulations on the ‘corona
-website’](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-
+regulations on the ‘corona website’](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html).
 
 Please also observe the [ specifications regarding the organisation of on-
 campus courses at HHU for students and lecturers in winter semester
-2020/2021](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 (as of: 03 November 2020).
 
 To be able to quickly identify and contact any contact persons in case of a
@@ -131,7 +136,7 @@ four weeks to prevent unauthorised access and either be passed on to the
 appropriate authorities should this become necessary or destroyed after four
 weeks. 
 
-##  Dates & Deadlines
+## [ Dates & Deadlines ](for-students.html#)
 
 ## Dates & Deadlines
 
@@ -150,7 +155,7 @@ long and from 16 February to 12 March 2021. The phase of written examinations
 before summer semester 2021 is planned to take place from 22 March to 09 April
 2021 (and includes the Easter holidays 2021: from 02 to 05 April 2021). 
 
-##  Teaching and studying
+## [ Teaching and studying ](for-students.html#)
 
 ## Teaching and studying
 
@@ -180,7 +185,7 @@ here:
 
 [ Specifications regarding the organisation of on-campus teaching for students
 and lecturers in winter semester 2020/2021 at
-HHU](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
+HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
 (as of: 09 November 2020).
 
 The traceability of all participants in case of infection must be guaranteed
@@ -188,9 +193,9 @@ for all on-campus courses and events (lectures, personal consultations,
 examinations, etc.) as stipulated by the Corona Pandemic Ordinance. To that
 aim, the lecturers will note down your contact details (name, matriculation
 number, telephone number). They can use [ this
-form](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
 The corresponding [ data protection information can be downloaded
-here](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
+here](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
 
 #### Online teaching
 
@@ -198,7 +203,7 @@ Most of the courses this winter semester will be virtual. We have compiled a
 few [tips for successfully studying
 online](https://www.hhu.de/en/studium/studienorganisation/digital).
 
-##  Study rooms on campus
+## [ Study rooms on campus ](for-students.html#)
 
 [New: 02 November 2020]
 
@@ -218,7 +223,8 @@ on HHU’s campus. These small study rooms may only be used by one person at a
 time and are primarily intended for participation in online classes which
 require active involvement such as taking an active part in a discussion. It
 is the users’ responsibility to abide by the terms of use. These include,
-besides the [general rules of behaviour](/en/covid-19-suspected-and-confirmed-
+besides the [ general rules of
+behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
 cases-hygiene-policy) the obligation to respect the single-person occupancy
 rule. It is not permitted to use these rooms as a group or for purposes other
 than the participation in online courses. Spaces that are intended exclusively
@@ -252,7 +258,7 @@ You do not need to book a seat in advance in order to use one of the
 workspaces in the lecture theatre. You simply report to the invigilator at the
 entrance of the lecture theatre who will then take your contact details  \-
 please print out and [ fill in this
-form](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
 and bring it with you. Only a limited number of persons can be admitted to a
 single lecture theatre. For as long as there are workspaces available you will
 be admitted after you have left your contact details at the entrance. The
@@ -264,14 +270,15 @@ headphones in order to reduce the background noise in the lecture theatre to
 an absolute minimum. 
 
 It is in the users’ responsibility to comply with the terms of use. They
-include the [general rules of behaviour](/en/covid-19-suspected-and-confirmed-
+include the [ general rules of
+behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
 cases-hygiene-policy)but also the obligation to behave quietly so as not to
 disturb your fellow students. The invigilators will monitor compliance with
 these rules. 
 
 Should these rules be violated we will be forced to end this offer.
 
-##  Exams
+## [ Exams ](for-students.html#)
 
 ## Exams
 
@@ -282,9 +289,9 @@ Should these rules be violated we will be forced to end this offer.
 HHU’s rectorate has adopted regulations for the implementation of the
 Coronavirus Epidemic University Directive (CEHVO).
 
-  * [ HHU’s regulations of 7 May 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
-  * [ First amendment to regulations dated 21 August 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
-  * [ Second amendment to regulations dated 02 September 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
+  * [ HHU’s regulations of 7 May 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
+  * [ First amendment to regulations dated 21 August 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
+  * [ Second amendment to regulations dated 02 September 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
   * The regulations cover, in particular, aspects such as flexible teaching and exam formats, cancellation policies, free exam attempts or resit options, extension of the prescribed period of study during the corona pandemic. These regulations have been in force since 7 May 2020 and apply to the Bachelor’s and Master’s study programmes at HHU until further notice, provided that no deviating regulations were made in the examination regulations.
 
 #### Written exams and viewing of exam papers
@@ -297,7 +304,7 @@ dean of studies’ office by e-mail.
 
 During on-campus exams as well as the viewing of exam papers, [ HHU’s hygiene
 concept
-regulations](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pdf)
+regulations](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pdf)
 must be complied with. Your lecturers will inform you before the exam about
 any possible further hygiene measures. Please familiarise yourself with the
 regulations and procedures – compliance with them is compulsory.
@@ -330,7 +337,7 @@ the examination. To withdraw from an exam, students can contact the examiner
 directly. In case of an acute illness, students may withdraw from the exam
 until the beginning of the exam if they can provide a doctor’s certificate.
 
-##  Course organisation
+## [ Course organisation ](for-students.html#)
 
 ## Course organisation
 
@@ -399,7 +406,7 @@ summer semester must re-apply for a scholarship by 01 November 2020 because
 the scholarships are granted by calendar year only. Please contact  in case of
 any questions.
 
-##  Information for international students
+## [ Information for international students ](for-students.html#)
 
 ## Information for international students
 
@@ -441,7 +448,8 @@ send any questions by .
 
 If you have general questions about starting your studies, please .
 
-##  Information for students with disabilities or chronic illnesses
+## [ Information for students with disabilities or chronic illnesses ](for-
+students.html#)
 
 ## Information for students with disabilities or chronic illnesses
 
@@ -460,7 +468,7 @@ barrierearm-HHU-EN.pdf) [PDF document] you can find more information on low-
 barrier teaching particularly with regard to students with disabilities or
 chronic diseases.
 
-##  Services of the central institutions
+## [ Services of the central institutions ](for-students.html#)
 
 ## Services of the central institutions
 
@@ -512,7 +520,7 @@ also delete this account via the interface. [Check ZIM’s
 wiki](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366) for more
 detailed information.
 
-##  Faculty information
+## [ Faculty information ](for-students.html#)
 
 ## Faculty information
 
@@ -522,7 +530,7 @@ detailed information.
   * [Faculty of Arts and Humanities](http://www.philo.hhu.de/en.html)
   * [Faculty of Business Administration and Economics](http://www.wiwi.hhu.de/en.html)
 
-##  Further information
+## [ Further information ](for-students.html#)
 
 ## Further information
 
@@ -540,11 +548,11 @@ from the President from 7 April 2020
 [Video message](https://www.youtube.com/watch?v=twhMQMf48V0) dated 25 May 2020
 
 [ E-Mail
-message](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Coronavirus__Covid-19_-_Ein_gelungenes_Sommersemester_dank_Ihres_Einsatzes.eml)
+message](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Coronavirus__Covid-19_-_Ein_gelungenes_Sommersemester_dank_Ihres_Einsatzes.eml)
 by HHU’s President dated 16 July 2020
 
 [ E-Mail
-message](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_ENG_1.pdf)
+message](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_ENG_1.pdf)
 by HHU’s President dated 31 August 2020
 
 * * *

@@ -1,14 +1,22 @@
-Zum Inhalt springenErleichterungen für Wissenschaftler/innen vor dem
-Hintergrund der Corona-PandemieDienstreisenInformationen aus der Zentralen
-Universitätsverwaltung (ZUV)Generelle SchutzhinweiseRegelungen für
-Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher
-Gemeinschaft mit schwer vorerkrankten Angehörigen lebenHeim- und Telearbeit /
-Arbeitszeitkonten (Kopie 4)Informationen für BeschäftigteDas Wichtigste für
-Beschäftigte in KürzeBeschäftigteNoch unbeantwortete Fragen?Das Wichtigste für
-Beschäftigte in Kürze
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Erleichterungen für
+Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
+beschaeftigte.html#c452971)[Informationen aus der Zentralen
+Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
+Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
+mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
+mit schwer vorerkrankten Angehörigen leben](fuer-
+beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
+beschaeftigte.html#c452969) [(Kopie 4)](fuer-
+beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
+beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte.html#c438664)[Beschäftigte](fuer-
+beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
+beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte.html#c438663)
 
   * DE
-  * [EN](/en/for-employees)
+  * [EN](en/for-employees.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -20,21 +28,21 @@ Beschäftigte in Kürze
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](/)
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -43,7 +51,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](/en/for-employees)
+  * [EN](en/for-employees.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -59,20 +67,21 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
+[Zur Übersichtsseite: HHU-Informationen zu
+Corona](../corona.hhu.de/index.html)
 
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **für
-Beschäftigte**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu
+Corona](../corona.hhu.de/index.html) **für Beschäftigte**
 
 # für Beschäftigte
 
@@ -86,7 +95,7 @@ Beschäftigte**
   * Für Beschäftigte mit schweren Vorerkrankungen sowie für Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Personen leben, besteht unabhängig von den allgemeinen Regelungen unter bestimmten, unten näher erläuterten Bedingungen die Möglichkeit, in Heim- und Telearbeit zu arbeiten.
   * Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   * Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
-  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept) auf dieser Corona-Website.
+  * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   * Die Möglichkeit von Dienstreisen richtet sich nach den Reisewarnungen der Bundesregierung, bis auf Weiteres sind keine Dienstreisen in Risikogebiete zulässig. . Dieses Dienstreiseverbot gilt ebenfalls für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem Inzidenzwert ≥ 50.
   * Letzte Aktualisierungen: 27.11.2020: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise.
 
@@ -97,7 +106,7 @@ angesprochenen Bereiche die Regelungen des Universitätsklinikums Düsseldorf.**
 
 ## Beschäftigte
 
-##  Generelle Schutzhinweise
+## [ Generelle Schutzhinweise ](fuer-beschaeftigte.html#)
 
 ## Generelle Schutzhinweise
 
@@ -115,7 +124,7 @@ Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein
 ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
 
   1. Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
-  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept) auf dieser Corona-Website.
+  2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   3. Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, weil sie z.B. diese pflegen oder mit ihnen in häuslicher Gemeinschaft leben, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die [allgemeinen Regelungen des Landes NRW](https://www.mags.nrw./coronavirus) häusliche Quarantäne vorgeschrieben ist.
   4. Die Entgeltfortzahlung für die Zeit der von Seiten der zuständigen Behörden angeordneten häuslichen Quarantäne und des daraus resultierenden Betretungsverbots des Campus richtet sich nach den einschlägigen gesetzlichen Regelungen insbesondere des Infektionsschutzgesetzes. Im Normalfall zahlt die HHU das Entgelt längstens sechs Wochen weiter und lässt sich dieses anschließend von den zuständigen Behörden erstatten. Sollte es hier zu rechtlichen Änderungen kommen, denen zufolge z.B. bei Reiserückkehrern aus Risikogebieten unter bestimmten Voraussetzungen keine Lohnfortzahlung mehr erfolgen darf, wird die HHU diese neuen Regelungen selbstverständlich umsetzen.  
 Beschäftigte, bei denen häusliche Quarantäne angeordnet worden ist oder diese
@@ -123,9 +132,9 @@ aufgrund allgemeiner rechtlicher Regelungen des Landes zu beachten ist, sind
 verpflichtet, diesen Sachverhalt unverzüglich dem Dezernat 3
 (Personaldezernat)  zu melden.
 
-##  Regelungen für Beschäftigte mit schweren Vorerkrankungen oder
+## [ Regelungen für Beschäftigte mit schweren Vorerkrankungen oder
 Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten
-Angehörigen leben
+Angehörigen leben ](fuer-beschaeftigte.html#)
 
 ## Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte,
 die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben
@@ -154,7 +163,7 @@ der/des Fachvorgesetzten weitere Voraussetzungen zu definieren. Im
 Zeiterfassungssystem steht für diesen Sachverhalt ab dem 29. Juni 2020 der
 Buchungsgrund „Besonderer Arbeitsort (BAO) zur Verfügung.
 
-##  Heim- und Telearbeit / Arbeitszeitkonten
+## [ Heim- und Telearbeit / Arbeitszeitkonten ](fuer-beschaeftigte.html#)
 
 ## Heim- und Telearbeit / Arbeitszeitkonten
 
@@ -180,8 +189,8 @@ eingerichtet, das Informationen unter anderem zur Einrichtung von
 Telearbeitsmöglichkeiten (VPN, WebDAV) und für Videokonferenzen beschrieben
 werden: [zum Wiki](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
-##  Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-
-Pandemie
+## [ Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-
+Pandemie ](fuer-beschaeftigte.html#)
 
 ## Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-
 Pandemie
@@ -211,9 +220,9 @@ eingereicht werden.
   * Bei Evaluationen, der Überprüfung von Ziel- und Leistungsvereinbarungen und ähnlichen Verfahren z.B. bei Juniorprofessuren, Berufungszusagen etc. werden von der Universitätsleitung selbstverständlich die Behinderungen durch die Corona-Pandemie berücksichtigt. Neben einer Verlängerung der jeweiligen Laufzeit können weitere, dem Einzelfall angemessene Erleichterungen vereinbart werden. Dies ist nach aktueller Einschätzung jedoch erst sinnvoll, wenn die Corona-Pandemie mindestens weitgehend überstanden ist, weil erst dann die Auswirkungen eingeschätzt und angemessene Lösungen gefunden werden können.
   * Bereits bewilligte Forschungssemester, die aufgrund von Notwendigkeiten in der Lehre, der internationalen Reisebeschränkungen oder ähnlicher Gründe nicht sinnvoll angetreten werden können, können im Einvernehmen mit den Dekanen verschoben werden.
   * Die HHU eröffnet ausdrücklich die Möglichkeit, von der Regelung in § 4 Abs. 6 der Lehrverpflichtungsverordnung Gebrauch zu machen, die Erstellung und Betreuung von Multimediaangeboten sowie von virtuell durchgeführten Lehrveranstaltungen mit bis zu 25 Prozent auf die Lehrverpflichtung anzurechnen. Voraussetzung hierfür ist, dass die Vollständigkeit des Lehrangebots im jeweiligen Fach, für die der Dekan die Verantwortung trägt, gesichert ist.
-  * Download PDF: [ Merkblatt zu Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Erleichterungen_Wissenschaft_2020-09-28.pdf)
+  * Download PDF: [ Merkblatt zu Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Erleichterungen_Wissenschaft_2020-09-28.pdf)
 
-##  Dienstreisen
+## [ Dienstreisen ](fuer-beschaeftigte.html#)
 
 ## Dienstreisen
 
@@ -244,7 +253,8 @@ universitaetsverwaltung/dezernat-3-personal/serviceseiten-d3-mit-
 downloads/dienstreisen-dienstgaenge-und-fortbildungsreisen/aktuelle-
 informationen-zu-reiseeinschraenkungen-wegen-der-coronavirus-epidemie).
 
-##  Informationen aus der Zentralen Universitätsverwaltung (ZUV)
+## [ Informationen aus der Zentralen Universitätsverwaltung (ZUV) ](fuer-
+beschaeftigte.html#)
 
 ## Informationen aus der Zentralen Universitätsverwaltung (ZUV)
 

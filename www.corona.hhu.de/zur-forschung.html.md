@@ -1,14 +1,18 @@
-Zum Inhalt springenCorona-Informationen der FörderorganisationenHinweise für
-internationale Wissenschaftler*innen und
-Gastwissenschaftler*innenInformationen für Promovierende,
-Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen und
-JuniorprofessurenKongressreisen und Projekttreffen (Dienstreisen)Laborbetrieb
-unter COVID-19-Bedingungen (Kopie 3)Informationen zur ForschungDas Wichtigste
-zur Forschung in KürzeForschungNoch unbeantwortete Fragen?Das Wichtigste zur
-Forschung in Kürze
+[Zum Inhalt springen](zur-forschung.html#content)[Informationen für
+Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen und
+Juniorprofessuren](zur-forschung.html#c452944)[Kongressreisen und
+Projekttreffen (Dienstreisen)](zur-forschung.html#c452945)[Laborbetrieb unter
+COVID-19-Bedingungen](zur-forschung.html#c452941)[Corona-Informationen der
+Förderorganisationen](zur-forschung.html#c452942)[Hinweise für internationale
+Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
+forschung.html#c452943) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
+zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
+Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
+unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
+Forschung in Kürze](zur-forschung.html#c438672)
 
   * DE
-  * [EN](/en/research)
+  * [EN](en/research.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -20,21 +24,21 @@ Forschung in Kürze
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](/)
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -43,7 +47,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](/en/research)
+  * [EN](en/research.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -59,19 +63,21 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
+[Zur Übersichtsseite: HHU-Informationen zu
+Corona](../corona.hhu.de/index.html)
 
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **zur Forschung**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu
+Corona](../corona.hhu.de/index.html) **zur Forschung**
 
 # zur Forschung
 
@@ -87,7 +93,7 @@ Labor
 
 ## Forschung
 
-##  Laborbetrieb unter COVID-19-Bedingungen
+## [ Laborbetrieb unter COVID-19-Bedingungen ](zur-forschung.html#)
 
 ## Laborbetrieb unter COVID-19-Bedingungen
 
@@ -98,10 +104,10 @@ beachten bitte vorrangig etwaige Hinweise des UKD._
 
 Hier finden Sie die das Merkblatt zu Hygienemaßnahmen bei Forschungsarbeiten
 im Labor: [ Download
-PDF](/fileadmin/Corona_Website/Corona_pdfs/Merkblatt_Laborbetrieb_4.11.2020.pdf)
+PDF](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Merkblatt_Laborbetrieb_4.11.2020.pdf)
 (Stand: 04.11.2020)
 
-##  Corona-Informationen der Förderorganisationen
+## [ Corona-Informationen der Förderorganisationen ](zur-forschung.html#)
 
 ## Corona-Informationen der Förderorganisationen
 
@@ -115,8 +121,8 @@ duesseldorf.de/)
 fuer-den-wissenschaftlichen-nachwuchs-an-hochschulen-verbessern-1935.html
 "Wiss") (WissZeitVG)
 
-##  Hinweise für internationale Wissenschaftler*innen und
-Gastwissenschaftler*innen
+## [ Hinweise für internationale Wissenschaftler*innen und
+Gastwissenschaftler*innen ](zur-forschung.html#)
 
 ## Hinweise für internationale Wissenschaftler*innen und
 Gastwissenschaftler*innen
@@ -140,8 +146,8 @@ center).
 Informationen zu den aktuellen Einreisebestimmungen nach Deutschland [finden
 Sie hier](http://www.juno.hhu.de/covid19-entry).
 
-##  Informationen für Promovierende, Promotionsbetreuende, Postdocs,
-Nachwuchsgruppenleitungen und Juniorprofessuren
+## [ Informationen für Promovierende, Promotionsbetreuende, Postdocs,
+Nachwuchsgruppenleitungen und Juniorprofessuren ](zur-forschung.html#)
 
 ## Informationen für Promovierende, Promotionsbetreuende, Postdocs,
 Nachwuchsgruppenleitungen und Juniorprofessuren
@@ -181,7 +187,7 @@ Nachwuchsgruppenleitungen und Juniorprofessuren
 
   * [Corona-Notfallhilfen für Promovierende und Postdoktorand*innen](http://www.hera.hhu.de/corona-notfallhilfen)
 
-##  Kongressreisen und Projekttreffen (Dienstreisen)
+## [ Kongressreisen und Projekttreffen (Dienstreisen) ](zur-forschung.html#)
 
 ## Kongressreisen und Projekttreffen (Dienstreisen)
 

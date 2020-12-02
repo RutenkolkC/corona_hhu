@@ -1,10 +1,17 @@
-Zum Inhalt springenLehr- und StudienbetriebTerminePrüfungenHilfestellungen für
-die Online-LehreRaumbuchungenInformationsseiten der FakultätenInformationen
-für LehrendeDas Wichtigste für Lehrende in KürzeLehrendeNoch unbeantwortete
-Fragen?Das Wichtigste für Lehrende in KürzeRückverfolgbarkeit
+[Zum Inhalt springen](fuer-lehrende.html#content)[Hilfestellungen für die
+Online-Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Lehr- und Studienbetrieb](fuer-
+lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
+lehrende.html#c452909)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452912)[Informationen für Lehrende](fuer-
+lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
+lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
+unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
+Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
+lehrende.html#c520798)
 
   * DE
-  * [EN](/en/for-lecturers)
+  * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -16,21 +23,21 @@ Fragen?Das Wichtigste für Lehrende in KürzeRückverfolgbarkeit
   * [](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](/)
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 [](https://www.facebook.com/HHU.de/ "Facebook")
 [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
@@ -39,7 +46,7 @@ Willkommen!
 [](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
-  * [EN](/en/for-lecturers)
+  * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
@@ -55,19 +62,21 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu Corona](/)
+[Zur Übersichtsseite: HHU-Informationen zu
+Corona](../corona.hhu.de/index.html)
 
-    * [Informationen ...](/)
-    * [für Studierende](/fuer-studierende)
-    * [für Lehrende](/fuer-lehrende)
-    * [zur Forschung](/zur-forschung)
-    * [für Beschäftigte](/fuer-beschaeftigte)
-    * [zum Universitätsbetrieb](/zum-universitaetsbetrieb)
-    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept)
+    * [Informationen ...](../corona.hhu.de/index.html)
+    * [für Studierende](fuer-studierende.html)
+    * [für Lehrende](fuer-lehrende.html)
+    * [zur Forschung](zur-forschung.html)
+    * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
+    * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/)[HHU-Informationen zu Corona](/) **für Lehrende**
+[HHU](https://www.hhu.de/)[HHU-Informationen zu
+Corona](../corona.hhu.de/index.html) **für Lehrende**
 
 # für Lehrende
 
@@ -90,7 +99,7 @@ Letzte Aktualisierungen: 01.12.2020: Das Wichtigste in Kürze.
 
 ## Lehrende
 
-##  Termine
+## [ Termine ](fuer-lehrende.html#)
 
 ## Termine
 
@@ -110,7 +119,7 @@ Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
 22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
 bis 5. April 2021).
 
-##  Lehr- und Studienbetrieb
+## [ Lehr- und Studienbetrieb ](fuer-lehrende.html#)
 
 ## Lehr- und Studienbetrieb
 
@@ -137,7 +146,7 @@ und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
 beschlossen und geben den Rahmen für die Durchführung von
 Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
 
-  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 09.11.2020).
+  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 09.11.2020).
 
 Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
 dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
@@ -164,7 +173,7 @@ die HHU den Dozierenden nahe, sämtliche (Live-)Formate für die Studierenden
 zusätzlich aufzuzeichnen und ihnen flexibel bereitzustellen (z. B. über die
 HHU-Mediathek).
 
-##  Rückverfolgbarkeit
+## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
 
 ## Rückverfolgbarkeit
 
@@ -190,15 +199,15 @@ unbefugter Dritter gesichert aufzubewahren und nach Ablauf von 4 Wochen
 datenschutzkonform zu vernichten.
 
 Für die Erhebung der Daten können Sie [ diesen Vordruck
-nutzen.](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
+nutzen.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
 
 Die dazugehörigen Datenschutzhinweise finden Sie hier in [
-](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)[deutscher](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
+](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)[deutscher](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
 und in [
-englischer](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf)
+englischer](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf)
 Sprache.
 
-##  Prüfungen
+## [ Prüfungen ](fuer-lehrende.html#)
 
 ## Prüfungen
 
@@ -209,9 +218,9 @@ Sprache.
 Das Rektorat der HHU hat Regelungen zur Umsetzung der Corona-Epidemie-
 Hochschulverordnung (CEHVO) beschlossen.
 
-  * [ HHU-Regelungen vom 7. Mai 2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
-  * [ Erste Änderung der Regelungen vom 21.08.2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
-  * [ Zweite Änderung der Regelungen vom 02.09.2020](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
+  * [ HHU-Regelungen vom 7. Mai 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
+  * [ Erste Änderung der Regelungen vom 21.08.2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
+  * [ Zweite Änderung der Regelungen vom 02.09.2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
 
 Durch die Regelungen werden insbesondere Aspekte wie flexible Lehr- und
 Prüfungsformate, Rücktrittsregelungen, Freiversuchs- bzw.
@@ -230,26 +239,26 @@ Klausuren werden bis auf Weiteres zentral koordiniert, da durch die aktuellen
 Hygienevorgaben die Hörsaalkapazitäten begrenzt sind. Vorgaben zur
 Hörsaalnutzung und Empfehlungen für die Durchführung von Klausuren finden sich
 in dieser [
-Handreichung](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_07_14_Vorgaben_Klausurdurchfuehrung.pdf)
+Handreichung](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_07_14_Vorgaben_Klausurdurchfuehrung.pdf)
 und im [ Merkblatt zu Hygienemaßnahmen für die Durchführung von
-Prüfungen](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04.pdf).
+Prüfungen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Pruefungen_2020-05-04.pdf).
 
 Klausureinsichten können je nach Gruppengröße in den eigenen Büroräumen, in
 größeren Seminarräumen oder in Hörsälen unter Beachtung des [ HHU-
-Hygienekonzepts](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf) 
+Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf) 
 und den Regelungen zur Rückverfolgbarkeit durchgeführt werden. Für die
 Durchführung in Seminarräumen und Hörsälen sind die Termine unter Angabe des
 gewünschten Zeitslots und der voraussichtlichen Personenzahl rechtzeitig beim
 jeweiligen Studiendekanat anzumelden. Hinweise für die Durchführung von
 Klausureinsichten finden sich zusätzlich in der [
-Handreichung](/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
+Handreichung](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
 Naturwissenschaftliche_Fakultaet/Dekanat/Dokumente/MNF-
 Empfehlungen_zur_Durchfuehrung_von_Klausureinsichten.pdf).
 
 #### Mündliche Prüfungen
 
 Bei mündliche Prüfungen mit physischer Präsenz sind die [ Vorgaben des
-Hygienekonzepts](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
+Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
 (insbesondere die durchgehende Einhaltung des Mindestabstands von 1,5 Metern)
 strikt einzuhalten sowie die Rückverfolgbarkeit zu gewährleisten. Die
 Verantwortung liegt bei den jeweiligen Prüfenden.
@@ -260,9 +269,9 @@ Mündliche Prüfungen und Klausuren können online durchgeführt werden. Hierzu
 haben wir Leitfälen erstellt:
 
   * [Online-Klausuren](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren.html).
-  * [ Mündliche Online-Video-Prüfungen](/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
+  * [ Mündliche Online-Video-Prüfungen](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-##  Hilfestellungen für die Online-Lehre
+## [ Hilfestellungen für die Online-Lehre ](fuer-lehrende.html#)
 
 ## Hilfestellungen für die Online-Lehre
 
@@ -288,7 +297,7 @@ sowie weiteren hilfreichen Links rund um die digitale Lehre an der HHU.
 
 Generelle Anregungen für die Gestaltung barrierearmer digitaler Lehr- und
 Prüfungsformate  finden Sie [ in diesem
-Leitfaden.](/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Onlinelehre_barrierearm_gestalten_20200505.pdf)
+Leitfaden.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Onlinelehre_barrierearm_gestalten_20200505.pdf)
 
 **E-Learning-Sprechstunde**
 
@@ -344,7 +353,7 @@ werden.
 
 
 
-##  Raumbuchungen
+## [ Raumbuchungen ](fuer-lehrende.html#)
 
 ## Raumbuchungen
 
@@ -354,7 +363,7 @@ Raumbuchungen in zentral verwalteten Räumen werden bis auf Weiteres zentral
 koordiniert und können nur über die Studiendekanate oder das
 Raumbuchungsmanagement durchgeführt werden.
 
-##  Informationsseiten der Fakultäten
+## [ Informationsseiten der Fakultäten ](fuer-lehrende.html#)
 
 ## Informationsseiten der Fakultäten
 
