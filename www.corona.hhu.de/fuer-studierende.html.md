@@ -4,10 +4,10 @@ studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen der Fakultäten](fuer-
+studierende.html#c450974)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450983)[Internationale Studierende](fuer-
+studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -103,13 +103,15 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
   * Seit dem 26.10.2020 ist die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
 
-Letzte Aktualisierungen:  01.12.2020: Das Wichtigste in Kürze.
+Letzte Aktualisierungen:  02.12.2020: Allgemeine Informationen; Lehr- und
+Studienbetrieb; Lernräume auf dem Campus; 01.12.2020: ; 01.12.2020: Das
+Wichtigste in Kürze.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
 ## Allgemeine Informationen
 
-[Update: 04.11.2020]
+[Update: 02.12.2020]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
@@ -125,13 +127,6 @@ Die aktuellen, generellen Hygienehinweise finden Sie
 [hier](https://redaktion.hhu.de/VORSCHAU/www.corona.hhu.de/zu-
 covid-19-verdachts-und-kontaktfaellen-hygienekonzept#c453066) auf der Corona-
 Webseite.
-
-Darüber hinaus beachten Sie bitte die [ Verfahrensweisen für Studierende und
-Lehrende für die Durchführung von Präsenzlehrveranstaltungen im Wintersemester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
-[
-](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021.pdf)an
-der HHU (Stand: 09.11.2020).
 
 Um im Fall einer COVID-19 Erkrankung Kontaktpersonen schnell identifizieren
 und kontaktieren zu können, muss die Rückverfolgbarkeit in allen
@@ -167,85 +162,55 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 09.11.2020]
+[Update: 02.12.2020]
 
-Das Wintersemester 2020/2021 wird an der HHU ein Hybridsemester als
-Kombination aus Präsenz- und Onlinelehre. Es ist wichtig, dass Sie sich
-regelmäßig zu Veränderungen im Lehrgeschehen und Ihren Lehrveranstaltungen
-informieren. Lesen Sie daher die Informationen auf den Corona-Webseiten der
-HHU und den Webseiten Ihres Faches und prüfen Sie regelmäßig Ihre Uni-E-
-Mailadresse. Studierende, die neu an der HHU sind, werden dringend
-aufgefordert, ihre Uni-Kennung zu aktivieren. [Eine Anleitung finden Sie
-hier](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-
-unikennung.html "ZIM"). Sie benötigen Ihre Matrikelnummer und das
-Initialpasswort, das Ihnen per Post mit den Immatrikulationsunterlagen zugeht.
-Sollte Ihre Uni-Kennung noch nicht angekommen sein, [melden Sie sich bitte
-beim Studierendenservice](https://www.hhu.de/die-hhu/profil/facts-
-figures/infocenter-hhu-wichtiges-auf-einen-klick/kontakt/studierenden-service-
-center-ssc-alles-rund-ums-studium).
+Die neue Allgemeinverfügung des Landes NRW für die Durchführung von Lehr- und
+Praxisveranstaltungen sowie Prüfungen an den Hochschulen sieht Einschränkungen
+im Lehr- und Prüfungsbetrieb vor. Für die Lehre bedeutet dies Folgendes:
 
-#### Präsenzlehre
+Der Lehrbetrieb wird ab dem 2. Dezember auf digitale Lehre umgestellt. Eine
+Ausnahme hiervon bilden Lehrveranstaltungen, die zwingend in Präsenz
+abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z.
+B. Labore) oder sonstige besondere Rahmenbedingungen (z.B. Unterricht am
+Krankenbett) angewiesen sind. Ausgenommen sind außerdem bereits laufende
+Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen,
+die als Präsenz- oder Hybridveranstaltung konzipiert wurden.
 
-Informationen zu Lehrveranstaltungen, die in Präsenz stattfinden, erhalten Sie
-in der Regel über die Lernplattformen ILIAS und Moodle sowie von Ihren
-Lehrenden. Die Kommunikation erfolgt hierbei über Ihre Uni-E-Mailadresse. Bei
-Fragen zu einer Lehrveranstaltung nehmen Sie bitte Kontakt zu jeweiligen
-Lehrenden auf.
+Informationen über die Anpassung ihrer Lehrveranstaltung erhalten Sie in der
+Regel von Ihren Lehrenden oder über die Lernplattformen ILIAS und Moodle. Die
+Kommunikation erfolgt hierbei über Ihre Uni-E-Mailadresse. Bei Fragen zu einer
+Lehrveranstaltung nehmen Sie bitte Kontakt zu Ihren jeweiligen Lehrenden auf.
 
-Für die Durchführung von Präsenzveranstaltungen im Wintersemester hat die HHU
-einen Rahmen definiert und Verfahrensweisen erarbeitet. Die gültigen
-Verfahrensweisen in der zuletzt gültigen Fassung finden Sie unter:
+Tipps und Tricks für das digitale Studium [finden Sie
+hier](https://www.hhu.de/lehre/tipps-und-tricks-fuer-das-digitale-studium).
 
-[ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen
-im Wintersemester 2020/2021 an der
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
-(Stand: 09.11.2020).
-
-Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
-dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
-angepasst. Auf dieser Webseite finden Sie regelmäßig die aktuelle Version des
-Dokuments.
-
-In allen Präsenzveranstaltungen (Lehrveranstaltungen, Sprechstunden, Prüfungen
-etc.) ist die durch die Coronaschutzverordnung vorgeschriebene
-Rückverfolgbarkeit von Infektionsketten sicherzustellen. Die Lehrenden werden
-hierfür Ihre Kontaktdaten (Name, Matrikelnummer, Telefonnummer) aller in der
-Präsenzveranstaltung anwesenden Personen erheben und können hierfür [ diesen
-Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+Bei Präsenzveranstaltungen, die auf dem Campus stattfinden, ist von den
+Teilnehmenden eine Alltagsmaske zu tragen. Eine Ausnahme bilden Lehrkräfte,
+wenn sie den Mindestabstand zu den anderen Personen im Raum einhalten. Für die
+Durchführung der Veranstaltung sind die einschlägigen Hygiene- und
+Sicherheitsvorschriften zu beachten. In Präsenzveranstaltungen ist weiterhin
+die Rückverfolgbarkeit von Infektionsketten sicherzustellen. Hierfür werden
+wie gehabt die Kontaktdaten der Teilnehmenden – häufig über [ diesen
+Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)erhoben.
 Die dazugehörigen [ Datenschutzhinweise können
 hier](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13.pdf)
 heruntergeladen werden.
-
-#### Online-Lehre
-
-**Im Wintersemester wird die Mehrzahl der Lehrveranstaltungen digital
-stattfinden.** Wir haben Ihnen ein paar [Tipps und Tricks für das digitale
-Studium](https://www.hhu.de/lehre/tipps-und-tricks-fuer-das-digitale-studium
-"Tipps") zusammengestellt.
 
 ## [ Lernräume auf dem Campus ](fuer-studierende.html#)
 
 ## Lernräume auf dem Campus
 
-[Neu: 02.11.2020]
-
-Im Zuge der Durchführung des „hybriden“ Wintersemesters, bestehend aus
-Präsenz- und Onlinelehre, stellt die HHU ihren Studierenden Lernräume auf dem
-Campus zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund
-von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im
-Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen.
-Das Raumkontingent wird bei Bedarf erweitert. Bitte informieren Sie sich
-regelmäßig an dieser Stelle über das Angebot. Die Regeln zur Nutzung der Räume
-finden Sie unter den jeweiligen Überschriften weiter unten.
+[Neu: 02.12.2020]
 
 #### **Kleine Lernräume**
 
-Seit dem 2. November 2020 sind kleine Lernräume zur individuellen Nutzung auf
-dem Campus der HHU bereitgestellt. Die kleinen Lernräume sind ausschließlich
-zur Einzelnutzung und in erster Linie für die Teilnahme an der Onlinelehre
-gedacht, die eine aktive Teilnahme der Studierenden erfordern. Aktive
-Teilnahme heißt beispielweise, dass mitdiskutiert werden muss. Nutzer*innen
-sind verpflichtet, die Regeln einzuhalten. Neben den allgemeinen [
+Seit dem 2. November 2020 stellt die HHU den Studierenden kleine Lernräume auf
+dem Campus der HHU zur Verfügung, die ausschließlich als Einzelarbeitsplätze
+genutzt werden dürfen und die in erster Linie für die Teilnahme an der
+Onlinelehre gedacht sind, die eine aktive Teilnahme der Studierenden
+erfordern. Aktive Teilnahme heißt beispielweise, dass mitdiskutiert werden
+muss. Nutzer*innen sind verpflichtet, die Regeln einzuhalten. Neben den
+allgemeinen [
 Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf)
 gehört dazu insbesondere die Verpflichtung, den Raum nur einzeln zu nutzen.
 Eine Nutzung in Gruppen oder für andere Zwecke als die Teilnahme an Online-
@@ -264,42 +229,7 @@ Eine vorherige Platzbuchung ist zwingend erforderlich.
 
 #### **Lernort Hörsaal**
 
-Ab dem 04. November 2020 steht von montags bis donnerstags von 10.30 bis 6:30
-Uhr ein Hörsaal als Lernort zur Verfügung:
-
-  * Montag: Hörsaal 3D in Gebäude 23.01
-  * Dienstag: Ersatzhörsaal Gebäude 16.12
-  * Mittwoch: Hörsaal 5D in Gebäude 25.21
-  * Donnerstag: Hörsaal 2D in Gebäude 22.01
-
-In dem Hörsaal können Studierende an Einzelarbeitsplätzen lernen oder der
-Onlinelehre, die eher eine passive bzw. stille Teilnahme erfordert, folgen.
-Die Nutzung anderer (freier) Hörsäle als Lernort ist nicht gestattet.
-
-Für die Nutzung eines Lernplatzes im Hörsaal ist keine Voranmeldung nötig.
-Interessierte melden sich am Haupteingang des Hörsaals beim Aufsichtspersonal
-an und geben ihre Kontaktdaten [ über diesen
-Vordruck](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
-ab, den Sie bereits ausgedruckt mitbringen. Die Hörsäle dürfen nur mit einer
-beschränkten Anzahl an Personen belegt werden. Sofern noch ein belegbarer
-Sitzplatz frei ist, wird Ihnen nach Abgabe Ihrer Kontaktdaten ein Sitzplatz im
-Hörsaal zugewiesen. Die Sitzplätze sind markiert und es dürfen nur diese
-Sitzplätze genutzt werden.
-
-Bitte bringen Sie für die Nutzung der Räume ihre eigenen Endgeräte (Notebook,
-Tablet, etc.) und (falls notwendig) Kopfhörer mit. Online-Lehrveranstaltungen
-mit Ton dürfen nur mit Kopfhörern verfolgt werden, so dass die Geräuschkulisse
-im Saal auf ein Minimum reduziert wird.
-
-Die Einhaltung der Regeln für die Nutzung der Räume obliegt den Nutzer*innen.
-Zu den Regeln gehören die [ allgemeinen
-Verhaltensregeln](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-20201014.pdf) 
-sowie insbesondere die Verpflichtung, sich im Raum leise zu verhalten und die
-Kommilitonen nicht beim Lernen zu stören. Die Einhaltung der Regeln wird durch
-das Aufsichtspersonal überprüft.
-
-Sollte sich herausstellen, dass gegen die geltenden Regeln verstoßen wird,
-muss das Angebot leider wieder eingestellt werden.
+Die Hörsäle sind als Lernort bis auf Weiteres geschlossen.
 
 ## [ Prüfungen ](fuer-studierende.html#)
 
@@ -505,62 +435,6 @@ digitale Lehre für
 Studierende“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/studierende-
 barrierefrei-hhu_Juli2020erg.pdf) [PDF-Dokument]
 
-## [ Services der zentralen Einrichtungen ](fuer-studierende.html#)
-
-## Services der zentralen Einrichtungen
-
-[Update: 19.10.2020]
-
-Informationen zu den aktuellen Services- und Beratungsangeboten sowie den
-Erreichbarkeiten der zentralen Einrichtungen (z.B. Studierenden Service
-Center, International Office, Studierendenwerk etc.) finden Sie auf den
-jeweiligen Webseiten der einzelnen Einrichtungen.
-
-### Studierenden Service Center (SSC)
-
-Das SSC hat Montag bis Freitag in der Zeit von 9.00 bis 16.00 Uhr für Sie
-geöffnet. Natürlich können Ihre Anliegen auch weiterhin telefonisch,
-elektronisch oder postalisch erledigt werden. Eine Übersicht der Services
-finden Sie auf der [Webseite des
-SSC](https://www.hhu.de/studium/studienorganisation/das-studierenden-service-
-center).
-
-### Universitäts- und Landesbibliothek
-
-Die Universitäts- und Landesbibliothek (ULB) hat ihre digitalen Angebote und
-Beratungsservices ausgebaut. Vor Ort ist sie nutzbar. Alle Informationen rund
-um die digitale und Vor-Ort-Nutzung der Bibliothek sowie Ansprechpartner*innen
-für Ihre Anliegen finden Sie auf der [Website der
-ULB](https://www.ulb.hhu.de/).
-
-In der ULB steht ein begrenztes Angebot an Lern- und Arbeitsplätzen zur
-Verfügung. Voraussetzung für die Nutzung eines Arbeitsplatzes ist eine
-vorherige Buchung. Alle Informationen [finden Sie
-hier](https://www.ulb.hhu.de/covid-19-aktuell/faqs-rund-um-die-aktuelle-
-bibliotheksnutzung/antwort/lernarbeitsplaetze.html).
-
-### Zentrum für Informations- und Medientechnologie
-
-Einen ersten Überblick über die Angebote und Dienstleistungen des ZIM [finden
-Sie hier](https://www.zim.hhu.de/Ankommen-im-Studium). Dort erhalten Sie u. a.
-Informationen zu Ihrer Uni-Kennung, zum VPN-Zugang, zu Ihrem Mailpostfach und
-den Lernplattformen an der HHU. Weitergehende Informationen zu Services des
-ZIM [finden Sie hier](https://www.zim.hhu.de/services-des-zim.html).
-
-Die Lernräume und die Computerarbeitsräume im ZIM sind geschlossen. Der
-Helpdesk des ZIM ist  und telefonisch unter 0211-8110111 erreichbar. Zum
-virtuellen Helpdesk geht es [hier](https://www.zim.hhu.de/helpdesk.html).
-
-Viele Lehrende der HHU nutzen den Videokonferenzdienst CISCO Webex für ihre
-Lehrveranstaltungen. Wenn Sie als Studierender an einer Videokonferenz auf
-Webex teilnehmen möchten, können Sie dies über den von dem Dozierenden
-versandten Link tun. Wenn Sie als Studierender selbst zu einer Videokonferenz
-einladen möchten, können Sie sich über die vom ZIM zur Verfügung gestellte
-[Self-Service-Schnittstelle](https://webex.hhu.de) für Webex registrieren und
-sich einen Webex-Account inklusive Lizenz erstellen, den Sie über die
-Schnittstelle auch wieder löschen können. Details erfahren Sie im [Wiki des
-ZIM](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366).
-
 ## [ Informationen der Fakultäten ](fuer-studierende.html#)
 
 ## Informationen der Fakultäten
@@ -573,31 +447,6 @@ fakultätsspezifischen Regelungen.
   * [Medizinische Fakultät](https://www.medizin.hhu.de/)
   * [Philosophische Fakultät](https://www.philo.hhu.de/)
   * [Wirtschaftswissenschaftliche Fakultät](https://www.wiwi.hhu.de/)
-
-## [ Weitere Informationen ](fuer-studierende.html#)
-
-## Weitere Informationen
-
-[E-Mail-Text](https://www.uni-
-duesseldorf.de/home/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200320_Email-
-R_Studierende.pdf) der Universitäts- und Fakultätsleitungen vom 20. März 2020
-
-[Videobotschaft](https://www.youtube.com/watch?v=EGtwFI7cCnw&feature=youtu.be)
-der Rektorin vom 7. April 2020  
-  
-[Videobotschaft der Rektorin](https://www.youtube.com/watch?v=JaLpwiG9UJI
-"Video2") vom 19.04.2020  
-  
-[Videobotschaft der Rektorin](https://www.youtube.com/watch?v=twhMQMf48V0
-"Video3") vom 25.05.2020  
-  
-[ E-Mail-Text der
-Rektorin](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200715_Email-
-R_Ende-Sommersemester.pdf) vom 15.07.2020
-
-[ E-Mail-Text der
-Rektorin](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_1.pdf)
-vom 31.08.2020
 
 * * *
 

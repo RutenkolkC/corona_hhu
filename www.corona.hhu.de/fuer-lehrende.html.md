@@ -1,7 +1,7 @@
 [Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
 Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
 lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die Online-Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
@@ -95,7 +95,8 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
   * Seit dem 26.10.2020 hat die Mensa von 11:30 Uhr bis 14:00 Uhr mit eingeschränktem Essensangebot geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
   * Seit dem 02. November 2020 stehen den Studierenden auf dem Campus Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Details finden Sie auf der Corona-Webseite für Studierende unter der Überschrift „Lernräume auf dem Campus“.
 
-Letzte Aktualisierungen: 01.12.2020: Das Wichtigste in Kürze.
+Letzte Aktualisierungen: 02.12.2020: Lehr- und Studienbetrieb; 01.12.2020: Das
+Wichtigste in Kürze.
 
 ## Lehrende
 
@@ -123,47 +124,32 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 12.11.2020]
+[Update: 02.12.2020]
 
-Das Wintersemester 2020/2021 wird an der HHU als Hybridsemester als
-Kombination aus Präsenz- und Onlinelehre stattfinden.  Nur so kann die HHU in
-der Corona-Pandemie weiterhin eine sehr gute Lehre für alle Studierenden
-bieten, ohne ihren Anspruch, eine Präsenzuniversität zu sein, aufzugeben. Die
-Priorität für Präsenzveranstaltungen liegt auf Veranstaltungen für
-Studienanfänger und internationale Studierende. Sie sollen sich mit dem
-universitären Leben vertraut machen und Kontakte knüpfen können, um ihnen den
-Studieneinstieg zu erleichtern. Aufgrund der derzeitigen Rahmenbedingungen
-wird die Online-Lehre dennoch den größten Anteil des Gesamtangebots einnehmen.
+Die neue Allgemeinverfügung des Landes NRW für die Durchführung von Lehr- und
+Praxisveranstaltungen sowie Prüfungen an den Hochschulen sieht Einschränkungen
+im Lehr- und Prüfungsbetrieb vor. Für die Lehre bedeutet dies Folgendes:
 
-#### Präsenzlehre
+Der Lehrbetrieb wird ab dem 2. Dezember auf digitale Lehre umgestellt. Eine
+Ausnahme hiervon bilden Lehrveranstaltungen, die zwingend in Präsenz
+abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z.
+B. Labore) oder sonstige besondere Rahmenbedingungen (z. B. Unterricht am
+Krankenbett) angewiesen sind. Ausgenommen sind außerdem bereits laufende
+Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen,
+die als Präsenz- oder Hybridveranstaltung konzipiert wurden. Bitte informieren
+Sie Ihre Studierenden über die Anpassung Ihrer Lehrveranstaltung.
 
-Präsenzlehrveranstaltungen werden unter Berücksichtigung der geltenden
-Coronaschutzverordnung und der Allgemeinverfügung des Landes NRW durchgeführt.
-Das Rektorat hat sich gemeinsam mit der Task Force Lehre intensiv mit den
-Rahmenbedingungen und Möglichkeiten für die Durchführung von
-Lehrveranstaltungen mit physischer Präsenz im Wintersemester 2020/2021 befasst
-und Verfahrenshinweise erarbeitet. Die Verfahrenshinweise wurden vom Rektorat
-beschlossen und geben den Rahmen für die Durchführung von
-Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU vor:
+Hilfestellungen für die digitale Lehre finden Sie weiter unten auf dieser
+Corona-Webseite.
 
-  * [ Verfahrensweisen für Studierende und Lehrende für Präsenzlehrveranstaltungen im Wintersemester 2020/2021 an der HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf) (Stand: 09.11.2020).
-
-Die Verfahrensweisen werden in regelmäßigen Abständen überarbeitet und an die
-dynamische Veränderung der Gefährdungslage durch die COVID-19-Pandemie
-angepasst. Auf dieser Webseite finden Sie regelmäßig die aktuelle Version des
-Dokuments.
+Bei Präsenzveranstaltungen, die auf dem Campus stattfinden, ist von den
+Teilnehmenden eine Alltagsmaske zu tragen. Eine Ausnahme bilden die
+Lehrkräfte, wenn sie den Mindestabstand zu anderen Personen im Raum einhalten.
+Für die Durchführung der Veranstaltung sind die einschlägigen Hygiene- und
+Sicherheitsvorschriften zu beachten. In Präsenzveranstaltungen ist weiterhin
+die Rückverfolgbarkeit von Infektionsketten sicherzustellen.
 
 #### Online-Lehre
-
-Aufgrund begrenzter Raumressourcen wird die Mehrzahl der Lehrveranstaltungen
-als reine digitale Lehrveranstaltung stattfinden müssen. Darüber hinaus wird
-es Studierende geben, die aus verschiedenen Gründen ganz oder zeitweise nicht
-an die HHU kommen können. Auch sie sollen die Möglichkeit haben, digital an
-der Lehre teilhaben zu können. Daher sollen grundsätzlich alle
-Lehrveranstaltungen im Wintersemester auch digital angeboten werden, sofern
-nicht die besondere Eigenart der Veranstaltung eine Präsenz zwingend erfordert
-und dies nach Rücksprache mit den jeweiligen Studiendekanen festgestellt
-worden ist.
 
 Die HHU empfiehlt nach den Erfahrungen aus dem Sommersemester und den
 Ergebnissen der Studierendenbefragung, alle Online-Veranstaltungen zumindest
@@ -271,9 +257,9 @@ haben wir Leitfälen erstellt:
   * [Online-Klausuren](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren.html).
   * [ Mündliche Online-Video-Prüfungen](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
 
-## [ Hilfestellungen für die Online-Lehre ](fuer-lehrende.html#)
+## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
 
-## Hilfestellungen für die Online-Lehre
+## Hilfestellungen für die digitale Lehre
 
 [Update: 10.11.2020]
 
@@ -367,7 +353,7 @@ Raumbuchungsmanagement durchgeführt werden.
 
 ## Informationsseiten der Fakultäten
 
-  * [Juristische Fakultät](https://www.jura.hhu.de/)
+  * [Juristische Fakultät](https://www.jura.hhu.de/corona)
   * [Mathematisch-Naturwissenschaftliche Fakultät](https://www.math-nat-fak.hhu.de/)
   * [Medizinische Fakultät](https://www.medizin.hhu.de/)
   * [Philosophische Fakultät](https://www.philo.hhu.de/)
