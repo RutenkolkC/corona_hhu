@@ -91,9 +91,7 @@ and/or your study programme.
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
   * From 02 November on, study rooms are available on campus for students. They are intended for those students who are on campus for an on-site course and who wish to take part in an online class before or after the on-campus activity. For more information, check the coronavirus website for students under ‘study rooms on campus’.
 
-Last updated: 10 November 2020: Main points in brief; teaching and studying;
-traceability; assistance for digital teaching; 02 November; teaching and
-studying
+Last updated: 01 December 2020: Main points in brief.
 
 ## Lecturers
 

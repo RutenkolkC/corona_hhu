@@ -88,7 +88,7 @@ Willkommen!
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance [via the Studierendenwerk website](https://www.stw-d.de/).
   * Currently, we are receiving a lot of spam e-mails at HHU that are allegedly sent by ZIM or WHO – please be alert.
 
-Latest updates: 30 November 2020.
+Latest updates: 01 December 2020.
 
 ## Current information. Please choose from:
 

@@ -1,12 +1,13 @@
-[Jump to content](for-students.html#content)[Course organisation](for-
+[Jump to content](for-students.html#content)[Exams](for-
+students.html#c450924)[Course organisation](for-
 students.html#c450965)[Information for international students](for-
 students.html#c450971)[Information for students with disabilities or chronic
 illnesses](for-students.html#c450972)[Services of the central
 institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Information for HHU
-students](for-students.html#c438639)[Main points for students in brief](for-
+students.html#c450922)[Information for HHU students](for-
+students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
 students.html#c438637)[Dates & Deadlines](for-students.html#c0)
@@ -94,11 +95,11 @@ and that you check your HHU e-mail account on regular basis.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
+  * New students at HHU are asked to activate their uni ID as soon as possible. [This link will tell you how](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-unikennung.html). For the activation you will need your student registration number and the initial password that gets sent to you by post. In case you haven’t received your uni Id yet, please contact student services [Link: ].
   * From 02 November 2020 on, there will be study rooms available on campus for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use below under the topic ‘study rooms on campus’.  
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Latest updated: 10 November 2020: Main points in brief; study rooms on campus;
-04 November 2020: general information; teaching and studying.
+Latest updated: 01 December 2020: Main points in brief.
 
 ## Students
 
