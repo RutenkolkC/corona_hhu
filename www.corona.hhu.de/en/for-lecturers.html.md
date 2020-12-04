@@ -91,7 +91,8 @@ and/or your study programme.
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
   * From 02 November on, study rooms are available on campus for students. They are intended for those students who are on campus for an on-site course and who wish to take part in an online class before or after the on-campus activity. For more information, check the coronavirus website for students under ‘study rooms on campus’.
 
-Last updated: 01 December 2020: Main points in brief.
+Last updated: 02 December 2020: teaching and studying; 01 December 2020: Main
+points in brief.
 
 ## Lecturers
 
@@ -116,48 +117,34 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## [ Teaching activities and studies ](for-lecturers.html#)
 
-** ** [Last updated: 12 November 2020]
+** ** [Last updated: 02 December 2020]
 
-The winter semester 2020/21 at HHU will be a hybrid semester comprised of in-
-person, classroom teaching and online teaching. Only in this way can HHU
-continue to offer excellent teaching for all students during the coronavirus
-pandemic without giving up its commitment to being an on-campus, classroom-
-based university. Courses for first-year and international students take
-priority to give them the opportunity to get to know the university and meet
-their fellow students and to help them adapt to life at university. However,
-in light of the current framework conditions, most of the courses offered will
-take place online.
 
-#### In-person teaching
 
-In-person teaching will take place in accordance with the Corona Pandemic
-Ordinance and the General Direction of the State of NRW. Together with the
-‚Task Force Lehre‘, the Rectorate has looked into the framework conditions and
-possibilities regarding in-person teaching during winter semester 2020/2021 in
-detail and developed specifications for the organisation of on-campus courses
-at HHU. These specifications have been adopted by the Rectorate and provide
-the framework for the organisation of in-person teaching during winter
-semester 2020/2021 at HHU:
+The new General Degree passed by the State of NRW on teaching, practical
+activities and examinations at higher education institutions introduces
+restrictions concerning teaching operations and examinations. With regard to
+teaching operations this means: 
 
-[ Specifications regarding the organisation of on-campus teaching for students
-and lecturers in winter semester 2020/2021 at
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)
-(as of: 09 November 2020).
+From 02 December on, all teaching activities will take place online. The only
+exception are classes and on-campus activities where personal attendance is
+vital because the participants depend on special facilities (e.g.
+laboratories) or other special framework conditions (e.g. bedside teaching).
+Another exception are courses for first-year students in bachelor’s and state
+examination programmes that have already started and which were designed as
+on-campus or hybrid courses. Please inform your students about any adjustments
+to your courses.
 
-These organisation specifications will be updated regularly and adapted in
-accordance with the changing threat situation in connection with the Covid-19
-pandemic. You can find the latest version of this document on this website. 
+See further down this coronavirus information website for helpful information
+on digital teaching.
+
+During all on-campus activities participants must wear a face covering. The
+only exception are lecturers, provided they can maintain the required minimum
+distance to the other persons present in the room. The relevant hygiene and
+safety measures must be observed during all activities. In case of in-person
+activities, adequate contact tracing in case of infection must be guaranteed.
 
 #### Online teaching
-
-Due to limited room resources, most courses will have to be held as digital
-courses only. In addition, there will be students who, for various reasons,
-will completely or partially be unable to come to HHU. They should also have
-the opportunity to participate in digital teaching. That’s why, in principle,
-all courses should also be offered digitally in the winter semester, unless
-the specific nature of the event makes in-person attendance compulsory, and
-this has been determined following consultation with the relevant deans of
-studies.
 
 Based on experiences from the summer semester and results of the student
 survey, HHU recommends offering all online courses live, at least in phases,
@@ -165,8 +152,6 @@ so that students can directly interact with the lecturers and fellow students.
 Independently of this, HHU suggests that lecturers additionally record all
 (live) formats for the students and provide them to the students in a flexible
 way (e.g. via the HHU media library). 
-
-
 
 ## [ Traceability ](for-lecturers.html#)
 
@@ -356,7 +341,7 @@ the room booking management.
 
 ## Information pages of faculties
 
-  * [Faculty of Law](http://www.jura.hhu.de/en.html)
+  * [Faculty of Law](https://www.jura.hhu.de/corona)
   * [Faculty of Mathematics and Natural Sciences](http://www.math-nat-fak.hhu.de/en.html)
   * [Faculty of Medicine](http://www.medizin.hhu.de/en.html)
   * [Faculty of Arts and Humanities](http://www.philo.hhu.de/en.html)

@@ -98,7 +98,8 @@ and that you check your HHU e-mail account on regular basis.
   * From 02 November 2020 on, there will be study rooms available on campus for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use below under the topic ‘study rooms on campus’.  
   * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
 
-Latest updated: 01 December 2020: Main points in brief.
+Latest updated: 02 December 2020: general information; teaching and studying;
+study room on campus; 01 December 2020: Main points in brief.
 
 ## Students
 
@@ -106,7 +107,7 @@ Latest updated: 01 December 2020: Main points in brief.
 
 ## General information
 
-[Last updated: 04 November 2020]
+[Last updated: 02 December 2020]
 
 To protect individual health and prevent further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
@@ -121,11 +122,6 @@ detected.
 [Click here for more information about the latest hygiene and safety
 regulations on the ‘corona website’](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html).
-
-Please also observe the [ specifications regarding the organisation of on-
-campus courses at HHU for students and lecturers in winter semester
-2020/2021](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
-(as of: 03 November 2020).
 
 To be able to quickly identify and contact any contact persons in case of a
 COVID-19 infection, traceability must be ensured in all in-person events
@@ -159,71 +155,51 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## Teaching and studying
 
-[Last updated: 04 November 2020]
+[Last updated: 02 December 2020]
 
-Winter semester 2020/2021 at HHU will be a hybrid semester comprised of in-
-person and online teaching. It is important for you to stay informed about any
-changes concerning your courses or regarding teaching. To do this, please read
-the information on HHU’s corona website and the website of your subject and
-check your university e-mail account regularly. New students at HHU are asked
-to activate their uni ID as soon as possible. [This link will tell you
-how](https://www.zim.hhu.de/en/services-des-zim/uni-kennung/aktivierung-ihrer-
-uni-kennung-und-hhu-card). For the activation you will need your student
-registration number and the initial password that gets sent to you by post. In
-case you haven’t received your uni Id yet, please . 
+The latest General Decree passed by the State of NRW on teaching, practical
+activities and examinations at higher education institutions introduces
+restrictions concerning teaching operations and examinations. With regard to
+teaching operations this means: 
 
-#### In-person, classroom teaching
+From 02 December on, all teaching activities will take place online. The only
+exception are classes and on-campus activities where personal attendance is
+vital because the participants depend on special facilities (e.g.
+laboratories) or other special framework conditions (e.g. bedside teaching).
+Another exception are courses for first-year students in bachelor’s and state
+examination programmes that have already started and which were designed to be
+on-campus or hybrid courses.  
 
-You can usually find information about courses/lectures that take place on-
-campus on the learning platforms ILIAS and Moodle and you can also get it from
-your lecturers. The corresponding communication will take place via your
-university e-mail address.
+For information regarding the adjustments to your courses contact your
+lecturers, or check the learning platforms ILIAS and Moodle. All communication
+will take place via your university e-mail address. Please contact your
+lecturer in case of questions regarding a specific class. 
 
-HHU has defined a framework and established procedures for on-campus courses
-this winter semester. Find the relevant version of the procedures in place
-here:
+For tips and tricks regarding digital teaching click this link [Link:
+<https://www.hhu.de/lehre/tipps-und-tricks-fuer-das-digitale-studium>].
 
-[ Specifications regarding the organisation of on-campus teaching for students
-and lecturers in winter semester 2020/2021 at
-HHU](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20_11_09_Handreichung_Lehre_WS2021_v2.pdf)
-(as of: 09 November 2020).
-
-The traceability of all participants in case of infection must be guaranteed
-for all on-campus courses and events (lectures, personal consultations,
-examinations, etc.) as stipulated by the Corona Pandemic Ordinance. To that
-aim, the lecturers will note down your contact details (name, matriculation
-number, telephone number). They can use [ this
-form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
-The corresponding [ data protection information can be downloaded
+Persons participating in on-campus events must wear a face covering. The only
+exception are lecturers if they can maintain the required minimum distance to
+other persons in the room. During all activities, the relevant hygiene and
+safety rules must be observed. In case of all in-person events, adequate
+contact tracing in case of infection must be guaranteed. [ This form will help
+you collect the contact details of the
+participants](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
+You can download the relevant [ data protection information
 here](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
-
-#### Online teaching
-
-Most of the courses this winter semester will be virtual. We have compiled a
-few [tips for successfully studying
-online](https://www.hhu.de/en/studium/studienorganisation/digital).
 
 ## [ Study rooms on campus ](for-students.html#)
 
-[New: 02 November 2020]
-
-In the context of the ‚hybrid‘ winter semester, which consists of on-campus as
-well as online teaching, HHU provides study rooms on campus for its students.
-These rooms are intended for those students who attend on-campus classes and
-who wish to take part in an online class before or after the on-campus class.
-More rooms can be made available should the demand exceed the number of rooms
-currently offered. Please check this site regularly for the latest
-information. You can find out more about the terms of use below in the
-respective sections. 
+[New: 02 December 2020]
 
 #### Small study rooms
 
-From 02 November 2020 on, small study rooms are available for individual use
-on HHU’s campus. These small study rooms may only be used by one person at a
-time and are primarily intended for participation in online classes which
-require active involvement such as taking an active part in a discussion. It
-is the users’ responsibility to abide by the terms of use. These include,
-besides the [ general rules of
+From 02 November 2020 on, small study rooms are available for HHU students.
+These small study rooms may only be used by one person at a time (single
+occupancy) and are primarily intended for participation in online classes
+which require active involvement such as taking an active part in a
+discussion. It is the users’ responsibility to abide by the terms of use.
+These include, besides the [ general rules of
 behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
 cases-hygiene-policy) the obligation to respect the single-person occupancy
 rule. It is not permitted to use these rooms as a group or for purposes other
@@ -241,42 +217,7 @@ at a time. It is mandatory to book a space in advance.
 
 #### Lecture theatres as a place to study
 
-From 04 November 2020 on, a lecture theatre will be made available as a place
-to study, from Monday – Thursday, 10:30am – 6.00pm:
-
-  * Monday: lecture theatre 3D in building 23.01
-  * Tuesday: Substitute lecture theatre in building 16.12
-  * Wednesday: lecture theatre 5D in building 25.21
-  * Thursday: lecture theatre 2D in building 22.01
-
-In these lecture theatres, students can study in single-use workspaces or
-follow online classes which require only passive or silent participation. The
-use of other, unoccupied, lecture theatres as a place to study in is not
-permitted. 
-
-You do not need to book a seat in advance in order to use one of the
-workspaces in the lecture theatre. You simply report to the invigilator at the
-entrance of the lecture theatre who will then take your contact details  \-
-please print out and [ fill in this
-form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
-and bring it with you. Only a limited number of persons can be admitted to a
-single lecture theatre. For as long as there are workspaces available you will
-be admitted after you have left your contact details at the entrance. The
-available workspaces are marked as such, please use only those seats. 
-
-Please bring your own end devices (notebook, tablet, etc.) and (if necessary)
-headphones. Online classes with sound may only be followed while wearing
-headphones in order to reduce the background noise in the lecture theatre to
-an absolute minimum. 
-
-It is in the users’ responsibility to comply with the terms of use. They
-include the [ general rules of
-behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
-cases-hygiene-policy)but also the obligation to behave quietly so as not to
-disturb your fellow students. The invigilators will monitor compliance with
-these rules. 
-
-Should these rules be violated we will be forced to end this offer.
+Lecture theatres remain closed until further notice. 
 
 ## [ Exams ](for-students.html#)
 
@@ -468,58 +409,6 @@ barrierearm-HHU-EN.pdf) [PDF document] you can find more information on low-
 barrier teaching particularly with regard to students with disabilities or
 chronic diseases.
 
-## [ Services of the central institutions ](for-students.html#)
-
-## Services of the central institutions
-
-[Last updated on: 19 October 2020]
-
-Information on the current service and counselling offered and on how to reach
-the central institutions (e.g. Student Services Center, International Office,
-Studierendenwerk etc.) can be found on the respective websites of the
-individual institutions.
-
-#### Student Services Center (SSC)
-
-The SSC is open for you Monday-Friday, from 9am-4pm. Of course, you can still
-contact the SSC regarding your issue by phone, e-mail or post. A list of the
-digital services available is provided at [OnSSC](https://www.hhu.de/onssc). 
-
-#### University and State Library
-
-The University and State Library (ULB) has expanded its digital offers and
-consultation services. You can use these services onsite. You can find all
-information regarding digital and on-site use of the library as well as points
-of contact for your questions [on ULB’s website](https://www.ulb.hhu.de).
-
-The ULB has a limited number of learning and workstations available. A
-prerequisite for use of a workstation is that you book it in advance. [You can
-get all information about this
-here](https://www.ulb.hhu.de/covid-19-aktuell/faqs-rund-um-die-aktuelle-
-bibliotheksnutzung/antwort/lernarbeitsplaetze.html).
-
-#### Centre for Information and Media Technology
-
-You can find an [initial overview of the offerings and services provided by
-ZIM here](https://www.zim.hhu.de/Ankommen-im-Studium). This is where you will
-find information on your uni ID, VPN access, your e-mail and HHU’s learning
-platforms. [Further information on ZIM's services is available
-here](https://www.zim.hhu.de/services-des-zim.html).
-
-The ZIM study and computer rooms are closed. You can reach the ZIM help desk
-and by phone at 0211-8110111. You can access the virtual help desk
-[here](https://www.zim.hhu.de/helpdesk.html). 
-
-Many of the teaching staff at HHU use the video conference service CISCO Webex
-for their lectures. If you wish to participate in a Webex video conference as
-a student, you can do so via the link sent to you by your lecturer. If you, as
-a student, wish to invite others to join your own video conference you can
-register for Webex and [create your own Webex account including licence via
-the self-service interface provided by ZIM](https://webex.hhu.de). You can
-also delete this account via the interface. [Check ZIM’s
-wiki](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366) for more
-detailed information.
-
 ## [ Faculty information ](for-students.html#)
 
 ## Faculty information
@@ -529,31 +418,6 @@ detailed information.
   * [Faculty of Medicine](http://www.medizin.hhu.de/en.html)
   * [Faculty of Arts and Humanities](http://www.philo.hhu.de/en.html)
   * [Faculty of Business Administration and Economics](http://www.wiwi.hhu.de/en.html)
-
-## [ Further information ](for-students.html#)
-
-## Further information
-
-[E-mail](https://www.uni-
-duesseldorf.de/home/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200320_Email-
-R_Studierende.pdf) of university management and faculty heads sent on 20 March
-2020
-
-[Video message](https://www.youtube.com/watch?v=EGtwFI7cCnw&feature=youtu.be)
-from the President from 7 April 2020
-
-[Video message](https://www.youtube.com/watch?v=JaLpwiG9UJI) dated 19 April
-2020
-
-[Video message](https://www.youtube.com/watch?v=twhMQMf48V0) dated 25 May 2020
-
-[ E-Mail
-message](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Coronavirus__Covid-19_-_Ein_gelungenes_Sommersemester_dank_Ihres_Einsatzes.eml)
-by HHU’s President dated 16 July 2020
-
-[ E-Mail
-message](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/20200831_Rundmail_Studierende_FIN_ENG_1.pdf)
-by HHU’s President dated 31 August 2020
 
 * * *
 
