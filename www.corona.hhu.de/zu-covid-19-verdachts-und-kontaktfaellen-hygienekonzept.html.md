@@ -9,11 +9,11 @@ Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453062)[Wichtige Telefonnnummern und Kontaktadressen](zu-
 covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen der HHU](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Plakate
-„Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453067)[Coronavirus
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
 / SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453058)[Welche Personen gehören zu besonderen
+hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
+„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453067)[Welche Personen gehören zu besonderen
 Risikogruppen?](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453063)[Informationsvideos zum Coronavirus](zu-
 covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453065) [(Kopie
