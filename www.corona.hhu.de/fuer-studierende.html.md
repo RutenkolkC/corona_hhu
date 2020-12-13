@@ -1,10 +1,11 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
+[Zum Inhalt springen](fuer-
+studierende.html#content)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
 studierende.html#c450974)[Allgemeine Informationen](fuer-
 studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Internationale Studierende](fuer-
+studierende.html#c450922)[Termine](fuer-
+studierende.html#c450924)[Prüfungen](fuer-
+studierende.html#c450965)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
