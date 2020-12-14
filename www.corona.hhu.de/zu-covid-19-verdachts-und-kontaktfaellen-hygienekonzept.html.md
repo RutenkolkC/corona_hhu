@@ -1,33 +1,33 @@
 [Zum Inhalt springen](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#content)[Coronavirus / SARS-CoV-2 / COVID-19](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453058)[Plakate
-„Allgemeine Hygienemaßnahmen“, „Maskenpflicht“ und „Lüften“](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453067)[Woran
-erkennt man eine Erkrankung?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453059)[Wie kann man sich schützen?](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453060)[Was ist zu
-tun, wenn man sich krank fühlt?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453061)[Was ist zu tun, wenn ich in Kontakt stand mit
-einer infizierten Person oder einem Verdachtsfall?](zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html#c453062)[Wichtige Telefonnnummern und
-Kontaktadressen](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#content)[Was ist zu tun, wenn man sich krank fühlt?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453061)[Was ist zu
+tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
+Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453062)[Wichtige Telefonnnummern und Kontaktadressen](zu-
+covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453064)[Hygienekonzept / Schutzmaßnahmen der HHU](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Welche
-Personen gehören zu besonderen Risikogruppen?](zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html#c453063)[Informationsvideos zum
-Coronavirus](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453065) [(Kopie 3)](zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html#c452580)[Das Wichtigste zu COVID-19 und zum
-Umgang mit Verdachts- und Kontaktfällen in Kürze](zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html#c439137)[COVID-19, Verdachts- und
-Kontaktfälle](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453068)[Noch unbeantwortete Fragen?](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c439138)[Das
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
+/ SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
+„Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453067)[Woran erkennt man eine Erkrankung?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
+man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453060)[Welche Personen gehören zu besonderen
+Risikogruppen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453063)[Informationsvideos zum Coronavirus](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453065) [(Kopie
+3)](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c452580)[Das
 Wichtigste zu COVID-19 und zum Umgang mit Verdachts- und Kontaktfällen in
 Kürze](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c439136)[Was muss ich als Fachvorgesetzte*r tun, wenn mir
-ein Infektions- oder Verdachtsfall gemeldet wird?](zu-covid-19-verdachts-und-
-kontaktfaellen-hygienekonzept.html#c490924)
+hygienekonzept.html#c439137)[COVID-19, Verdachts- und Kontaktfälle](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453068)[Noch
+unbeantwortete Fragen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c439138)[Das Wichtigste zu COVID-19 und zum Umgang mit
+Verdachts- und Kontaktfällen in Kürze](zu-covid-19-verdachts-und-
+kontaktfaellen-hygienekonzept.html#c439136)[Was muss ich als Fachvorgesetzte*r
+tun, wenn mir ein Infektions- oder Verdachtsfall gemeldet wird?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c490924)
 
   * DE
   * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
