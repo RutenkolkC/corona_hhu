@@ -86,10 +86,10 @@ Willkommen!
   * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](../www.corona.hhu.de/fuer-beschaeftigte.html#c452970) zusammengefasst.
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind bis zum 15. Januar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet.
-  * Die Mensa in der Universitätsstraße ist unter der Woche zwischen 11:30 Uhr und 14:00 Uhr geöffnet und bietet ein eingeschränktes Essensangebot. Die Mensa Süd in der Math.-Nat. Fakultät ist ab dem 11.12.2020 geschlossen. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
+  * Noch ist die Mensa in der Universitätsstraße unter der Woche zwischen 11:30 Uhr bis 14:00 Uhr geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden. Am 16.12. schließen die Mensa, das Café Uno und die Mensa Süd. Die Cafeteria Süd in der Math.-Nat. Fakultät ist seit dem 11.12.2020 geschlossen.
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 11.12.2020]
+[Letztes Update: 14.12.2020]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
