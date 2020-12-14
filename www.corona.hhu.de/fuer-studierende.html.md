@@ -1,10 +1,10 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Services der zentralen
-Einrichtungen](fuer-studierende.html#c450974)[Allgemeine Informationen](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Prüfungen](fuer-
+studierende.html#c450965)[Studienorganisation](fuer-
+studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
+studierende.html#c450974)[Allgemeine Informationen](fuer-
 studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
 studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
-studierende.html#c450971)[Internationale Studierende](fuer-
+studierende.html#c450924)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
@@ -99,11 +99,11 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Auf dem Campus stehen Lernräume zur Verfügung. Diese Räume sind für Studierende gedacht, die aufgrund von Präsenzveranstaltungen auf dem Campus sind und die vor den oder im Anschluss an die Präsenzveranstaltungen ein Online-Angebot wahrnehmen wollen. Die Regeln zur Nutzung der Räume finden Sie unter Überschrift „Lernräume auf dem Campus“ weiter unten.
-  * Die Mensa in der Universitätsstraße ist unter der Woche zwischen 11:30 Uhr und 14:00 Uhr geöffnet und bietet ein eingeschränktes Essensangebot. Die Mensa Süd in der Math.-Nat. Fakultät schließt ab dem 11.12.2020. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden.
+  * Noch ist die Mensa in der Universitätsstraße unter der Woche zwischen 11:30 Uhr bis 14:00 Uhr geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden. Am 16.12. schließen die Mensa, das Cafe Uno und die Mensa Süd. Die Cafeteria Süd in der Math.-Nat. Fakultät ist seit dem 11.12.2020 geschlossen.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen:  11.12.2020: Das Wichtigste für Studierende in Kürze;
-Lehr- und Studienbetrieb; Lernräume auf dem Campus; Prüfungen.
+Letzte Aktualisierungen:  14.12.2020: Das Wichtigste für Studierende in Kürze;
+11.12.2020: Lehr- und Studienbetrieb; Lernräume auf dem Campus; Prüfungen.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
