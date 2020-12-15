@@ -1,14 +1,14 @@
-[Jump to content](university-operations.html#content)[Events, conferences,
+[Jump to content](university-operations.html#content)[Committee
+work](university-operations.html#c453005)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
 teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Committee work](university-
-operations.html#c453005)[Information on University operations](university-
-operations.html#c438674)[Main points for university operations in
-brief](university-operations.html#c438676)[University operations](university-
-operations.html#c453016)[Still have questions?](university-
-operations.html#c439220)[Main points for university operations in
-brief](university-operations.html#c438675)
+coronavirus!](university-operations.html#c453009)[Information on University
+operations](university-operations.html#c438674)[Main points for university
+operations in brief](university-operations.html#c438676)[University
+operations](university-operations.html#c453016)[Still have
+questions?](university-operations.html#c439220)[Main points for university
+operations in brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
@@ -86,9 +86,9 @@ university operations**
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.
   * The main entrances of all buildings (except for ULB and SSC – see special opening hours) are open Monday – Friday from 06:30am to 8pm, in accordance with HHU’s house rules.
   * [Haus der Universität and Schloss Mickeln](https://www.hhu.de/en/news/veranstaltungen-im-haus-der-universitaet-wieder-moeglich) are closed to the public until the end of the year.
-  * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
+  * The main canteen (Mensa) in Universitätsstraße is currently still open every weekday from 11.30am – 2pm. You must book a seat no longer than 48 hours ahead via [the Studierendenwerk website](https://www.stw-d.de/)  if you want to have lunch there. The Mensa, Café Uno and Mensa Süd will all close on 16 December. The ‘Cafeteria Süd’ closed on 11 December 2020.
 
-Last updated: 03 November 2020: Main points for university operations in
+Last updated: 14 December 2020: Main points for university operations in
 brief.
 
 ## University operations
