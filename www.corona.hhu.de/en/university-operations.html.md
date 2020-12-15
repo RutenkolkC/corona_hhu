@@ -1,9 +1,9 @@
-[Jump to content](university-operations.html#content)[Closure of
+[Jump to content](university-operations.html#content)[Events, conferences,
+workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
 teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
 coronavirus!](university-operations.html#c453009)[Committee work](university-
-operations.html#c453005)[Events, conferences, workshops](university-
-operations.html#c453006)[Information on University operations](university-
+operations.html#c453005)[Information on University operations](university-
 operations.html#c438674)[Main points for university operations in
 brief](university-operations.html#c438676)[University operations](university-
 operations.html#c453016)[Still have questions?](university-
