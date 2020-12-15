@@ -1,11 +1,11 @@
-[Jump to content](for-students.html#content)[Information for students with
+[Jump to content](for-students.html#content)[Information for international
+students](for-students.html#c450971)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
 central institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for HHU students](for-
+organisation](for-students.html#c450965)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
@@ -90,16 +90,15 @@ and that you check your HHU e-mail account on regular basis.
 
 ## Main points for students in brief
 
-  * From 02 December on, in accordance with the new General Decree passed by the State of NRW, on-campus activities are no longer permitted until further notice. **Teaching will exclusively take place online.** One exception are classes and on-campus events where personal attendance is vital because the participants depend on special rooms (such as laboratories) or other special framework conditions (e.g. bedside teaching). Another exception are courses for first-year students in bachelor’s and state examination study programmes that have already started. In accordance with the previous regulations, examinations can still take place. Access to the library remains as is.
+  * From 02 December on, on-campus courses are no longer permitted until further notice. **Teaching will exclusively take place online.** One exception are classes and on-campus events where personal attendance is vital because the participants depend on special rooms (such as laboratories) or other special framework conditions (e.g. bedside teaching). Another exception are courses for first-year students in bachelor’s and state examination study programmes that have already started. In accordance with the previous regulations, examinations can still take place. Access to the library remains as is.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
-  * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus.  
-  * New students at HHU are asked to activate their uni ID as soon as possible. [This link will tell you how](https://www.zim.hhu.de/ankommen-im-studium/online-aktivierung-der-unikennung.html). For the activation you will need your student registration number and the initial password that gets sent to you by post. In case you haven’t received your uni Id yet, please contact student services [Link: ].
-  * From 02 November 2020 on, there will be study rooms available on campus for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use below under the topic ‘study rooms on campus’.  
-  * From 26 October on, the main canteen (‚Mensa‘) will be open daily from 11:30am – 2pm and offer a limited choice of meals. If you wish to eat there you must book a seat up to 48 hours in advance via [the Studierendenwerk website](https://www.stw-d.de/).
+  * On HHU campus, study rooms are available for the students. They are intended for those students who are on campus to attend an on-campus class and who wish to participate in one of the online activities before or after the on-campus class. You can find terms of use use under the topic ‘study rooms on campus’.  
+  * The main canteen (Mensa) in Universitätsstraße is currently still open every weekday from 11.30am – 2pm. You must book a seat no longer than 48 hours ahead [via the Studierendenwerk website](https://www.stw-d.de/) if you want to have lunch there. The Mensa, Café Uno and Mensa Süd will all close on 16 December. The ‘Cafeteria Süd’ closed on 11 December 2020.
+  * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf).   These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Latest updated: 02 December 2020: general information; teaching and studying;
-study room on campus; 01 December 2020: Main points in brief.
+Latest updated: 14 December 2020: Main points in brief; 11 December 2020:
+examinations; teaching and studying; study rooms on campus.
 
 ## Students
 
@@ -155,20 +154,20 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## Teaching and studying
 
-[Last updated: 02 December 2020]
+[Last updated: 11 December 2020]
 
 The latest General Decree passed by the State of NRW on teaching, practical
 activities and examinations at higher education institutions introduces
 restrictions concerning teaching operations and examinations. With regard to
 teaching operations this means: 
 
-From 02 December on, all teaching activities will take place online. The only
-exception are classes and on-campus activities where personal attendance is
-vital because the participants depend on special facilities (e.g.
-laboratories) or other special framework conditions (e.g. bedside teaching).
-Another exception are courses for first-year students in bachelor’s and state
-examination programmes that have already started and which were designed to be
-on-campus or hybrid courses.  
+On 02 December, all teaching activities have been switched to digital formats.
+The only exception are classes and on-campus activities where personal
+attendance is vital because the participants depend on special facilities
+(e.g. laboratories) or other special framework conditions (e.g. bedside
+teaching). Another exception are courses for first-year students in bachelor’s
+and state examination programmes that have already started and which were
+designed to be on-campus or hybrid courses.  
 
 For information regarding the adjustments to your courses contact your
 lecturers, or check the learning platforms ILIAS and Moodle. All communication
@@ -190,30 +189,33 @@ here](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/P
 
 ## [ Study rooms on campus ](for-students.html#)
 
-[New: 02 December 2020]
+[New: 11 December 2020]
 
 #### Small study rooms
 
-From 02 November 2020 on, small study rooms are available for HHU students.
-These small study rooms may only be used by one person at a time (single
-occupancy) and are primarily intended for participation in online classes
-which require active involvement such as taking an active part in a
-discussion. It is the users’ responsibility to abide by the terms of use.
-These include, besides the [ general rules of
-behaviour](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-
-cases-hygiene-policy) the obligation to respect the single-person occupancy
-rule. It is not permitted to use these rooms as a group or for purposes other
-than the participation in online courses. Spaces that are intended exclusively
-for studying are available in the library. HHU’s security contractor will make
-sure that these rules are obeyed. Should it become apparent that the rooms are
-used by groups or that the terms or use are violated in any other way, we will
-be forced to discontinue this service. 
+On campus, small study rooms are available for HHU students. These small study
+rooms may only be used by one person at a time (single occupancy) and are
+primarily intended for participation in online classes which require active
+involvement such as taking an active part in a discussion.
 
-These small study rooms are open Monday – Friday from 10.30am to 6pm. The
-rooms in building 23.02 are available from 8am – 6pm. The small study rooms
-can be booked [via a web application](https://www.philo.hhu.de/en/studium-und-
-lehre/lehre/allgemeine-informationen/raumbuchungen) for an allocated time slot
-at a time. It is mandatory to book a space in advance.
+The small study rooms are open Monday – Friday from 10.30am – 6pm. The rooms
+in building 23.02 are available from 8am – 6pm. The small study rooms can be
+[booked via a web application](https://www.philo.hhu.de/studium-und-
+lehre/studium/allgemeine-informationen/raumbuchungssysteme.html) for an
+allocated time slot at a time. It is mandatory to book a space in advance.
+
+The small study rooms will be closed during the Christmas Holidays (23
+December 2020 – 05 January 2021) and reopen on 06 January 2021.
+
+Users are obliged to respect the terms of use. These include, besides the [
+general rules of behaviour](https://www.corona.hhu.de/en/covid-19-suspected-
+and-confirmed-cases-hygiene-policy) the obligation to respect the single-
+person occupancy rule. It is not permitted to use these rooms as a group or
+for purposes other than the participation in online courses. Spaces that are
+intended exclusively for studying are available in the library. HHU’s security
+contractor will make sure that these rules are obeyed. Should it become
+apparent that the rooms are used by groups or that the terms or use are
+violated in any other way, we will be forced to discontinue this service. 
 
 #### Lecture theatres as a place to study
 
@@ -223,17 +225,28 @@ Lecture theatres remain closed until further notice. 
 
 ## Exams
 
-[Last updated: 02 November 2020]
+[Last updated: 11 December 2020]
 
 #### General regulations
 
-HHU’s rectorate has adopted regulations for the implementation of the
-Coronavirus Epidemic University Directive (CEHVO).
+HHU’s rectorate has adopted new regulations regarding the implementation of
+the Coronavirus Epidemic University Directive (CEHVO) [ which can be
+downloaded
+here](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf).
+These regulations provide university-wide specifications for topics such as
+flexible teaching and examination formats, withdrawals from examinations,
+additional attempts at passing examinations, extension of the individual
+standard duration of study (this only applies to summer semester 2020) during
+the covid-19 pandemic, i.e. in particular for summer semester 2020 and winter
+semester 2020/2021. Please note that regulations in the individual study
+programmes can be different. 
+
+The previous HHU regulations regarding the implementation of the Coronavirus
+Epidemic University Directive can be accessed vial the following links:.
 
   * [ HHU’s regulations of 7 May 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_05_07_AB_26.pdf)
   * [ First amendment to regulations dated 21 August 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_08_21_AB_42.pdf)
   * [ Second amendment to regulations dated 02 September 2020](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Amtliche_Bekanntmachungen_im_Kontext_Corona/Amtliche-Bekanntmachungen_2020_09_11_AB_44.pdf)
-  * The regulations cover, in particular, aspects such as flexible teaching and exam formats, cancellation policies, free exam attempts or resit options, extension of the prescribed period of study during the corona pandemic. These regulations have been in force since 7 May 2020 and apply to the Bachelor’s and Master’s study programmes at HHU until further notice, provided that no deviating regulations were made in the examination regulations.
 
 #### Written exams and viewing of exam papers
 
@@ -250,14 +263,16 @@ must be complied with. Your lecturers will inform you before the exam about
 any possible further hygiene measures. Please familiarise yourself with the
 regulations and procedures – compliance with them is compulsory.
 
-In exceptional cases, written exams can be taken online, provided the
-appropriate examination regulations allow for this. Your lecturers will be
-able to inform you about the appropriate processes and regulations.
+Written exams can be taken online. The faculties will manage any details. Your
+lecturers will be able to inform you about the appropriate processes and
+regulations.
 
-Until further notice, the failure to appear for an exam counts as a
-permissible withdrawal from the exam, provided the appropriate examination
-regulations allow for this. In case of questions, please contact your dean of
-studies' office or the appropriate examinations committee.
+In winter semester 2020/2021, the failure to appear for an exam also counts as
+a permissible withdrawal from the exam, provided the [ regulations issued by
+the
+rectorate](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf)
+allow for this. In case of questions, please contact your dean of studies'
+office or the appropriate examinations committee.
 
 ### Oral exams
 
@@ -265,13 +280,8 @@ Oral exams can be taken in person on campus, provided all of HHU’s hygiene and
 safety regulations are observed throughout. 
 
 Individual oral exams can currently be carried out as an online video
-conference in so far as they are permitted by the applicable examination
-regulations. The examiner decides for each application whether an oral exam
-can be offered as an online video conference. Students must make the
-applications and provide reasons for the application. Certain requirements
-must also be met; please [refer to HHU’s online exam
-guidelines](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-
-durchfuehrung-von-online-videopruefungen.html) for more information.
+conference, details will be managed by the faculties. Please contact your
+examiner and/or your dean of studies in case of questions. .
 
  Students may withdraw from an oral examination until noon of the day before
 the examination. To withdraw from an exam, students can contact the examiner
