@@ -78,7 +78,7 @@ Willkommen!
 ## Das Wichtigste in Kürze
 
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
-  * Seit dem 2. Dezember sind Präsenzveranstaltungen bis auf Weiteres nicht mehr erlaubt. Die gesamte Lehre findet online statt. Eine Ausnahme gilt für Lehr- und Praxisveranstaltungen, die zwingend in Präsenz abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z. B. Labore) oder sonstige besondere Rahmenbedingungen (z. B. Unterricht am Krankenbett) angewiesen sind. Ausgenommen sind zudem bereits laufende Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen. Prüfungen bleiben nach den bisherigen Regelungen zulässig. Der Zugang zur Bibliothek bleibt unverändert.
+  * Präsenzlehrveranstaltungen sind ab dem 16. Dezember untersagt. Ab jetzt werden auch alle Vorlesungen für Erstsemester, die bisher noch in Präsenz stattgefunden haben, als Online-Lehrveranstaltungen weitergeführt. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen fallen vorerst aus. Anfang Januar wird entschieden, ob eine Wiederaufnahme nach dem 10. Januar möglich ist oder ob die Veranstaltungen als Online-Lehrveranstaltungen weitergeführt können bzw. – falls dies nicht möglich ist – verschoben werden müssen.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten.
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen, Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
@@ -86,10 +86,10 @@ Willkommen!
   * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](../www.corona.hhu.de/fuer-beschaeftigte.html#c452970) zusammengefasst.
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind bis zum 15. Januar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet.
-  * Noch ist die Mensa in der Universitätsstraße unter der Woche zwischen 11:30 Uhr bis 14:00 Uhr geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden. Am 16.12. schließen die Mensa, das Café Uno und die Mensa Süd. Die Cafeteria Süd in der Math.-Nat. Fakultät ist seit dem 11.12.2020 geschlossen.
+  * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 14.12.2020]
+[Letztes Update: 16.12.2020]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
