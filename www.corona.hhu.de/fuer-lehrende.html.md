@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Informationsseiten der
-Fakultäten](fuer-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
-lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationen für Lehrende](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
+lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
+lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
@@ -89,14 +89,16 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 
 ## Das Wichtigste für Lehrende in Kürze
 
-  * Seit dem 2. Dezember sind Präsenzveranstaltungen bis auf Weiteres nicht mehr erlaubt. Die gesamte Lehre findet online statt. Eine Ausnahme gilt für Lehr- und Praxisveranstaltungen, die zwingend in Präsenz abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z. B. Labore) oder sonstige besondere Rahmenbedingungen (z. B. Unterricht am Krankenbett) angewiesen sind. Ausgenommen sind zudem bereits laufende Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen. Prüfungen bleiben nach den bisherigen Regelungen zulässig. Der Zugang zur Bibliothek bleibt unverändert.
-  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
+  * Präsenzlehrveranstaltungen sind ab dem 16. Dezember untersagt. Ab jetzt werden auch alle Vorlesungen für Erstsemester, die bisher noch in Präsenz stattgefunden haben, als Online-Lehrveranstaltungen weitergeführt. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen fallen vorerst aus. Anfang Januar wird entschieden, ob eine Wiederaufnahme nach dem 10. Januar möglich ist oder ob die Veranstaltungen als Online-Lehrveranstaltungen weitergeführt bzw. – falls dies nicht möglich ist – verschoben werden müssen. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
+  * Der Zugang zur ULB wird ebenfalls ab dem 16. Dezember eingeschränkt. Detaillierte Informationen zu den Öffnungszeiten, den aktuellen Regelungen und Services auch über die Feiertage finden Sie auf der [Homepage der ULB](https://www.ulb.hhu.de/).
+  * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
-  * Noch ist die Mensa in der Universitätsstraße unter der Woche zwischen 11:30 Uhr bis 14:00 Uhr geöffnet. Um vor Ort essen zu können, muss maximal 48 Stunden im Voraus über die [Internetseite des Studierendenwerks](https://www.stw-d.de/) ein Sitzplatz reserviert werden. Am 16.12. schließen die Mensa, das Café Uno und die Mensa Süd. Die Cafeteria Süd in der Math.-Nat. Fakultät ist seit dem 11.12.2020 geschlossen.
+  * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU seit dem 16. Dezember bis auf Weiteres geschlossen sind. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de).
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 14.12.2020: Das Wichtigste für Lehrende in Kürze;
-11.12.2020: Prüfungen.
+Letzte Aktualisierungen: 16.12.2020: Das Wichtigste in Kürze;  Termine; Lehr-
+und Studienbetrieb; Prüfungen; Rückverfolgbarkeit; Hilfestellungen für den
+digitalen Lehrbetrieb.
 
 ## Lehrende
 
@@ -104,13 +106,9 @@ Letzte Aktualisierungen: 14.12.2020: Das Wichtigste für Lehrende in Kürze;
 
 ## Termine
 
-[Update: 02.11.2020]
+[Update: 16.12.2020]
 
-Der Beginn der Vorlesungszeit ist im Wintersemester 2020/2021 auf den 26.
-Oktober (für höhere Semester und in Masterstudiengängen) bzw. auf den 2.
-November (für Erstsemester in den Bachelorstudiengängen und der Studiengänge
-mit staatlichem Abschluss verschoben. Alle Termine sowie mögliche Änderungen
-finden Sie unter [Termine und
+Alle Termine sowie mögliche Änderungen finden Sie unter [Termine und
 Fristen](https://www.hhu.de/studium/studienorganisation/vorlesungszeiten
 "Termine").
 
@@ -124,65 +122,53 @@ bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 02.12.2020]
+[Update: 16.12.2020]
 
-Die neue Allgemeinverfügung des Landes NRW für die Durchführung von Lehr- und
-Praxisveranstaltungen sowie Prüfungen an den Hochschulen sieht Einschränkungen
-im Lehr- und Prüfungsbetrieb vor. Für die Lehre bedeutet dies Folgendes:
+Aufgrund des aktuellen Infektionsgeschehens in Deutschland und der Beschlüsse
+der Landesregierung sind weitere Einschränkungen des Lehr- und Studienbetriebs
+an der HHU leider unvermeidlich. Die Universitätsleitung hat daher auf
+Grundlage der [neuen Coronaschutzverordnung des MAGS
+NRW](https://www.mags.nrw/sites/default/files/asset/document/201214_coronaschvo_ab_16.12.2020.pdf)
+und nach ausführlicher Beratung in der Task Force Lehre folgende Regelungen
+für den Lehr- und Prüfungsbetrieb von Mittwoch, den 16. Dezember 2020 vorerst
+bis zum 10. Januar 2021 beschlossen.
 
-Der Lehrbetrieb wird ab dem 2. Dezember auf digitale Lehre umgestellt. Eine
-Ausnahme hiervon bilden Lehrveranstaltungen, die zwingend in Präsenz
-abzuhalten sind, weil die Teilnehmenden dort auf besondere Räumlichkeiten (z.
-B. Labore) oder sonstige besondere Rahmenbedingungen (z. B. Unterricht am
-Krankenbett) angewiesen sind. Ausgenommen sind außerdem bereits laufende
-Veranstaltungen für Erstsemester in Bachelor- und Staatsexamen-Studiengängen,
-die als Präsenz- oder Hybridveranstaltung konzipiert wurden. Bitte informieren
-Sie Ihre Studierenden über die Anpassung Ihrer Lehrveranstaltung.
+  * Präsenzveranstaltungen sind untersagt. Dies beinhaltet u.a. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen. Die Lehrveranstaltungen werden soweit möglich als Online-Lehrveranstaltungen weitergeführt (natürlich exklusive der Weihnachtsferien vom 23.12.2020 – 05.01.2021). Bitte informieren Sie Ihre Studierenden über die Anpassung Ihrer Lehrveranstaltung. Hilfestellungen für die digitale Lehre finden Sie weiter unten auf dieser Corona-Webseite.
+  * Prüfungen (d.h. Klausuren, mündliche Prüfungen) in physischer Präsenz sind in der Regel untersagt. Mündliche Prüfungen sollen daher vorerst nur noch als Online-Prüfungen durchgeführt werden. In begrenzten Ausnahmefällen können die Studiendekane schriftliche Prüfungen genehmigen, die aus rechtlichen oder tatsächlichen Gründen nicht auf einen Zeitpunkt nach dem 10. Januar 2021 verschoben werden können.
+  * Studierende, die für die Durchführung ihrer Abschlussarbeit auf die Nutzung eines Labors angewiesen sind und deren Arbeit bereits angemeldet ist, können in Abstimmung mit dem Betreuer bzw. der Betreuerin ihre Arbeit im Labor fortsetzen.
+  * Die Lernräume, die den Studierenden auf dem Campus der HHU für die Teilnahme an Online-Lehrveranstaltungen zur Verfügung gestellt worden sind, sowie die Lernräume der ULB, sind ebenfalls ab dem 16. Dezember bis auf Weiteres geschlossen.
+  * Die Zentralbibliothek sowie die Fachbibliotheken Medizin und Rechtswissenschaft sind ab dem 16. Dezember täglich von 10 bis 15 Uhr ausschließlich für die Ausleihe von Medien geöffnet, und dies auch nur in Verbindung mit der Bearbeitung und Vorbereitung von termingebundenen Prüfungsleistungen. Detaillierte Informationen zu den aktuellen Regelungen und Services auch über die Feiertage finden Sie auf der [Homepage der ULB](https://www.ulb.hhu.de/).
+  * Das SSC hat ab dem 16. Dezember von 10 bis 15 Uhr für dringende Anliegen nach vorhergehender Terminvereinbarung geöffnet. Die Studierenden werden gebeten, vor ihrem Besuch sorgfältig zu prüfen, ob ihr Anliegen im Sinne des Infektionsschutzes [auf digitalem Weg bearbeitet werden kann](https://www.hhu.de/ssc). Vom 23.12.2020 bis zum 03.01.2021 bleibt das SSC geschlossen.
 
-Hilfestellungen für die digitale Lehre finden Sie weiter unten auf dieser
-Corona-Webseite.
+Ferner hat das Studierendenwerk Düsseldorf der HHU mitgeteilt, dass alle
+gastronomischen Einrichtungen des Studierendenwerks ab dem 16. Dezember
+geschlossen sind.
 
-Bei Präsenzveranstaltungen, die auf dem Campus stattfinden, ist von den
-Teilnehmenden eine Alltagsmaske zu tragen. Eine Ausnahme bilden die
-Lehrkräfte, wenn sie den Mindestabstand zu anderen Personen im Raum einhalten.
-Für die Durchführung der Veranstaltung sind die einschlägigen Hygiene- und
-Sicherheitsvorschriften zu beachten. In Präsenzveranstaltungen ist weiterhin
-die Rückverfolgbarkeit von Infektionsketten sicherzustellen.
-
-#### Online-Lehre
-
-Die HHU empfiehlt nach den Erfahrungen aus dem Sommersemester und den
-Ergebnissen der Studierendenbefragung, alle Online-Veranstaltungen zumindest
-phasenweise live anzubieten, um den Studierenden eine unmittelbare Interaktion
-mit dem Dozierenden und den Kommilitonen zu ermöglichen. Davon unabhängig legt
-die HHU den Dozierenden nahe, sämtliche (Live-)Formate für die Studierenden
-zusätzlich aufzuzeichnen und ihnen flexibel bereitzustellen (z. B. über die
-HHU-Mediathek).
+Die nächste Ministerpräsidentenkonferenz findet am 5. Januar 2021 statt. Mit
+einer neuen Coronaschutzverordnung mit Auswirkungen auf Hochschulen wird
+frühestens ab dem 6. Januar 2021 gerechnet. Die Universitätsleitung wird im
+Anschluss die Regelungen bewerten und spätestens am 8. Januar 2021 über
+Änderungen informieren, insbesondere hinsichtlich der möglichen Wiederaufnahme
+von Praktika.
 
 ## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
 
 ## Rückverfolgbarkeit
 
-[Update: 12.11.2020]
+[Update: 16.12.2020]
 
 Nach der derzeit geltenden Coronaschutzverordnung des Landes NRW und der für
-den Lehrbetrieb geltenden Allgemeinverfügung sind in allen Lehr- und
-Praxisveranstaltungen mit physischer Präsenz personenbezogene Daten zu
-erheben, um im Falle einer Infektion mögliche Infektionsketten nachverfolgen
-zu können. Dies betrifft die Durchführung von Lehrveranstaltungen, Prüfungen,
-Klausureinsichten, Informationsveranstaltungen, Sprechstunden, Nutzung der
-Lernräume etc. mit physischer Präsenz. In den Verfahrensweisen für
-Präsenzveranstaltungen, die Sie auf der [Seite zum
-Hygienekonzept](https://redaktion.hhu.de/VORSCHAU/www.corona.hhu.de/zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept#c453066) herunterladen
-können, finden Sie Hinweise zur einfachen und besonderen Rückverfolgbarkeit
-sowie zu der Frage, wie mit Infektions(verdachts)fällen im Lehrbetrieb
-umzugehen ist. Bitte beachten Sie, dass die Erhebung dieser Daten
-ausschließlich dem Zwecke der Nachverfolgung dient und die Daten auch nur auf
-Verlangen dem zuständigen Gesundheitsamt vorzulegen sind. Die Lehrenden sind
-demnach verpflichtet, die Daten zu erheben, sie geschützt und vor dem Zugriff
-unbefugter Dritter gesichert aufzubewahren und nach Ablauf von 4 Wochen
-datenschutzkonform zu vernichten.
+den Lehrbetrieb geltenden Allgemeinverfügung ist bei allen Präsenzlehr- und
+Praxisveranstaltungen die einfache Rückverfolgbarkeit sicherzustellen. Das
+heißt, es sind die personenbezogenen Daten aller Teilnehmenden zu erheben, um
+im Falle einer Infektion mögliche Infektionsketten nachverfolgen zu können.
+Dies betrifft derzeit nur noch die Durchführung  von Klausuren sowie
+Klausureinsichten mit physischer Präsenz. Bitte beachten Sie, dass die
+Erhebung dieser Daten ausschließlich dem Zwecke der Nachverfolgung dient und
+die Daten auch nur auf Verlangen dem zuständigen Gesundheitsamt vorzulegen
+sind. Die Lehrenden sind demnach verpflichtet, die Daten zu erheben, sie
+geschützt und vor dem Zugriff unbefugter Dritter gesichert aufzubewahren und
+nach Ablauf von 4 Wochen datenschutzkonform zu vernichten.
 
 Für die Erhebung der Daten können Sie [ diesen Vordruck
 nutzen.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf)
@@ -197,7 +183,7 @@ Sprache.
 
 ## Prüfungen
 
-[Update: 11.12.2020]
+[Update: 16.12.2020]
 
 #### Allgemeine Regelungen
 
@@ -213,7 +199,8 @@ universitätsweit geregelt. Bitte beachten Sie, dass die Studiengänge in ihren
 Prüfungsordnungen davon abweichende Regelungen treffen können.
 
 Lehrende werden in diesem Zusammenhang gebeten, im Studierendenportal das
-Nichterscheinen als Prüfungsergebnis mit dem Kürzel „ne“ zu vermerken.
+Nichterscheinen von angemeldeten Studierenden als Prüfungsergebnis das Kürzel
+„ne“ zu vermerken.
 
 Die alten HHU-Regelungen zur Umsetzung der Corona-Epidemie-Hochschulverordnung
 können unter den nachfolgenden Links eingesehen werden:
@@ -235,42 +222,36 @@ Prüfungen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Pr
 Klausureinsichten können bis auf Weiteres in Hörsälen unter Beachtung des [
 HHU-
 Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
-und den Regelungen zur Rückverfolgbarkeit durchgeführt werden. Bitte buchen
-Sie hierfür einen freien Hörsaal unter Angabe des Termins, des gewünschten
-Zeitslots und der voraussichtlichen Personenzahl rechtzeitig beim jeweiligen
-Studiendekanat. Hinweise für die Durchführung von Klausureinsichten finden
-sich zusätzlich in der [
+und den Regelungen zur Rückverfolgbarkeit durchgeführt werden. Sie werden wie
+Prüfungen geplant und organisiert (inkl. Raumbuchung). Dies betrifft vor allem
+die Klausurphase im Anschluss an die Vorlesungszeit des Wintersemesters. Bitte
+buchen Sie für Klausureinsichten einen freien Hörsaal unter Angabe des
+Termins, des gewünschten Zeitslots und der voraussichtlichen Personenzahl
+rechtzeitig beim jeweiligen Studiendekanat. Hinweise für die Durchführung von
+Klausureinsichten finden sich zusätzlich in der [
 Handreichung](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Mathematisch-
 Naturwissenschaftliche_Fakultaet/Dekanat/Dokumente/MNF-
 Empfehlungen_zur_Durchfuehrung_von_Klausureinsichten.pdf).
 
 #### Mündliche Prüfungen
 
-Bei mündliche Prüfungen mit physischer Präsenz sind die [ Vorgaben des
-Hygienekonzepts](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04.pdf)
-(insbesondere die durchgehende Einhaltung des Mindestabstands von 1,5 Metern)
-strikt einzuhalten sowie die Rückverfolgbarkeit zu gewährleisten. Die
-Verantwortung liegt bei den jeweiligen Prüfenden.
-
-#### Online-Prüfungen
-
-Mündliche Prüfungen und Klausuren können online durchgeführt werden.
-
-Als Hilfestellung haben wir Ihnen Leitfäden erstellt, die Sie im Rahmen der
-Fakultätsregelungen nutzen können:
-
-  * [Online-Klausuren](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren.html).
-  * [ Mündliche Online-Video-Prüfungen](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
+Mündliche Präsenzprüfungen sind derzeit unzulässig und sollen daher vorerst
+nur noch als Online-Prüfung durchgeführt werden. Die Details werden hierbei
+durch die Fakultäten geregelt. Dies gilt auch für Promotionsprüfungen. Als
+Hilfestellung haben wir Ihnen [ diesen
+Leitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-
+Videopru__fungen_final_fu__r_Versand.pdf) erstellt, den Sie im Rahmen der
+Fakultätsregelungen nutzen können.
 
 ## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
 
 ## Hilfestellungen für die digitale Lehre
 
-[Update: 10.11.2020]
+[Update: 16.12.2020]
 
-Im Wintersemester 2020/2021 ist Präsenzlehre nur eingeschränkt möglich. Daher
-haben wir Ihnen auf dieser Seite einige konkrete Informationsangebote
-zusammengestellt, die Ihnen Anregungen für Ihre Online-Lehre geben können.
+Derzeit ist keine Präsenzlehre möglich. Daher haben wir Ihnen auf dieser Seite
+einige konkrete Informationsangebote zusammengestellt, die Ihnen Anregungen
+für Ihre Online-Lehre geben können.
 
 Einen gebündelten Überblick zum E-Learning erhalten Sie auf der [zentralen
 E-Learning-Webseite](https://www.elearning.hhu.de/). Hier finden Sie
@@ -295,8 +276,8 @@ Leitfaden.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Pr
 Eine wöchentliche Sprechstunde zur digitalen Lehre gibt es im
 [Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde) der
 HHU. Immer montags und mittwochs von 13.30 bis 14.30 Uhr beantworten dort
-E-Learning-Expert/innen Ihre Fragen, die Sie gerne auch schon vorher
-einstellen können.
+E-Learning-Expert/innen Ihre Fragen, die Sie gerne auch schon vorher in den
+Channel einstellen können.
 
 #### Vorlesungsaufzeichnungen
 
@@ -348,10 +329,10 @@ werden.
 
 ## Raumbuchungen
 
-[Update: 21.10.2020]
+[Update: 16.12.2020]
 
 Raumbuchungen in zentral verwalteten Räumen werden bis auf Weiteres zentral
-koordiniert und können nur über die Studiendekanate oder das
+koordiniert und können nur in Absprache mit den Studiendekanaten oder dem
 Raumbuchungsmanagement durchgeführt werden.
 
 ## [ Informationsseiten der Fakultäten ](fuer-lehrende.html#)
