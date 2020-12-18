@@ -1,7 +1,7 @@
-[Jump to content](for-lecturers.html#content)[Information pages of
+[Jump to content](for-lecturers.html#content)[Resources and assistance for
+online teaching](for-lecturers.html#c452910)[Information pages of
 faculties](for-lecturers.html#c452911)[Examinations](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
-and assistance for online teaching](for-lecturers.html#c452910)[Lecturers
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Lecturers
 topic group](for-lecturers.html#c438666)[Main points for lecturers in
 brief](for-lecturers.html#c438668)[Lecturers](for-
 lecturers.html#c452917)[Still have questions?](for-
