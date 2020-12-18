@@ -1,7 +1,5 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[Hygiene policy/protective measures at
-HHU](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation to wear a
+policy.html#content)[Posters ‘General hygiene measures’, ‘obligation to wear a
 face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
 hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
 COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
@@ -14,18 +12,20 @@ with an infected person or a person who is suspected to have contracted
 COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453062)[Important telephone numbers and
 addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Who is most at risk?](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c453063)[HHU coronavirus information
-videos](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453065)[Main points in brief on COVID-19 and on handling
+policy.html#c453064)[Hygiene policy/protective measures at
+HHU](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453066)[Who
+is most at risk?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453063)[HHU coronavirus information videos](covid-19-suspected-
+and-confirmed-cases-hygiene-policy.html#c453065)[Main points in brief on
+COVID-19 and on handling suspected and confirmed cases](covid-19-suspected-
+and-confirmed-cases-hygiene-policy.html#c439137)[COVID-19](covid-19-suspected-
+and-confirmed-cases-hygiene-policy.html#c453068)[Still have
+questions?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c439138)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453068)[Still have questions?](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c439138)[Main points in brief on COVID-19 and on
-handling suspected and confirmed cases](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c439136)[As a supervisor – how do I proceed if one
-of my employees reports a (suspected) infection with
-COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c0)
+policy.html#c439136)[As a supervisor – how do I proceed if one of my employees
+reports a (suspected) infection with COVID-19?](covid-19-suspected-and-
+confirmed-cases-hygiene-policy.html#c0)
 
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
