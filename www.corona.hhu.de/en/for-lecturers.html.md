@@ -86,14 +86,16 @@ and/or your study programme.
 
 ## Main points for lecturers in brief
 
-  * From 02 December on, on-campus courses are no longer permitted until further notice. Teaching will exclusively take place online. One exception are classes and on-campus events where personal attendance is vital because the participants depend on special rooms (such as laboratories) or other special framework conditions (e.g. bedside teaching). Another exception are courses for first-year students in bachelor’s and state examination study programmes that have already started. In accordance with the previous regulations, examinations can still take place. Access to the library remains as is.
-  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.   
+  * As of 16 December, in-person courses are no longer allowed. From now on, all lectures for first-year students, which up until now had taken place on-campus, will also continue online. Laboratory placements, bedside teaching, trips, language courses and other similar in-persons activities have been cancelled until further notice. In early January 2021, there will be a decision whether in-person teaching will again be possible after 10 January or if the courses will have to continue online or – in cases there this is not possible – will have to be postponed. See sections „teaching and studying“ and „examinations“ for details.
+  * Access to ULB will also be restricted from 16 December. For detailed information on opening hours, the latest regulations and services available during the holiday season, please see the [ULB website](https://www.ulb.hhu.de/).
+  * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU.  Please observe further specifications on the ‘employees’ website and in the ‘patient care’ sections.
   * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
-  * The main canteen (Mensa) in Universitätsstraße is currently still open every weekday from 11.30am – 2pm. You must book a seat no longer than 48 hours ahead [via the Studierendenwerk website](https://www.stw-d.de/) if you want to have lunch there. The Mensa, Café Uno and Mensa Süd will all close on 16 December. The ‘Cafeteria Süd’ closed on 11 December 2020.
+  * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus has closed on 16 December until further notice. For more information check the [Studierendenwerk website](https://www.stw-d.de).
   * The rectorate has adopted [ new regulations that specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide more or less university-wide specification for topics such as flexible teaching and examination formats, withdrawal from examinations and additional attempts at taking an examination during the coronavirus pandemic.
 
-Last updated: 14 December 2020: Main points in brief;  11 December 2020:
-examinations.
+Last updated: 18 December 2020: Main points in brief;  dates; teaching and
+studying; examinations; contact tracing; resources and assistance for digital
+teaching.
 
 ## Lecturers
 
@@ -101,13 +103,9 @@ examinations.
 
 ### Dates
 
- [Last updated: 02 November 2020]
+ [Last updated: 18 December 2020]
 
-The start of the lecture period for winter semester 2020/2021 has been
-postponed to 26 October (for higher semesters and students in master’s
-programmes) and 02 November (for first-year students in bachelor’s programmes
-and study programmes with a state degree). You can find all dates and
-potential changes under [dates and
+You can find all dates and potential changes under [dates and
 deadlines](https://www.hhu.de/en/studies/organising-your-studies/translate-to-
 english-vorlesungszeiten).
 
@@ -118,65 +116,52 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 
 ## [ Teaching activities and studies ](for-lecturers.html#)
 
-** ** [Last updated: 02 December 2020]
+** ** [Last updated: 18 December 2020]
 
+Due to the latest developments surrounding coronavirus infections in Germany
+and in light of the NRW state government decisions, further restrictions on
+teaching and studying at HHU are inevitable. Based on the [new NRW Ministry of
+Labour, Health and Social Affairs‘ Coronavirus Protection
+Ordinance](https://www.mags.nrw/sites/default/files/asset/document/201214_coronaschvo_ab_16.12.2020.pdf)
+and after extensive deliberations of the ‘Taskforce Lehre’, the University’s
+management has agreed on the following regulations regarding teaching and
+examinations. They will be in place from Wednesday, 16 December 2020 until 10
+January 2021, for the time being. 
 
+  * In-person courses and activities are not permitted. This includes e.g. laboratory placements, bedside teaching, trips, language courses and similar practical activities. These courses will continue, wherever possible, online (with a break over the Christmas holidays from 23 December 2020 – 05 January 2021, of course). Please notify your students of any adjustments to you courses. Futher below on this coronavirus information website you can find resources and assistance for digital teaching.  
+  * In-person examinations (i.e. written and oral exams) are not permitted, as a rule. For this reason, oral exams should only take place online, for the time being. In a few, exceptional cases deans of study can approve those exams that cannot be moved to a date after 10 January 2021 due to legal or actual reasons.   
+  * Students who depend on the use of a laboratory to complete their final thesis and whose final thesis has already been registered can, if approved by their supervisor, continue with their laboratory work.   
+  * The study rooms that have been set up on campus for HHU students to enable participation in online courses and also the study rooms at ULB also closed on 16 December until further notice.
+  * From 16 December, the central library and the subject libraries for medicine and law will be open every day from 10am – 3pm. Visits to the library are limited to borrowing media, and this only to work on and prepare scheduled exams/exam components. Detailed information on the current regulations and services (including the services available during the Christmas holidays) can be found on [ULB’s website](https://www.ulb.hhu.de/).
+  * As of 16 December, the SSC will be open from 10am – 3pm for urgent requests only and only after prior appointment. To limit the risk of infection, please check whether your request can be resolved with the help of one of [our online services](https://www.hhu.de/ssc) before you schedule an appointment. The SSC will be closed from 23 December 2020 to 03 January 2021.
 
-The new General Degree passed by the State of NRW on teaching, practical
-activities and examinations at higher education institutions introduces
-restrictions concerning teaching operations and examinations. With regard to
-teaching operations this means: 
+The Studierendenwerk Düsseldorf has notified HHU that from 16 December 2020
+all its canteens and cafés will be closed.
 
-From 02 December on, all teaching activities will take place online. The only
-exception are classes and on-campus activities where personal attendance is
-vital because the participants depend on special facilities (e.g.
-laboratories) or other special framework conditions (e.g. bedside teaching).
-Another exception are courses for first-year students in bachelor’s and state
-examination programmes that have already started and which were designed as
-on-campus or hybrid courses. Please inform your students about any adjustments
-to your courses.
-
-See further down this coronavirus information website for helpful information
-on digital teaching.
-
-During all on-campus activities participants must wear a face covering. The
-only exception are lecturers, provided they can maintain the required minimum
-distance to the other persons present in the room. The relevant hygiene and
-safety measures must be observed during all activities. In case of in-person
-activities, adequate contact tracing in case of infection must be guaranteed.
-
-#### Online teaching
-
-Based on experiences from the summer semester and results of the student
-survey, HHU recommends offering all online courses live, at least in phases,
-so that students can directly interact with the lecturers and fellow students.
-Independently of this, HHU suggests that lecturers additionally record all
-(live) formats for the students and provide them to the students in a flexible
-way (e.g. via the HHU media library). 
+The next conference of the German state prime ministers is scheduled for 05
+January 2021. A new Coronavirus Protection Ordinance is expected no sooner
+than 06 January 2021. Afterwards, the University management will assess the
+regulations and inform about any changes no later than 08 January 2021, in
+particular where the possible continuation of laboratory placements is
+concerned.  
 
 ## [ Traceability ](for-lecturers.html#)
 
 ## Traceability
 
-[Last updated: 19 November 2020]
+[Last updated: 18 December 2020]
 
 In accordance with the Coronavirus Pandemic Ordinance of the State of NRW that
-is currently in place and the general directive applicable to teaching,
-personal data must be collected for all teaching and practical activities
-which take place on campus in order to be able to trace back potential chains
-of infection in the event of an infection. This applies to courses,
-examinations, exam viewings, info events, consultation hours, the use of study
-rooms, etc. if these activities place on campus. The specifications about on-
-campus courses which you can download from the [ hygiene policy
-site](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-
-hygiene-policy), also contains information about basic and advanced
-traceability as well as what to do in case of a (suspected) infection in a
-teaching environment. Please note that the collection of this data is for
-tracing purposes only and that the data will only be passed on to the
-responsible health authorities upon request. The lecturers are obliged to
-collect the data, keep it safe and protected from access by unauthorised third
-parties and to destroy it after four weeks in accordance with data protection
-regulations. 
+is currently in place and the general directive applicable to teaching, basic
+contact tracing must be ensured for all in-person and practical activities.
+This means that the personal data of all participants must be collected in
+order to be able to trace back potential chains of infection if necessary.
+This currently only still applies to in-person examinations and exam viewings.
+Please note that the collection of this data is for tracing purposes only and
+that the data will only be passed on to the responsible health authorities
+upon request. The lecturers are obliged to collect the data, keep it safe and
+protected from access by unauthorised third parties and to destroy it after
+four weeks in accordance with data protection regulations. 
 
 For the collection of the data you can use [ this
 form](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Vordruck_Rueckverfolgbarkeit_v4.pdf).
@@ -190,7 +175,7 @@ English](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Press
 
 ## Examinations
 
-[Last updated on: 11 December 2020]
+[Last updated on: 18 December 2020]
 
 #### General regulations
 
@@ -206,8 +191,8 @@ individual standard duration of study (this only applies to summer semester
 2020 and winter semester 2020/2021. Please note that regulations for the
 individual study programmes can be different. 
 
-In this context, lecturers are asked to note non-attendance as an examination
-result “ne“ in the student portal.
+In this context, lecturers are asked to note non-attendance of students
+registered for the exam as an examination result “ne“ in the student portal.
 
 The previous HHU regulations regarding the implementation of the Coronavirus
 Epidemic University Ordinance can be accessed vial the following links:
@@ -231,7 +216,9 @@ for implementing examinations.
 Until further notice, exam papers can continue to be viewed in compliance with
 [ HHU’s hygiene
 concept](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Unterweisung_Schutzmassnahmen_Coronavirus_SAUS_2020-05-04__1__ENG.pdf)
-and the regulations on contact tracing. For an exam viewing, please book an
+and the regulations on contact tracing. They are planned and organised like
+exams (incl. room bookings). This applies mainly to the exam phase following
+the winter semester lecture period. For an exam viewing, please book an
 available lecture theatre stating the date, the preferred time-slot and
 expected number of persons in a timely manner via the responsible dean of
 studies’ office. [ Information on viewing exam papers is also provided in the
@@ -249,22 +236,22 @@ regulations](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/P
 
 #### Online exams
 
-Oral and written exams can be taken online. Any details will be manage by the
-individual faculties. To assist you, we have developed guidelines which can be
-followed within the framework of the individual faculty’s regulations:
-
-  * [Online written exams](https://www.philo.hhu.de/en/studium-und-lehre/lehre/leitfaden-zur-durchfuehrung-von-online-klausuren?https%3A%2F%2Fwww_philo_hhu_de%2Fstudium-und-lehre%2Flehre%2Fleitfaden-zur-durchfuehrung-von-online-klausuren_html=&cHash=93277f8562cbdf503e4fe0d975beb6ac)
-  * [ Oral online video examinations](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-Videopru__fungen_final_fu__r_Versand.pdf)
+Oral in-person exams are currently not permitted. These exams should, for the
+time being, only take place online. The faculties are responsible for managing
+any details. The same applies to doctoral exams. To assist you, we have put
+together [ these
+guidelines](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Leitfaden_zur_Durchfu__hrung_von_Online-
+Videopru__fungen_final_fu__r_Versand.pdf) which you can use within the context
+of the faculty’s regulations.
 
 ## [ Resources and assistance for online teaching ](for-lecturers.html#)
 
 ## Resources and assistance for online teaching
 
-[Updated on: 10 November 2020]
+[Updated on: 18 December 2020]
 
-In winter semester 2020/2021 the possibilities for on-campus teaching will be
-limited. We have therefore compiled information material on this site that can
-help you plan your digital courses. 
+Currently, in-person teaching is not possible. We have therefore compiled
+information material on this site that can help you plan your digital courses.
 
 For a multiplexed e-learning overview please check the [central e-learning
 website](https://www.elearning.hhu.de/en/). It gives you information and
@@ -289,7 +276,7 @@ guidelines](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Di
 Once a week there is an [HHU RocketChat on digital
 teaching](https://rocketchat.hhu.de/channel/elearning-sprechstunde). Every
 Monday and Wednesday from 1.30pm to 2.30pm e-learning experts will answer your
-questions, which you can submit to them prior to the actual chat. 
+questions, which you can upload to the channel prior to the actual chat. 
 
 #### Lecture recordings
 
@@ -335,11 +322,11 @@ provided in the HHU media library and interlinked in ILIAS.
 
 ## Room bookings
 
-[Updated on: 21 October 2020]
+[Updated on: 18 December 2020]
 
 Room bookings for centrally managed rooms will be coordinated centrally until
-further notice and can only be booked through the deans of studies’ offices or
-the room booking management.
+further notice and can only be booked  after consultation with the deans of
+studies’ offices or the room booking management.
 
 ## [ Information pages of faculties ](for-lecturers.html#)
 
