@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
-Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Informationen für Lehrende](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Informationsseiten der
+Fakultäten](fuer-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
+lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
+lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
+lehrende.html#c452910)[Raumbuchungen](fuer-
+lehrende.html#c452911)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
