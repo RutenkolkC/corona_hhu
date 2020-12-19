@@ -1,15 +1,15 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Dienstreisen](fuer-
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Heim- und Telearbeit /
+Arbeitszeitkonten](fuer-beschaeftigte.html#c452969)[Erleichterungen für
+Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
 beschaeftigte.html#c452971)[Informationen aus der Zentralen
 Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
 Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
 mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-
-beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
-beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
-Hintergrund der Corona-Pandemie](fuer-beschaeftigte.html#c452970) [(Kopie
-4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
-beschaeftigte.html#c438664)[Beschäftigte](fuer-
+mit schwer vorerkrankten Angehörigen leben](fuer-beschaeftigte.html#c452968)
+[(Kopie 4)](fuer-beschaeftigte.html#c452577)[Informationen für
+Beschäftigte](fuer-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte
+in Kürze](fuer-beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
 beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438663)
