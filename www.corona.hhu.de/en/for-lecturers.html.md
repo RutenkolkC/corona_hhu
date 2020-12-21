@@ -1,12 +1,11 @@
-[Jump to content](for-lecturers.html#content)[Resources and assistance for
-online teaching](for-lecturers.html#c452910)[Information pages of
-faculties](for-lecturers.html#c452911)[Examinations](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Lecturers
-topic group](for-lecturers.html#c438666)[Main points for lecturers in
-brief](for-lecturers.html#c438668)[Lecturers](for-
-lecturers.html#c452917)[Still have questions?](for-
-lecturers.html#c439228)[Main points for lecturers in brief](for-
-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
+pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
+lecturers.html#c438666)[Main points for lecturers in brief](for-
+lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
+questions?](for-lecturers.html#c439228)[Main points for lecturers in
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
@@ -89,13 +88,13 @@ and/or your study programme.
   * As of 16 December, in-person courses are no longer allowed. From now on, all lectures for first-year students, which up until now had taken place on-campus, will also continue online. Laboratory placements, bedside teaching, trips, language courses and other similar in-persons activities have been cancelled until further notice. In early January 2021, there will be a decision whether in-person teaching will again be possible after 10 January or if the courses will have to continue online or – in cases there this is not possible – will have to be postponed. See sections „teaching and studying“ and „examinations“ for details.
   * Access to ULB will also be restricted from 16 December. For detailed information on opening hours, the latest regulations and services available during the holiday season, please see the [ULB website](https://www.ulb.hhu.de/).
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU.  Please observe further specifications on the ‘employees’ website and in the ‘patient care’ sections.
-  * Every Monday and Wednesday from 1:30pm to 2:30pm there is an [HHU Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  in which the e-learning experts will answer any questions you might have about virtual learning. Feel free to post your questions there before the actual chat. For more information about virtual learning see [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
+  * From January 2021, the online chat concerning virtual learning will take place every Wednesday from 1.30pm to 2.30pm in [HHU Rocket.Cha](https://rocketchat.hhu.de/channel/elearning-sprechstunde)t . The e-learning experts will answer your questions there, but feel free to post your questions on the platform before the actual chat. For more information about virtual learning see HHU‘s central e-learning website  [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
   * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus has closed on 16 December until further notice. For more information check the [Studierendenwerk website](https://www.stw-d.de).
   * The rectorate has adopted [ new regulations that specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide more or less university-wide specification for topics such as flexible teaching and examination formats, withdrawal from examinations and additional attempts at taking an examination during the coronavirus pandemic.
 
-Last updated: 18 December 2020: Main points in brief;  dates; teaching and
-studying; examinations; contact tracing; resources and assistance for digital
-teaching.
+Last updated: 17 December:  main points in brief; resources and assistance for
+digital learning; 16 December: dates and deadlines, teaching and studying;
+examinations; contact tracing; room bookings;
 
 ## Lecturers
 
@@ -248,7 +247,7 @@ of the faculty’s regulations.
 
 ## Resources and assistance for online teaching
 
-[Updated on: 18 December 2020]
+[Updated on: 17 December 2020]
 
 Currently, in-person teaching is not possible. We have therefore compiled
 information material on this site that can help you plan your digital courses.
@@ -273,33 +272,32 @@ guidelines](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Di
 
 #### E-learning consultation hour
 
-Once a week there is an [HHU RocketChat on digital
-teaching](https://rocketchat.hhu.de/channel/elearning-sprechstunde). Every
-Monday and Wednesday from 1.30pm to 2.30pm e-learning experts will answer your
-questions, which you can upload to the channel prior to the actual chat. 
+From January 2021, the [HHU RocketChat on digital
+teaching](https://rocketchat.hhu.de/channel/elearning-sprechstunde) will take
+place every Wednesday from 1.30pm to 2.30pm. Here, e-learning experts will
+answer your questions, which you post on the channel prior to the actual chat.
 
 #### Lecture recordings
 
-Microphone systems are available or currently being installed in all of HHU’s
-lecture theatres. These systems make it possible to record and stream speech
-with your own computer and to integrate it into a presentation shown in the
-lecture theatre as a screencast. LAN connections in the lecture theatres
-enable the in-person lecture to be streamed live. [Click here for more
-detailed
-information](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366).
-Screencasts produced in the lecture theatre can then, e.g., be made available
-through HHU’s media library. In the scope of a pilot project, recorders are
-being installed in some lecture theatres, which will make it easier to record
-presentations and sound. Cameras can be connected to these recorders, too.
-Lecturers have to operate the cameras and learn how to use these devices.
+Microphone systems and connections are available in all of HHU’s lecture
+halls. These systems make it possible to record speech as well as the
+presentation with your own computer as a screencast. LAN connections in the
+lecture halls enable the in-person lecture to be integrated in a video
+conference or to be streamed live. Click
+[here](https://wiki.hhu.de/pages/viewpage.action?pageld=218072271) for more
+detailed information. Screencasts produced in the lecture hall can then, e.g.,
+be made available through HHU’s media library.
+
+In the scope of a pilot project, recorders have been installed in the lecture
+theatres 3A, 3D, 5C, 5L, 6K and 6L, which will make it possible to record
+presentations and sound with your own USB stick. Cameras can be connected to
+these recorders, too. Lecturers have to operate the cameras and learn how to
+use these devices themselves.
 
 To stream lectures live and/or make them available as screencast videos, you
-can use, e.g., external web conference tools like Cisco Webex outside of the
-lecture hall. Use of these external systems cannot overload HHU’s network
-infrastructure.
-
-All digitalised lectures can be provided via the HHU media library. The videos
-can then be integrated into learning platforms such as ILIAS.
+can use  video conference tools such as Cisco Webex (campus licence).. All
+digitalised lectures can be provided via the HHU media library. The videos can
+then be integrated into learning platforms such as ILIAS.
 
 In general, when live streaming and recording lectures, copyright law in
 teaching, data protection and personal rights of the participants must be
@@ -314,9 +312,9 @@ university-administration/staff-units/staff-unit-data-protection).
 
 The learning platform ILIAS primarily serves to provide interactive e-learning
 offers like chats, forums and online tests as well as pdf files. Video
-material should not be uploaded in ILIAS because this will have a strongly
-negative impact on ILIAS’ performance. Instead, lecture recordings should be
-provided in the HHU media library and interlinked in ILIAS.
+material should not be uploaded directly in ILIAS because this will have a
+strongly negative impact on ILIAS’ performance but should instead be made
+available in the HHU media library and interlinked in ILIAS.
 
 ## [ Room bookings ](for-lecturers.html#)
 

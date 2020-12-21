@@ -1,12 +1,11 @@
-[Jump to content](for-students.html#content)[Exams](for-
-students.html#c450924)[Course organisation](for-
-students.html#c450965)[Information for international students](for-
-students.html#c450971)[Information for students with disabilities or chronic
-illnesses](for-students.html#c450972)[Services of the central
-institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Information for HHU students](for-
+[Jump to content](for-students.html#content)[Teaching and studying](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Course
+organisation](for-students.html#c450965)[Information for international
+students](for-students.html#c450971)[Information for students with
+disabilities or chronic illnesses](for-students.html#c450972)[Services of the
+central institutions](for-students.html#c450973)[Faculty information](for-
+students.html#c450974)[Further information](for-students.html#c450979)[General
+information](for-students.html#c450916)[Information for HHU students](for-
 students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
@@ -92,14 +91,14 @@ and that you check your HHU e-mail account on regular basis.
 ## Main points for students in brief
 
   * In light of the latest developments surrounding coronavirus infections and in light of the NRW state government’s decisions, further restrictions on teaching and examinations at HHU are inevitable. For details, please see the sections “teaching and studying” and “examinations”.
-  * The study rooms on campus that had been set up for participation in online courses have closed on 16 December until further notice.
+  * The study rooms on campus that had been set up for participation in online courses closed on 16 December until further notice.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
-  * All Studierendenwerk canteens and cafés closed on 16 December 2020.
+  * The Studierendenwerk has announced that the main canteen (Mensa) at Universitätsstraße and all other canteens and cafés on HHU’s campus closed on 16 December until further notice. For more information, check the Studierendenwerk [website](https://www.stw-d.de) .
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf).   These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Latest updated: 18 December 2020: Main points in brief; teaching and studying;
-examinations; study rooms on the campus.
+Last updated: 17 December 2020: main points in brief; dates and deadlines,
+examinations, 15 December 2020: teaching and studying;study rooms on campus
 
 ## Students
 
@@ -136,20 +135,17 @@ weeks.
 
 ## Dates & Deadlines
 
-[Last updated: 02 November 2020]
+[Last updated:  17 December 2020]
 
-The start of the lecture period for winter semester 2020/2021 has been
-postponed to 26 October (for higher semesters and students in master’s
-programmes) or 02 November respectively (for first-year students in bachelor’s
-programmes and study programmes with a state degree). You can find all dates
-and potential changes under [dates and
+You can find all dates and potential changes under [dates and
 deadlines](https://www.hhu.de/en/studies/organising-your-studies/translate-to-
 english-vorlesungszeiten).
 
-The phase of written examinations following the winter semester is four weeks
-long and from 16 February to 12 March 2021. The phase of written examinations
-before summer semester 2021 is planned to take place from 22 March to 09 April
-2021 (and includes the Easter holidays 2021: from 02 to 05 April 2021). 
+The phase of written examinations following the winter semester 2020/2021 is
+four weeks long and from 16 February to 12 March 2021. The phase of written
+examinations before summer semester 2021 is planned to take place from 22
+March to 09 April 2021 (and includes the Easter holidays 2021: from 02 to 05
+April 2021). 
 
 ## [ Teaching and studying ](for-students.html#)
 
@@ -200,7 +196,7 @@ notice. We will inform you here when the study rooms become available again.
 
 ## Exams
 
-[Last updated: 18 December 2020]
+[Last updated: 17 December 2020]
 
 #### HHU regulations to specity the Coronavirus Epidemic Higher Education
 Ordinance
@@ -226,11 +222,11 @@ Epidemic University Directive can be accessed vial the following links:.
 
 #### Written exams
 
-Examinations that were planned to take place in in-person are, as a rule, not
-permitted. In a very few exceptional cases the deans of study can approve
-those in-person written exams that cannot be moved to a date after 10 January
-2021 for legal or actual reasons. As an alternative, written exams can take
-place online. Details are managed by the faculties.
+Written in-person exams are, as a rule, not permitted. In a very few
+exceptional cases the deans of study can approve those in-person written exams
+that cannot be moved to a date after 10 January 2021 for legal or actual
+reasons. As an alternative, written exams can take place online. Details are
+managed by the faculties.
 
 Please inform yourself about the dates for written exams, exam regulations and
 the applicable registration and deregistration regulations for exams on the
@@ -247,11 +243,11 @@ office or the appropriate examinations committee.
 
 ### Oral exams
 
-Individual oral exams can currently only be carried out as an online video
-conference, details will be managed by the faculties. Please contact your
-examiner and/or your dean of studies in case of questions. .
+Individual oral exams can currently only take place online. Details will be
+managed by the faculties. Please contact your examiner and/or your dean of
+studies in case of questions. 
 
- Students may withdraw from an oral examination until noon of the day before
+Students may withdraw from an oral examination until noon of the day before
 the examination. To withdraw from an exam, students can contact the examiner
 directly. In case of an acute illness, students may withdraw from the exam
 until the beginning of the exam if they can provide a doctor’s certificate.
