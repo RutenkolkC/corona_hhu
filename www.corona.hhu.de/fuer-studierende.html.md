@@ -1,11 +1,10 @@
-[Zum Inhalt springen](fuer-
-studierende.html#content)[Studienorganisation](fuer-
-studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Services der zentralen
+Einrichtungen](fuer-studierende.html#c450974)[Allgemeine Informationen](fuer-
 studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
 studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Internationale Studierende](fuer-
+studierende.html#c450965)[Studienorganisation](fuer-
+studierende.html#c450971)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
@@ -97,14 +96,15 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
 ## Das Wichtigste für Studierende in Kürze
 
   * Aufgrund des aktuellen Infektionsgeschehens und der Beschlüsse der Landesregierung sind weitere Einschränkungen im Lehr- und Prüfungsbetrieb an der HHU leider unvermeidlich. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
-  * Die Lernräume auf dem Campus für die Teilnahme an Online-Lehrveranstaltungen eingerichtet worden sind, sind ab dem 16.12.2020 bis auf Weiteres geschlossen.
+  * Die Lernräume auf dem Campus, die für die Teilnahme an Online-Lehrveranstaltungen eingerichtet worden sind, sind ab dem 16.12.2020 bis auf Weiteres geschlossen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
-  * Die gastronomischen Einrichtungen des Studierendenwerks sind ab dem 16.12.2020 geschlossen.
+  * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU seit dem 16.12. bis auf Weiteres geschlossen sind. Weitere Informationen finden Sie auf den Internetseiten des [Studierendenwerks.](https://www.stw-d.de/)
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen:  16.12.2020: Das Wichtigste in Kürze; Lehr- und
-Studienbetrieb; Lernräume auf dem Campus; Prüfungen.
+Letzte Aktualisierungen: 17.12.2020: Das Wichtigste in Kürze, Termine,
+Prüfungen; 15.12.2020: Das Wichtigste in Kürze, Lehr- und Studienbetrieb,
+Prüfungen, Lernräume auf dem Campus
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
@@ -140,22 +140,17 @@ vernichtet.
 
 ## Termine
 
-[Update: 02.11.2020]
+[Update: 17.12.2020]
 
-Der Beginn der Vorlesungszeit ist im Wintersemester 2020/2021 auf den 26.
-Oktober (für höhere Semester und in Masterstudiengängen) bzw. auf den 2.
-November (für Erstsemester in den Bachelorstudiengängen und der Studiengänge
-mit staatlichem Abschluss verschoben. Alle Termine sowie mögliche Änderungen
-finden Sie unter [Termine und
+Alle Termine sowie mögliche Änderungen finden Sie unter [Termine und
 Fristen](https://www.hhu.de/studium/studienorganisation/vorlesungszeiten
 "Termine").
 
-Die Klausurphase im Anschluss an das Wintersemester beträgt 4 Wochen und liegt
-in der Zeit vom 16. Februar bis 12. März 2021. Die Klausurphase vor dem
-Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
-22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
-bis 5. April 2021).  
-
+Die Klausurenphase im Anschluss an das Wintersemester 2020/2021 beträgt 4
+Wochen und liegt in der Zeit vom 16. Februar bis 12. März 2021\. Die
+Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der
+Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt
+auch Ostern 2021: vom 2. bis 5. April 2021).
 
 ## [ Lehr- und Studienbetrieb ](fuer-studierende.html#)
 
@@ -227,12 +222,12 @@ können unter den nachfolgenden Links eingesehen werden.
 
 ### Klausuren
 
-Prüfungen, die mit physischer Präsenz geplant waren, sind in der Regel
-untersagt. In begrenzten Ausnahmefällen können die Studiendekanin/die
-Studiendekane schriftliche Prüfungen in Präsenz genehmigen, die aus
-rechtlichen oder tatsächlichen Gründen nicht auf einen Zeitpunkt nach dem 10.
-Januar 2021 verschoben werden können. Klausuren können alternativ auch als
-Online-Klausuren durchgeführt werden. Details regeln die Fakultäten.
+Schriftliche Präsenzprüfungen sind in der Regel untersagt. In begrenzten
+Ausnahmefällen können die Studiendekanin/die Studiendekane schriftliche
+Prüfungen in Präsenz genehmigen, die aus rechtlichen oder tatsächlichen
+Gründen nicht auf einen Zeitpunkt nach dem 10. Januar 2021 verschoben werden
+können. Klausuren können alternativ auch als Online-Klausuren durchgeführt
+werden. Details regeln die Fakultäten.
 
 Bitte informieren Sie sich zu den Klausurterminen, den Prüfungsregularien
 sowie den geltenden An- und Abmelderegularien für Prüfungen auf den Seiten des
@@ -248,9 +243,9 @@ Prüfungsausschuss.
 
 ### Mündliche Prüfungen
 
-Mündliche Einzelprüfungen können zurzeit nur als Online-Videokonferenz
-durchgeführt werden. . Details regeln die Fakultäten. Bei Fragen nehmen Sie
-bitte Kontakt zu Ihrem Prüfer und/oder Ihrem Studiendekanat auf.
+Mündliche Einzelprüfungen können zurzeit nur als Online-Prüfung durchgeführt
+werden. Details regeln die Fakultäten. Bei Fragen nehmen Sie bitte Kontakt zu
+Ihrem Prüfer und/oder Ihrem Studiendekanat auf.
 
 Bei mündlichen Prüfungen kann ein Rücktritt bis 12:00 Uhr am Vortag der
 Prüfung erfolgen. Der Rücktritt kann direkt gegenüber dem Prüfer bzw. der
