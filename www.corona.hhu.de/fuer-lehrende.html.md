@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Hilfestellungen für die
-digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
+lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
-lehrende.html#c452909)[Informationen für Lehrende](fuer-
+lehrende.html#c452912)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
@@ -92,13 +92,13 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
   * Präsenzlehrveranstaltungen sind ab dem 16. Dezember untersagt. Ab jetzt werden auch alle Vorlesungen für Erstsemester, die bisher noch in Präsenz stattgefunden haben, als Online-Lehrveranstaltungen weitergeführt. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen fallen vorerst aus. Anfang Januar wird entschieden, ob eine Wiederaufnahme nach dem 10. Januar möglich ist oder ob die Veranstaltungen als Online-Lehrveranstaltungen weitergeführt bzw. – falls dies nicht möglich ist – verschoben werden müssen. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
   * Der Zugang zur ULB wird ebenfalls ab dem 16. Dezember eingeschränkt. Detaillierte Informationen zu den Öffnungszeiten, den aktuellen Regelungen und Services auch über die Feiertage finden Sie auf der [Homepage der ULB](https://www.ulb.hhu.de/).
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
-  * Immer montags und mittwochs von 13:30 Uhr 14:30 Uhr findet [in Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde "Rocket") eine Online-Sprechstunde zum Thema digitale Lehre statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
+  * Ab Januar 2021 findet die Online-Sprechstunde zur digitalen Lehre  mittwochs von 13:30 Uhr bis 14:30 Uhr in [Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU seit dem 16. Dezember bis auf Weiteres geschlossen sind. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de).
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 16.12.2020: Das Wichtigste in Kürze;  Termine; Lehr-
-und Studienbetrieb; Prüfungen; Rückverfolgbarkeit; Hilfestellungen für den
-digitalen Lehrbetrieb.
+Letzte Aktualisierungen: 17.12.2020: Das Wichtigste in Kürze; Hilfestellung
+für die digitale Lehre; 16.12.2020: Termine, Lehr- und Studienbetrieb,
+Prüfungen, Rückverfolgbarkeit, Raumbuchungen.
 
 ## Lehrende
 
@@ -133,7 +133,7 @@ und nach ausführlicher Beratung in der Task Force Lehre folgende Regelungen
 für den Lehr- und Prüfungsbetrieb von Mittwoch, den 16. Dezember 2020 vorerst
 bis zum 10. Januar 2021 beschlossen.
 
-  * Präsenzveranstaltungen sind untersagt. Dies beinhaltet u.a. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen. Die Lehrveranstaltungen werden soweit möglich als Online-Lehrveranstaltungen weitergeführt (natürlich exklusive der Weihnachtsferien vom 23.12.2020 – 05.01.2021). Bitte informieren Sie Ihre Studierenden über die Anpassung Ihrer Lehrveranstaltung. Hilfestellungen für die digitale Lehre finden Sie weiter unten auf dieser Corona-Webseite.
+  * Präsenzveranstaltungen sind untersagt. Dies beinhaltet u.a. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen. Die Lehrveranstaltungen werden, soweit möglich, als Online-Lehrveranstaltungen weitergeführt (natürlich exklusive der Weihnachtsferien vom 23.12.2020 – 05.01.2021). Bitte informieren Sie Ihre Studierenden über die Anpassung Ihrer Lehrveranstaltung. Hilfestellungen für die digitale Lehre finden Sie weiter unten auf dieser Corona-Webseite.
   * Prüfungen (d.h. Klausuren, mündliche Prüfungen) in physischer Präsenz sind in der Regel untersagt. Mündliche Prüfungen sollen daher vorerst nur noch als Online-Prüfungen durchgeführt werden. In begrenzten Ausnahmefällen können die Studiendekane schriftliche Prüfungen genehmigen, die aus rechtlichen oder tatsächlichen Gründen nicht auf einen Zeitpunkt nach dem 10. Januar 2021 verschoben werden können.
   * Studierende, die für die Durchführung ihrer Abschlussarbeit auf die Nutzung eines Labors angewiesen sind und deren Arbeit bereits angemeldet ist, können in Abstimmung mit dem Betreuer bzw. der Betreuerin ihre Arbeit im Labor fortsetzen.
   * Die Lernräume, die den Studierenden auf dem Campus der HHU für die Teilnahme an Online-Lehrveranstaltungen zur Verfügung gestellt worden sind, sowie die Lernräume der ULB, sind ebenfalls ab dem 16. Dezember bis auf Weiteres geschlossen.
@@ -247,7 +247,7 @@ Fakultätsregelungen nutzen können.
 
 ## Hilfestellungen für die digitale Lehre
 
-[Update: 16.12.2020]
+[Update: 17.12.2020]
 
 Derzeit ist keine Präsenzlehre möglich. Daher haben wir Ihnen auf dieser Seite
 einige konkrete Informationsangebote zusammengestellt, die Ihnen Anregungen
@@ -275,34 +275,33 @@ Leitfaden.](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Pr
 
 Eine wöchentliche Sprechstunde zur digitalen Lehre gibt es im
 [Rocket.Chat](https://rocketchat.hhu.de/channel/elearning-sprechstunde) der
-HHU. Immer montags und mittwochs von 13.30 bis 14.30 Uhr beantworten dort
-E-Learning-Expert/innen Ihre Fragen, die Sie gerne auch schon vorher in den
-Channel einstellen können.
+HHU, die ab Januar 2021 immer mittwochs von 13.30 bis 14.30 Uhr stattfindet,
+und in der E-Learning-Expert/innen Ihre Fragen beantworten, die Sie gerne auch
+schon vorher in den Channel einstellen können.
 
 #### Vorlesungsaufzeichnungen
 
-In allen Hörsälen der HHU stehen Mikrofonanlagen zur Verfügung bzw. werden
-derzeit installiert, die es erlauben, das gesprochene Wort mit dem eigenen
-Rechner aufzuzeichnen und zu streamen und als Screencast in die im Hörsaal
-gezeigte Präsentation einzubinden. Über die LAN-Anschlüsse in den Hörsälen
-soll es möglich sein, die Präsenz-Lehrveranstaltung live zu streamen.
-Detaillierte Informationen finden Sie
-[hier.](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
+In allen Hörsälen der HHU stehen Mikrofonanlagen und Anschlüsse zur Verfügung,
+die es erlauben, das gesprochene Wort und die Präsentation mit dem eigenen
+Rechner als Screencast aufzuzeichnen. Über die LAN-Anschlüsse in den Hörsälen
+soll es möglich sein, die Präsenz-Lehrveranstaltung live in eine
+Videokonferenz einzubinden, oder zu streamen. Detaillierte Informationen
+finden Sie
+[hier.](https://wiki.hhu.de/pages/viewpage.action?pageId=218072271) Im Hörsaal
+produzierte Screencasts können anschließend z. B. über die HHU-Mediathek zur
+Verfügung gestellt werden. 
 
-Im Hörsaal produzierte Screencasts können anschließend z.B. über die HHU-
-Mediathek zur Verfügung gestellt werden. In einigen Hörsälen werden als
-Pilotprojekt Rekorder installiert, die die Aufzeichnung von Präsentation und
-Ton erleichtern. An diese Rekorder können auch Kameras angeschlossen werden.
-Die Dozierenden müssen die Kameras selbst bedienen und sich den Umgang mit
-diesen Geräten selbst aneignen.
+In den Hörsälen 3A, 3D, 5C, 5L, 6K und 6L wurden als Pilotprojekt Rekorder
+installiert, welche die Aufzeichnung von Präsentation und Ton mit einem
+eigenen USB-Stick ermöglichen. An diese Rekorder können auch Kameras
+angeschlossen werden. Die Dozierenden müssen die Kameras selbst bedienen und
+sich den Umgang mit diesen Geräten selbst aneignen.
 
 Um Vorlesungen live zu streamen und/oder als Screencast-Videos zum Abruf
-bereit zu stellen, können außerhalb des Hörsaals  z. B. externe
-Webkonferenztools wie Cisco Webex genutzt werden. Die Nutzung dieser externen
-Systeme geht ohne eine Belastung der HHU-Netzwerkinfrastruktur einher. Die
-Bereitstellung aller digitalisierter Vorlesungen kann über die HHU-Mediathek
-erfolgen. Die Videos können anschließend in die Lernplattformen wie ILIAS
-eingebunden werden.
+bereit zu stellen, können Videokonferenztools wie Cisco Webex (Campuslizenz)
+ genutzt werden.  Die Bereitstellung aller digitalisierter Vorlesungen kann
+über die HHU-Mediathek erfolgen. Die Videos können anschließend in die
+Lernplattformen wie ILIAS eingebunden werden.
 
 Generell sind bei dem Live-Streamen und beim Aufzeichnen von
 Lehrveranstaltungen die Urheberrechte in der Lehre, der Datenschutz und die
@@ -318,10 +317,9 @@ datenschutz)
 
 Die Lernplattform ILIAS dient in erster Linie der Bereitstellung interaktiver
 E-Learning-Angebote wie Chats, Foren und Online-Tests sowie von pdf-Files.
-Videomaterial sollte nicht in ILIAS hochgeladen werden, da dadurch die
-Performance von ILIAS stark beeinträchtigt wird. Vorlesungsaufzeichnungen
-sollten stattdessen in der HHU-Mediathek bereitgestellt und in ILIAS verlinkt
-werden.
+Videomaterial sollte nicht direkt in ILIAS hochgeladen werden, da dadurch die
+Performance von ILIAS stark beeinträchtigt wird, sondern stattdessen in der
+HHU-Mediathek bereitgestellt und in ILIAS verlinkt werden.
 
 
 
