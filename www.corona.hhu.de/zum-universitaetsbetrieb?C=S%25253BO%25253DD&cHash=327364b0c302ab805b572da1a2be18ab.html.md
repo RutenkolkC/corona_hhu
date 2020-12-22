@@ -1,16 +1,24 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb.html#content)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
-universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
-universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
-universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
-universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
-Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
-universitaetsbetrieb.html#c453016)[Noch unbeantwortete Fragen?](zum-
-universitaetsbetrieb.html#c439220)[Das Wichtigste zum Universitätsbetrieb in
-Kürze](zum-universitaetsbetrieb.html#c438675)
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#content)[Veranstaltungen,
+Tagungen, Workshops](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453006)[Gebäudeschließungen](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453007)[Videokonferenzen
+und Online-Lehre](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453008)[Hacker
+nutzen Corona-Angst aus](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453009)[Gremienarbeit](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453005)
+[(Kopie 3)](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c452578)[Informationen
+zum Universitätsbetrieb](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c438674)[Das
+Wichtigste zum Universitätsbetrieb in Kürze](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c438676)[Universitätsbetrieb](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c453016)[Noch
+unbeantwortete Fragen?](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c439220)[Das
+Wichtigste zum Universitätsbetrieb in Kürze](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#c438675)
 
   * DE
   * [EN](en/university-operations.html)
@@ -94,7 +102,8 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Universitätsbetrieb
 
-## [ Gremienarbeit ](zum-universitaetsbetrieb.html#)
+## [ Gremienarbeit ](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#)
 
 ## Gremienarbeit
 
@@ -108,7 +117,8 @@ und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 Handlungsleitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
 Gremien_Stand_2020-11-05.pdf) (PDF-Download)
 
-## [ Veranstaltungen ](zum-universitaetsbetrieb.html#)
+## [ Veranstaltungen ](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#)
 
 ## Veranstaltungen, Tagungen, Workshops
 
@@ -124,7 +134,8 @@ stattfinden.
 Das Haus der Universität und Schloss Mickeln sind bis zum Jahresende für die
 Öffentlichkeit geschlossen.
 
-## [ Gebäudeschließungen ](zum-universitaetsbetrieb.html#)
+## [ Gebäudeschließungen ](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#)
 
 ## Gebäudeschließungen
 
@@ -144,7 +155,8 @@ werden nicht von der HHU, sondern vom Studierendenwerk betrieben. Aktuelle
 Informationen zu den gastronomischen Einrichtungen auf dem Campus sind demnach
 auf der [Website des Studierendenwerks](https://www.stw-d.de) zu finden.
 
-## [ Videokonferenzen und Online-Lehre ](zum-universitaetsbetrieb.html#)
+## [ Videokonferenzen und Online-Lehre ](zum-
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#)
 
 ## Videokonferenzen und Online-Lehre
 
@@ -191,7 +203,7 @@ von Videokonferenzen (Intranet).](https://www.mitarbeiter.hhu.de/news-
 detailansicht/article/zoom-oder-nicht-zoom.html)
 
 ## [ Achtung: Hacker nutzen Corona-Angst aus! ](zum-
-universitaetsbetrieb.html#)
+universitaetsbetrieb%3FC=S%2525253BO%2525253DD&cHash=327364b0c302ab805b572da1a2be18ab.html#)
 
 ## Hacker nutzen Corona-Angst aus
 
