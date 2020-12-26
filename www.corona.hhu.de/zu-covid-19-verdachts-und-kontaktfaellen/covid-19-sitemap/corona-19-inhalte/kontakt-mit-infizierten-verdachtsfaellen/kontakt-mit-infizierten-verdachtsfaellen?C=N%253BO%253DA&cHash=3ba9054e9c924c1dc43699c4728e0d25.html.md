@@ -1,7 +1,8 @@
 [Zum Inhalt springen](kontakt-mit-infizierten-
-verdachtsfaellen.html#content)[Was ist zu tun, wenn ich in Kontakt stand mit
-einer infizierten Person oder einem Verdachtsfall?](kontakt-mit-infizierten-
-verdachtsfaellen.html#c438776)
+verdachtsfaellen%3FC=N%25253BO%25253DA&cHash=3ba9054e9c924c1dc43699c4728e0d25.html#content)[Was
+ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
+Verdachtsfall?](kontakt-mit-infizierten-
+verdachtsfaellen%3FC=N%25253BO%25253DA&cHash=3ba9054e9c924c1dc43699c4728e0d25.html#c438776)
 
   * DE
   * [ EN](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
