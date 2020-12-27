@@ -99,7 +99,7 @@ COVID-19, Suspected and confirmed cases, Hygiene policy**
 cases
 
   * Close contacts are those who have had face-to-face contact for at least 15 minutes cumulatively with a person ill with COVID-19 or those who had direct contact with secretions or bodily fluids of a confirmed case of COVID-19. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation).
-  * Such close contacts must follow the instructions on this site [ instructions of this page.](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
+  * Such close contacts must follow the instructions on this site [ instructions of this page.](covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
 
 Last updated: 30 October 2020: Coronavirus / SARS-Cov-2 / COVID-19; How do you
 recognise the disease? How can we protect ourselves?; What should I do if I
