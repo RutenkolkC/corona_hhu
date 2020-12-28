@@ -1,7 +1,5 @@
 [Jump to
-content](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#content)[Working
-in laboratories under COVID-19
-conditions](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452941)[Coronavirus-
+content](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#content)[Coronavirus-
 related information of funding
 organisations](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452942)
 [Information for international scientists/researchers and visiting
@@ -10,7 +8,9 @@ for doctoral students, doctoral supervisors, postdocs, young scientist group
 leaders and assistant
 professors](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452944)[Congress
 trips and project meetings (business
-trips)](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452945)[Main
+trips)](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452945)[Working
+in laboratories under COVID-19
+conditions](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c452941)[Main
 points for research in
 brief](research%3FC=N%2525253BO%2525253DD&cHash=21da691aa491cee6cdd1665984eb9672.html#c438673)["Research"
 topic
