@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#content)[Studienorganisation](fuer-
-studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450971)[Services
-der zentralen Einrichtungen](fuer-
-studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450974)[Allgemeine
+studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#content)[Allgemeine
 Informationen](fuer-
 studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450916)[Lehr-
 und Studienbetrieb](fuer-
 studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450922)[Termine](fuer-
 studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450924)[Prüfungen](fuer-
-studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450965)[Internationale
+studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450965)[Studienorganisation](fuer-
+studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450971)[Services
+der zentralen Einrichtungen](fuer-
+studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450974)[Internationale
 Studierende](fuer-
 studierende%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450972)[Informationen
 der Fakultäten](fuer-
