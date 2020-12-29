@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#content)[Hilfestellungen
-für die digitale Lehre](fuer-
-lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452910)[Raumbuchungen](fuer-
-lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452911)[Informationsseiten
+lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#content)[Informationsseiten
 der Fakultäten](fuer-
 lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452912)[Lehr-
 und Studienbetrieb](fuer-
 lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452907)[Termine](fuer-
 lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452908)[Prüfungen](fuer-
-lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452909)[Informationen
+lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-
+lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452910)[Raumbuchungen](fuer-
+lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c452911)[Informationen
 für Lehrende](fuer-
 lehrende%3FC=M%2525253BO%2525253DA&cHash=542d77d288e2c4d6265bf32ffc3b9f14.html#c438666)[Das
 Wichtigste für Lehrende in Kürze](fuer-
