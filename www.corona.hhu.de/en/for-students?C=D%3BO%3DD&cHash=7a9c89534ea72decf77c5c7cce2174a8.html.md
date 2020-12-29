@@ -1,15 +1,33 @@
-[Jump to content](for-students.html#content)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for HHU students](for-
-students.html#c438639)[Main points for students in brief](for-
-students.html#c438638)[Students](for-students.html#c450915)[Still have
-questions?](for-students.html#c439254)[Main points for students in brief](for-
-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
+[Jump to content](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#content)[Information
+for students with disabilities or chronic illnesses](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450972)[Services
+of the central institutions](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450973)[Faculty
+information](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450974)[General
+information](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450916)[Further
+information](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450979)[Teaching
+and studying](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450922)[Exams](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450924)[Course
+organisation](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450965)[Information
+for international students](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450971)[Information
+for HHU students](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c438639)[Main
+points for students in brief](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c438638)[Students](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c450915)[Still
+have questions?](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c439254)[Main
+points for students in brief](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c438637)[Dates
+& Deadlines](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
@@ -102,7 +120,8 @@ examinations, 15 December 2020: teaching and studying;study rooms on campus
 
 ## Students
 
-## [ General information ](for-students.html#)
+## [ General information ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## General information
 
@@ -131,7 +150,8 @@ four weeks to prevent unauthorised access and either be passed on to the
 appropriate authorities should this become necessary or destroyed after four
 weeks. 
 
-## [ Dates & Deadlines ](for-students.html#)
+## [ Dates & Deadlines ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Dates & Deadlines
 
@@ -147,7 +167,8 @@ examinations before summer semester 2021 is planned to take place from 22
 March to 09 April 2021 (and includes the Easter holidays 2021: from 02 to 05
 April 2021). 
 
-## [ Teaching and studying ](for-students.html#)
+## [ Teaching and studying ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Teaching and studying
 
@@ -181,7 +202,8 @@ ministers that is scheduled to take place on 05 January 2021. We will inform
 you about the regulations concerning teaching and studying at HHU after 10
 January 2021, as soon as possible, but no later than 08 January 2021.
 
-## [ Study rooms on campus ](for-students.html#)
+## [ Study rooms on campus ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 [Last updated: 18 December 2020]
 
@@ -192,7 +214,8 @@ set up to enable participation in online courses and also the study rooms at
 the University and State Library have closed on 16 December 2020 until further
 notice. We will inform you here when the study rooms become available again.
 
-## [ Exams ](for-students.html#)
+## [ Exams ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Exams
 
@@ -252,7 +275,8 @@ the examination. To withdraw from an exam, students can contact the examiner
 directly. In case of an acute illness, students may withdraw from the exam
 until the beginning of the exam if they can provide a doctor’s certificate.
 
-## [ Course organisation ](for-students.html#)
+## [ Course organisation ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Course organisation
 
@@ -321,7 +345,8 @@ summer semester must re-apply for a scholarship by 01 November 2020 because
 the scholarships are granted by calendar year only. Please contact  in case of
 any questions.
 
-## [ Information for international students ](for-students.html#)
+## [ Information for international students ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Information for international students
 
@@ -364,7 +389,7 @@ send any questions by .
 If you have general questions about starting your studies, please .
 
 ## [ Information for students with disabilities or chronic illnesses ](for-
-students.html#)
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Information for students with disabilities or chronic illnesses
 
@@ -383,7 +408,8 @@ barrierearm-HHU-EN.pdf) [PDF document] you can find more information on low-
 barrier teaching particularly with regard to students with disabilities or
 chronic diseases.
 
-## [ Faculty information ](for-students.html#)
+## [ Faculty information ](for-
+students%3FC=D%253BO%253DD&cHash=7a9c89534ea72decf77c5c7cce2174a8.html#)
 
 ## Faculty information
 
