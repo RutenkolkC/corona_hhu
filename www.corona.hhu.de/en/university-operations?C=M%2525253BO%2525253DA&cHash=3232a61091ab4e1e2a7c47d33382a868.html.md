@@ -1,15 +1,15 @@
 [Jump to content](university-
-operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#content)[Video
-conferences and online teaching](university-
-operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453008)[Warning:
-Hackers exploit fear of coronavirus!](university-
-operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453009)[Committee
+operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#content)[Committee
 work](university-
 operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453005)[Events,
 conferences, workshops](university-
 operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453006)[Closure
 of buildings](university-
-operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453007)[Information
+operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453007)[Video
+conferences and online teaching](university-
+operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453008)[Warning:
+Hackers exploit fear of coronavirus!](university-
+operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c453009)[Information
 on University operations](university-
 operations%3FC=M%252525253BO%252525253DA&cHash=3232a61091ab4e1e2a7c47d33382a868.html#c438674)[Main
 points for university operations in brief](university-

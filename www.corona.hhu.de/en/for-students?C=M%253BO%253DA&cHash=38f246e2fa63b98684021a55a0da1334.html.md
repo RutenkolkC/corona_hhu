@@ -1,22 +1,22 @@
 [Jump to content](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#content)[Information
-for international students](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450971)[Information
-for students with disabilities or chronic illnesses](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450972)[Services
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#content)[Services
 of the central institutions](for-
 students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450973)[Faculty
 information](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450974)[General
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450974)[Further
 information](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450916)[Further
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450979)[General
 information](for-
-students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450979)[Teaching
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450916)[Teaching
 and studying](for-
 students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450922)[Exams](for-
 students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450924)[Course
 organisation](for-
 students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450965)[Information
+for international students](for-
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450971)[Information
+for students with disabilities or chronic illnesses](for-
+students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c450972)[Information
 for HHU students](for-
 students%3FC=M%25253BO%25253DA&cHash=38f246e2fa63b98684021a55a0da1334.html#c438639)[Main
 points for students in brief](for-
