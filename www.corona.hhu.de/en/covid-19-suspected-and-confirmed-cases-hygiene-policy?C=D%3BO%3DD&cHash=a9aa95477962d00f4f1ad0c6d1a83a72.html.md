@@ -1,30 +1,44 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[What should I do if I had contact with an infected person
-or a person who is suspected to have contracted COVID-19?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453062)[Important telephone numbers
-and addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Hygiene policy/protective measures at
-HHU](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation to wear a
-face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
-COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
-ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453061)[Who is most at
-risk?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453063)[HHU
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#content)[Posters
+‘General hygiene measures’, ‘obligation to wear a face covering’ and ‘airing
+of rooms’](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453067)[Coronavirus
+/ SARS-CoV-2 / COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453058)[How
+do you recognise the disease?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453059)[How
+can we protect ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453060)[What
+should I do if I feel ill?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453061)[What
+should I do if I had contact with an infected person or a person who is
+suspected to have contracted COVID-19?](covid-19-suspected-and-confirmed-
+cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453062)[Important
+telephone numbers and addresses](covid-19-suspected-and-confirmed-cases-
+hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453064)[Hygiene
+policy/protective measures at HHU](covid-19-suspected-and-confirmed-cases-
+hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453066)[Who
+is most at risk?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453063)[HHU
 coronavirus information videos](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453065)[Main points in brief on COVID-19 and on handling
-suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453068)[Still have questions?](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c439138)[Main points in brief on COVID-19 and on
-handling suspected and confirmed cases](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#c439136)[As a supervisor – how do I proceed if one
-of my employees reports a (suspected) infection with
-COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c0)
+hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453065)[Main
+points in brief on COVID-19 and on handling suspected and confirmed
+cases](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c439137)[COVID-19](covid-19-suspected-
+and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c453068)[Still
+have questions?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c439138)[Main
+points in brief on COVID-19 and on handling suspected and confirmed
+cases](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c439136)[As
+a supervisor – how do I proceed if one of my employees reports a (suspected)
+infection with COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#c0)
 
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
   * EN
@@ -109,7 +123,8 @@ hygiene measures at HHU.
 ## COVID-19
 
 ## [ Coronavirus / SARS-CoV-2 / COVID-19 ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
 
@@ -129,7 +144,8 @@ recommendations made by the Robert Koch Institute (RKI), the local Düsseldorf
 health authorities and the State and Federal Ministries of Health. 
 
 ## [ How do you recognise the disease? ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## How do you recognise the disease?
 
@@ -143,7 +159,7 @@ Sense of smell and/or of taste may also be affected.
   * In some patients, the infection appears to take a severe course, leading to respiratory problems and pneumonia. Deaths occurred mainly in elderly patients and/or patients with pre-existing, chronic health conditions. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation). For more information [visit this RKI site on hospitalised COVID-19 patients](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText12) and also their [epidemiologic bulletin 41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
 ## [ How can we protect ourselves? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+hygiene-policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## How can we protect ourselves?
 
@@ -171,7 +187,7 @@ These measures are also a protection against other respiratory diseases (such
 as the flu).
 
 ## [ What should I do if I feel ill? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+hygiene-policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## What should I do if I feel ill?
 
@@ -197,7 +213,8 @@ Düsseldorf.
 
 ## [ What should I do if I had contact with an infected person or a person who
 is suspected to have contracted COVID-19? ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## What should I do if I had contact with an infected person or a person who
 is suspected to have contracted COVID-19?
@@ -214,7 +231,7 @@ below:
 
 ## [ As a supervisor – how do I proceed if one of my employees reports a
 (suspected) infection with COVID-19? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+hygiene-policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## As a supervisor – how do I proceed if one of my employees reports a
 (suspected) infection with COVID-19?
@@ -227,7 +244,7 @@ As a supervisor – how do I proceed if one of my employees reports a
   * Information for supervisors ([Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06_GB.pdf))
 
 ## [ Who is most at risk? ](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#)
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## Who is most at risk?
 
@@ -246,7 +263,8 @@ To [RKI’s COVID-19
 pages](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html)
 
 ## [ Important telephone numbers and addresses ](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#)
+confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## Important telephone numbers and addresses
 
@@ -265,7 +283,8 @@ The state government of North Rhine-Westphalia has introduced a new
 coronavirus service hotline for its citizens: 0211-91191001.
 
 ## [ Hygiene policy/protective measures at HHU ](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#)
+confirmed-cases-hygiene-
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## Hygiene policy/protective measures at HHU
 
@@ -289,7 +308,7 @@ To the downloads:
 In case of further questions on hygiene measures, please write to .
 
 ## [ Information posters ](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#)
+policy%3FC=D%253BO%253DD&cHash=a9aa95477962d00f4f1ad0c6d1a83a72.html#)
 
 ## Posters ‘General hygiene measures’, ‘obligation to wear a face covering’
 and ‘airing of rooms’
