@@ -1,16 +1,17 @@
-[Jump to content](for-employees.html#content)[Working from home and
-teleworking](for-employees.html#c452969)[Business trips](for-
-employees.html#c452970)[Central University Administration Information](for-
-employees.html#c452971)[Support for scientists against the background of the
-coronavirus pandemic](for-employees.html#c452972)[General guidelines](for-
+[Jump to content](for-employees.html#content)[Support for scientists against
+the background of the coronavirus pandemic](for-
+employees.html#c452972)[General guidelines](for-
 employees.html#c452967)[Regulations for employees with a severe pre-existing
 condition or employees who live in the same household as a person with a
 severe pre-existing condition, in effect from 29 June 2020](for-
-employees.html#c452968)["Employees" topic group](for-
-employees.html#c438661)[Main points for employees in brief](for-
-employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
-questions?](for-employees.html#c439184)[Main points for employees in
-brief](for-employees.html#c438663)
+employees.html#c452968)[Working from home and teleworking](for-
+employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
+University Administration Information](for-employees.html#c452971)["Employees"
+topic group](for-employees.html#c438661)[Main points for employees in
+brief](for-employees.html#c438664)[Employees](for-
+employees.html#c452977)[Still have questions?](for-
+employees.html#c439184)[Main points for employees in brief](for-
+employees.html#c438663)
 
   * [DE](../fuer-beschaeftigte.html)
   * EN
@@ -60,7 +61,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -310,9 +311,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

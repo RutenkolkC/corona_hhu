@@ -1,14 +1,14 @@
-[Jump to content](university-operations.html#content)[Committee
-work](university-operations.html#c453005)[Events, conferences,
+[Jump to content](university-operations.html#content)[Events, conferences,
 workshops](university-operations.html#c453006)[Closure of
 buildings](university-operations.html#c453007)[Video conferences and online
 teaching](university-operations.html#c453008)[Warning: Hackers exploit fear of
-coronavirus!](university-operations.html#c453009)[Information on University
-operations](university-operations.html#c438674)[Main points for university
-operations in brief](university-operations.html#c438676)[University
-operations](university-operations.html#c453016)[Still have
-questions?](university-operations.html#c439220)[Main points for university
-operations in brief](university-operations.html#c438675)
+coronavirus!](university-operations.html#c453009)[Committee work](university-
+operations.html#c453005)[Information on University operations](university-
+operations.html#c438674)[Main points for university operations in
+brief](university-operations.html#c438676)[University operations](university-
+operations.html#c453016)[Still have questions?](university-
+operations.html#c439220)[Main points for university operations in
+brief](university-operations.html#c438675)
 
   * [DE](../zum-universitaetsbetrieb.html)
   * EN
@@ -58,7 +58,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -283,9 +283,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
