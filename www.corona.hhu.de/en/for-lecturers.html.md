@@ -1,12 +1,11 @@
-[Jump to content](for-lecturers.html#content)[Resources and assistance for
-online teaching](for-lecturers.html#c452910)[Information pages of
-faculties](for-lecturers.html#c452911)[Examinations](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Lecturers
-topic group](for-lecturers.html#c438666)[Main points for lecturers in
-brief](for-lecturers.html#c438668)[Lecturers](for-
-lecturers.html#c452917)[Still have questions?](for-
-lecturers.html#c439228)[Main points for lecturers in brief](for-
-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
+[Jump to content](for-lecturers.html#content)[Examinations](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
+pages of faculties](for-lecturers.html#c452911)[Lecturers topic group](for-
+lecturers.html#c438666)[Main points for lecturers in brief](for-
+lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
+questions?](for-lecturers.html#c439228)[Main points for lecturers in
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
@@ -56,7 +55,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -355,9 +354,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

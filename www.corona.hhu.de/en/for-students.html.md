@@ -1,12 +1,12 @@
-[Jump to content](for-students.html#content)[Course organisation](for-
-students.html#c450965)[Information for international students](for-
-students.html#c450971)[Information for students with disabilities or chronic
-illnesses](for-students.html#c450972)[Services of the central
-institutions](for-students.html#c450973)[Faculty information](for-
+[Jump to content](for-students.html#content)[Information for students with
+disabilities or chronic illnesses](for-students.html#c450972)[Services of the
+central institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Information for HHU
-students](for-students.html#c438639)[Main points for students in brief](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Course
+organisation](for-students.html#c450965)[Information for international
+students](for-students.html#c450971)[Information for HHU students](for-
+students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
 students.html#c438637)[Dates & Deadlines](for-students.html#c0)
@@ -59,7 +59,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -411,9 +411,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

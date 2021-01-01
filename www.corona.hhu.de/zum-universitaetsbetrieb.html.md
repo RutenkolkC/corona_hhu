@@ -1,10 +1,10 @@
-[Zum Inhalt springen](zum-universitaetsbetrieb.html#content)[Veranstaltungen,
-Tagungen, Workshops](zum-
+[Zum Inhalt springen](zum-
+universitaetsbetrieb.html#content)[Gremienarbeit](zum-
+universitaetsbetrieb.html#c453005)[Veranstaltungen, Tagungen, Workshops](zum-
 universitaetsbetrieb.html#c453006)[Gebäudeschließungen](zum-
 universitaetsbetrieb.html#c453007)[Videokonferenzen und Online-Lehre](zum-
 universitaetsbetrieb.html#c453008)[Hacker nutzen Corona-Angst aus](zum-
-universitaetsbetrieb.html#c453009)[Gremienarbeit](zum-
-universitaetsbetrieb.html#c453005) [(Kopie 3)](zum-
+universitaetsbetrieb.html#c453009) [(Kopie 3)](zum-
 universitaetsbetrieb.html#c452578)[Informationen zum Universitätsbetrieb](zum-
 universitaetsbetrieb.html#c438674)[Das Wichtigste zum Universitätsbetrieb in
 Kürze](zum-universitaetsbetrieb.html#c438676)[Universitätsbetrieb](zum-
@@ -60,7 +60,7 @@ Willkommen!
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU-Informationen zu Corona
 
@@ -247,9 +247,9 @@ Verantwortlichkeit:
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

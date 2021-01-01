@@ -1,11 +1,11 @@
-[Jump to content](research.html#content)[Coronavirus-related information of
+[Jump to content](research.html#content)[Congress trips and project meetings
+(business trips)](research.html#c452945)[Working in laboratories under
+COVID-19 conditions](research.html#c452941)[Coronavirus-related information of
 funding organisations](research.html#c452942) [Information for international
 scientists/researchers and visiting
 scientists/researchers](research.html#c452943)[Information for doctoral
 students, doctoral supervisors, postdocs, young scientist group leaders and
-assistant professors](research.html#c452944)[Congress trips and project
-meetings (business trips)](research.html#c452945)[Working in laboratories
-under COVID-19 conditions](research.html#c452941)[Main points for research in
+assistant professors](research.html#c452944)[Main points for research in
 brief](research.html#c438673)["Research" topic group](research.html#c452951)
 [Still have questions?](research.html#c439236)[Main points for research in
 brief](research.html#c438672)
@@ -58,7 +58,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -248,9 +248,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
