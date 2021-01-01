@@ -50,7 +50,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -124,9 +124,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
