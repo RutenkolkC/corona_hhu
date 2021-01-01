@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
 lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Informationen für Lehrende](fuer-
+lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
+lehrende.html#c452909)[Hilfestellungen für die digitale Lehre](fuer-
+lehrende.html#c452910)[Informationen für Lehrende](fuer-
 lehrende.html#c438666)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
@@ -58,7 +58,7 @@ Willkommen!
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU-Informationen zu Corona
 
@@ -361,9 +361,9 @@ Verantwortlichkeit:
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

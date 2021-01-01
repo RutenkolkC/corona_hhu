@@ -1,11 +1,11 @@
-[Zum Inhalt springen](zur-forschung.html#content)[Informationen für
-Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen und
-Juniorprofessuren](zur-forschung.html#c452944)[Kongressreisen und
-Projekttreffen (Dienstreisen)](zur-forschung.html#c452945)[Laborbetrieb unter
+[Zum Inhalt springen](zur-forschung.html#content)[Laborbetrieb unter
 COVID-19-Bedingungen](zur-forschung.html#c452941)[Corona-Informationen der
 Förderorganisationen](zur-forschung.html#c452942)[Hinweise für internationale
 Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung.html#c452943) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
+forschung.html#c452943)[Informationen für Promovierende, Promotionsbetreuende,
+Postdocs, Nachwuchsgruppenleitungen und Juniorprofessuren](zur-
+forschung.html#c452944)[Kongressreisen und Projekttreffen (Dienstreisen)](zur-
+forschung.html#c452945) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
 zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
 Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
 unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
@@ -59,7 +59,7 @@ Willkommen!
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU-Informationen zu Corona
 
@@ -237,9 +237,9 @@ Verantwortlichkeit:
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
