@@ -1,16 +1,16 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Generelle
-Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
-mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-
-beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Informationen aus der
+Zentralen Universitätsverwaltung (ZUV)](fuer-
+beschaeftigte.html#c452972)[Generelle Schutzhinweise](fuer-
+beschaeftigte.html#c452967)[Regelungen für Beschäftigte mit schweren
+Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft mit schwer
+vorerkrankten Angehörigen leben](fuer-beschaeftigte.html#c452968)[Heim- und
+Telearbeit / Arbeitszeitkonten](fuer-
 beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
 Hintergrund der Corona-Pandemie](fuer-
-beschaeftigte.html#c452970)[Dienstreisen](fuer-
-beschaeftigte.html#c452971)[Informationen aus der Zentralen
-Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972) [(Kopie
-4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
-beschaeftigte.html#c438664)[Beschäftigte](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-beschaeftigte.html#c452971)
+[(Kopie 4)](fuer-beschaeftigte.html#c452577)[Informationen für
+Beschäftigte](fuer-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte
+in Kürze](fuer-beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
 beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438663)
@@ -63,7 +63,7 @@ Willkommen!
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU-Informationen zu Corona
 
@@ -313,9 +313,9 @@ Verantwortlichkeit:
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
