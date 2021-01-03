@@ -1,7 +1,5 @@
 [Zum Inhalt springen](zur-
-forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#content)[Kongressreisen
-und Projekttreffen (Dienstreisen)](zur-
-forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452945)[Laborbetrieb
+forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#content)[Laborbetrieb
 unter COVID-19-Bedingungen](zur-
 forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452941)[Corona-
 Informationen der Förderorganisationen](zur-
@@ -10,7 +8,9 @@ für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
 forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452943)[Informationen
 für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
 und Juniorprofessuren](zur-
-forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452944)
+forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452944)[Kongressreisen
+und Projekttreffen (Dienstreisen)](zur-
+forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452945)
 [(Kopie 3)](zur-
 forschung%3FC=S%25252525253BO%25252525253DA&cHash=7d766c6b0a4d41f03c0227dfcb4cbe22.html#c452576)[Informationen
 zur Forschung](zur-
