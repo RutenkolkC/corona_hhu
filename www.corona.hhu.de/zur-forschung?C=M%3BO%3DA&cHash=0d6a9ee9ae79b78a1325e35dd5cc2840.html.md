@@ -1,5 +1,7 @@
 [Zum Inhalt springen](zur-
-forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#content)[Corona-
+forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#content)[Laborbetrieb
+unter COVID-19-Bedingungen](zur-
+forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452941)[Corona-
 Informationen der Förderorganisationen](zur-
 forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452942)[Hinweise
 für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
@@ -8,9 +10,7 @@ für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
 und Juniorprofessuren](zur-
 forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452944)[Kongressreisen
 und Projekttreffen (Dienstreisen)](zur-
-forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452945)[Laborbetrieb
-unter COVID-19-Bedingungen](zur-
-forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452941)
+forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452945)
 [(Kopie 3)](zur-
 forschung%3FC=M%253BO%253DA&cHash=0d6a9ee9ae79b78a1325e35dd5cc2840.html#c452576)[Informationen
 zur Forschung](zur-

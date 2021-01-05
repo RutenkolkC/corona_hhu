@@ -1,5 +1,7 @@
 [Zum Inhalt springen](fuer-
-beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#content)[Generelle
+beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#content)[Informationen
+aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
+beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452972)[Generelle
 Schutzhinweise](fuer-
 beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452967)[Regelungen
 für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in
@@ -9,9 +11,7 @@ und Telearbeit / Arbeitszeitkonten](fuer-
 beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452969)[Erleichterungen
 für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
 beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452970)[Dienstreisen](fuer-
-beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452971)[Informationen
-aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
-beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452972)
+beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452971)
 [(Kopie 4)](fuer-
 beschaeftigte%3FC=D%253BO%253DD&cHash=ed7b22d4b01b1ec3076e07f70259291b.html#c452577)[Informationen
 für Beschäftigte](fuer-
