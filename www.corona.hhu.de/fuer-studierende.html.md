@@ -1,13 +1,13 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Lehr- und
-Studienbetrieb](fuer-studierende.html#c450922)[Termine](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
+Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Weitere Informationen](fuer-
-studierende.html#c450983)[Internationale Studierende](fuer-
+studierende.html#c450974)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450979)[Weitere Informationen](fuer-
+studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Informationen für
 Studierende](fuer-studierende.html#c438639)[Das Wichtigste für Studierende in
 Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete Fragen?](fuer-
@@ -96,15 +96,14 @@ regelmäßig in Ihren HHU-E-Mail-Account zu schauen.
 ## Das Wichtigste für Studierende in Kürze
 
   * Aufgrund des aktuellen Infektionsgeschehens und der Beschlüsse der Landesregierung sind weitere Einschränkungen im Lehr- und Prüfungsbetrieb an der HHU leider unvermeidlich. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
+  * Es gilt weiterhin bis zum 15. Januar die Regelung, dass keine Präsenzlehrveranstaltungen durchgeführt werden dürfen. Dies schließt Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen mit ein.
   * Die Lernräume auf dem Campus, die für die Teilnahme an Online-Lehrveranstaltungen eingerichtet worden sind, sind ab dem 16.12.2020 bis auf Weiteres geschlossen.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten,
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU seit dem 16.12. bis auf Weiteres geschlossen sind. Weitere Informationen finden Sie auf den Internetseiten des [Studierendenwerks.](https://www.stw-d.de/)
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 17.12.2020: Das Wichtigste in Kürze, Termine,
-Prüfungen; 15.12.2020: Das Wichtigste in Kürze, Lehr- und Studienbetrieb,
-Prüfungen, Lernräume auf dem Campus
+Letzte Aktualisierungen: 07.01.2021: Das Wichtigste in Kürze.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
