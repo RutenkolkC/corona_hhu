@@ -1,12 +1,13 @@
-[Jump to content](for-students.html#content)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
+[Jump to content](for-students.html#content)[General information](for-
+students.html#c450916)[Further information](for-
+students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for international
 students](for-students.html#c450971)[Information for students with
 disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Information for HHU
-students](for-students.html#c438639)[Main points for students in brief](for-
+central institutions](for-students.html#c450973)[Faculty information](for-
+students.html#c450974)[Information for HHU students](for-
+students.html#c438639)[Main points for students in brief](for-
 students.html#c438638)[Students](for-students.html#c450915)[Still have
 questions?](for-students.html#c439254)[Main points for students in brief](for-
 students.html#c438637)[Dates & Deadlines](for-students.html#c0)
@@ -91,14 +92,14 @@ and that you check your HHU e-mail account on regular basis.
 ## Main points for students in brief
 
   * In light of the latest developments surrounding coronavirus infections and in light of the NRW state government’s decisions, further restrictions on teaching and examinations at HHU are inevitable. For details, please see the sections “teaching and studying” and “examinations”.
+  * In-person classes have been banned until 15 January 2021. This includes laboratory placements, bedside teaching, trips, language courses and other similar in-person practical activities.
   * The study rooms on campus that had been set up for participation in online courses closed on 16 December until further notice.
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * The Studierendenwerk has announced that the main canteen (Mensa) at Universitätsstraße and all other canteens and cafés on HHU’s campus closed on 16 December until further notice. For more information, check the Studierendenwerk [website](https://www.stw-d.de) .
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf).   These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Last updated: 17 December 2020: main points in brief; dates and deadlines,
-examinations, 15 December 2020: teaching and studying;study rooms on campus
+Last updated: 07 January 2021: main points in brief.
 
 ## Students
 
