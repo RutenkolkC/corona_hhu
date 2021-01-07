@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#content)[Examinations](for-
-lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452908)[Room
+lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#content)[Room
 bookings](for-
 lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452909)[Resources
 and assistance for online teaching](for-
 lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452910)[Information
 pages of faculties](for-
-lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452911)[Lecturers
+lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452911)[Examinations](for-
+lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c452908)[Lecturers
 topic group](for-
 lecturers%3FC=S%25253BO%25253DA&cHash=8e6415fd1b430df5b57f8d00af49c09e.html#c438666)[Main
 points for lecturers in brief](for-
