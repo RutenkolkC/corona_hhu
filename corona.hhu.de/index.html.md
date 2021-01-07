@@ -85,11 +85,11 @@ Willkommen!
   * Hier finden Sie Hinweise zu der Frage, wie [ betroffene Mitarbeiter/innen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf) und [ Fachvorgesetzte](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf) mit Infektions(verdachts)fällen umzugehen haben.
   * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](../www.corona.hhu.de/fuer-beschaeftigte.html#c452970) zusammengefasst.
-  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind bis zum 15. Januar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet.
+  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind bis zum 5. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet.
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 16.12.2020]
+[Letztes Update: 06.01.2021]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
