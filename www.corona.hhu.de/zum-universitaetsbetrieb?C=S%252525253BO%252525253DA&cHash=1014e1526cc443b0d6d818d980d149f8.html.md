@@ -1,13 +1,13 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#content)[Gremienarbeit](zum-
-universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453005)[Veranstaltungen,
-Tagungen, Workshops](zum-
-universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453006)[Gebäudeschließungen](zum-
+universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#content)[Gebäudeschließungen](zum-
 universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453007)[Videokonferenzen
 und Online-Lehre](zum-
 universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453008)[Hacker
 nutzen Corona-Angst aus](zum-
-universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453009)
+universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453009)[Gremienarbeit](zum-
+universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453005)[Veranstaltungen,
+Tagungen, Workshops](zum-
+universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c453006)
 [(Kopie 3)](zum-
 universitaetsbetrieb%3FC=S%25252525253BO%25252525253DA&cHash=1014e1526cc443b0d6d818d980d149f8.html#c452578)[Informationen
 zum Universitätsbetrieb](zum-
