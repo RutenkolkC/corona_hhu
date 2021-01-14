@@ -1,13 +1,5 @@
 [Jump to content](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#content)[Faculty
-information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450974)[Further
-information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450979)[General
-information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450916)[Teaching
-and studying](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450922)[Exams](for-
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#content)[Exams](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450924)[Course
 organisation](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450965)[Information
@@ -16,7 +8,15 @@ students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c
 for students with disabilities or chronic illnesses](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450972)[Services
 of the central institutions](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450973)[Information
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450973)[Faculty
+information](for-
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450974)[General
+information](for-
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450916)[Further
+information](for-
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450979)[Teaching
+and studying](for-
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450922)[Information
 for HHU students](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c438639)[Main
 points for students in brief](for-
