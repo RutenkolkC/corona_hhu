@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#content)[Examinations](for-
+lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#content)[Information
+pages of faculties](for-
+lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452911)[Examinations](for-
 lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452908)[Room
 bookings](for-
 lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452909)[Resources
 and assistance for online teaching](for-
-lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452910)[Information
-pages of faculties](for-
-lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452911)[Lecturers
+lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452910)[Lecturers
 topic group](for-
 lecturers%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c438666)[Main
 points for lecturers in brief](for-
@@ -96,16 +96,14 @@ and/or your study programme.
 
 ## Main points for lecturers in brief
 
-  * As of 16 December, in-person courses are no longer allowed. From now on, all lectures for first-year students, which up until now had taken place on-campus, will also continue online. Laboratory placements, bedside teaching, trips, language courses and other similar in-persons activities have been cancelled until further notice. In early January 2021, there will be a decision whether in-person teaching will again be possible after 10 January or if the courses will have to continue online or – in cases there this is not possible – will have to be postponed. See sections „teaching and studying“ and „examinations“ for details.
+  * The rules that have been in place since 16 December 2020 concerning in-person classes will continue to apply unchanged until 15 January 2021, this means that all in-person classes are still banned. This includes laboratory placements, bedside teaching, trips, language courses and other similar practical activities.
   * Access to ULB will also be restricted from 16 December. For detailed information on opening hours, the latest regulations and services available during the holiday season, please see the [ULB website](https://www.ulb.hhu.de/).
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU.  Please observe further specifications on the ‘employees’ website and in the ‘patient care’ sections.
   * From January 2021, the online chat concerning virtual learning will take place every Wednesday from 1.30pm to 2.30pm in [HHU Rocket.Cha](https://rocketchat.hhu.de/channel/elearning-sprechstunde)t . The e-learning experts will answer your questions there, but feel free to post your questions on the platform before the actual chat. For more information about virtual learning see HHU‘s central e-learning website  [HHU‘s central e-learning website](https://www.elearning.hhu.de/en/).
   * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus has closed on 16 December until further notice. For more information check the [Studierendenwerk website](https://www.stw-d.de).
   * The rectorate has adopted [ new regulations that specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide more or less university-wide specification for topics such as flexible teaching and examination formats, withdrawal from examinations and additional attempts at taking an examination during the coronavirus pandemic.
 
-Last updated: 17 December:  main points in brief; resources and assistance for
-digital learning; 16 December: dates and deadlines, teaching and studying;
-examinations; contact tracing; room bookings;
+Last updated: 07 January 2021:  main points in brief.
 
 ## Lecturers
 

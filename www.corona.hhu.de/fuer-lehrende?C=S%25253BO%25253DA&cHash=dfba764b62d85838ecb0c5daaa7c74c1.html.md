@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#content)[Lehr-
-und Studienbetrieb](fuer-
-lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452907)[Termine](fuer-
-lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452908)[Prüfungen](fuer-
+lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#content)[Prüfungen](fuer-
 lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452909)[Hilfestellungen
 für die digitale Lehre](fuer-
 lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452910)[Raumbuchungen](fuer-
 lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452911)[Informationsseiten
 der Fakultäten](fuer-
-lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452912)[Informationen
+lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452912)[Lehr-
+und Studienbetrieb](fuer-
+lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452907)[Termine](fuer-
+lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c452908)[Informationen
 für Lehrende](fuer-
 lehrende%3FC=S%2525253BO%2525253DA&cHash=dfba764b62d85838ecb0c5daaa7c74c1.html#c438666)[Das
 Wichtigste für Lehrende in Kürze](fuer-
@@ -99,16 +99,14 @@ Fakultäten und/oder Ihres Studiengangs zu informieren.
 
 ## Das Wichtigste für Lehrende in Kürze
 
-  * Präsenzlehrveranstaltungen sind ab dem 16. Dezember untersagt. Ab jetzt werden auch alle Vorlesungen für Erstsemester, die bisher noch in Präsenz stattgefunden haben, als Online-Lehrveranstaltungen weitergeführt. Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen fallen vorerst aus. Anfang Januar wird entschieden, ob eine Wiederaufnahme nach dem 10. Januar möglich ist oder ob die Veranstaltungen als Online-Lehrveranstaltungen weitergeführt bzw. – falls dies nicht möglich ist – verschoben werden müssen. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
+  * Die seit dem 16. Dezember 2020 geltenden Regelungen zu Präsenzlehrveranstaltungen gelten weiterhin unverändert bis zum 15. Januar 2021, alle Präsenzlehrveranstaltungen sind damit weiter untersagt. Dies betrifft auch Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen.
   * Der Zugang zur ULB wird ebenfalls ab dem 16. Dezember eingeschränkt. Detaillierte Informationen zu den Öffnungszeiten, den aktuellen Regelungen und Services auch über die Feiertage finden Sie auf der [Homepage der ULB](https://www.ulb.hhu.de/).
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Ab Januar 2021 findet die Online-Sprechstunde zur digitalen Lehre  mittwochs von 13:30 Uhr bis 14:30 Uhr in [Rocket.Chat der HHU](https://rocketchat.hhu.de/channel/elearning-sprechstunde)  statt. Die E-Learning-Expert/innen beantworten dort Ihre Fragen, die Sie gerne auch schon vorher dort einstellen können. Weitere Informationen zur digitalen Lehre finden Sie auf der [zentralen E-Learning-Webseite der HHU](https://www.elearning.hhu.de/ "E-Learning").
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU seit dem 16. Dezember bis auf Weiteres geschlossen sind. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de).
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 17.12.2020: Das Wichtigste in Kürze; Hilfestellung
-für die digitale Lehre; 16.12.2020: Termine, Lehr- und Studienbetrieb,
-Prüfungen, Rückverfolgbarkeit, Raumbuchungen.
+Letzte Aktualisierungen: 07.01.2021: Das Wichtigste in Kürze.
 
 ## Lehrende
 
