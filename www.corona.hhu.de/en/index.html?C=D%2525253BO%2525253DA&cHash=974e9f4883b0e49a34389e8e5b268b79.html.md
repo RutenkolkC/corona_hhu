@@ -85,7 +85,8 @@ Willkommen!
 ## Main points in brief
 
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.  
-  * As of 16 December, in-person courses are no longer allowed. From now on, all lectures for first-year students, which up until now had taken place on-campus, will continue online. Laboratory placements, bedside teaching, trips, language courses and other similar in-person activities have been cancelled until further notice. In early January 2021, there will be a decision whether in-person teaching will again be possible after 10 January or if the courses will have to continue online or – where this is not possible – will have to be postponed.
+  * The rules that have been in place since 16 December 2020 concerning in-person classes will continue to apply unchanged until 15 January 2021, this means that in-person classes are still banned. This also applies to laboratory placements, bedside teaching, trips, language courses and other similar in-person activities.
+  * Oral exams must take place online. Written examinations that have been moved to a new date, as well as planned written examinations may take place, provided the responsible dean of studies approves. Final theses/projects may continue; should this require the use of a laboratory they may still continue in co-operation with the respective supervisor.
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus. 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 09 November 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)].
@@ -96,7 +97,7 @@ Willkommen!
   * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus have closed on 16 December until further notice. For more information check the [Studierendenwek website](https://www.stw-d.de).
   * Currently, we are receiving a lot of spam e-mails at HHU that are allegedly sent by ZIM or WHO – please be alert.
 
-Latest updates: 18 December 2020.
+Latest updates: 07 January 2021.
 
 ## Current information. Please choose from:
 
