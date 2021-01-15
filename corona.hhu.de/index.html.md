@@ -77,9 +77,15 @@ Willkommen!
 
 ## Das Wichtigste in Kürze
 
+[letzte Aktualisierungen]
+
+  * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden bis zum Vorlesungsende weitgehend digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden. Informationen finden Sie auf den Webseiten für Studierende und Lehrende.
+  * Mündliche Prüfungen müssen online stattfinden. Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und -vorbereitende Labortätigkeiten bereits begonnen wurden und dies mit der/dem Betreuer*in abgestimmt ist.
+  * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
+
+
+
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
-  * Die seit dem 16. Dezember 2020 geltenden Regelungen zu Präsenzlehrveranstaltungen gelten weiterhin unverändert bis zum 15. Januar 2021, alle Präsenzlehrveranstaltungen sind damit weiteruntersagt. Dies betrifft auch Laborpraktika, Unterricht am Krankenbett, Exkursionen, Sprachkurse sowie vergleichbare Praxisveranstaltungen.
-  * Mündliche Prüfungen müssen online stattfinden. Verschobene und geplante schriftliche Prüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Abschlussarbeiten können fortgeführt werden; sollten dazu Labore genutzt werden müssen, können im Abstimmung mit den Betreuenden Laborarbeiten fortgesetzt werden.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten.
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen, Eine Ausnahme gilt für Lehrende während ihres Lehrvortrages, sofern sie den Mindestabstand zu anderen Personen von 1,5 m einhalten und für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
@@ -90,7 +96,7 @@ Willkommen!
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 07.01.2021]
+[Letztes Update: 15.01.2021]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
