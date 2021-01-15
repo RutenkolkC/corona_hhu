@@ -1,15 +1,15 @@
-[Jump to content](for-students.html#content)[Services of the central
-institutions](for-students.html#c450973)[Faculty information](for-
+[Jump to content](for-students.html#content)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
 students.html#c450922)[Exams](for-students.html#c450924)[Course
 organisation](for-students.html#c450965)[Information for international
 students](for-students.html#c450971)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Information for
-HHU students](for-students.html#c438639)[Main points for students in
-brief](for-students.html#c438638)[Students](for-students.html#c450915)[Still
-have questions?](for-students.html#c439254)[Main points for students in
-brief](for-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
+disabilities or chronic illnesses](for-students.html#c450972)[Services of the
+central institutions](for-students.html#c450973)[Information for HHU
+students](for-students.html#c438639)[Main points for students in brief](for-
+students.html#c438638)[Students](for-students.html#c450915)[Still have
+questions?](for-students.html#c439254)[Main points for students in brief](for-
+students.html#c438637)[Dates & Deadlines](for-students.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
@@ -79,14 +79,6 @@ Willkommen!
 **for students**
 
 # Students
-
-## Information for HHU students
-
-This website provides you with regularly updated information on general
-regulations. You will receive further information by e-mail. In addition, we
-recommend that you find out about the faculty-specific measures or course-
-specific measures on the websites for your faculty and your study programme
-and that you check your HHU e-mail account on regular basis.
 
 ## Main points for students in brief
 

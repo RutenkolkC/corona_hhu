@@ -76,13 +76,6 @@ Willkommen!
 
 # Lecturers
 
-## Lecturers topic group
-
-This website gives you regularly updated information on general regulations.
-In addition, we recommend that you find out about the faculty-specific
-measures or programme-specific measures on the websites for your faculty
-and/or your study programme.
-
 ## Main points for lecturers in brief
 
   * The rules that have been in place since 16 December 2020 concerning in-person classes will continue to apply unchanged until 15 January 2021, this means that all in-person classes are still banned. This includes laboratory placements, bedside teaching, trips, language courses and other similar practical activities.
