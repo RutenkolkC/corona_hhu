@@ -1,18 +1,30 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Termine](fuer-
-studierende.html#c450924)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
-studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
-chronischen Erkrankungen](fuer-studierende.html#c450973)[Das Wichtigste für
-Studierende in Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete
-Fragen?](fuer-studierende.html#c439254)[Das Wichtigste für Studierende in
-Kürze](fuer-studierende.html#c438637)[Lernräume auf dem Campus](fuer-
-studierende.html#c513981)
+[Zum Inhalt springen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#content)[Termine](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450924)[Prüfungen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450965)[Studienorganisation](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450971)[Services
+der zentralen Einrichtungen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450974)[Allgemeine
+Informationen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450916)[Lehr-
+und Studienbetrieb](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450922)[Internationale
+Studierende](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450972)[Informationen
+der Fakultäten](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450979)[Weitere
+Informationen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450983)[Informationen
+für Studierende mit Behinderung oder chronischen Erkrankungen](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c450973)[Das
+Wichtigste für Studierende in Kürze](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c438638)[Noch
+unbeantwortete Fragen?](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c439254)[Das
+Wichtigste für Studierende in Kürze](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c438637)[Lernräume
+auf dem Campus](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#c513981)
 
   * DE
   * [EN](en/for-students.html)
@@ -104,7 +116,8 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
 Letzte Aktualisierungen: 15.01.2021: Das Wichtigste in Kürze; Lehr- und
 Studienbetrieb; Lernräume auf dem Campus; Prüfungen.
 
-## [ Allgemeine Informationen ](fuer-studierende.html#)
+## [ Allgemeine Informationen ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Allgemeine Informationen
 
@@ -134,7 +147,8 @@ vier Wochen vor dem Zugriff Unbefugter gesichert aufbewahrt, im Bedarfsfall
 der zuständigen Behörde zur Verfügung gestellt und nach Ablauf der vier Wochen
 vernichtet.
 
-## [ Termine ](fuer-studierende.html#)
+## [ Termine ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Termine
 
@@ -150,7 +164,8 @@ Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der
 Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt
 auch Ostern 2021: vom 2. bis 5. April 2021).
 
-## [ Lehr- und Studienbetrieb ](fuer-studierende.html#)
+## [ Lehr- und Studienbetrieb ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Lehr- und Studienbetrieb
 
@@ -215,7 +230,8 @@ Lehre wird sich dann wieder umgehende mit deren Umsetzung an der HHU befassen
 und Sie bis spätestens 5. Februar darüber informieren, wie der
 Hochschulbetrieb an der HHU fortgeführt wird.
 
-## [ Lernräume auf dem Campus ](fuer-studierende.html#)
+## [ Lernräume auf dem Campus ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Lernräume auf dem Campus
 
@@ -228,7 +244,8 @@ Bitte kommen Sie nach Möglichkeit nur für Prüfungen und die wenigen
 stattfindenden Präsenzveranstaltungen an den Campus. Wir informieren Sie an
 dieser Stelle, wenn wieder Lernräume zur Verfügung gestellt werden können.
 
-## [ Prüfungen ](fuer-studierende.html#)
+## [ Prüfungen ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Prüfungen
 
@@ -296,7 +313,8 @@ mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 
-## [ Studienorganisation ](fuer-studierende.html#)
+## [ Studienorganisation ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Studienorganisation
 
@@ -367,7 +385,8 @@ Sommersemester verschieben, zum 01.11.2020 erneut für ein Stipendium bewerben,
 da die Stipendien an das Kalenderjahr gebunden sind. Fragen hierzu beantwortet
 .
 
-## [ Internationale Studierende ](fuer-studierende.html#)
+## [ Internationale Studierende ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Internationale Studierende
 
@@ -414,7 +433,8 @@ Mit generellen Fragen zum Studieneinstieg wenden Sie sich bitte per E-Mail an
 den .
 
 ## [ Informationen für Studierende mit Behinderung oder chronischen
-Erkrankungen ](fuer-studierende.html#)
+Erkrankungen ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Informationen für Studierende mit Behinderung oder chronischen Erkrankungen
 
@@ -432,7 +452,8 @@ digitale Lehre für
 Studierende“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/studierende-
 barrierefrei-hhu_Juli2020erg.pdf) [PDF-Dokument]
 
-## [ Informationen der Fakultäten ](fuer-studierende.html#)
+## [ Informationen der Fakultäten ](fuer-
+studierende%3FC=D%253BO%253DA&cHash=7436d597935b46fc4792150b237b0c79.html#)
 
 ## Informationen der Fakultäten
 
