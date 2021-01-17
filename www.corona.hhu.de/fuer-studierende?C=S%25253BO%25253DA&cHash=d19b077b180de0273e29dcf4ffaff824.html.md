@@ -1,20 +1,20 @@
 [Zum Inhalt springen](fuer-
-studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#content)[Lehr-
+studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#content)[Allgemeine
+Informationen](fuer-
+studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450916)[Lehr-
 und Studienbetrieb](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450922)[Termine](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450924)[Prüfungen](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450965)[Studienorganisation](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450971)[Services
 der zentralen Einrichtungen](fuer-
-studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450974)[Allgemeine
-Informationen](fuer-
-studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450916)[Weitere
-Informationen](fuer-
-studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450983)[Internationale
+studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450974)[Internationale
 Studierende](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450972)[Informationen
 der Fakultäten](fuer-
-studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450979)[Informationen
+studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450979)[Weitere
+Informationen](fuer-
+studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450983)[Informationen
 für Studierende mit Behinderung oder chronischen Erkrankungen](fuer-
 studierende%3FC=S%2525253BO%2525253DA&cHash=d19b077b180de0273e29dcf4ffaff824.html#c450973)[Das
 Wichtigste für Studierende in Kürze](fuer-
