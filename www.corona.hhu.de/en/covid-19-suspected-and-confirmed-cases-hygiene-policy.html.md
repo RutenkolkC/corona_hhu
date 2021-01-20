@@ -1,8 +1,6 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[What should I do if I had contact with an infected person
-or a person who is suspected to have contracted COVID-19?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453062)[Important telephone numbers
-and addresses](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#content)[Important telephone numbers and
+addresses](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453064)[Hygiene policy/protective measures at
 HHU](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453066)[Posters ‘General hygiene measures’, ‘obligation to wear a
@@ -13,10 +11,13 @@ policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
 and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
 ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453061)[Who is most at
-risk?](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453063)[HHU
-coronavirus information videos](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453065)[Main points in brief on COVID-19 and on handling
+confirmed-cases-hygiene-policy.html#c453061)[What should I do if I had contact
+with an infected person or a person who is suspected to have contracted
+COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453062)[Who is most at risk?](covid-19-suspected-and-confirmed-
+cases-hygiene-policy.html#c453063)[HHU coronavirus information
+videos](covid-19-suspected-and-confirmed-cases-hygiene-
+policy.html#c453065)[Main points in brief on COVID-19 and on handling
 suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c439137)[COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy.html#c453068)[Still have questions?](covid-19-suspected-and-confirmed-
@@ -99,7 +100,7 @@ COVID-19, Suspected and confirmed cases, Hygiene policy**
 cases
 
   * Close contacts are those who have had face-to-face contact for at least 15 minutes cumulatively with a person ill with COVID-19 or those who had direct contact with secretions or bodily fluids of a confirmed case of COVID-19. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation).
-  * Such close contacts must follow the instructions on this site [ instructions of this page.](covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
+  * Such close contacts must follow the instructions on this site [ instructions of this page.](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
 
 Last updated: 30 October 2020: Coronavirus / SARS-Cov-2 / COVID-19; How do you
 recognise the disease? How can we protect ourselves?; What should I do if I
