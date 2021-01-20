@@ -1,7 +1,5 @@
 [Jump to content](university-
-operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#content)[Events,
-conferences, workshops](university-
-operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453006)[Closure
+operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#content)[Closure
 of buildings](university-
 operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453007)[Video
 conferences and online teaching](university-
@@ -9,7 +7,9 @@ operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453008
 Hackers exploit fear of coronavirus!](university-
 operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453009)[Committee
 work](university-
-operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453005)[Information
+operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453005)[Events,
+conferences, workshops](university-
+operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c453006)[Information
 on University operations](university-
 operations%3FC=D%253BO%253DD&cHash=8511915f2873074478eb65b4d06d5b20.html#c438674)[Main
 points for university operations in brief](university-

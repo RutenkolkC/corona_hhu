@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#content)[Exams](for-
+lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#content)[Information
+pages of faculties](for-
+lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452911)[Exams](for-
 lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452908)[Room
 bookings](for-
 lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452909)[Resources
 and assistance for online teaching](for-
-lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452910)[Information
-pages of faculties](for-
-lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452911)[Main
+lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452910)[Main
 points for lecturers in brief](for-
 lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c438668)[Lecturers](for-
 lecturers%3FC=S%253BO%253DD&cHash=7b42dc116090c9722680dcb3a91f70ef.html#c452917)[Still
