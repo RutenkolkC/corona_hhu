@@ -77,6 +77,7 @@ Willkommen!
 
 ## Main points in brief
 
+  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended until 19 February 2021 in the light of the relevant rulings by the German Federal Government. Persons, whose physical presence on campus is essential to maintain operations continue to be obliged to come to campus to the extent that is necessary. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. In light of the latest rates of new infections, all employees should make use of the option to work from homes as much as possible and reduce their presence on campus to the extent that is really necessary. The responsible supervisors are tasked to organise operations in their respective area of responsibility under these conditions and at the same time reduce presence on campus of their team to the required amount. 
   * As a rule, in-person lectures are not allowed. Wherever possible, classes will continue to be taught online until the end of the lecture period. Laboratory placements and practical courses can only take place in-person in exceptional cases and only after authorisation by the dean of studies. For more information check the ‚students‘ and ‚lecturers‘ websites.    
   * Oral exams must take place online. Written examinations that have been moved to a new date, as well as planned written examinations may take place in-person, provided the responsible dean of studies approves. Final theses/projects may continue, provided that they either do not require on-campus presence or that the laboratory work is in preparation of or an integral part of an examination, and provided that the lab practice has already begun and that the responsible supervisor approves.  
   * For details about opening hours, access and the services provided by the University and State Library [check the following website ULB](https://www.hhu.de/en/about-hhu/university-and-state-library-ulb).
@@ -87,11 +88,10 @@ Willkommen!
   * Here you can find information about how [ affected HHU employees](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06_GB.pdf) and [ supervisors](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06_GB.pdf) should react in case of a (suspected) infection.
   * See [ this link for HHU’s hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy) with information on working in offices and laboratories, examinations, work placements/internships, meetings/conferences and seminar rooms.
   * Regulations and support available to scientists are summarised [on this page](for-employees.html#c452970).
-  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended until 15 January 2021. Persons whose physical presence is required on campus as well as persons who can perform their duties only on campus continue to be obliged to come to campus for work.
   * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus have closed on 16 December until further notice. For more information check the [Studierendenwek website](https://www.stw-d.de).
   * Currently, we are receiving a lot of spam e-mails at HHU that are allegedly sent by ZIM or WHO – please be alert.
 
-[Last updated: 15 January 2021]
+[Last updated: 20 January 2021]
 
 ## Current information. Please choose from:
 
