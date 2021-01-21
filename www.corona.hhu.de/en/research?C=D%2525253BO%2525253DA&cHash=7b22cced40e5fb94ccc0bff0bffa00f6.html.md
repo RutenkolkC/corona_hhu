@@ -1,5 +1,7 @@
 [Jump to
-content](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#content)[Working
+content](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#content)[Congress
+trips and project meetings (business
+trips)](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452945)[Working
 in laboratories under COVID-19
 conditions](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452941)[Coronavirus-
 related information of funding
@@ -8,9 +10,7 @@ organisations](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0
 scientists/researchers](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452943)[Information
 for doctoral students, doctoral supervisors, postdocs, young scientist group
 leaders and assistant
-professors](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452944)[Congress
-trips and project meetings (business
-trips)](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452945)[Main
+professors](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c452944)[Main
 points for research in
 brief](research%3FC=D%252525253BO%252525253DA&cHash=7b22cced40e5fb94ccc0bff0bffa00f6.html#c438673)["Research"
 topic
