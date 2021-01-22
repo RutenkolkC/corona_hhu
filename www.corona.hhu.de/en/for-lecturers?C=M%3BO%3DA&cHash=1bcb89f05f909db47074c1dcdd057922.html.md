@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#content)[Information
-pages of faculties](for-
-lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452911)[Exams](for-
+lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#content)[Exams](for-
 lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452908)[Room
 bookings](for-
 lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452909)[Resources
 and assistance for online teaching](for-
-lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452910)[Main
+lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452910)[Information
+pages of faculties](for-
+lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452911)[Main
 points for lecturers in brief](for-
 lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c438668)[Lecturers](for-
 lecturers%3FC=M%253BO%253DA&cHash=1bcb89f05f909db47074c1dcdd057922.html#c452917)[Still
