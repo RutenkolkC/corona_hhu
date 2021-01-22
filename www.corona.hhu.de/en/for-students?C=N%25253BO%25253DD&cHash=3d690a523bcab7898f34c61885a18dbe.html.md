@@ -1,15 +1,31 @@
-[Jump to content](for-students.html#content)[Course organisation](for-
-students.html#c450965)[Information for international students](for-
-students.html#c450971)[Information for students with disabilities or chronic
-illnesses](for-students.html#c450972)[Services of the central
-institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Main points for
-students in brief](for-students.html#c438638)[Students](for-
-students.html#c450915)[Still have questions?](for-students.html#c439254)[Main
-points for students in brief](for-students.html#c438637)[Dates &
-Deadlines](for-students.html#c0)
+[Jump to content](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#content)[Information
+for students with disabilities or chronic illnesses](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450972)[Services
+of the central institutions](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450973)[Faculty
+information](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450974)[General
+information](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450916)[Further
+information](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450979)[Teaching
+and studying](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450922)[Exams](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450924)[Course
+organisation](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450965)[Information
+for international students](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450971)[Main
+points for students in brief](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c438638)[Students](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450915)[Still
+have questions?](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c439254)[Main
+points for students in brief](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c438637)[Dates
+& Deadlines](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
@@ -97,7 +113,8 @@ studyrooms on campus, examinations
 
 ## Students
 
-## [ General information ](for-students.html#)
+## [ General information ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## General information
 
@@ -126,7 +143,8 @@ four weeks to prevent unauthorised access and either be passed on to the
 appropriate authorities should this become necessary or destroyed after four
 weeks. 
 
-## [ Dates & Deadlines ](for-students.html#)
+## [ Dates & Deadlines ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Dates & Deadlines
 
@@ -142,7 +160,8 @@ examinations before summer semester 2021 is planned to take place from 22
 March to 09 April 2021 (and includes the Easter holidays 2021: from 02 to 05
 April 2021). 
 
-## [ Teaching and studying ](for-students.html#)
+## [ Teaching and studying ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Teaching and studying
 
@@ -206,7 +225,8 @@ information becomes available, the ‚Taskforce Lehre‘ will decide how to
 implement these regulations at HHU and let you know no later than 05 February
 how teaching and studying will continue at HHU.
 
-## [ Study rooms on campus ](for-students.html#)
+## [ Study rooms on campus ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 [Last updated: 15 January 2021]
 
@@ -219,7 +239,8 @@ please only come to campus for exams or to attend one of the few in-person
 lectures.  We will inform you here when the study rooms become available
 again.
 
-## [ Exams ](for-students.html#)
+## [ Exams ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Exams
 
@@ -289,7 +310,8 @@ been approved by the respective supervisor. Final theses/projects that require
 laboratory practice but where the lab practice has not started yet, cannot
 take place and cannot be registered at the time being.
 
-## [ Course organisation ](for-students.html#)
+## [ Course organisation ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Course organisation
 
@@ -358,7 +380,8 @@ summer semester must re-apply for a scholarship by 01 November 2020 because
 the scholarships are granted by calendar year only. Please contact  in case of
 any questions.
 
-## [ Information for international students ](for-students.html#)
+## [ Information for international students ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Information for international students
 
@@ -401,7 +424,7 @@ send any questions by .
 If you have general questions about starting your studies, please .
 
 ## [ Information for students with disabilities or chronic illnesses ](for-
-students.html#)
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Information for students with disabilities or chronic illnesses
 
@@ -420,7 +443,8 @@ barrierearm-HHU-EN.pdf) [PDF document] you can find more information on low-
 barrier teaching particularly with regard to students with disabilities or
 chronic diseases.
 
-## [ Faculty information ](for-students.html#)
+## [ Faculty information ](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#)
 
 ## Faculty information
 
