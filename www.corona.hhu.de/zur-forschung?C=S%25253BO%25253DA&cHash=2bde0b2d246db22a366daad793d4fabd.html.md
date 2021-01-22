@@ -1,16 +1,16 @@
 [Zum Inhalt springen](zur-
-forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#content)[Kongressreisen
+forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#content)[Hinweise
+für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
+forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452943)[Informationen
+für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
+und Juniorprofessuren](zur-
+forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452944)[Kongressreisen
 und Projekttreffen (Dienstreisen)](zur-
 forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452945)[Laborbetrieb
 unter COVID-19-Bedingungen](zur-
 forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452941)[Corona-
 Informationen der Förderorganisationen](zur-
-forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452942)[Hinweise
-für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452943)[Informationen
-für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
-und Juniorprofessuren](zur-
-forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452944)
+forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452942)
 [(Kopie 3)](zur-
 forschung%3FC=S%2525253BO%2525253DA&cHash=2bde0b2d246db22a366daad793d4fabd.html#c452576)[Informationen
 zur Forschung](zur-

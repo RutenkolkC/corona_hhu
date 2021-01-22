@@ -1,5 +1,15 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#content)[How
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#content)[Hygiene
+policy/protective measures at HHU](covid-19-suspected-and-confirmed-cases-
+hygiene-
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453066)[Posters
+‘General hygiene measures’, ‘obligation to wear a face covering’ and ‘airing
+of rooms’](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453067)[Coronavirus
+/ SARS-CoV-2 / COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453058)[How
+do you recognise the disease?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453059)[How
 can we protect ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453060)[What
 should I do if I feel ill?](covid-19-suspected-and-confirmed-cases-hygiene-
@@ -10,17 +20,7 @@ cases-hygiene-
 policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453062)[Important
 telephone numbers and addresses](covid-19-suspected-and-confirmed-cases-
 hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453064)[Hygiene
-policy/protective measures at HHU](covid-19-suspected-and-confirmed-cases-
-hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453066)[Posters
-‘General hygiene measures’, ‘obligation to wear a face covering’ and ‘airing
-of rooms’](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453067)[Coronavirus
-/ SARS-CoV-2 / COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453058)[How
-do you recognise the disease?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453059)[Who
+policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453064)[Who
 is most at risk?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy%3FC=N%253BO%253DA&cHash=a2267bb9f0ad208f1fe0ced28dd2d33b.html#c453063)[HHU
 coronavirus information videos](covid-19-suspected-and-confirmed-cases-

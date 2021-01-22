@@ -1,7 +1,5 @@
 [Jump to content](for-
-students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#content)[Information
-for students with disabilities or chronic illnesses](for-
-students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450972)[Services
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#content)[Services
 of the central institutions](for-
 students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450973)[Faculty
 information](for-
@@ -16,7 +14,9 @@ students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c
 organisation](for-
 students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450965)[Information
 for international students](for-
-students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450971)[Main
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450971)[Information
+for students with disabilities or chronic illnesses](for-
+students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450972)[Main
 points for students in brief](for-
 students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c438638)[Students](for-
 students%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450915)[Still

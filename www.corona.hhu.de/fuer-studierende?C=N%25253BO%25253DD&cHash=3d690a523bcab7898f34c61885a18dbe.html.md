@@ -1,6 +1,5 @@
 [Zum Inhalt springen](fuer-
-studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#content)[Studienorganisation](fuer-
-studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450971)[Services
+studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#content)[Services
 der zentralen Einrichtungen](fuer-
 studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450974)[Allgemeine
 Informationen](fuer-
@@ -8,7 +7,8 @@ studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.htm
 und Studienbetrieb](fuer-
 studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450922)[Termine](fuer-
 studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450924)[Prüfungen](fuer-
-studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450965)[Internationale
+studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450965)[Studienorganisation](fuer-
+studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450971)[Internationale
 Studierende](fuer-
 studierende%3FC=N%2525253BO%2525253DD&cHash=3d690a523bcab7898f34c61885a18dbe.html#c450972)[Informationen
 der Fakultäten](fuer-

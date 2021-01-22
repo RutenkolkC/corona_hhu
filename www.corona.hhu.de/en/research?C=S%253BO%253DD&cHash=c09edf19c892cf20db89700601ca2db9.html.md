@@ -1,16 +1,16 @@
 [Jump to
-content](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#content)[Working
+content](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#content)[Information
+for doctoral students, doctoral supervisors, postdocs, young scientist group
+leaders and assistant
+professors](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452944)[Congress
+trips and project meetings (business
+trips)](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452945)[Working
 in laboratories under COVID-19
 conditions](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452941)[Coronavirus-
 related information of funding
 organisations](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452942)
 [Information for international scientists/researchers and visiting
-scientists/researchers](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452943)[Information
-for doctoral students, doctoral supervisors, postdocs, young scientist group
-leaders and assistant
-professors](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452944)[Congress
-trips and project meetings (business
-trips)](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452945)[Main
+scientists/researchers](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c452943)[Main
 points for research in
 brief](research%3FC=S%25253BO%25253DD&cHash=c09edf19c892cf20db89700601ca2db9.html#c438673)["Research"
 topic
