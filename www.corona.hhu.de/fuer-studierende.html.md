@@ -1,13 +1,13 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Lehr- und
-Studienbetrieb](fuer-studierende.html#c450922)[Termine](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
+Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Weitere Informationen](fuer-
+studierende.html#c450974)[Informationen der Fakultäten](fuer-
+studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Das Wichtigste für
 Studierende in Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete
 Fragen?](fuer-studierende.html#c439254)[Das Wichtigste für Studierende in
