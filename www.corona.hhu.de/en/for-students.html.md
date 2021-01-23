@@ -1,15 +1,14 @@
-[Jump to content](for-students.html#content)[Course organisation](for-
-students.html#c450965)[Information for international students](for-
-students.html#c450971)[Information for students with disabilities or chronic
-illnesses](for-students.html#c450972)[Services of the central
-institutions](for-students.html#c450973)[Faculty information](for-
+[Jump to content](for-students.html#content)[Teaching and studying](for-
+students.html#c450922)[Exams](for-students.html#c450924)[Course
+organisation](for-students.html#c450965)[Information for international
+students](for-students.html#c450971)[Information for students with
+disabilities or chronic illnesses](for-students.html#c450972)[Services of the
+central institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
-information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Main points for
-students in brief](for-students.html#c438638)[Students](for-
-students.html#c450915)[Still have questions?](for-students.html#c439254)[Main
-points for students in brief](for-students.html#c438637)[Dates &
-Deadlines](for-students.html#c0)
+information](for-students.html#c450979)[Main points for students in
+brief](for-students.html#c438638)[Students](for-students.html#c450915)[Still
+have questions?](for-students.html#c439254)[Main points for students in
+brief](for-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
