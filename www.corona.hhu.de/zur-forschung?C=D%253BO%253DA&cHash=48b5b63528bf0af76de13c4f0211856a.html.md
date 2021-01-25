@@ -1,15 +1,27 @@
-[Zum Inhalt springen](zur-forschung.html#content)[Hinweise für internationale
-Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung.html#c452943)[Informationen für Promovierende, Promotionsbetreuende,
-Postdocs, Nachwuchsgruppenleitungen und Juniorprofessuren](zur-
-forschung.html#c452944)[Kongressreisen und Projekttreffen (Dienstreisen)](zur-
-forschung.html#c452945)[Laborbetrieb unter COVID-19-Bedingungen](zur-
-forschung.html#c452941)[Corona-Informationen der Förderorganisationen](zur-
-forschung.html#c452942) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
-zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
-Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
-unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
-Forschung in Kürze](zur-forschung.html#c438672)
+[Zum Inhalt springen](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#content)[Laborbetrieb
+unter COVID-19-Bedingungen](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452941)[Corona-
+Informationen der Förderorganisationen](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452942)[Hinweise
+für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452943)[Informationen
+für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
+und Juniorprofessuren](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452944)[Kongressreisen
+und Projekttreffen (Dienstreisen)](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452945)
+[(Kopie 3)](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452576)[Informationen
+zur Forschung](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c438670)[Das
+Wichtigste zur Forschung in Kürze](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c438673)[Forschung](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c452951)[Noch
+unbeantwortete Fragen?](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c439236)[Das
+Wichtigste zur Forschung in Kürze](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#c438672)
 
   * DE
   * [EN](en/research.html)
@@ -93,7 +105,8 @@ Labor
 
 ## Forschung
 
-## [ Laborbetrieb unter COVID-19-Bedingungen ](zur-forschung.html#)
+## [ Laborbetrieb unter COVID-19-Bedingungen ](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#)
 
 ## Laborbetrieb unter COVID-19-Bedingungen
 
@@ -107,7 +120,8 @@ im Labor: [ Download
 PDF](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Merkblatt_Laborbetrieb_4.11.2020.pdf)
 (Stand: 04.11.2020)
 
-## [ Corona-Informationen der Förderorganisationen ](zur-forschung.html#)
+## [ Corona-Informationen der Förderorganisationen ](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#)
 
 ## Corona-Informationen der Förderorganisationen
 
@@ -122,7 +136,8 @@ fuer-den-wissenschaftlichen-nachwuchs-an-hochschulen-verbessern-1935.html
 "Wiss") (WissZeitVG)
 
 ## [ Hinweise für internationale Wissenschaftler*innen und
-Gastwissenschaftler*innen ](zur-forschung.html#)
+Gastwissenschaftler*innen ](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#)
 
 ## Hinweise für internationale Wissenschaftler*innen und
 Gastwissenschaftler*innen
@@ -147,7 +162,8 @@ Informationen zu den aktuellen Einreisebestimmungen nach Deutschland [finden
 Sie hier](http://www.juno.hhu.de/covid19-entry).
 
 ## [ Informationen für Promovierende, Promotionsbetreuende, Postdocs,
-Nachwuchsgruppenleitungen und Juniorprofessuren ](zur-forschung.html#)
+Nachwuchsgruppenleitungen und Juniorprofessuren ](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#)
 
 ## Informationen für Promovierende, Promotionsbetreuende, Postdocs,
 Nachwuchsgruppenleitungen und Juniorprofessuren
@@ -187,7 +203,8 @@ Nachwuchsgruppenleitungen und Juniorprofessuren
 
   * [Corona-Notfallhilfen für Promovierende und Postdoktorand*innen](http://www.hera.hhu.de/corona-notfallhilfen)
 
-## [ Kongressreisen und Projekttreffen (Dienstreisen) ](zur-forschung.html#)
+## [ Kongressreisen und Projekttreffen (Dienstreisen) ](zur-
+forschung%3FC=D%25253BO%25253DA&cHash=48b5b63528bf0af76de13c4f0211856a.html#)
 
 ## Kongressreisen und Projekttreffen (Dienstreisen)
 
