@@ -1,5 +1,13 @@
 [Jump to content](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Exams](for-
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Faculty
+information](for-
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450974)[General
+information](for-
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Further
+information](for-
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450979)[Teaching
+and studying](for-
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Exams](for-
 students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450924)[Course
 organisation](for-
 students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450965)[Information
@@ -8,15 +16,7 @@ students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c4509
 for students with disabilities or chronic illnesses](for-
 students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450972)[Services
 of the central institutions](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450973)[Faculty
-information](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450974)[General
-information](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Further
-information](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450979)[Teaching
-and studying](for-
-students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Main
+students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450973)[Main
 points for students in brief](for-
 students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c438638)[Students](for-
 students%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450915)[Still
@@ -98,7 +98,6 @@ Willkommen!
 
 ## Main points for students in brief
 
-  * As a reaction to the NRW state government’s rulings, HHU has adapted its regulations regarding teaching and examinations. For more information, please check the sections „teaching and studying“ and „examinations“.  
   * As a rule, in-person lectures are not allowed. Wherever possible, classes will take place online until the end of the lecture period. Laboratory placements and practical courses can only take place on-campus in exceptional cases and after authorisation by the responsible dean of studies.   
   * Oral exams must take place online.
   * Planned exams and re-scheduled exams may take place in person after authorisation by the responsible dean of studies.  
@@ -108,8 +107,9 @@ Willkommen!
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Last updated: 15 January 2021: main points in brief; teaching and studying;
-studyrooms on campus, examinations
+Last updated: 22 January 2021: examinations; teaching and studying; 15 January
+2021: main points in brief; teaching and studying; study rooms on campus,
+examinations
 
 ## Students
 
