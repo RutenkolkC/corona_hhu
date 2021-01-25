@@ -1,10 +1,20 @@
-[Jump to content](for-lecturers.html#content)[Information pages of
-faculties](for-lecturers.html#c452911)[Exams](for-lecturers.html#c452908)[Room
-bookings](for-lecturers.html#c452909)[Resources and assistance for online
-teaching](for-lecturers.html#c452910)[Main points for lecturers in brief](for-
-lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
-questions?](for-lecturers.html#c439228)[Main points for lecturers in
-brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
+[Jump to content](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#content)[Information
+pages of faculties](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452911)[Exams](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452908)[Room
+bookings](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452909)[Resources
+and assistance for online teaching](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452910)[Main
+points for lecturers in brief](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c438668)[Lecturers](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452917)[Still
+have questions?](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c439228)[Main
+points for lecturers in brief](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c438667)[Traceability](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
@@ -91,7 +101,8 @@ examinations; traceability; assistance for digital teaching
 
 ## Lecturers
 
-## [ Dates ](for-lecturers.html#)
+## [ Dates ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ### Dates
 
@@ -106,7 +117,8 @@ long, from 16 February to 12 March 2021. The phase of written examinations
 before summer semester 2021 is planned to take place from 22 March to 09 April
 2021 (over the Easter holidays 2021: from 02 to 05 April 2021). 
 
-## [ Teaching activities and studies ](for-lecturers.html#)
+## [ Teaching activities and studies ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 [Last updated: 15 January 2021]
 
@@ -185,7 +197,8 @@ information becomes available, the ‚Taskforce Lehre‘ will decide how to
 implement these regulations at HHU and let you know no later than 05 February
 how teaching and studying will continue at HHU.
 
-## [ Traceability ](for-lecturers.html#)
+## [ Traceability ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Traceability
 
@@ -199,7 +212,8 @@ German](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse
 and [ in
 English](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
 
-## [ Examinations ](for-lecturers.html#)
+## [ Examinations ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Exams
 
@@ -257,7 +271,8 @@ been approved by the respective supervisor. Final theses/projects that require
 laboratory practice but where the lab practice has not started yet, cannot
 take place and cannot be registered at the time being.  
 
-## [ Resources and assistance for online teaching ](for-lecturers.html#)
+## [ Resources and assistance for online teaching ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Resources and assistance for online teaching
 
@@ -297,7 +312,8 @@ zum-urheberrecht) and [on the website of the Data Protection
 Unit](https://www.hhu.de/en/about-hhu/organisation-and-bodies/central-
 university-administration/staff-units/staff-unit-data-protection).
 
-## [ Room bookings ](for-lecturers.html#)
+## [ Room bookings ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Room bookings
 
@@ -307,7 +323,8 @@ Room bookings for centrally managed rooms will be coordinated centrally until
 further notice and can only be booked  after consultation with the deans of
 studies’ offices or the room booking management.
 
-## [ Information pages of faculties ](for-lecturers.html#)
+## [ Information pages of faculties ](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Information pages of faculties
 
