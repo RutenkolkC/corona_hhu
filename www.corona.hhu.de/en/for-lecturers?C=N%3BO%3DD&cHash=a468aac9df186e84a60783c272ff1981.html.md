@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#content)[Exams](for-
-lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452908)[Room
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#content)[Room
 bookings](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452909)[Resources
 and assistance for online teaching](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452910)[Information
 pages of faculties](for-
-lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452911)[Main
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452911)[Exams](for-
+lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452908)[Main
 points for lecturers in brief](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c438668)[Lecturers](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#c452917)[Still
@@ -87,7 +87,6 @@ Willkommen!
 
 ## Main points for lecturers in brief
 
-  * As a reaction to the NRW state government’s rulings HHU has adapted its regulations regarding teaching and examinations. For more information, please check the sections „teaching and studying“ and „examinations“.  
   * As a rule, in-person lectures are not allowed. Wherever possible, classes will take place online until the end of the lecture period, Laboratory placements and practical courses can only take place on campus in exceptional cases and after authorisation by the responsible dean of studies.
   * Oral exams must take place online.
   * Planned exams and re-scheduled exams may take place in person after authorisation of the responsible dean of studies.  
@@ -96,8 +95,8 @@ Willkommen!
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. Please observe further specifications on the ‘employees’ website and in the ‘patient care’ sections.
   * The rectorate has adopted [ new regulations that specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide more or less university-wide specification for topics such as flexible teaching and examination formats, withdrawal from examinations and additional attempts at taking an examination during the coronavirus pandemic.  
 
-Last updated: 15 January 2021; main points in brief; teaching and studying;
-examinations; traceability; assistance for digital teaching
+Last updated: 22 January 2021: teaching and studying; examinations; 15 January
+2021; main points in brief; traceability; assistance for digital teaching
 
 ## Lecturers
 
@@ -120,7 +119,7 @@ before summer semester 2021 is planned to take place from 22 March to 09 April
 ## [ Teaching activities and studies ](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
-[Last updated: 15 January 2021]
+[Last updated: 22 January 2021]
 
 The following framework conditions regarding teaching and studying at HHU will
 be in effect until the end of the lecture period on 12 February 2021:
@@ -179,7 +178,8 @@ examinations and to attend one of the few in-person classes.
 
 Persons from administrative districts or towns which have adopted restrictions
 to the freedom of movement may travel to HHU to attend in-person classes,
-internships/lab placements or examinations. 
+internships/lab placements or examinations. Students affected by this are
+asked to contact the registrar’s office in case of any questions.
 
 ULB’s service will also be reduced. Please use ULB’s extensive digital
 services. You can only access ULB to pick up pre-requested media or to return
@@ -212,12 +212,12 @@ German](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse
 and [ in
 English](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf).
 
-## [ Examinations ](for-
+## [ Exams ](for-
 lecturers%3FC=N%253BO%253DD&cHash=a468aac9df186e84a60783c272ff1981.html#)
 
 ## Exams
 
-[Last updated on: 15 January 2021]
+[Last updated on: 22 January 2021]
 
 #### HHU regulations in specification of the coronavirus epidemic higher
 education ordinance
@@ -244,11 +244,21 @@ examination degree. In-person exams will take place exclusively in lecture
 theatres or other well-ventilated rooms and must be authorised by the
 responsible dean of studies.
 
+Persons from areas which have adopted restrictions to the freedom of movement
+may travel to HHU to attend in-person classes, internships/lab placements or
+examinations. Students affected by this are asked to contact the registrar’s
+office in case of any questions.
+
 Dates for written examinations set to take place from February will remain as
 they are for the time being. As nobody can tell what the framework conditions
 will be like then, we have asked the lecturers, as a precautionary measure, to
 check whether an alternative format, one that does not require on-campus
 presence, is an option.
+
+Should you wish to conduct an examination in the form of an online written
+examination [you can find a number tips and suggestions here in this
+guide](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
+durchfuehrung-von-online-klausuren).
 
 Exam viewings should take place online, if possible. As a rule, in-person exam
 viewings are only possible for students who failed their examinations. They
@@ -260,6 +270,10 @@ lecture theatres.
 
 Oral exams must take place online. This also applies to doctoral defences.
 Details will be managed by the faculties. 
+
+Please [see this guide for information on how to conduct online video
+examinations](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
+durchfuehrung-von-online-videopruefungen).
 
 #### Final theses and projects
 
