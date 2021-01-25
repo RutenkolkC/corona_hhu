@@ -1,20 +1,20 @@
 [Zum Inhalt springen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Termine](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Lehr-
+und Studienbetrieb](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Termine](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450924)[Prüfungen](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450965)[Studienorganisation](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450971)[Services
 der zentralen Einrichtungen](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450974)[Allgemeine
 Informationen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Lehr-
-und Studienbetrieb](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Internationale
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Weitere
+Informationen](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450983)[Internationale
 Studierende](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450972)[Informationen
 der Fakultäten](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450979)[Weitere
-Informationen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450983)[Informationen
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450979)[Informationen
 für Studierende mit Behinderung oder chronischen Erkrankungen](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450973)[Das
 Wichtigste für Studierende in Kürze](fuer-
@@ -169,7 +169,7 @@ studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#)
 
 ## Lehr- und Studienbetrieb
 
-[Update: 15.01.2021]
+[Update: 22.01.2021]
 
 Folgende Rahmenbedingungen gelten bis zum Vorlesungsende am 12. Februar 2021
 für den Lehr- und Studienbetrieb an der HHU.
@@ -209,20 +209,18 @@ eingerichtet wurden, bleiben weiterhin geschlossen. Bitte kommen Sie nach
 Möglichkeit nur für Prüfungen und die wenigen stattfindenden
 Präsenzveranstaltungen an den Campus.
 
-Personen aus den Kreisen, denen per Verordnung der Bewegungsradius
+Personen aus den Gebieten, denen per Verordnung der Bewegungsradius
 eingeschränkt ist, dürfen für Präsenzunterricht, Praktika und Prüfungen an die
-HHU kommen.
+HHU kommen. Betroffene Studierende mögen sich bei Fragen an die Studierenden-
+und Prüfungsverwaltung wenden.
 
 Der Service der ULB muss ebenfalls eingeschränkt werden. Bitte nutzen Sie das
 umfangreiche digitale Angebot. Der Zutritt zur ULB ist ausschließlich für
-Ausleihe bestellter Medien sowie zur Rückgabe möglich. Derzeit gilt dies für
-Magazinbestellungen, Fernleihen, Vormerkungen und dienstliche Entnahmen, die
-Sie im gewohnten Verfahren bestellen können. Ab Freitag, den 15. Januar 2021
-bietet die ULB verschiedene Bestellservices für den ausleihbaren
-Lesesaalbestand an. Detaillierte Informationen werden sukzessive auf der
-[Webseite der ULB](https://www.ulb.hhu.de/) veröffentlicht. Die Nutzung von
-Präsenzbeständen ist leider im Rahmen der derzeit geltenden Regeln nicht
-möglich.
+Ausleihe bestellter Medien sowie zur Rückgabe möglich. Die Nutzung von
+Präsenzbeständen ist derzeit leider nicht möglich. Die ULB hat jedoch
+verschiedene Bestellservices für den ausleihbaren Lesesaalbestand
+eingerichtet. Detaillierte Informationen finden Sie auf der [Webseite der
+ULB](https://www.ulb.hhu.de/).
 
 Die nächsten Entscheidungen der Landesregierung über die coronabedingten
 Einschränkungen des Hochschulbetriebs stehen Ende Januar an. Die Taskforce
@@ -249,7 +247,7 @@ studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#)
 
 ## Prüfungen
 
-[Update: 15.01.2021]
+[Update: 22.01.2021]
 
 #### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
 Hochschulverordnung
@@ -274,6 +272,10 @@ nicht möglich sind. Darüber hinaus muss die Prüfung für den Bachelor- oder
 Masterabschluss oder für die Anmeldung zu einer Staatsexamensprüfung
 erforderlich sein. Schriftliche Präsenzprüfungen dürfen nur in Hörsälen oder
 anderen belüfteten Räumen durchgeführt werden.
+
+Studierende aus den Gebieten, denen per Verordnung der Bewegungsradius
+eingeschränkt ist, dürfen für schriftliche Präsenzprüfungen an die HHU kommen.
+Bei Fragen wenden Sie sich bitte an die Studierenden- und Prüfungsverwaltung.
 
 Die Terminierungen für die Klausuren, die ab Februar geplant sind, bleiben
 erst einmal bestehen. Da nicht absehbar ist, wie die Rahmenbedingungen dann

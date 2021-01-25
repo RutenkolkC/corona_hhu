@@ -1,5 +1,7 @@
 [Zum Inhalt springen](fuer-
-beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#content)[Regelungen
+beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#content)[Generelle
+Schutzhinweise](fuer-
+beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452967)[Regelungen
 für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in
 häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben](fuer-
 beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452968)[Heim-
@@ -9,9 +11,7 @@ für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
 beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452970)[Dienstreisen](fuer-
 beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452971)[Informationen
 aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
-beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452972)[Generelle
-Schutzhinweise](fuer-
-beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452967)
+beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452972)
 [(Kopie 4)](fuer-
 beschaeftigte%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452577)[Informationen
 für Beschäftigte](fuer-

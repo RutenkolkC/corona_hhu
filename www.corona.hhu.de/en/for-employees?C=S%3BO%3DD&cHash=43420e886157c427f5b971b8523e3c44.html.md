@@ -1,5 +1,11 @@
 [Jump to content](for-
-employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#content)[Business
+employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#content)[Regulations
+for employees with a severe pre-existing condition or employees who live in
+the same household as a person with a severe pre-existing condition, in effect
+from 29 June 2020](for-
+employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452968)[Working
+from home and teleworking](for-
+employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452969)[Business
 trips](for-
 employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452970)[Central
 University Administration Information](for-
@@ -7,13 +13,7 @@ employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452971)
 for scientists against the background of the coronavirus pandemic](for-
 employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452972)[General
 guidelines](for-
-employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452967)[Regulations
-for employees with a severe pre-existing condition or employees who live in
-the same household as a person with a severe pre-existing condition, in effect
-from 29 June 2020](for-
-employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452968)[Working
-from home and teleworking](for-
-employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452969)["Employees"
+employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c452967)["Employees"
 topic group](for-
 employees%3FC=S%253BO%253DD&cHash=43420e886157c427f5b971b8523e3c44.html#c438661)[Main
 points for employees in brief](for-
