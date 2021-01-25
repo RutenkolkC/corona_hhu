@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Allgemeine
-Informationen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Lehr-
-und Studienbetrieb](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Termine](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#content)[Termine](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450924)[Prüfungen](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450965)[Studienorganisation](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450971)[Services
 der zentralen Einrichtungen](fuer-
-studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450974)[Internationale
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450974)[Allgemeine
+Informationen](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450916)[Lehr-
+und Studienbetrieb](fuer-
+studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450922)[Internationale
 Studierende](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#c450972)[Informationen
 der Fakultäten](fuer-
@@ -100,7 +100,6 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
 
 [letzte Aktualisierungen]
 
-  * Aufgrund der aktuellen Beschlüsse der Landesregierung hat die HHU ihre Regelungen für den Lehr- und Prüfungsbetrieb aktualisiert. Die Details entnehmen Sie bitte den Abschnitten „Lehr- und Studienbetrieb“ sowie „Prüfungen“.
   * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden.
   * Mündliche Prüfungen müssen online stattfinden.
   * Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden.
@@ -113,8 +112,9 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 15.01.2021: Das Wichtigste in Kürze; Lehr- und
-Studienbetrieb; Lernräume auf dem Campus; Prüfungen.
+Letzte Aktualisierungen: 22.01.2021: Prüfungen; Lehr- und Studienbetrieb;
+15.01.2021: Das Wichtigste in Kürze; Lehr- und Studienbetrieb; Lernräume auf
+dem Campus.
 
 ## [ Allgemeine Informationen ](fuer-
 studierende%3FC=M%25253BO%25253DD&cHash=ca17c16273f6cd3ffb533c493b934596.html#)
