@@ -1,14 +1,15 @@
-[Jump to content](for-students.html#content)[Faculty information](for-
+[Jump to content](for-students.html#content)[Course organisation](for-
+students.html#c450965)[Information for international students](for-
+students.html#c450971)[Information for students with disabilities or chronic
+illnesses](for-students.html#c450972)[Services of the central
+institutions](for-students.html#c450973)[Faculty information](for-
 students.html#c450974)[General information](for-students.html#c450916)[Further
 information](for-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Main points for students in
-brief](for-students.html#c438638)[Students](for-students.html#c450915)[Still
-have questions?](for-students.html#c439254)[Main points for students in
-brief](for-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
+students.html#c450922)[Exams](for-students.html#c450924)[Main points for
+students in brief](for-students.html#c438638)[Students](for-
+students.html#c450915)[Still have questions?](for-students.html#c439254)[Main
+points for students in brief](for-students.html#c438637)[Dates &
+Deadlines](for-students.html#c0)
 
   * [DE](../fuer-studierende.html)
   * EN
@@ -81,7 +82,6 @@ Willkommen!
 
 ## Main points for students in brief
 
-  * As a reaction to the NRW state government’s rulings, HHU has adapted its regulations regarding teaching and examinations. For more information, please check the sections „teaching and studying“ and „examinations“.  
   * As a rule, in-person lectures are not allowed. Wherever possible, classes will take place online until the end of the lecture period. Laboratory placements and practical courses can only take place on-campus in exceptional cases and after authorisation by the responsible dean of studies.   
   * Oral exams must take place online.
   * Planned exams and re-scheduled exams may take place in person after authorisation by the responsible dean of studies.  
@@ -91,8 +91,9 @@ Willkommen!
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Last updated: 15 January 2021: main points in brief; teaching and studying;
-studyrooms on campus, examinations
+Last updated: 22 January 2021: examinations; teaching and studying; 15 January
+2021: main points in brief; teaching and studying; study rooms on campus,
+examinations
 
 ## Students
 
@@ -145,7 +146,7 @@ April 2021). 
 
 ## Teaching and studying
 
-[Last updated: 15 January 2021]
+[Last updated: 22 January 2021]
 
 The following framework conditions regarding teaching and studying at HHU will
 be in effect until the end of the lecture period on 12 February 2021.
@@ -155,7 +156,7 @@ continue to be taught online until the end of the lecture period.
 
 Internships/laboratory placements and other practical activities may only then
 take place on campus if alternatives, such as online teaching, re-scheduling
-exams or a different type of stubstitute are not an option. What is more, the
+exams or a different type of substitute are not an option. What is more, the
 lab placement/internship must be a mandatory component of a bachelor’s or
 master’s degree or a mandatory requirement to register for the examination to
 obtain a state examination degree. As a general rule, the minimum distance of
@@ -185,19 +186,20 @@ The study rooms on campus which had been set up to enable participation in
 online classes, remain closed. Students are advised to only come to campus for
 examinations and to attend one of the few in-person classes. 
 
-Persons from administrative districts or towns which have adopted restrictions
-to the freedom of movement may travel to HHU to attend in-person classes,
-internships/lab placements or examinations. 
+Persons from areas that have adopted restrictions to the freedom of movement
+may travel to HHU to attend in-person classes, internships/lab placements or
+examinations. Affected students are asked to please contact the registrar’s
+office ( _[Studierenden- und
+Prüfungsverwaltung](https://www.hhu.de/en/studies/organising-your-
+studies/student-services-centre/student-and-examination-administration)_ ) in
+case of any questions. 
 
 ULB’s service will also be reduced. Please use ULB’s extensive digital
 services. You can only access ULB to pick up pre-requested media or to return
-media. At the moment, this applies to media requested from the stacks, inter-
-library loans, reservations or to picking up media for work-related purposes,
-which you can request in the usual manner. From Firday, 15 January 2021, ULB
-will make available various services to request circulating media from the
-reading room collection. More detailed information will be made available
-successively on ULB’s website ([www.ulb.hhu.de](http://www.ulb.hhu.de)). The
-current regulations do not allow for the use of the non-lending collection.
+media. The use of the non-lending collection is currently not possible.
+However, ULB has set up various services to request circulating media from the
+reading room collection. For more detailed information please check ULB’s
+website ([www.ulb.hhu.de](http://www.ulb.hhu.de)).
 
 At the end of January, the state government will convene next to decide about
 the Covid-19 restrictions at higher education institutions. Once this
@@ -222,7 +224,7 @@ again.
 
 ## Exams
 
-[Last updated: 15 January
+[Last updated: 22 January
 2021]                                                  
 
 #### HHU regulations to specify the Coronavirus Epidemic Higher Education
@@ -248,6 +250,13 @@ that, the exam must be a mandatory component of a bachelor’s or master’s
 examination or a mandatory requirement to register for the examination to
 obtain a state examination degree. In-person exams will take place exclusively
 in lecture theatres or other well-ventilated rooms.
+
+Students from areas that have adopted restrictions to the freedom of movement
+may travel to HHU to attend in-person classes, internships/lab placements or
+examinations. Please contact the registrar’s office ( _[Studierenden- und
+Prüfungsverwaltung](https://www.hhu.de/en/studies/organising-your-
+studies/student-services-centre/student-and-examination-administration)_ ) in
+case of any questions. 
 
 Dates for written examinations set to take place from February, will remain as
 they are for the time being. As nobody can tell what the framework conditions
