@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#content)[Room
+lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#content)[Information
+pages of faculties](for-
+lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452911)[Exams](for-
+lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452908)[Room
 bookings](for-
 lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452909)[Resources
 and assistance for online teaching](for-
-lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452910)[Information
-pages of faculties](for-
-lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452911)[Exams](for-
-lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452908)[Main
+lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452910)[Main
 points for lecturers in brief](for-
 lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c438668)[Lecturers](for-
 lecturers%3FC=M%25253BO%25253DA&cHash=69d93ab1dde8797e8987e5e815472a8a.html#c452917)[Still
