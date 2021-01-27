@@ -1,17 +1,28 @@
-[Jump to content](for-employees.html#content)[Central University
-Administration Information](for-employees.html#c452971)[Support for scientists
-against the background of the coronavirus pandemic](for-
-employees.html#c452972)[General guidelines](for-
-employees.html#c452967)[Regulations for employees with a severe pre-existing
-condition or employees who live in the same household as a person with a
-severe pre-existing condition, in effect from 29 June 2020](for-
-employees.html#c452968)[Working from home and teleworking](for-
-employees.html#c452969)[Business trips](for-
-employees.html#c452970)["Employees" topic group](for-
-employees.html#c438661)[Main points for employees in brief](for-
-employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
-questions?](for-employees.html#c439184)[Main points for employees in
-brief](for-employees.html#c438663)
+[Jump to content](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#content)[Working
+from home and teleworking](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452969)[Business
+trips](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452970)[Central
+University Administration Information](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452971)[Support
+for scientists against the background of the coronavirus pandemic](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452972)[General
+guidelines](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452967)[Regulations
+for employees with a severe pre-existing condition or employees who live in
+the same household as a person with a severe pre-existing condition, in effect
+from 29 June 2020](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452968)["Employees"
+topic group](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c438661)[Main
+points for employees in brief](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c438664)[Employees](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c452977)[Still
+have questions?](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c439184)[Main
+points for employees in brief](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#c438663)
 
   * [DE](../fuer-beschaeftigte.html)
   * EN
@@ -103,7 +114,8 @@ of Düsseldorf University Hospital apply for all topics addressed here.**
 
 ## Employees
 
-## [ General guidelines ](for-employees.html#)
+## [ General guidelines ](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## General guidelines
 
@@ -141,7 +153,8 @@ certificate which they must carry with them at all times. 
 
 ## [ Regulations for employees with a severe pre-existing condition or
 employees who live in the same household as a person with a severe pre-
-existing condition, in effect from 29 June 2020 ](for-employees.html#)
+existing condition, in effect from 29 June 2020 ](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## Regulations for employees with a severe pre-existing condition or employees
 who live in the same household as a person with a severe pre-existing
@@ -170,7 +183,8 @@ mentioned are authorised to define additional requirements in addition to the
 approval of the supervisor. From 29 June on, there will be a new item in the
 FLAZ system „Besonderer Arbeitsort (BAO)“ to reflect this. 
 
-## [ Working from home and teleworking ](for-employees.html#)
+## [ Working from home and teleworking ](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## Working from home and teleworking
 
@@ -190,7 +204,8 @@ information on how to get access to HHU systems (VPN, WebDAV) so you can work
 from home and how to set up video conferences: [ZIM
 Wiki.](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
-## [ Business trips ](for-employees.html#)
+## [ Business trips ](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## Business trips
 
@@ -224,7 +239,8 @@ downloads/formulare-und-informationen-d3/dienstreisen-dienstgaenge-und-
 fortbildungsreisen/aktuelle-informationen-zu-reiseeinschraenkungen-wegen-der-
 coronavirus-epidemie.html).
 
-## [ Central University Administration Information ](for-employees.html#)
+## [ Central University Administration Information ](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## Central University Administration Information
 
@@ -266,7 +282,8 @@ buildings. For all other announcements/bills, HHU’s billposting policy still
 applies.
 
 ## [ Support for scientists against the background of the coronavirus pandemic
-](for-employees.html#)
+](for-
+employees%3FC=S%25253BO%25253DD&cHash=60734983288fcb665c29414bd93f2f2d.html#)
 
 ## Support for scientists against the background of the coronavirus pandemic
 
