@@ -1,13 +1,14 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Dienstreisen](fuer-
-beschaeftigte.html#c452971)[Informationen aus der Zentralen
-Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
-Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
-mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-
+[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Regelungen für
+Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher
+Gemeinschaft mit schwer vorerkrankten Angehörigen leben](fuer-
 beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
 beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
-Hintergrund der Corona-Pandemie](fuer-beschaeftigte.html#c452970) [(Kopie
-4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
+Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte.html#c452970)[Dienstreisen](fuer-
+beschaeftigte.html#c452971)[Informationen aus der Zentralen
+Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
+Schutzhinweise](fuer-beschaeftigte.html#c452967) [(Kopie 4)](fuer-
+beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
 beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
 beschaeftigte.html#c438664)[Beschäftigte](fuer-
 beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
@@ -88,6 +89,14 @@ Corona](../corona.hhu.de/index.html) **für Beschäftigte**
 
 ## Das Wichtigste für Beschäftigte in Kürze
 
+[letzte Aktualisierungen]
+
+  * Aufgrund der Vorgaben der [SARS-CoV-2-Arbeitsschutzverordnung (Corona-ArbSchV) des Bundesarbeitsministeriums vom 21. Januar 2021](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html), die zunächst bis zum 14. März 2021 gilt, sind in den dort aufgeführten Ausnahmefällen (Anforderungen an Raumbelegung können nicht eingehalten werden; Mindestabstand von 1,5 Metern kann nicht eingehalten werden, Tätigkeiten mit Gefährdung durch erhöhten Aerosolaustausch) einfache Mund-Nasen-Bedeckungen nicht ausreichend. Stattdessen sind in diesen Fällen zwingend medizinische Gesichtsmasken oder FFP2-Masken zu tragen. Derartige Masken sind schnell und unbürokratisch im Lyreco-Webshop der HHU erhältlich und können einfach und ohne weitere Prüfung eigenständig aus den Etats der Institute und Einrichtungen erworben werden. Aufgrund der nachdrücklichen Aufforderung zur Erbringung der Arbeitsleistung in Heim- und Telearbeit und der allgemeinen Vorsichts- und Hygienehinweise kann es jedoch nur in absoluten Ausnahmefällen zur Notwendigkeit kommen, medizinische oder FFP2-Masken zu tragen. Den Beschäftigten bleibt es jedoch unbenommen, auch dass aus Universitätsmitteln finanzierte medizinische und FFP2-Masken zu tragen, wenn die zwingenden Gründe aus der einschlägigen Arbeitsschutzverordnung nicht gegeben sind. Für die Beschäftigten der Medizinischen Fakultät und des UKD gelten aufgrund der besonderen Anforderungen der Tätigkeiten im Zusammenhang mit der Krankenversorgung die Regelungen des UKD und der Medizinischen Fakultät.
+
+
+
+
+
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen.
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder bis zum 19. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus für die Aufrechterhaltung des Universitätsbetriebs erforderlich ist, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus in dem erforderlichen Umfang verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Angesichts des aktuellen Infektionsgeschehens sollten alle Beschäftigten die Möglichkeiten des mobilen Arbeitens so weit wie möglich nutzen und ihre Präsenz auf dem Campus auf das wirklich erforderliche Maß reduzieren. Die jeweiligen Fachvorgesetzten haben die Aufgabe, in ihrem jeweiligen Verantwortungsbereich den Dienstbetrieb unter diesen Bedingungen zu organisieren und gleichzeitig die Präsenz auf dem Campus in ihren Teams auf das erforderliche Maß zu reduzieren.
   * Für Beschäftigte mit schweren Vorerkrankungen sowie für Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten Personen leben, besteht unabhängig von den allgemeinen Regelungen unter bestimmten, unten näher erläuterten Bedingungen die Möglichkeit, in Heim- und Telearbeit zu arbeiten.
@@ -95,7 +104,7 @@ Corona](../corona.hhu.de/index.html) **für Beschäftigte**
   * Für Beschäftigte, die aus einem der von der Bundesregierung benannten internationalen Risikogebiete eingereist sind, und für Beschäftigte, die in engem Kontakt mit an dem Corona-Virus erkrankten Personen standen oder noch stehen, gilt ein Betretungsverbot für den Campus, solange von Seiten des Gesundheitsamts oder durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist.
   * Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
   * Die Möglichkeit von Dienstreisen richtet sich nach den Reisewarnungen der Bundesregierung, bis auf Weiteres sind keine Dienstreisen in Risikogebiete zulässig. . Dieses Dienstreiseverbot gilt ebenfalls für kreisfreie Städte und Kreise innerhalb Deutschlands mit einem Inzidenzwert ≥ 50.
-  * Letzte Aktualisierungen: 20.01.202120: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; .
+  * Letzte Aktualisierungen: 27.01.2021: Das Wichtigste für Beschäftigte in Kürze; Generelle Schutzhinweise; .
 
 Vorbemerkung:
 
@@ -108,7 +117,7 @@ angesprochenen Bereiche die Regelungen des Universitätsklinikums Düsseldorf.**
 
 ## Generelle Schutzhinweise
 
-[Update: 27.11.2020]
+[Update: 27.01.2021]
 
 Zum Schutz der individuellen Gesundheit und um weitere Infektionen zu
 vermeiden, ergreift die Heinrich-Heine-Universität die folgenden präventiven
@@ -120,6 +129,8 @@ Krankheitssymptome bereits aufgetreten sind.
 Ausgenommen von dieser Verpflichtung sind Personen, die aus medizinischen
 Gründen keine Mund-Nasen-Bedeckung tragen können. Dies ist durch ein
 ärztliches Attest nachzuweisen, das immer bei sich zu tragen ist.
+
+  * Aufgrund der Vorgaben der [SARS-CoV-2-Arbeitsschutzverordnung (Corona-ArbSchV) des Bundesarbeitsministeriums vom 21. Januar 2021](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html), die zunächst bis zum 14. März 2021 gilt, sind in den dort aufgeführten Ausnahmefällen (Anforderungen an Raumbelegung können nicht eingehalten werden; Mindestabstand von 1,5 Metern kann nicht eingehalten werden, Tätigkeiten mit Gefährdung durch erhöhten Aerosolaustausch) einfache Mund-Nasen-Bedeckungen nicht ausreichend. Stattdessen sind in diesen Fällen zwingend medizinische Gesichtsmasken oder FFP2-Masken zu tragen. Derartige Masken sind schnell und unbürokratisch im Lyreco-Webshop der HHU erhältlich und können einfach und ohne weitere Prüfung eigenständig aus den Etats der Institute und Einrichtungen erworben werden. Aufgrund der nachdrücklichen Aufforderung zur Erbringung der Arbeitsleistung in Heim- und Telearbeit und der allgemeinen Vorsichts- und Hygienehinweise kann es jedoch nur in absoluten Ausnahmefällen zur Notwendigkeit kommen, medizinische oder FFP2-Masken zu tragen. Den Beschäftigten bleibt es jedoch unbenommen, auch dass aus Universitätsmitteln finanzierte medizinische und FFP2-Masken zu tragen, wenn die zwingenden Gründe aus der einschlägigen Arbeitsschutzverordnung nicht gegeben sind. Für die Beschäftigten der Medizinischen Fakultät und des UKD gelten aufgrund der besonderen Anforderungen der Tätigkeiten im Zusammenhang mit der Krankenversorgung die Regelungen des UKD und der Medizinischen Fakultät.
 
   1. Beschäftigte, bei denen eine Infektion mit SARS-CoV-2 besteht, dürfen die Heinrich-Heine-Universität nicht betreten (Gelände und Gebäude), bis nachgewiesen ist, dass die Erkrankung ausgeheilt bzw. nicht mehr ansteckend ist.
   2. Umfangreiche Hinweise zum Umgang mit Verdachts- und Kontaktfällen finden sich [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html) auf dieser Corona-Website.
