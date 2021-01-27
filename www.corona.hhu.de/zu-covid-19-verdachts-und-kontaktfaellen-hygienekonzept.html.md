@@ -1,8 +1,5 @@
 [Zum Inhalt springen](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#content)[Woran erkennt man eine Erkrankung?](zu-
-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
-man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453060)[Was ist zu tun, wenn man sich krank fühlt?](zu-
+hygienekonzept.html#content)[Was ist zu tun, wenn man sich krank fühlt?](zu-
 covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453061)[Was ist zu
 tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
 Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
@@ -13,7 +10,10 @@ covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066)[Coronavirus
 / SARS-CoV-2 / COVID-19](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453058)[Plakate „Allgemeine Hygienemaßnahmen“,
 „Maskenpflicht“ und „Lüften“](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html#c453067)[Welche Personen gehören zu besonderen
+hygienekonzept.html#c453067)[Woran erkennt man eine Erkrankung?](zu-
+covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453059)[Wie kann
+man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept.html#c453060)[Welche Personen gehören zu besonderen
 Risikogruppen?](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html#c453063)[Informationsvideos zum Coronavirus](zu-
 covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453065) [(Kopie

@@ -1,13 +1,13 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#content)[Gremienarbeit](zum-
-universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453005)[Veranstaltungen,
-Tagungen, Workshops](zum-
-universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453007)[Videokonferenzen
+universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#content)[Videokonferenzen
 und Online-Lehre](zum-
 universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453008)[Hacker
 nutzen Corona-Angst aus](zum-
-universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453009)
+universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453009)[Gremienarbeit](zum-
+universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453005)[Veranstaltungen,
+Tagungen, Workshops](zum-
+universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453006)[Gebäudeschließungen](zum-
+universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453007)
 [(Kopie 3)](zum-
 universitaetsbetrieb%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c452578)[Informationen
 zum Universitätsbetrieb](zum-
@@ -68,7 +68,7 @@ Willkommen!
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU-Informationen zu Corona
 
@@ -259,9 +259,9 @@ Verantwortlichkeit:
   * [Notfall](https://www.hhu.de/notfall-1)
   * [ Presse](https://www.hhu.de/die-hhu/presse-und-marketing/presse-ansprechpartner/innen)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 

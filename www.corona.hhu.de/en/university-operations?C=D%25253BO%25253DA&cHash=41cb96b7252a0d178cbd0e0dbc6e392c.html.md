@@ -1,7 +1,5 @@
 [Jump to content](university-
-operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#content)[Events,
-conferences, workshops](university-
-operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453006)[Closure
+operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#content)[Closure
 of buildings](university-
 operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453007)[Video
 conferences and online teaching](university-
@@ -9,7 +7,9 @@ operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html
 Hackers exploit fear of coronavirus!](university-
 operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453009)[Committee
 work](university-
-operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453005)[Information
+operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453005)[Events,
+conferences, workshops](university-
+operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c453006)[Information
 on University operations](university-
 operations%3FC=D%2525253BO%2525253DA&cHash=41cb96b7252a0d178cbd0e0dbc6e392c.html#c438674)[Main
 points for university operations in brief](university-
@@ -69,7 +69,7 @@ Willkommen!
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
   * HHU information on coronavirus
 
@@ -299,9 +299,9 @@ Responsible for the content:
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
-© 2020 Heinrich-Heine-Universität Düsseldorf
+© 2021 Heinrich-Heine-Universität Düsseldorf
 
-© 2020
+© 2021
 
 Heinrich-Heine-Universität Düsseldorf
 
