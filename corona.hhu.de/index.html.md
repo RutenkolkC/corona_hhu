@@ -79,10 +79,11 @@ Willkommen!
 
 [letzte Aktualisierungen]
 
+  * Aufgrund der Vorgaben der [SARS-CoV-2-Arbeitsschutzverordnung des Bundesarbeitsministeriums vom 21. Januar 2021](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html), die zunächst bis zum 14. März 2021 gilt, sind in den dort aufgeführten Ausnahmefällen (Anforderungen an Raumbelegung; Mindestabstand nicht einhaltbar; Gefährdung durch erhöhten Aerosolaustausch) einfache Mund-Nasen-Bedeckungen nicht ausreichend. Stattdessen sind dann zwingend medizinische Gesichtsmasken oder FFP2-Masken zu tragen. Derartige Masken sind im Lyreco-Webshop der HHU erhältlich. Aufgrund der nachdrücklichen Aufforderung zur Heim- und Telearbeit und der allgemeinen Vorsichts- und Hygienehinweise kann es jedoch nur in absoluten Ausnahmefällen zur Notwendigkeit kommen, medizinische oder FFP2-Masken zu tragen. Für die Beschäftigten der Medizinischen Fakultät und des UKD gelten aufgrund der besonderen Anforderungen der Tätigkeiten im Zusammenhang mit der Krankenversorgung die Regelungen des UKD und der Medizinischen Fakultät.
+
+
+
   * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder bis zum 19. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus für die Aufrechterhaltung des Universitätsbetriebs erforderlich ist, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus in dem erforderlichen Umfang verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Angesichts des aktuellen Infektionsgeschehens sollten alle Beschäftigten die Möglichkeiten des mobilen Arbeitens so weit wie möglich nutzen und ihre Präsenz auf dem Campus auf das wirklich erforderliche Maß reduzieren. Die jeweiligen Fachvorgesetzten haben die Aufgabe in ihrem jeweiligen Verantwortungsbereich den Dienstbetrieb unter diesen Bedingungen zu organisieren und gleichzeitig die Präsenz auf dem Campus in ihren Teams auf das erforderliche Maß zu reduzieren.
-
-
-
   * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden bis zum Vorlesungsende weitgehend digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden. Informationen finden Sie auf den Webseiten für Studierende und Lehrende.
   * Mündliche Prüfungen müssen online stattfinden. Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und -vorbereitende Labortätigkeiten bereits begonnen wurden und dies mit der/dem Betreuer*in abgestimmt ist.
   * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
@@ -96,7 +97,7 @@ Willkommen!
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 22.01.2021]
+[Letztes Update: 27.01.2021]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
