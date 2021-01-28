@@ -1,12 +1,12 @@
-[Jump to content](for-employees.html#content)[Business trips](for-
-employees.html#c452970)[Central University Administration Information](for-
-employees.html#c452971)[Support for scientists against the background of the
-coronavirus pandemic](for-employees.html#c452972)[General guidelines](for-
+[Jump to content](for-employees.html#content)[General guidelines](for-
 employees.html#c452967)[Regulations for employees with a severe pre-existing
 condition or employees who live in the same household as a person with a
 severe pre-existing condition, in effect from 29 June 2020](for-
 employees.html#c452968)[Working from home and teleworking](for-
-employees.html#c452969)["Employees" topic group](for-
+employees.html#c452969)[Business trips](for-employees.html#c452970)[Central
+University Administration Information](for-employees.html#c452971)[Support for
+scientists against the background of the coronavirus pandemic](for-
+employees.html#c452972)["Employees" topic group](for-
 employees.html#c438661)[Main points for employees in brief](for-
 employees.html#c438664)[Employees](for-employees.html#c452977)[Still have
 questions?](for-employees.html#c439184)[Main points for employees in
@@ -85,6 +85,7 @@ Willkommen!
 
 ## Main points for employees in brief
 
+  * On the basis of the [SARS-CoV-2-Occupational Health and Safety Ordinance guidelines](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html) passed by the German Ministry of Labour on 21 January 2021, which will be in force until 14 March for the time being, simple face coverings are not sufficient in case of the exceptions specified there (requirements regarding room occupation cannot be maintained; minimum distance of 1.5m cannot be maintained; jobs with health hazards caused by increased exchange of aerosols). Instead, it is mandatory to wear medical face masks or FFP2 masks in these cases. These masks can be obtained quickly and unbureaucratically via HHU’s Lyreco web shop and can be paid out of the institutes’ and institutions’ budget without any prior review. However, employees are, of course, at liberty to wear medical or FFP2 masks paid out of the University’s budget even when where there are no compelling reasons as the ones stated in the relevant occupational health and safety ordinance. Owing to the specific requirements of their work in connection with patient care, UKD and Faculty of Medicine regulations apply for Faculty of Medicine and UKD employees.   
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separated by (acrylic) glass) can be maintained there.
   * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended until 19 February 2021 in the light of the relevant rulings by the Federal Government. Persons whose physical presence on campus is essential to maintain operations continue to be obliged to come to campus to the extent that is necessary. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. In light of the latest rates of new infections, all employees should make use of the option to work from homes as much as possible and reduce their presence on campus to the extent that is really necessary. The responsible supervisors are tasked to organise operations in their respective area of responsibility under these conditions and at the same time reduce presence on campus of their team to the required amount. 
   * For employees with a severe pre-existing condition as well as for employees who live in the same household as a person with a severe pre-existing condition it is under certain conditions which will be explained below, possible to work from home/perform telework irrespective of the relevant service agreement.
@@ -106,7 +107,7 @@ of Düsseldorf University Hospital apply for all topics addressed here.**
 
 ## General guidelines
 
-[Updated on: 27 November 2020]
+[Updated on: 27 January 2021]
 
 To protect your own health and to avoid further infections, Heinrich Heine
 University is taking the following preventive measures. These measures apply
@@ -132,6 +133,23 @@ e.g. in areas at UKD where patients are treated must be observed.
 Persons who cannot wear a face covering for medical reasons are exempt from
 this obligation if they are in possession of an appropriate medical
 certificate which they must carry with them at all times. 
+
+On the basis of the [SARS-CoV-2-Occupational Health and Safety Ordinance
+guidelines](http://http://) passed by the German Ministry of Labour on 21
+January 2021, which will be in force until 14 March for the time being, simple
+face coverings are not sufficient in case of the exceptions specified there
+(requirements regarding room occupation cannot be maintained; minimum distance
+of 1.5m cannot be maintained; jobs with health hazards caused by increased
+exchange of aerosols). Instead, it is mandatory to wear medical face masks or
+FFP2 masks in these cases. These masks can be obtained quickly and
+unbureaucratically via HHU’s Lyreco web shop and can be paid out of the
+institutes’ and institutions’ budget without any prior review. However,
+employees are, of course, at liberty to wear medical or FFP2 masks paid out of
+the University’s budget even when where there are no compelling reasons as the
+ones stated in the relevant occupational health and safety ordinance. Owing to
+the specific requirements of their work in connection with patient care, UKD
+and Faculty of Medicine regulations apply for Faculty of Medicine and UKD
+employees.
 
   1. Employees with an active SARS-CoV-2 infection must not enter Heinrich Heine University (buildings or grounds) until they can prove that they are no longer infected and/or no longer infectious.
   2. Check the following link on the corona website for information about what to do in case of suspected infections and personal contact with infected persons: [www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen](https://www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen).
