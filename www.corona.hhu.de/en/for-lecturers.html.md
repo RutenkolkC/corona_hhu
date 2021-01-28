@@ -1,8 +1,8 @@
-[Jump to content](for-lecturers.html#content)[Room bookings](for-
-lecturers.html#c452909)[Resources and assistance for online teaching](for-
-lecturers.html#c452910)[Information pages of faculties](for-
-lecturers.html#c452911)[Exams](for-lecturers.html#c452908)[Main points for
-lecturers in brief](for-lecturers.html#c438668)[Lecturers](for-
+[Jump to content](for-lecturers.html#content)[Exams](for-
+lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
+and assistance for online teaching](for-lecturers.html#c452910)[Information
+pages of faculties](for-lecturers.html#c452911)[Main points for lecturers in
+brief](for-lecturers.html#c438668)[Lecturers](for-
 lecturers.html#c452917)[Still have questions?](for-
 lecturers.html#c439228)[Main points for lecturers in brief](for-
 lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
@@ -243,9 +243,7 @@ check whether an alternative format, one that does not require on-campus
 presence, is an option.
 
 Should you wish to conduct an examination in the form of an online written
-examination [you can find a number tips and suggestions here in this
-guide](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
-durchfuehrung-von-online-klausuren).
+examination you can find a number tips and suggestions here in this guide.
 
 Exam viewings should take place online, if possible. As a rule, in-person exam
 viewings are only possible for students who failed their examinations. They
@@ -258,9 +256,8 @@ lecture theatres.
 Oral exams must take place online. This also applies to doctoral defences.
 Details will be managed by the faculties. 
 
-Please [see this guide for information on how to conduct online video
-examinations](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
-durchfuehrung-von-online-videopruefungen).
+Please see this guide for information on how to conduct online video
+examinations.
 
 #### Final theses and projects
 
