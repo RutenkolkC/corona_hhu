@@ -3,9 +3,8 @@ Corona](index.html#c438623)[Das Wichtigste in
 Kürze](index.html#c438625)[Aktuelle Informationen. Bitte wählen Sie
 aus:](index.html#c438626)[Layout](index.html#c438630)[Layout](index.html#c438636)[Das
 Wichtigste in
-Kürze](index.html#c438624)[Studierende](index.html#c450914)[Lehrende](index.html#c452734)[Forschung](index.html#c452752)[Universitätsbetrieb](index.html#c452848)[COVID-19
-Verdachts- und Kontaktfälle
-Hygienekonzept](index.html#c452849)[Beschäftigte](index.html#c452753)
+Kürze](index.html#c438624)[Studierende](index.html#c450914)[Lehrende](index.html#c452734)[Beschäftigte](index.html#c551073)[Forschung](index.html#c551084)[Universitätsbetrieb](index.html#c551079)[COVID-19
+Verdachts- und Kontaktfälle Hygienekonzept](index.html#c551076)
 
   * DE
   * [EN](../www.corona.hhu.de/en/index.html)
@@ -31,8 +30,8 @@ Willkommen!
     * [Informationen ...](index.html)
     * [für Studierende](../www.corona.hhu.de/fuer-studierende.html)
     * [für Lehrende](../www.corona.hhu.de/fuer-lehrende.html)
-    * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
+    * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -64,8 +63,8 @@ Willkommen!
     * [Informationen ...](index.html)
     * [für Studierende](../www.corona.hhu.de/fuer-studierende.html)
     * [für Lehrende](../www.corona.hhu.de/fuer-lehrende.html)
-    * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [für Beschäftigte](../www.corona.hhu.de/fuer-beschaeftigte.html)
+    * [zur Forschung](../www.corona.hhu.de/zur-forschung.html)
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -123,6 +122,12 @@ Willkommen!
 
 [
 
+## Beschäftigte
+
+](../www.corona.hhu.de/fuer-beschaeftigte.html "Teaserlink")
+
+[
+
 ## Forschung
 
 ](../www.corona.hhu.de/zur-forschung.html "Teaserlink")
@@ -139,12 +144,6 @@ Willkommen!
 
 ](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept.html "Teaserlink")
-
-[
-
-## Beschäftigte
-
-](../www.corona.hhu.de/fuer-beschaeftigte.html "Teaserlink")
 
 Verantwortlichkeit:
 
