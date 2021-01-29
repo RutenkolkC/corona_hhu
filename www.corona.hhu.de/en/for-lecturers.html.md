@@ -1,11 +1,10 @@
-[Jump to content](for-lecturers.html#content)[Exams](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
-and assistance for online teaching](for-lecturers.html#c452910)[Information
-pages of faculties](for-lecturers.html#c452911)[Main points for lecturers in
-brief](for-lecturers.html#c438668)[Lecturers](for-
-lecturers.html#c452917)[Still have questions?](for-
-lecturers.html#c439228)[Main points for lecturers in brief](for-
-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
+[Jump to content](for-lecturers.html#content)[Information pages of
+faculties](for-lecturers.html#c452911)[Exams](for-lecturers.html#c452908)[Room
+bookings](for-lecturers.html#c452909)[Resources and assistance for online
+teaching](for-lecturers.html#c452910)[Main points for lecturers in brief](for-
+lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
+questions?](for-lecturers.html#c439228)[Main points for lecturers in
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
@@ -31,8 +30,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -64,8 +63,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
