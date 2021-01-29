@@ -1,18 +1,28 @@
-[Zum Inhalt springen](fuer-beschaeftigte.html#content)[Dienstreisen](fuer-
-beschaeftigte.html#c452971)[Informationen aus der Zentralen
-Universitätsverwaltung (ZUV)](fuer-beschaeftigte.html#c452972)[Generelle
-Schutzhinweise](fuer-beschaeftigte.html#c452967)[Regelungen für Beschäftigte
-mit schweren Vorerkrankungen oder Beschäftigte, die in häuslicher Gemeinschaft
-mit schwer vorerkrankten Angehörigen leben](fuer-
-beschaeftigte.html#c452968)[Heim- und Telearbeit / Arbeitszeitkonten](fuer-
-beschaeftigte.html#c452969)[Erleichterungen für Wissenschaftler/innen vor dem
-Hintergrund der Corona-Pandemie](fuer-beschaeftigte.html#c452970) [(Kopie
-4)](fuer-beschaeftigte.html#c452577)[Informationen für Beschäftigte](fuer-
-beschaeftigte.html#c438661)[Das Wichtigste für Beschäftigte in Kürze](fuer-
-beschaeftigte.html#c438664)[Beschäftigte](fuer-
-beschaeftigte.html#c452977)[Noch unbeantwortete Fragen?](fuer-
-beschaeftigte.html#c439184)[Das Wichtigste für Beschäftigte in Kürze](fuer-
-beschaeftigte.html#c438663)
+[Zum Inhalt springen](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#content)[Informationen
+aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452972)[Generelle
+Schutzhinweise](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452967)[Regelungen
+für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in
+häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452968)[Heim-
+und Telearbeit / Arbeitszeitkonten](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452969)[Erleichterungen
+für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452970)[Dienstreisen](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452971)
+[(Kopie 4)](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452577)[Informationen
+für Beschäftigte](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c438661)[Das
+Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c438664)[Beschäftigte](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452977)[Noch
+unbeantwortete Fragen?](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c439184)[Das
+Wichtigste für Beschäftigte in Kürze](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c438663)
 
   * DE
   * [EN](en/for-employees.html)
@@ -112,7 +122,8 @@ angesprochenen Bereiche die Regelungen des Universitätsklinikums Düsseldorf.**
 
 ## Beschäftigte
 
-## [ Generelle Schutzhinweise ](fuer-beschaeftigte.html#)
+## [ Generelle Schutzhinweise ](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Generelle Schutzhinweise
 
@@ -142,7 +153,8 @@ verpflichtet, diesen Sachverhalt unverzüglich dem Dezernat 3
 
 ## [ Regelungen für Beschäftigte mit schweren Vorerkrankungen oder
 Beschäftigte, die in häuslicher Gemeinschaft mit schwer vorerkrankten
-Angehörigen leben ](fuer-beschaeftigte.html#)
+Angehörigen leben ](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Regelungen für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte,
 die in häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben
@@ -171,7 +183,8 @@ der/des Fachvorgesetzten weitere Voraussetzungen zu definieren. Im
 Zeiterfassungssystem steht für diesen Sachverhalt ab dem 29. Juni 2020 der
 Buchungsgrund „Besonderer Arbeitsort (BAO) zur Verfügung.
 
-## [ Heim- und Telearbeit / Arbeitszeitkonten ](fuer-beschaeftigte.html#)
+## [ Heim- und Telearbeit / Arbeitszeitkonten ](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Heim- und Telearbeit / Arbeitszeitkonten
 
@@ -198,7 +211,8 @@ Telearbeitsmöglichkeiten (VPN, WebDAV) und für Videokonferenzen beschrieben
 werden: [zum Wiki](https://wiki.hhu.de/pages/viewpage.action?pageId=155157366)
 
 ## [ Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-
-Pandemie ](fuer-beschaeftigte.html#)
+Pandemie ](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-
 Pandemie
@@ -230,7 +244,8 @@ eingereicht werden.
   * Die HHU eröffnet ausdrücklich die Möglichkeit, von der Regelung in § 4 Abs. 6 der Lehrverpflichtungsverordnung Gebrauch zu machen, die Erstellung und Betreuung von Multimediaangeboten sowie von virtuell durchgeführten Lehrveranstaltungen mit bis zu 25 Prozent auf die Lehrverpflichtung anzurechnen. Voraussetzung hierfür ist, dass die Vollständigkeit des Lehrangebots im jeweiligen Fach, für die der Dekan die Verantwortung trägt, gesichert ist.
   * Download PDF: [ Merkblatt zu Erleichterungen für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Erleichterungen_Wissenschaft_2020-09-28.pdf)
 
-## [ Dienstreisen ](fuer-beschaeftigte.html#)
+## [ Dienstreisen ](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Dienstreisen
 
@@ -262,7 +277,7 @@ downloads/dienstreisen-dienstgaenge-und-fortbildungsreisen/aktuelle-
 informationen-zu-reiseeinschraenkungen-wegen-der-coronavirus-epidemie).
 
 ## [ Informationen aus der Zentralen Universitätsverwaltung (ZUV) ](fuer-
-beschaeftigte.html#)
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#)
 
 ## Informationen aus der Zentralen Universitätsverwaltung (ZUV)
 
