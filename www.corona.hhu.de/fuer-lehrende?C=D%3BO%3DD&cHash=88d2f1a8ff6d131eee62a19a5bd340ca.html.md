@@ -1,5 +1,6 @@
 [Zum Inhalt springen](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#content)[Informationsseiten
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#content)[Raumbuchungen](fuer-
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452911)[Informationsseiten
 der Fakultäten](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452912)[Lehr-
 und Studienbetrieb](fuer-
@@ -7,8 +8,7 @@ lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452907)[
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452908)[Prüfungen](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452909)[Hilfestellungen
 für die digitale Lehre](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452910)[Raumbuchungen](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452911)[Das
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452910)[Das
 Wichtigste für Lehrende in Kürze](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c438668)[Lehrende](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452917)[Noch
@@ -42,8 +42,8 @@ Willkommen!
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -76,8 +76,8 @@ Corona](../corona.hhu.de/index.html)
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 

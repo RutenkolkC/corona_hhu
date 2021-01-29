@@ -40,8 +40,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -73,8 +73,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
