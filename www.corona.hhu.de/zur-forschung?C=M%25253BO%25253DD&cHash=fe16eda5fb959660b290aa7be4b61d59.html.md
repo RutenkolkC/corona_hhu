@@ -1,7 +1,5 @@
 [Zum Inhalt springen](zur-
-forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#content)[Hinweise
-für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452943)[Informationen
+forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#content)[Informationen
 für Promovierende, Promotionsbetreuende, Postdocs, Nachwuchsgruppenleitungen
 und Juniorprofessuren](zur-
 forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452944)[Kongressreisen
@@ -10,7 +8,9 @@ forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#
 unter COVID-19-Bedingungen](zur-
 forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452941)[Corona-
 Informationen der Förderorganisationen](zur-
-forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452942)
+forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452942)[Hinweise
+für internationale Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
+forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452943)
 [(Kopie 3)](zur-
 forschung%3FC=M%2525253BO%2525253DD&cHash=fe16eda5fb959660b290aa7be4b61d59.html#c452576)[Informationen
 zur Forschung](zur-

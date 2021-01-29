@@ -1,13 +1,5 @@
 [Zum Inhalt springen](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#content)[Wie
-kann man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453060)[Was
-ist zu tun, wenn man sich krank fühlt?](zu-covid-19-verdachts-und-
-kontaktfaellen-
-hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453061)[Was
-ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
-Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453062)[Wichtige
+hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#content)[Wichtige
 Telefonnnummern und Kontaktadressen](zu-covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453064)[Hygienekonzept
 / Schutzmaßnahmen der HHU](zu-covid-19-verdachts-und-kontaktfaellen-
@@ -18,7 +10,15 @@ hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f252
 covid-19-verdachts-und-kontaktfaellen-
 hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453067)[Woran
 erkennt man eine Erkrankung?](zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453059)[Welche
+hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453059)[Wie
+kann man sich schützen?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453060)[Was
+ist zu tun, wenn man sich krank fühlt?](zu-covid-19-verdachts-und-
+kontaktfaellen-
+hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453061)[Was
+ist zu tun, wenn ich in Kontakt stand mit einer infizierten Person oder einem
+Verdachtsfall?](zu-covid-19-verdachts-und-kontaktfaellen-
+hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453062)[Welche
 Personen gehören zu besonderen Risikogruppen?](zu-covid-19-verdachts-und-
 kontaktfaellen-
 hygienekonzept%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453063)[Informationsvideos

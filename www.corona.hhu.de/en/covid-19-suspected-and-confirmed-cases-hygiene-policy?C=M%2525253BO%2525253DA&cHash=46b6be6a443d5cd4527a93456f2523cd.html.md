@@ -1,13 +1,5 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#content)[How
-can we protect ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453060)[What
-should I do if I feel ill?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453061)[What
-should I do if I had contact with an infected person or a person who is
-suspected to have contracted COVID-19?](covid-19-suspected-and-confirmed-
-cases-hygiene-
-policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453062)[Important
+policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#content)[Important
 telephone numbers and addresses](covid-19-suspected-and-confirmed-cases-
 hygiene-
 policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453064)[Hygiene
@@ -20,7 +12,15 @@ policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html
 / SARS-CoV-2 / COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
 policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453058)[How
 do you recognise the disease?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453059)[Who
+policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453059)[How
+can we protect ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453060)[What
+should I do if I feel ill?](covid-19-suspected-and-confirmed-cases-hygiene-
+policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453061)[What
+should I do if I had contact with an infected person or a person who is
+suspected to have contracted COVID-19?](covid-19-suspected-and-confirmed-
+cases-hygiene-
+policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453062)[Who
 is most at risk?](covid-19-suspected-and-confirmed-cases-hygiene-
 policy%3FC=M%252525253BO%252525253DA&cHash=46b6be6a443d5cd4527a93456f2523cd.html#c453063)[HHU
 coronavirus information videos](covid-19-suspected-and-confirmed-cases-
