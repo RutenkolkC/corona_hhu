@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#content)[Raumbuchungen](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452911)[Informationsseiten
-der Fakultäten](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452912)[Lehr-
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#content)[Lehr-
 und Studienbetrieb](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452907)[Termine](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452908)[Prüfungen](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452909)[Hilfestellungen
 für die digitale Lehre](fuer-
-lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452910)[Das
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452910)[Raumbuchungen](fuer-
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452911)[Informationsseiten
+der Fakultäten](fuer-
+lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452912)[Das
 Wichtigste für Lehrende in Kürze](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c438668)[Lehrende](fuer-
 lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#c452917)[Noch
@@ -103,9 +103,9 @@ Corona](../corona.hhu.de/index.html) **für Lehrende**
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 22.01.2021: Lehr- und Studienbetrieb; Prüfungen;
-15.01.2021: Das Wichtigste in Kürze; Rückverfolgbarkeit; Hilfestellungen für
-den digitalen Lehrbetrieb.
+Letzte Aktualisierungen: 29.01.2021: Prüfungen; 22.01.2021: Lehr- und
+Studienbetrieb; 15.01.2021: Das Wichtigste in Kürze; Rückverfolgbarkeit;
+Hilfestellungen für den digitalen Lehrbetrieb.
 
 ## Lehrende
 
@@ -235,7 +235,7 @@ lehrende%3FC=D%253BO%253DD&cHash=88d2f1a8ff6d131eee62a19a5bd340ca.html#)
 
 ## Prüfungen
 
-[Update: 22.01.2021]
+[Update: 29.01.2021]
 
 #### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
 Hochschulverordnung
@@ -274,8 +274,8 @@ inwiefern eine bisher in Präsenz geplante Prüfung durch andere Formate ohne
 Präsenz durchgeführt werden kann.
 
 Sollten Sie eine Prüfung als Online-Klausur durchführen wollen, finden Sie [in
-diesem Leitfaden](https://www.philo.hhu.de/studium-nd-lehre/lehre/leitfaden-
-zur-durchfuehrung-von-online-klausuren.html) einige Hinweise und Anregungen.
+diesem Leitfaden](https://www.philo.hhu.de/schon-da/lehrende/leitfaden-online-
+klausuren) einige Hinweise und Anregungen.
 
 Klausureinsichten sind nach Möglichkeit online durchzuführen. Eine
 Klausureinsicht in Präsenz ist in der Regel nur für Studierende zulässig, die
@@ -290,8 +290,8 @@ Mündliche Prüfungen müssen online stattfinden. Dies gilt auch für die
 Promotionsprüfungen. Details werden hierbei durch die Fakultäten geregelt.
 
 Hinweise zur Durchführung von Online-Videoprüfungen haben wir Ihnen [in einem
-Leitfaden](https://www.philo.hhu.de/studium-und-lehre/lehre/leitfaden-zur-
-durchfuehrung-von-online-videopruefungen.html) zusammengestellt.
+Leitfaden](https://www.philo.hhu.de/schon-da/lehrende/leitfaden-online-
+videopruefungen) zusammengestellt.
 
 #### Abschlussarbeiten
 
