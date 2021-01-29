@@ -3,9 +3,7 @@ information on coronavirus](index.html#c438623)[Main points in
 brief](index.html#c438625)[Current information. Please choose
 from:](index.html#c438626)[Layout](index.html#c438630)[Layout](index.html#c438636)[Main
 points in
-brief](index.html#c438624)[Students](index.html#c450914)[Lecturers](index.html#c452734)[Research](index.html#c452752)[University
-operations](index.html#c452848)[COVID-19 Suspected and confirmed cases Hygiene
-policy](index.html#c452849)[Employees](index.html#c452753)
+brief](index.html#c438624)[Students](index.html#c450914)[Lecturers](index.html#c452734)
 
   * [DE](../../corona.hhu.de/index.html)
   * EN
@@ -31,8 +29,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -64,8 +62,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -115,39 +113,6 @@ Willkommen!
 ## Lecturers
 
 ](for-lecturers.html "Teaserlink")
-
-[
-
-## Research
-
-](research.html "Teaserlink")
-
-[
-
-## University operations
-
-
-
-
-
-
-
-
-
-](university-operations.html "Teaserlink")
-
-[
-
-## COVID-19 Suspected and confirmed cases Hygiene policy
-
-](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-
-policy "Teaserlink")
-
-[
-
-## Employees
-
-](for-employees.html "Teaserlink")
 
 Responsible for the content:
 
