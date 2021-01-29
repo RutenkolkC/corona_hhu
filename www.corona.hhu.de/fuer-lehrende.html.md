@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
 lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
 für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Das Wichtigste für Lehrende in Kürze](fuer-
+lehrende.html#c452912)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
 Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
@@ -33,8 +33,8 @@ Willkommen!
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -67,8 +67,8 @@ Corona](../corona.hhu.de/index.html)
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 

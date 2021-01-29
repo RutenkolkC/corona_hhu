@@ -4,10 +4,10 @@ studierende.html#c450922)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Informationen der Fakultäten](fuer-
+studierende.html#c450974)[Internationale Studierende](fuer-
+studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Das Wichtigste für
 Studierende in Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete
 Fragen?](fuer-studierende.html#c439254)[Das Wichtigste für Studierende in
@@ -38,8 +38,8 @@ Willkommen!
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -72,8 +72,8 @@ Corona](../corona.hhu.de/index.html)
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
