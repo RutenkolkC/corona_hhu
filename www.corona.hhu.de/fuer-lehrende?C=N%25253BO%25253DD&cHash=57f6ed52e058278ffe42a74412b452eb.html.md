@@ -1,13 +1,22 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
-Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Das Wichtigste für Lehrende in Kürze](fuer-
-lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
-unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
-Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
-lehrende.html#c520798)
+[Zum Inhalt springen](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#content)[Lehr-
+und Studienbetrieb](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452907)[Termine](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452908)[Prüfungen](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452910)[Raumbuchungen](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452911)[Informationsseiten
+der Fakultäten](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452912)[Das
+Wichtigste für Lehrende in Kürze](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c438668)[Lehrende](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452917)[Noch
+unbeantwortete Fragen?](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c439228)[Das
+Wichtigste für Lehrende in Kürze](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c438667)[Rückverfolgbarkeit](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c520798)
 
   * DE
   * [EN](en/for-lecturers.html)
@@ -100,7 +109,8 @@ Hilfestellungen für den digitalen Lehrbetrieb.
 
 ## Lehrende
 
-## [ Termine ](fuer-lehrende.html#)
+## [ Termine ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Termine
 
@@ -116,7 +126,8 @@ Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
 22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
 bis 5. April 2021).
 
-## [ Lehr- und Studienbetrieb ](fuer-lehrende.html#)
+## [ Lehr- und Studienbetrieb ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Lehr- und Studienbetrieb
 
@@ -201,7 +212,8 @@ Lehre wird sich dann wieder umgehend mit deren Umsetzung an der HHU befassen
 und Sie bis spätestens 5. Februar darüber informieren, wie der
 Hochschulbetrieb an der HHU fortgeführt wird.
 
-## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
+## [ Rückverfolgbarkeit ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Rückverfolgbarkeit
 
@@ -218,7 +230,8 @@ und in [
 englischer](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf)
 Sprache.
 
-## [ Prüfungen ](fuer-lehrende.html#)
+## [ Prüfungen ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Prüfungen
 
@@ -289,7 +302,8 @@ mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 
-## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
+## [ Hilfestellungen für die digitale Lehre ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Hilfestellungen für die digitale Lehre
 
@@ -330,7 +344,8 @@ zum-urheberrecht) sowie auf der [Webseite der Stabsstelle
 Datenschutz](https://www.hhu.de/die-hhu/organisation-und-gremien/die-zentrale-
 universitaetsverwaltung-zuv/stabsstellen-der-hhu/stabsstelle-datenschutz).
 
-## [ Raumbuchungen ](fuer-lehrende.html#)
+## [ Raumbuchungen ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Raumbuchungen
 
@@ -340,7 +355,8 @@ Raumbuchungen in zentral verwalteten Räumen werden bis auf Weiteres zentral
 koordiniert und können nur in Absprache mit den Studiendekanaten oder dem
 Raumbuchungsmanagement durchgeführt werden.
 
-## [ Informationsseiten der Fakultäten ](fuer-lehrende.html#)
+## [ Informationsseiten der Fakultäten ](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#)
 
 ## Informationsseiten der Fakultäten
 

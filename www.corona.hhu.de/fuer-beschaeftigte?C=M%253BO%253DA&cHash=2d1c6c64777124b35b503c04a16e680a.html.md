@@ -1,17 +1,17 @@
 [Zum Inhalt springen](fuer-
-beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#content)[Erleichterungen
-für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
-beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452970)[Dienstreisen](fuer-
-beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452971)[Informationen
-aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
-beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452972)[Generelle
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#content)[Generelle
 Schutzhinweise](fuer-
 beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452967)[Regelungen
 für Beschäftigte mit schweren Vorerkrankungen oder Beschäftigte, die in
 häuslicher Gemeinschaft mit schwer vorerkrankten Angehörigen leben](fuer-
 beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452968)[Heim-
 und Telearbeit / Arbeitszeitkonten](fuer-
-beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452969)
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452969)[Erleichterungen
+für Wissenschaftler/innen vor dem Hintergrund der Corona-Pandemie](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452970)[Dienstreisen](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452971)[Informationen
+aus der Zentralen Universitätsverwaltung (ZUV)](fuer-
+beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452972)
 [(Kopie 4)](fuer-
 beschaeftigte%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452577)[Informationen
 für Beschäftigte](fuer-
