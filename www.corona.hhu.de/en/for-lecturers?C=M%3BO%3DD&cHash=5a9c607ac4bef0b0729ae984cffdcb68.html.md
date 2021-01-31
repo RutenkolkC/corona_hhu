@@ -1,12 +1,12 @@
 [Jump to content](for-
-lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#content)[Information
-pages of faculties](for-
-lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452911)[Exams](for-
+lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#content)[Exams](for-
 lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452908)[Room
 bookings](for-
 lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452909)[Resources
 and assistance for online teaching](for-
-lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452910)[Main
+lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452910)[Information
+pages of faculties](for-
+lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452911)[Main
 points for lecturers in brief](for-
 lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c438668)[Lecturers](for-
 lecturers%3FC=M%253BO%253DD&cHash=5a9c607ac4bef0b0729ae984cffdcb68.html#c452917)[Still
@@ -40,8 +40,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -73,8 +73,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -256,9 +256,7 @@ check whether an alternative format, one that does not require on-campus
 presence, is an option.
 
 Should you wish to conduct an examination in the form of an online written
-examination [you can find a number tips and suggestions here in this
-guide](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
-durchfuehrung-von-online-klausuren).
+examination you can find a number tips and suggestions here in this guide.
 
 Exam viewings should take place online, if possible. As a rule, in-person exam
 viewings are only possible for students who failed their examinations. They
@@ -271,9 +269,8 @@ lecture theatres.
 Oral exams must take place online. This also applies to doctoral defences.
 Details will be managed by the faculties. 
 
-Please [see this guide for information on how to conduct online video
-examinations](https://www.philo.hhu.de/en/studium-und-lehre/leitfaden-zur-
-durchfuehrung-von-online-videopruefungen).
+Please see this guide for information on how to conduct online video
+examinations.
 
 #### Final theses and projects
 
