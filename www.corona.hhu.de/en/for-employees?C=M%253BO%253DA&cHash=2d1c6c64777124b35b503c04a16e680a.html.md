@@ -1,5 +1,7 @@
 [Jump to content](for-
-employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#content)[Regulations
+employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#content)[General
+guidelines](for-
+employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452967)[Regulations
 for employees with a severe pre-existing condition or employees who live in
 the same household as a person with a severe pre-existing condition, in effect
 from 29 June 2020](for-
@@ -11,9 +13,7 @@ employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452
 University Administration Information](for-
 employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452971)[Support
 for scientists against the background of the coronavirus pandemic](for-
-employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452972)[General
-guidelines](for-
-employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452967)["Employees"
+employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c452972)["Employees"
 topic group](for-
 employees%3FC=M%25253BO%25253DA&cHash=2d1c6c64777124b35b503c04a16e680a.html#c438661)[Main
 points for employees in brief](for-
