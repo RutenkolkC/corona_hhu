@@ -1,10 +1,10 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
-Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Termine](fuer-
 studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Internationale Studierende](fuer-
+studierende.html#c450974)[Allgemeine Informationen](fuer-
+studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+studierende.html#c450922)[Internationale Studierende](fuer-
 studierende.html#c450972)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
 studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
@@ -88,21 +88,20 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
 
 [letzte Aktualisierungen]
 
+  * Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Für Klausuren gilt eine erweiterte Maskenpflicht, das heißt während der gesamten Klausur muss eine medizinische Maske getragen werden. Bitte bringen Sie diese zur Prüfung mit und tragen Sie sie während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch während der Bearbeitungszeit.
+
+
+
   * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden.
   * Mündliche Prüfungen müssen online stattfinden.
-  * Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden.
   * Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und -vorbereitende Labortätigkeiten bereits begonnen wurden (und dies mit der/dem Betreuer/in abgestimmt wird). Abschlussarbeiten, die Labortätigkeit erfordern, aber für die noch keine prüfungsbezogenen Vorbereitungen begonnen wurden, können derzeit nicht durchgeführt oder angemeldet werden.
   * Die Lernräume auf dem Campus, die für die Teilnahme an Online-Veranstaltungen eingerichtet wurden, bleiben weiterhin geschlossen. Studierende sollen nur für Prüfungen und die wenigen stattfindenden Präsenzveranstaltungen an den Campus kommen.
   * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
-
-
-
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 22.01.2021: Prüfungen; Lehr- und Studienbetrieb;
-15.01.2021: Das Wichtigste in Kürze; Lehr- und Studienbetrieb; Lernräume auf
-dem Campus.
+Letzte Aktualisierungen: 01.02.2021: Termine; Lehr- und Studienbetrieb;
+Prüfungen.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
@@ -138,14 +137,14 @@ vernichtet.
 
 ## Termine
 
-[Update: 17.12.2020]
+[Update: 01.02.2021]
 
 Alle Termine sowie mögliche Änderungen finden Sie unter [Termine und
 Fristen](https://www.hhu.de/studium/studienorganisation/vorlesungszeiten
 "Termine").
 
 Die Klausurenphase im Anschluss an das Wintersemester 2020/2021 beträgt 4
-Wochen und liegt in der Zeit vom 16. Februar bis 12. März 2021\. Die
+Wochen und liegt in der Zeit vom 15. Februar bis 12. März 2021\. Die
 Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der
 Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt
 auch Ostern 2021: vom 2. bis 5. April 2021).
@@ -154,13 +153,22 @@ auch Ostern 2021: vom 2. bis 5. April 2021).
 
 ## Lehr- und Studienbetrieb
 
-[Update: 22.01.2021]
+[Update: 01.02.2021]
 
-Folgende Rahmenbedingungen gelten bis zum Vorlesungsende am 12. Februar 2021
-für den Lehr- und Studienbetrieb an der HHU.
+Die nachfolgenden Rahmenbedingungen gelten bis zum Vorlesungsende am 12.
+Februar 2021 für den Lehr- und Studienbetrieb an der HHU. Die nächsten
+Entscheidungen der Landesregierung über die coronabedingten Einschränkungen
+des Hochschulbetriebs stehen Mitte Februar an. Die Taskforce Lehre wird sich
+dann wieder umgehend mit deren Umsetzung an der HHU befassen und Sie zeitnah
+über mögliche Änderungen informieren. Bitte beachten Sie, dass die
+Verordnungen und Verfügungen, die den Hochschulbetrieb betreffen, nicht immer
+umgehend zur Verfügung stehen und dementsprechend eine Umsetzung an der HHU
+immer nur zeitverzögert erfolgen kann.
 
-Präsenzveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden
-daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt.
+##### Lehrveranstaltungen (01.02.2021)
+
+Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen
+werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt.
 
 Praktika und praktische Kurse dürfen nur dann in Präsenz durchgeführt werden,
 wenn eine alternative Durchführung (z.B. Online-Durchführung, Verschiebung
@@ -168,36 +176,20 @@ oder anderweitiger Ersatz) nicht möglich ist. Darüber hinaus muss das
 Praktikum für den Bachelor- oder Masterabschluss oder für die Anmeldung zu
 einer Staatsexamensprüfung erforderlich sein. Generell ist bei Praktika in
 Präsenz der Mindestabstand von 1,5 Metern zwischen den Praktikumsteilnehmenden
-einzuhalten. Informationen zu Ihrem Praktikum erhalten Sie von Ihrem
-Lehrenden.
+einzuhalten und es muss eine medizinische Gesichtsmaske getragen werden.
+Informationen zu Ihrem Praktikum erhalten Sie von Ihrem Lehrenden.
 
-Mündliche Prüfungen müssen weiterhin online durchgeführt werden. Disputationen
-sind wie mündliche Prüfungen zu behandeln.
-
-Schriftliche Präsenzprüfungen dürfen nur dann durchgeführt werden, wenn die
-Prüfung bereits vor dem 16. Dezember 2020 terminiert wurde und eine
-alternative Durchführung oder eine Verschiebung nicht möglich sind. Darüber
-hinaus muss die Prüfung für den Bachelor- oder Masterabschluss oder für die
-Anmeldung zu einer Staatsexamensprüfung erforderlich sein. Schriftliche
-Präsenzprüfungen werden nur in Hörsälen oder anderen belüfteten Räumen
-durchgeführt werden.
-
-Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie
-entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und
--vorbereitende Labortätigkeiten bereits begonnen wurden und die Fortführung
-mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die
-Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
-wurden, können derzeit nicht durchgeführt oder angemeldet werden.
-
-Die Lernräume auf dem Campus, die für die Teilnahme an Online-Veranstaltungen
-eingerichtet wurden, bleiben weiterhin geschlossen. Bitte kommen Sie nach
-Möglichkeit nur für Prüfungen und die wenigen stattfindenden
-Präsenzveranstaltungen an den Campus.
-
-Personen aus den Gebieten, denen per Verordnung der Bewegungsradius
+Personen aus den Gebieten, denen der Bewegungsradius per Verordnung
 eingeschränkt ist, dürfen für Präsenzunterricht, Praktika und Prüfungen an die
 HHU kommen. Betroffene Studierende mögen sich bei Fragen an die Studierenden-
 und Prüfungsverwaltung wenden.
+
+##### Prüfungen (01.02.2021)
+
+Die Regelungen zu schriftlichen und mündlichen Prüfungen, zu Klausureinsichten
+und Abschlussarbeiten entnehmen Sie bitte dem Feld „Prüfungen“.
+
+##### Zentrale Einrichtungen (01.02.2021)
 
 Der Service der ULB muss ebenfalls eingeschränkt werden. Bitte nutzen Sie das
 umfangreiche digitale Angebot. Der Zutritt zur ULB ist ausschließlich für
@@ -206,12 +198,6 @@ Präsenzbeständen ist derzeit leider nicht möglich. Die ULB hat jedoch
 verschiedene Bestellservices für den ausleihbaren Lesesaalbestand
 eingerichtet. Detaillierte Informationen finden Sie auf der [Webseite der
 ULB](https://www.ulb.hhu.de/).
-
-Die nächsten Entscheidungen der Landesregierung über die coronabedingten
-Einschränkungen des Hochschulbetriebs stehen Ende Januar an. Die Taskforce
-Lehre wird sich dann wieder umgehende mit deren Umsetzung an der HHU befassen
-und Sie bis spätestens 5. Februar darüber informieren, wie der
-Hochschulbetrieb an der HHU fortgeführt wird.
 
 ## [ Lernräume auf dem Campus ](fuer-studierende.html#)
 
@@ -230,9 +216,9 @@ dieser Stelle, wenn wieder Lernräume zur Verfügung gestellt werden können.
 
 ## Prüfungen
 
-[Update: 22.01.2021]
+[Update: 01.02.2021]
 
-#### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
+##### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
 Hochschulverordnung
 
 Das Rektorat hat flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und
@@ -246,27 +232,40 @@ Darüber hinaus wird die individualisierte Regelstudienzeit für im
 Wintersemester 2020/2021 eingeschriebene Studierende um ein Semester erhöht
 und damit die Regelung aus dem Sommersemester 2020 fortgeschrieben.
 
-### Klausuren und Klausureinsichten
+##### Klausuren (01.02.2021)
 
 Schriftliche Präsenzprüfungen sind in der Regel untersagt. Sie dürfen nur dann
-in Präsenz durchgeführt werden, wenn die Prüfung bereits vor dem 16. Dezember
-2020 terminiert wurde und eine alternative Durchführung oder eine Verschiebung
-nicht möglich sind. Darüber hinaus muss die Prüfung für den Bachelor- oder
-Masterabschluss oder für die Anmeldung zu einer Staatsexamensprüfung
-erforderlich sein. Schriftliche Präsenzprüfungen dürfen nur in Hörsälen oder
-anderen belüfteten Räumen durchgeführt werden.
+in Präsenz durchgeführt werden, wenn sie turnusgemäß geplant sind und eine
+alternative Durchführung oder eine Verschiebung nicht möglich sind. Darüber
+hinaus muss die Prüfung für den Bachelor- oder Masterabschluss oder für die
+Anmeldung zu einer Staatsexamensprüfung erforderlich sein. Die Notwendigkeit,
+trotz der anhaltenden Pandemie und unter Einhaltung strenger Hygiene- und
+Abstandsvorschriften schriftliche Prüfungen in Präsenz durchzuführen, ergibt
+sich aus dem Bestreben, den Studierenden der HHU einen ordentlichen und
+anerkannten Abschluss zu ermöglichen.
+
+Schriftliche Präsenzprüfungen dürfen nur in Hörsälen oder anderen belüfteten
+Räumen durchgeführt werden.  Bei Präsenzprüfungen sind sämtliche Hygiene- und
+Abstandsvorschriften strikt einzuhalten. Dazu gehört auch, dass während der
+gesamten Prüfung eine medizinische Maske getragen werden muss. Bitte bringen
+Sie eine medizinische Maske zur Prüfung selbst mit und tragen Sie diese
+während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch
+während der Bearbeitungszeit.
 
 Studierende aus den Gebieten, denen per Verordnung der Bewegungsradius
 eingeschränkt ist, dürfen für schriftliche Präsenzprüfungen an die HHU kommen.
 Bei Fragen wenden Sie sich bitte an die Studierenden- und Prüfungsverwaltung.
 
 Die Terminierungen für die Klausuren, die ab Februar geplant sind, bleiben
-erst einmal bestehen. Da nicht absehbar ist, wie die Rahmenbedingungen dann
-aussehen, haben wir die Lehrenden gebeten vorsorglich zu prüfen, inwiefern
-eine bisher in Präsenz geplante Prüfung durch andere Formate ohne Präsenz
+erst einmal bestehen. Die Lehrenden sind gebeten zu prüfen, inwiefern eine
+bisher in Präsenz geplante Prüfung durch andere Formate ohne Präsenz
 durchgeführt werden kann. Bei Veränderungen informieren Sie Ihre Lehrenden
 rechtzeitig vor der Prüfung. Bei Fragen wenden Sie sich per E-Mail an die
 zuständigen Studiendekanate.
+
+Onlineprüfungen sind derzeit prinzipiell in allen Studiengängen zulässig. Die
+HHU hat hierfür universitätsweite Regelungen erlassen, die auf der Ebene der
+Fakultäten derzeit in eigenen Ordnungen konkretisiert werden.
 
 Auch im Wintersemester wird ein Nichtantreten bei einer Klausur auch als
 zulässiger Rücktritt gewertet, [ soweit dies die Rektoratsregeln
@@ -274,11 +273,13 @@ vorsehen](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtlich
 Bei Fragen wenden Sie sich bitte an Ihr Studiendekanat oder an den jeweiligen
 Prüfungsausschuss.
 
+##### Klausureinsichten (01.02.2021)
+
 Klausureinsichten sind nach Möglichkeit online durchzuführen. Eine
 Klausureinsicht in Präsenz ist in der Regel nur für Studierende zulässig, die
 eine Prüfung nicht bestanden haben.
 
-### Mündliche Prüfungen
+##### Mündliche Prüfungen
 
 Mündliche Einzelprüfungen können zurzeit nur als Online-Prüfung durchgeführt
 werden. Details regeln die Fakultäten. Bei Fragen nehmen Sie bitte Kontakt zu
