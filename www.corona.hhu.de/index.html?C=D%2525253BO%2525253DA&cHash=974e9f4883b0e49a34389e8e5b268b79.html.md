@@ -7,9 +7,9 @@ Kürze](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5
 Informationen. Bitte wählen Sie
 aus:](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438626)[Layout](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438630)[Layout](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438636)[Das
 Wichtigste in
-Kürze](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438624)[Studierende](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c450914)[Lehrende](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452734)[Forschung](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452752)[Universitätsbetrieb](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452848)[COVID-19
+Kürze](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438624)[Studierende](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c450914)[Lehrende](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452734)[Beschäftigte](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c551073)[Forschung](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c551084)[Universitätsbetrieb](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c551079)[COVID-19
 Verdachts- und Kontaktfälle
-Hygienekonzept](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452849)[Beschäftigte](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452753)
+Hygienekonzept](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c551076)
 
   * DE
   * [EN](en/index.html)
@@ -35,8 +35,8 @@ Willkommen!
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -69,8 +69,8 @@ Corona](../corona.hhu.de/index.html)
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -84,12 +84,14 @@ Corona](../corona.hhu.de/index.html)
 
 [letzte Aktualisierungen]
 
+  * Aufgrund der Vorgaben der [SARS-CoV-2-Arbeitsschutzverordnung des Bundesarbeitsministeriums vom 21. Januar 2021](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html), die zunächst bis zum 14. März 2021 gilt, sind in den dort aufgeführten Ausnahmefällen (Anforderungen an Raumbelegung; Mindestabstand nicht einhaltbar; Gefährdung durch erhöhten Aerosolaustausch) einfache Mund-Nasen-Bedeckungen nicht ausreichend. Stattdessen sind dann zwingend medizinische Gesichtsmasken oder FFP2-Masken zu tragen. Derartige Masken sind im Lyreco-Webshop der HHU erhältlich. Aufgrund der nachdrücklichen Aufforderung zur Heim- und Telearbeit und der allgemeinen Vorsichts- und Hygienehinweise kann es jedoch nur in absoluten Ausnahmefällen zur Notwendigkeit kommen, medizinische oder FFP2-Masken zu tragen. Für die Beschäftigten der Medizinischen Fakultät und des UKD gelten aufgrund der besonderen Anforderungen der Tätigkeiten im Zusammenhang mit der Krankenversorgung die Regelungen des UKD und der Medizinischen Fakultät.
+
+
+
+  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder bis zum 19. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus für die Aufrechterhaltung des Universitätsbetriebs erforderlich ist, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus in dem erforderlichen Umfang verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Angesichts des aktuellen Infektionsgeschehens sollten alle Beschäftigten die Möglichkeiten des mobilen Arbeitens so weit wie möglich nutzen und ihre Präsenz auf dem Campus auf das wirklich erforderliche Maß reduzieren. Die jeweiligen Fachvorgesetzten haben die Aufgabe in ihrem jeweiligen Verantwortungsbereich den Dienstbetrieb unter diesen Bedingungen zu organisieren und gleichzeitig die Präsenz auf dem Campus in ihren Teams auf das erforderliche Maß zu reduzieren.
   * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden bis zum Vorlesungsende weitgehend digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden. Informationen finden Sie auf den Webseiten für Studierende und Lehrende.
   * Mündliche Prüfungen müssen online stattfinden. Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und -vorbereitende Labortätigkeiten bereits begonnen wurden und dies mit der/dem Betreuer*in abgestimmt ist.
   * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
-
-
-
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
   * Personen, für die durch die allgemeinen Regelungen des Landes NRW häusliche Quarantäne vorgeschrieben ist, dürfen den Campus nicht betreten.
   * Personen aus nationalen Gebieten mit hohem Infektionsgeschehen (teilweise missverständlich als „Risikogebiet“ bezeichnet), dürfen weiterhin an die HHU kommen. Erst wenn ein Gebiet unter behördlich angeordneter Quarantäne steht, dürfen Personen aus dieser Region den Campus nicht mehr betreten.
@@ -97,11 +99,10 @@ Corona](../corona.hhu.de/index.html)
   * Hier finden Sie Hinweise zu der Frage, wie [ betroffene Mitarbeiter/innen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06.pdf) und [ Fachvorgesetzte](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06.pdf) mit Infektions(verdachts)fällen umzugehen haben.
   * Das Hygienekonzept der HHU mit Hinweisen für den Büro- und Laborbetrieb, Praktika und Prüfungen sowie Besprechungen und Seminarräumen finden Sie [hier](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html#c453066).
   * Regelungen und Erleichterungen für Wissenschaftler/innen sind [auf dieser Seite](fuer-beschaeftigte.html#c452970) zusammengefasst.
-  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind bis zum 5. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus erforderlich ist und diejenigen, die ihre Arbeit nur auf dem Campus ableisten können, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus verpflichtet.
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 15.01.2021]
+[Letztes Update: 27.01.2021]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
@@ -127,6 +128,12 @@ Corona](../corona.hhu.de/index.html)
 
 [
 
+## Beschäftigte
+
+](fuer-beschaeftigte.html "Teaserlink")
+
+[
+
 ## Forschung
 
 ](zur-forschung.html "Teaserlink")
@@ -142,12 +149,6 @@ Corona](../corona.hhu.de/index.html)
 ## COVID-19 Verdachts- und Kontaktfälle Hygienekonzept
 
 ](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html "Teaserlink")
-
-[
-
-## Beschäftigte
-
-](fuer-beschaeftigte.html "Teaserlink")
 
 Verantwortlichkeit:
 

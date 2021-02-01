@@ -9,10 +9,7 @@ brief](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b
 information. Please choose
 from:](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438626)[Layout](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438630)[Layout](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438636)[Main
 points in
-brief](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438624)[Students](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c450914)[Lecturers](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452734)[Research](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452752)[University
-operations](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452848)[COVID-19
-Suspected and confirmed cases Hygiene
-policy](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452849)[Employees](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452753)
+brief](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c438624)[Students](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c450914)[Lecturers](index.html%3FC=D%252525253BO%252525253DA&cHash=974e9f4883b0e49a34389e8e5b268b79.html#c452734)
 
   * [DE](../../corona.hhu.de/index.html)
   * EN
@@ -38,8 +35,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -71,8 +68,8 @@ Willkommen!
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
-    * [on research](research.html)
     * [for employees](for-employees.html)
+    * [on research](research.html)
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
@@ -84,20 +81,22 @@ Willkommen!
 
 ## Main points in brief
 
-  * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.  
-  * The rules that have been in place since 16 December 2020 concerning in-person classes will continue to apply unchanged until 15 January 2021, this means that in-person classes are still banned. This also applies to laboratory placements, bedside teaching, trips, language courses and other similar in-person activities.
-  * Oral exams must take place online. Written examinations that have been moved to a new date, as well as planned written examinations may take place, provided the responsible dean of studies approves. Final theses/projects may continue; should this require the use of a laboratory they may still continue in co-operation with the respective supervisor.
+  * On the basis of the [SARS-CoV-2-Occupational Health and Safety Ordinance guidelines](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html) passed by the German Ministry of Labour on 21 January 2021 , which will be in force until 14 March for the time being, simple face coverings are not sufficient in case of the exceptions specified there (requirements regarding room occupation; minimum distance cannot be maintained; health hazards caused by increased exchange of aerosols). Instead, it is then mandatory to wear medical face masks or FFP2 masks. Masks of these types are available via HHU’s Lyreco web shop. Due to the explicit appeal to work from home/perform telework and the general hygiene and safety advice, the necessity to wear medical or FFP2 masks will only arise in very few exceptional cases. Owing to the specific requirements of their work in connection with patient care, UKD and Faculty of Medicine regulations apply for Faculty of Medicine and UKD employees.   
+  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended until 19 February 2021 in the light of the relevant rulings by the German Federal Government. Persons, whose physical presence on campus is essential to maintain operations continue to be obliged to come to campus to the extent that is necessary. For all other persons it is possible to fully or in parts work from home/perform telework or mobile work. In light of the latest rates of new infections, all employees should make use of the option to work from homes as much as possible and reduce their presence on campus to the extent that is really necessary. The responsible supervisors are tasked to organise operations in their respective area of responsibility under these conditions and at the same time reduce presence on campus of their team to the required amount. 
+  * As a rule, in-person lectures are not allowed. Wherever possible, classes will continue to be taught online until the end of the lecture period. Laboratory placements and practical courses can only take place in-person in exceptional cases and only after authorisation by the dean of studies. For more information check the ‚students‘ and ‚lecturers‘ websites.    
+  * Oral exams must take place online. Written examinations that have been moved to a new date, as well as planned written examinations may take place in-person, provided the responsible dean of studies approves. Final theses/projects may continue, provided that they either do not require on-campus presence or that the laboratory work is in preparation of or an integral part of an examination, and provided that the lab practice has already begun and that the responsible supervisor approves.  
+  * For details about opening hours, access and the services provided by the University and State Library [check the following website ULB](https://www.hhu.de/en/about-hhu/university-and-state-library-ulb).
+  * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) (PDF). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.  
   * Persons who are required to undergo a period of self-isolation as stipulated in the General Regulations of the State of NRW must not enter HHU campus.
   * Persons from areas within Germany with a high number of coronavirus infections, and which sometimes are misleadingly called ‚risk areas‘, may still come to HHU. Only when an area has been put under quarantine by the authorities, persons from this area may no longer enter HHU campus. 
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for lecturers during their lectures, provided that the minimum distance of 1.5m to other persons can be maintained, and for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.   Please observe the specifications regarding the organisation of on-campus courses at HHU for students and lecturers for winter semester 2020/2021 (as of: 09 November 2020) [[Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Handreichung_Lehre_WS2021_09.11.2020_eng.pdf)].
   * Here you can find information about how [ affected HHU employees](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hygienekonzept/Merkblatt_Umgang_mit_Verdachts-_und_Infektionsfaellen_2020-10-06_GB.pdf) and [ supervisors](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06_GB.pdf) should react in case of a (suspected) infection.
   * See [ this link for HHU’s hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy) with information on working in offices and laboratories, examinations, work placements/internships, meetings/conferences and seminar rooms.
   * Regulations and support available to scientists are summarised [on this page](for-employees.html#c452970).
-  * The regulations concerning work from home/telework as stipulated in the relevant service agreement have been suspended until 15 January 2021. Persons whose physical presence is required on campus as well as persons who can perform their duties only on campus continue to be obliged to come to campus for work.
   * The Studierendenwerk has announced, that the main canteen (Mensa) in Universitätsstraße and all other cafés and canteens on HHU campus have closed on 16 December until further notice. For more information check the [Studierendenwek website](https://www.stw-d.de).
   * Currently, we are receiving a lot of spam e-mails at HHU that are allegedly sent by ZIM or WHO – please be alert.
 
-Latest updates: 07 January 2021.
+[Last updated: 20 January 2021]
 
 ## Current information. Please choose from:
 
@@ -120,39 +119,6 @@ Latest updates: 07 January 2021.
 ## Lecturers
 
 ](for-lecturers.html "Teaserlink")
-
-[
-
-## Research
-
-](research.html "Teaserlink")
-
-[
-
-## University operations
-
-
-
-
-
-
-
-
-
-](university-operations.html "Teaserlink")
-
-[
-
-## COVID-19 Suspected and confirmed cases Hygiene policy
-
-](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-
-policy "Teaserlink")
-
-[
-
-## Employees
-
-](for-employees.html "Teaserlink")
 
 Responsible for the content:
 
