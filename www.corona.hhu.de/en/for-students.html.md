@@ -208,8 +208,7 @@ again.
 
 ## Exams
 
-[Last updated: 22 January
-2021]                                                  
+[Last updated: 01 February 2021]                                      
 
 #### HHU regulations to specify the Coronavirus Epidemic Higher Education
 Ordinance
@@ -225,37 +224,47 @@ In addition to this, the individual prescribed period of study for students
 who have been enrolled in winter semester 2020/2021 will be extended by one
 semester, a continuation of the summer semester 2020 regulations. 
 
-#### Written exams and exam viewings
+#### Written exams  (01 February 2021)
 
 Written in-person exams are, as a rule, not permitted. They may only take
-place if the date for the exam was set before 16 December 2020 and an
-alternative format or re-scheduling the exam are not an option. In addition to
+place if the exam has been planned following a pre-determined schedule and an
+alternative format or re-scheduling the exam is not an option. In addition to
 that, the exam must be a mandatory component of a bachelor’s or master’s
 examination or a mandatory requirement to register for the examination to
-obtain a state examination degree. In-person exams will take place exclusively
-in lecture theatres or other well-ventilated rooms.
+obtain a state examination degree. The necessity to have in-person written
+exams despite the ongoing pandemic and under strict observance of the hygiene
+and social distancing rules derives from the wish to enable HHU students to
+obtain a regular and recognised degree.
 
-Students from areas that have adopted restrictions to the freedom of movement
+In-person written exams will take place exclusively in lecture theatres or
+other well-ventilated rooms. All hygiene and social distancing rules must be
+observed during in-person exams. This includes the mandatory wearing of a
+medical face mask throughout the duration of the exam. Please bring your own
+medical face mask and wear it from the time you enter the building until the
+time you leave it, this includes the time you are writing the exam. 
+
+Students from areas which have adopted restrictions to the freedom of movement
 may travel to HHU to attend in-person classes, internships/lab placements or
-examinations. Please contact the registrar’s office ( _[Studierenden- und
-Prüfungsverwaltung](https://www.hhu.de/en/studies/organising-your-
-studies/student-services-centre/student-and-examination-administration)_ ) in
-case of any questions. 
+examinations. If this applies to you, please contact the registrar’s office
+(Studierenden- und Prüfungsverwaltung) in case of questions.Dates for written
+examinations set to take place from February, will remain as they are for the
+time being. Lecturers are asked to check whether an alternative format, one
+that does not require on-campus presence, is an option. Please inform your
+lecturers about any changes in a timely manner. Please e-mail your respective
+dean of studies’ office in case of questions.
 
-Dates for written examinations set to take place from February, will remain as
-they are for the time being. As nobody can tell what the framework conditions
-will be like then, we have asked the lecturers, as a precautionary measure, to
-check whether an alternative format, one that does not require on-campus
-presence, is an option. Please inform your lecturers about any changes in a
-timely manner. Please e-mail your respective dean of studies’ office in case
-of questions. 
+In principle, online exams are permissible in all study programmes at present.
+For this purpose, HHU has passed university-wide guidelines which are
+currently being specified in the respective faculties.
 
 In winter semester 2020/2021, the failure to appear for an exam also counts as
 a permissible withdrawal from the exam, provided the [ regulations issued by
 the
 rectorate](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf)
 allow for this. In case of questions, please contact your dean of studies
-office or the appropriate examinations committee. 
+office or the appropriate examinations committee.
+
+#### Exam viewings (01 February 2021)
 
 Exam viewings should take place online, if possible. As a rule, in-person exam
 viewings are only possible for students who failed their examinations. 
