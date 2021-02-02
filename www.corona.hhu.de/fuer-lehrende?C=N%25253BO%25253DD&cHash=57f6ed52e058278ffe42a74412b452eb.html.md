@@ -1,14 +1,14 @@
 [Zum Inhalt springen](fuer-
-lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#content)[Lehr-
-und Studienbetrieb](fuer-
-lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452907)[Termine](fuer-
-lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452908)[Prüfungen](fuer-
-lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452909)[Hilfestellungen
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#content)[Hilfestellungen
 für die digitale Lehre](fuer-
 lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452910)[Raumbuchungen](fuer-
 lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452911)[Informationsseiten
 der Fakultäten](fuer-
-lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452912)[Das
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452912)[Lehr-
+und Studienbetrieb](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452907)[Termine](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452908)[Prüfungen](fuer-
+lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452909)[Das
 Wichtigste für Lehrende in Kürze](fuer-
 lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c438668)[Lehrende](fuer-
 lehrende%3FC=N%2525253BO%2525253DD&cHash=57f6ed52e058278ffe42a74412b452eb.html#c452917)[Noch
