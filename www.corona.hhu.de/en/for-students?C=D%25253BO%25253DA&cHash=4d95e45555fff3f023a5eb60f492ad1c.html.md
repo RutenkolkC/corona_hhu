@@ -9,11 +9,11 @@ students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c
 of the central institutions](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450973)[Faculty
 information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450974)[Further
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450974)[General
 information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450979)[General
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450916)[Further
 information](for-
-students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450916)[Teaching
+students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450979)[Teaching
 and studying](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450922)[Exams](for-
 students%3FC=D%2525253BO%2525253DA&cHash=4d95e45555fff3f023a5eb60f492ad1c.html#c450924)[Main
