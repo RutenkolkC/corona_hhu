@@ -1,13 +1,13 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Prüfungen](fuer-
+[Zum Inhalt springen](fuer-studierende.html#content)[Allgemeine
+Informationen](fuer-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
+studierende.html#c450922)[Termine](fuer-
+studierende.html#c450924)[Prüfungen](fuer-
 studierende.html#c450965)[Studienorganisation](fuer-
 studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen der Fakultäten](fuer-
+studierende.html#c450974)[Informationen der Fakultäten](fuer-
 studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
+studierende.html#c450983)[Internationale Studierende](fuer-
+studierende.html#c450972)[Informationen für Studierende mit Behinderung oder
 chronischen Erkrankungen](fuer-studierende.html#c450973)[Das Wichtigste für
 Studierende in Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete
 Fragen?](fuer-studierende.html#c439254)[Das Wichtigste für Studierende in
@@ -88,7 +88,7 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
 
 [letzte Aktualisierungen]
 
-  * Verschobene und geplante schriftliche Präsenzprüfungen dürfen nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden. Für Klausuren gilt eine erweiterte Maskenpflicht, das heißt während der gesamten Klausur muss eine medizinische Maske getragen werden. Bitte bringen Sie diese zur Prüfung mit und tragen Sie sie während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch während der Bearbeitungszeit.
+  * Schriftliche Präsenzprüfungen dürfen unter Einhaltung strenger Hygiene- und Abstandsregeln stattfinden. Während der gesamten Klausur in Präsenz muss  eine medizinische Maske getragen werden. Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und -vorbereitende Labortätigkeiten bereits begonnen wurden und dies mit der/dem Betreuer*in abgestimmt ist.
 
 
 
@@ -100,8 +100,8 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Eine Ausnahme gilt für Beschäftigte am eigenen Arbeitsplatz, sofern dort die notwendigen Hygienemaßnahmen (z.B. Mindestabstand von 1,5 m oder Abtrennung durch Glas) eingehalten werden.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 01.02.2021: Termine; Lehr- und Studienbetrieb;
-Prüfungen.
+Letzte Aktualisierungen: 03.02.2021: Das Wichtigste in Kürze; Prüfungen;
+01.02.2021: Termine; Lehr- und Studienbetrieb.
 
 ## [ Allgemeine Informationen ](fuer-studierende.html#)
 
@@ -216,7 +216,7 @@ dieser Stelle, wenn wieder Lernräume zur Verfügung gestellt werden können.
 
 ## Prüfungen
 
-[Update: 01.02.2021]
+[Update: 03.02.2021]
 
 ##### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
 Hochschulverordnung
@@ -232,46 +232,61 @@ Darüber hinaus wird die individualisierte Regelstudienzeit für im
 Wintersemester 2020/2021 eingeschriebene Studierende um ein Semester erhöht
 und damit die Regelung aus dem Sommersemester 2020 fortgeschrieben.
 
-##### Klausuren (01.02.2021)
+##### Klausuren (03.02.2021)
 
-Schriftliche Präsenzprüfungen sind in der Regel untersagt. Sie dürfen nur dann
-in Präsenz durchgeführt werden, wenn sie turnusgemäß geplant sind und eine
-alternative Durchführung oder eine Verschiebung nicht möglich sind. Darüber
-hinaus muss die Prüfung für den Bachelor- oder Masterabschluss oder für die
-Anmeldung zu einer Staatsexamensprüfung erforderlich sein. Die Notwendigkeit,
-trotz der anhaltenden Pandemie und unter Einhaltung strenger Hygiene- und
-Abstandsvorschriften schriftliche Prüfungen in Präsenz durchzuführen, ergibt
-sich aus dem Bestreben, den Studierenden der HHU einen ordentlichen und
-anerkannten Abschluss zu ermöglichen.
+Lehr- und mündliche Prüfungsveranstaltungen in Präsenz sind an der HHU
+untersagt; schriftliche Klausuren dürfen gemäß der NRW-Allgemeinverfügung vom
+22.01.2021 lediglich dann in Präsenz durchgeführt werden, wenn eine
+alternative Durchführung oder eine Verschiebung nicht möglich bzw. den zu
+prüfenden Studierenden nicht zuzumuten ist. Darüber hinaus muss die
+Präsenzprüfung für den Bachelor- oder Masterabschluss oder für die Anmeldung
+zu einer Staatsexamensprüfung erforderlich sein.
+
+Die Notwendigkeit, trotz der anhaltenden Pandemie und unter Einhaltung
+strenger Hygiene- und Abstandsvorschriften bestimmte schriftliche Prüfungen in
+Präsenz durchzuführen, ergibt sich ausschließlich aus dem Bestreben, den
+Studierenden der HHU einen ordentlichen und anerkannten Abschluss zu
+ermöglichen. Sämtliche Dozierende der HHU wurden gebeten, zu prüfen, inwiefern
+eine bisher in Präsenz geplante Prüfung durch ein digitales Format ohne
+Präsenz durchgeführt werden kann. In vielen Fällen ist dies allerdings nicht
+möglich, da die Kompetenzen, die durch Klausuren abgeprüft werden sollen, sich
+nicht in ein für alle Studierenden faires Online-Format übersetzen lassen.
+
+An der HHU soll mithilfe strenger Schutzmaßnahmen die Möglichkeit angeboten
+werden, für den Studienabschluss nötige schriftliche Prüfungen zu absolvieren,
+ohne einen Zwang auszuüben, diese durchführen oder an diesen teilnehmen zu
+müssen. Für das Rektorat gilt es, abzuwägen, dass auf der einen Seite den
+Studierenden ihr Studienerfolg möglich gemacht werden muss, auf der anderen
+Seite aber kein Druck auf die Studierenden ausgeübt werden soll, physisch auf
+dem Campus zu erscheinen. Um beiden Bestrebungen gerecht zu werden, wurden für
+das laufende Wintersemester 2020/2021 folgende Sonderregelungen vereinbart:
+
+  * Schriftliche Präsenzprüfungen (Klausuren) sind unter Einhaltung strenger Hygiene- und Abstandsregeln im Prinzip möglich, wenn die Prüfungsleistung nicht auf digitalem Weg erbracht werden kann.
+  * An allen Fakultäten gilt ein Nichterscheinen zu einem Klausurtermin lediglich als ordnungsgemäßer Rücktritt.
+  * Wer unter den derzeitigen, pandemiebedingt erschwerten Bedingungen in einer Modulprüfung durchfällt, erhält für diese Modulprüfung einmal pro Semester einen zusätzlichen Wiederholungsversuch.
 
 Schriftliche Präsenzprüfungen dürfen nur in Hörsälen oder anderen belüfteten
 Räumen durchgeführt werden.  Bei Präsenzprüfungen sind sämtliche Hygiene- und
 Abstandsvorschriften strikt einzuhalten. Dazu gehört auch, dass während der
 gesamten Prüfung eine medizinische Maske getragen werden muss. Bitte bringen
-Sie eine medizinische Maske zur Prüfung selbst mit und tragen Sie diese
-während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch
-während der Bearbeitungszeit.
+Sie eine medizinische Mund-Nasen-Bedeckung zur Prüfung selbst mit und tragen
+Sie diese während der gesamten Zeit vom Betreten bis zum Verlassen des
+Gebäudes, auch während der Bearbeitungszeit.
 
 Studierende aus den Gebieten, denen per Verordnung der Bewegungsradius
 eingeschränkt ist, dürfen für schriftliche Präsenzprüfungen an die HHU kommen.
 Bei Fragen wenden Sie sich bitte an die Studierenden- und Prüfungsverwaltung.
-
-Die Terminierungen für die Klausuren, die ab Februar geplant sind, bleiben
-erst einmal bestehen. Die Lehrenden sind gebeten zu prüfen, inwiefern eine
-bisher in Präsenz geplante Prüfung durch andere Formate ohne Präsenz
-durchgeführt werden kann. Bei Veränderungen informieren Sie Ihre Lehrenden
-rechtzeitig vor der Prüfung. Bei Fragen wenden Sie sich per E-Mail an die
-zuständigen Studiendekanate.
+ Die Terminierungen für die Klausuren, die ab Februar 2021 geplant sind,
+bleiben bis auf Weiteres bestehen. In einzelnen Fällen kann es zu
+Verschiebungen innerhalb der vorlesungsfreien Zeit vor dem Sommersemester 2021
+kommen, die der Entzerrung der Klausurenphase dienen. Sobald neue Regelungen
+für NRW vorliegen, werden diese an alle Betroffenen so zeitnah wie möglich
+weitergegeben. Bei Fragen wenden Sie sich per E-Mail an Ihre Lehrenden oder
+die zuständigen Studiendekanate.
 
 Onlineprüfungen sind derzeit prinzipiell in allen Studiengängen zulässig. Die
 HHU hat hierfür universitätsweite Regelungen erlassen, die auf der Ebene der
 Fakultäten derzeit in eigenen Ordnungen konkretisiert werden.
-
-Auch im Wintersemester wird ein Nichtantreten bei einer Klausur auch als
-zulässiger Rücktritt gewertet, [ soweit dies die Rektoratsregeln
-vorsehen](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf).
-Bei Fragen wenden Sie sich bitte an Ihr Studiendekanat oder an den jeweiligen
-Prüfungsausschuss.
 
 ##### Klausureinsichten (01.02.2021)
 
@@ -290,12 +305,13 @@ Prüfung erfolgen. Der Rücktritt kann direkt gegenüber dem Prüfer bzw. der
 Prüferin erklärt werden. Ein Rücktritt mit ärztlichem Attest aufgrund akut
 auftretender Prüfungsunfähigkeit ist auch am Tag der Prüfung möglich.
 
-### Abschlussarbeiten
+### Abschlussarbeiten (03.02.2021)
 
 Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie
 entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und
 –vorbereitende Labortätigkeiten bereits begonnen wurden und die Fortführung
-mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die
+mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Dies gilt auch für
+Promotionen in der Medizinischen Fakultät. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 

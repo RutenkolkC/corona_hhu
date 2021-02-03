@@ -1,9 +1,9 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Hilfestellungen für die
-digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
+[Zum Inhalt springen](fuer-lehrende.html#content)[Lehr- und
+Studienbetrieb](fuer-lehrende.html#c452907)[Termine](fuer-
+lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
+für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
 lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Termine](fuer-lehrende.html#c452908)[Prüfungen](fuer-
-lehrende.html#c452909)[Das Wichtigste für Lehrende in Kürze](fuer-
+lehrende.html#c452912)[Das Wichtigste für Lehrende in Kürze](fuer-
 lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
 unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
 Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
@@ -83,19 +83,19 @@ Corona](../corona.hhu.de/index.html) **für Lehrende**
 
 [letzte Aktualisierungen]
 
-  * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden.
+  * Schriftliche Präsenzprüfungen dürfen unter Einhaltung strenger Hygiene- und Abstandsregeln und nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden, wenn die Prüfungsleistung nicht auf digitalem Wege erbracht werden kann. Während der gesamten Klausur in Präsenz muss eine medizinische Maske getragen werden, die von den Studierenden zur Prüfung mitzubringen und während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch während der B
+  * Präsenzlehrveranstaltungen sind weitgehend untersagt. Lehrveranstaltungen werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden.
+
+
+
   * Mündliche Prüfungen müssen online stattfinden.
-  * Verschobene und geplante schriftliche Präsenzprüfungen dürfen nur nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden.
   * Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und –vorbereitende Labortätigkeiten bereits begonnen wurden und die Fortführung mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen wurden, können derzeit nicht durchgeführt oder angemeldet werden.
   * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
-
-
-
   * Auf dem gesamten Campus sowie an allen von der HHU genutzten weiteren Liegenschaften besteht die Verpflichtung, eine einfache Mund-Nasen-Bedeckung zu tragen. Bitte beachten Sie weitere Konkretisierungen auf der Webseite für Beschäftigte und in Bereichen der Krankenversorgung.
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden Aspekte wie flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
 
-Letzte Aktualisierungen: 01.02.2021: Termine; Lehr- und Studienbetrieb;
-Prüfungen.
+Letzte Aktualisierungen: 03.02.2021: Das Wichtigste in Kürze; Prüfungen;
+01.02.2021: Termine; Lehr- und Studienbetrieb.
 
 ## Lehrende
 
@@ -197,7 +197,7 @@ Sprache.
 
 ## Prüfungen
 
-[Update: 01.02.2021]
+[Update: 03.02.2021]
 
 ##### HHU-Regelungen zur Konkretisierung der Corona-Epidemie-
 Hochschulverordnung
@@ -213,17 +213,38 @@ Darüber hinaus wird die individualisierte Regelstudienzeit für im
 Wintersemester 2020/2021 eingeschriebene Studierende um ein Semester erhöht
 und damit die Regelung aus dem Sommersemester 2020 fortgeschrieben.
 
-##### Klausuren (01.02.2021)
+##### Klausuren (03.02.2021)
 
-Schriftliche Präsenzprüfungen sind in der Regel untersagt. Sie dürfen nur dann
-in Präsenz durchgeführt werden, wenn die Prüfung turnusgemäß geplant ist und
-eine alternative Durchführung oder eine Verschiebung nicht möglich sind.
-Darüber hinaus muss die Prüfung für den Bachelor- oder Masterabschluss oder
-für die Anmeldung zu einer Staatsexamensprüfung erforderlich sein. Die
-Notwendigkeit, trotz der anhaltenden Pandemie und unter Einhaltung strenger
-Hygiene- und Abstandsvorschriften schriftliche Prüfungen in Präsenz
-durchzuführen, ergibt sich aus dem Bestreben, den Studierenden an der HHU
-einen ordentlichen und anerkannten Abschluss zu ermöglichen.
+Lehr- und mündliche Prüfungsveranstaltungen in Präsenz sind an der HHU
+untersagt; schriftliche Klausuren dürfen gemäß der NRW-Allgemeinverfügung vom
+22.01.2021 lediglich dann in Präsenz durchgeführt werden, wenn eine
+alternative Durchführung oder eine Verschiebung nicht möglich bzw. den zu
+prüfenden Studierenden nicht zuzumuten ist. Darüber hinaus muss die
+Präsenzprüfung für den Bachelor- oder Masterabschluss oder für die Anmeldung
+zu einer Staatsexamensprüfung erforderlich sein.
+
+Die Notwendigkeit, trotz der anhaltenden Pandemie und unter Einhaltung
+strenger Hygiene- und Abstandsvorschriften bestimmte schriftliche Prüfungen in
+Präsenz durchzuführen, ergibt sich ausschließlich aus dem Bestreben, den
+Studierenden an der HHU einen ordentlichen und anerkannten Abschluss zu
+ermöglichen. Sämtliche Dozierende der HHU sind gebeten, zu prüfen, inwiefern
+eine bisher in Präsenz geplante Prüfung durch ein digitales Format ohne
+Präsenz durchgeführt werden kann. In vielen Fällen ist dies allerdings nicht
+möglich, da die Kompetenzen, die durch Klausuren abgeprüft werden sollen, sich
+nicht in ein für alle Studierenden faires Online-Format übersetzen lassen.
+
+An der HHU soll mithilfe strenger Schutzmaßnahmen die Möglichkeit angeboten
+werden, für den Studienabschluss nötige schriftliche Prüfungen zu absolvieren,
+ohne einen Zwang auszuüben, diese durchführen oder an diesen teilnehmen zu
+müssen. Für das Rektorat gilt es, abzuwägen, dass auf der einen Seite den
+Studierenden ihr Studienerfolg möglich gemacht werden muss, auf der anderen
+Seite aber kein Druck auf die Studierenden ausgeübt werden soll, physisch auf
+dem Campus zu erscheinen. Um beiden Bestrebungen gerecht zu werden, wurden für
+das laufende Wintersemester 2020/2021 folgende Sonderregelungen vereinbart:
+
+  * Schriftliche Präsenzprüfungen (Klausuren) sind unter Einhaltung strenger Hygiene- und Abstandsregeln im Prinzip möglich, wenn die Prüfungsleistung nicht auf digitalem Weg erbracht werden kann.
+  * An allen Fakultäten gilt ein Nichterscheinen zu einem Klausurtermin lediglich als ordnungsgemäßer Rücktritt.
+  * Wer unter den derzeitigen, pandemiebedingt erschwerten Bedingungen in einer Modulprüfung durchfällt, erhält für diese Modulprüfung einmal pro Semester einen zusätzlichen Wiederholungsversuch.
 
 Schriftliche Präsenzprüfungen müssen in Hörsälen oder anderen belüfteten
 Räumen durchgeführt werden und von der zuständigen Studiendekanin bzw. dem
@@ -235,12 +256,12 @@ selbst mitzubringen ist.
 Personen aus den Gebieten, denen per Verordnung der Bewegungsradius
 eingeschränkt ist, dürfen für Präsenzunterricht, Praktika und Prüfungen an die
 HHU kommen. Betroffene Studierende mögen sich bei Fragen an die Studierenden-
-und Prüfungsverwaltung wenden.
-
-Die Terminierungen für die Klausuren, die ab Februar geplant sind, bleiben
-erst einmal bestehen. Wir bitten Sie zu prüfen, inwiefern eine bisher in
-Präsenz geplante Prüfung durch andere Formate ohne Präsenz durchgeführt werden
-kann.
+und Prüfungsverwaltung wenden. Die Terminierungen für die Klausuren, die ab
+Februar 2021 geplant sind, bleiben bis auf Weiteres bestehen. In einzelnen
+Fällen kann es zu Verschiebungen innerhalb der vorlesungsfreien Zeit vor dem
+Sommersemester 2021 kommen, die der Entzerrung der Klausurenphase dienen.
+Sobald neue Regelungen für NRW vorliegen, werden diese an alle Betroffenen so
+zeitnah wie möglich weitergegeben.
 
 Onlineprüfungen sind derzeit prinzipiell in allen Studiengängen zulässig. Die
 HHU hat hierfür auf Basis der Corona-Epidemie-Hochschulverordnung des Landes
@@ -271,12 +292,13 @@ Hinweise zur Durchführung von Online-Videoprüfungen haben wir Ihnen [in einem
 Leitfaden](https://www.philo.hhu.de/schon-da/lehrende/leitfaden-online-
 videopruefungen) zusammengestellt.
 
-##### Abschlussarbeiten
+##### Abschlussarbeiten (03.02.2021)
 
 Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie
 entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und
 –vorbereitende Labortätigkeiten bereits begonnen wurden und die Fortführung
-mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Abschlussarbeiten, die
+mit der Betreuerin bzw. dem Betreuer abgestimmt wird. Dies gilt auch für
+Promotionen in der Medizinischen Fakultät. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 
