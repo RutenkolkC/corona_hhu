@@ -1,11 +1,10 @@
-[Jump to content](for-lecturers.html#content)[Exams](for-
-lecturers.html#c452908)[Room bookings](for-lecturers.html#c452909)[Resources
-and assistance for online teaching](for-lecturers.html#c452910)[Information
-pages of faculties](for-lecturers.html#c452911)[Main points for lecturers in
-brief](for-lecturers.html#c438668)[Lecturers](for-
-lecturers.html#c452917)[Still have questions?](for-
-lecturers.html#c439228)[Main points for lecturers in brief](for-
-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
+[Jump to content](for-lecturers.html#content)[Resources and assistance for
+online teaching](for-lecturers.html#c452910)[Information pages of
+faculties](for-lecturers.html#c452911)[Exams](for-lecturers.html#c452908)[Room
+bookings](for-lecturers.html#c452909)[Main points for lecturers in brief](for-
+lecturers.html#c438668)[Lecturers](for-lecturers.html#c452917)[Still have
+questions?](for-lecturers.html#c439228)[Main points for lecturers in
+brief](for-lecturers.html#c438667)[Traceability](for-lecturers.html#c0)
 
   * [DE](../fuer-lehrende.html)
   * EN
