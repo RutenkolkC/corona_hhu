@@ -1,61 +1,53 @@
 [Zum Inhalt springen](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#content)[Gremienarbeit](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453005)[Veranstaltungen,
-Tagungen, Workshops](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453006)[Gebäudeschließungen](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453007)[Videokonferenzen
-und Online-Lehre](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453008)[Hacker
-nutzen Corona-Angst aus](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453009)
-[(Kopie 3)](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c452578)[Informationen
-zum Universitätsbetrieb](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c438674)[Das
-Wichtigste zum Universitätsbetrieb in Kürze](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c438676)[Universitätsbetrieb](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c453016)[Noch
-unbeantwortete Fragen?](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c439220)[Das
-Wichtigste zum Universitätsbetrieb in Kürze](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#c438675)
+universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#content)[Zur
+Suche springen](zum-
+universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#searchanchor)
 
   * DE
+/
+
   * [EN](en/university-operations.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html) Nächste Ebene öffnen
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [EN](en/university-operations.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -72,14 +64,14 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu
 Corona](../corona.hhu.de/index.html)
 
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
-    * [zur Forschung](zur-forschung.html)
     * [für Beschäftigte](fuer-beschaeftigte.html)
+    * [zur Forschung](zur-forschung.html)
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
@@ -102,8 +94,7 @@ Corona](../corona.hhu.de/index.html) **zum Universitätsbetrieb**
 
 ## Universitätsbetrieb
 
-## [ Gremienarbeit ](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#)
+Gremienarbeit
 
 ## Gremienarbeit
 
@@ -117,8 +108,7 @@ und für Wahlen während der Dauer des eingeschränkten Dienstbetriebes.
 Handlungsleitfaden](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Hdlgsltfaden-
 Gremien_Stand_2020-11-05.pdf) (PDF-Download)
 
-## [ Veranstaltungen ](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#)
+Veranstaltungen
 
 ## Veranstaltungen, Tagungen, Workshops
 
@@ -134,8 +124,7 @@ stattfinden.
 Das Haus der Universität und Schloss Mickeln sind bis zum Jahresende für die
 Öffentlichkeit geschlossen.
 
-## [ Gebäudeschließungen ](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#)
+Gebäudeschließungen
 
 ## Gebäudeschließungen
 
@@ -155,8 +144,7 @@ werden nicht von der HHU, sondern vom Studierendenwerk betrieben. Aktuelle
 Informationen zu den gastronomischen Einrichtungen auf dem Campus sind demnach
 auf der [Website des Studierendenwerks](https://www.stw-d.de) zu finden.
 
-## [ Videokonferenzen und Online-Lehre ](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#)
+Videokonferenzen und Online-Lehre
 
 ## Videokonferenzen und Online-Lehre
 
@@ -202,8 +190,7 @@ ein Eingriff in die Lehrfreiheit.“
 von Videokonferenzen (Intranet).](https://www.mitarbeiter.hhu.de/news-
 detailansicht/article/zoom-oder-nicht-zoom.html)
 
-## [ Achtung: Hacker nutzen Corona-Angst aus! ](zum-
-universitaetsbetrieb%3FC=M%253BO%253DD&cHash=327da059e8f1874c8b4f6283118e6002.html#)
+Achtung: Hacker nutzen Corona-Angst aus!
 
 ## Hacker nutzen Corona-Angst aus
 
@@ -265,11 +252,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 

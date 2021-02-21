@@ -1,36 +1,33 @@
-[Jump to content](research.html#content)[Working in laboratories under
-COVID-19 conditions](research.html#c452941)[Coronavirus-related information of
-funding organisations](research.html#c452942) [Information for international
-scientists/researchers and visiting
-scientists/researchers](research.html#c452943)[Information for doctoral
-students, doctoral supervisors, postdocs, young scientist group leaders and
-assistant professors](research.html#c452944)[Congress trips and project
-meetings (business trips)](research.html#c452945)[Main points for research in
-brief](research.html#c438673)["Research" topic group](research.html#c452951)
-[Still have questions?](research.html#c439236)[Main points for research in
-brief](research.html#c438672)
+[Jump to content](research.html#content)[Jump to
+search](research.html#searchanchor)
 
   * [DE](../zur-forschung.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/en/)
+
+Open menu
+
+Close menu
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
+  * [HHU information on coronavirus](index.html) Open next level
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
@@ -39,22 +36,25 @@ Willkommen!
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * [DE](../zur-forschung.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -62,7 +62,7 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+Close menu [To homepage: HHU information on coronavirus](index.html)
 
     * [Information ...](index.html)
     * [for students](for-students.html)
@@ -74,8 +74,8 @@ Willkommen!
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html) **on
-research**
+[Home](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
+**on research**
 
 # Research
 
@@ -87,7 +87,7 @@ work.
 
 ## "Research" topic group
 
-## [ Working in laboratories under COVID-19 conditions ](research.html#)
+Working in laboratories under COVID-19 conditions
 
 ## Working in laboratories under COVID-19 conditions
 
@@ -101,8 +101,7 @@ research work in laboratories: [ download
 PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Merkblatt_Laborbetrieb_04-11-20_Eng.pdf)
 (as of 04 November 2020).
 
-## [ Coronavirus-related information of funding organisations
-](research.html#)
+Coronavirus-related information of funding organisations
 
 ## Coronavirus-related information of funding organisations
 
@@ -117,8 +116,8 @@ _Wissenschaftszeitvertragsgesetz_
 (WissZeitVG)](https://www.bmbf.de/de/karrierewege-fuer-den-wissenschaftlichen-
 nachwuchs-an-hochschulen-verbessern-1935.html)
 
-## [ Information for international scientists/researchers and visiting
-scientists/researcherss ](research.html#)
+Information for international scientists/researchers and visiting
+scientists/researcherss
 
 ## Information for international scientists/researchers and visiting
 scientists/researchers
@@ -145,8 +144,8 @@ For up-to-date information on the regulations for entering Germany, please
 
 
 
-## [ Information for doctoral students, doctoral supervisors, postdocs, young
-scientist group leaders and assistant professors ](research.html#)
+Information for doctoral students, doctoral supervisors, postdocs, young
+scientist group leaders and assistant professors
 
 ## Information for doctoral students, doctoral supervisors, postdocs, young
 scientist group leaders and assistant professors
@@ -202,7 +201,7 @@ professors](http://www.juno.hhu.de/en/events-and-courses.html)
 students and postdocs](https://www.hera.hhu.de/en/hera-travel-grants/corona-
 emergency-grants.html)
 
-## [ Congress trips and project meetings (business trips) ](research.html#)
+Congress trips and project meetings (business trips)
 
 ## Congress trips and project meetings (business trips)
 
@@ -244,7 +243,7 @@ Responsible for the content:
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -254,11 +253,17 @@ Responsible for the content:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+To the top
+
+_Open search Close search_
 
 Search
+
+Open quick-navigation of this siteClose quick-navigation of this site
 

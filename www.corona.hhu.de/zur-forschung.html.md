@@ -1,37 +1,33 @@
-[Zum Inhalt springen](zur-forschung.html#content)[Corona-Informationen der
-Förderorganisationen](zur-forschung.html#c452942)[Hinweise für internationale
-Wissenschaftler*innen und Gastwissenschaftler*innen](zur-
-forschung.html#c452943)[Informationen für Promovierende, Promotionsbetreuende,
-Postdocs, Nachwuchsgruppenleitungen und Juniorprofessuren](zur-
-forschung.html#c452944)[Kongressreisen und Projekttreffen (Dienstreisen)](zur-
-forschung.html#c452945)[Laborbetrieb unter COVID-19-Bedingungen](zur-
-forschung.html#c452941) [(Kopie 3)](zur-forschung.html#c452576)[Informationen
-zur Forschung](zur-forschung.html#c438670)[Das Wichtigste zur Forschung in
-Kürze](zur-forschung.html#c438673)[Forschung](zur-forschung.html#c452951)[Noch
-unbeantwortete Fragen?](zur-forschung.html#c439236)[Das Wichtigste zur
-Forschung in Kürze](zur-forschung.html#c438672)
+[Zum Inhalt springen](zur-forschung.html#content)[Zur Suche springen](zur-
+forschung.html#searchanchor)
 
   * DE
+/
+
   * [EN](en/research.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html) Nächste Ebene öffnen
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
@@ -40,13 +36,16 @@ Willkommen!
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [EN](en/research.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -63,7 +62,7 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu
 Corona](../corona.hhu.de/index.html)
 
     * [Informationen ...](../corona.hhu.de/index.html)
@@ -93,7 +92,7 @@ Labor
 
 ## Forschung
 
-## [ Laborbetrieb unter COVID-19-Bedingungen ](zur-forschung.html#)
+Laborbetrieb unter COVID-19-Bedingungen
 
 ## Laborbetrieb unter COVID-19-Bedingungen
 
@@ -107,7 +106,7 @@ im Labor: [ Download
 PDF](https://www.corona.hhu.de/fileadmin/Corona_Website/Corona_pdfs/Merkblatt_Laborbetrieb_4.11.2020.pdf)
 (Stand: 04.11.2020)
 
-## [ Corona-Informationen der Förderorganisationen ](zur-forschung.html#)
+Corona-Informationen der Förderorganisationen
 
 ## Corona-Informationen der Förderorganisationen
 
@@ -121,8 +120,8 @@ duesseldorf.de/)
 fuer-den-wissenschaftlichen-nachwuchs-an-hochschulen-verbessern-1935.html
 "Wiss") (WissZeitVG)
 
-## [ Hinweise für internationale Wissenschaftler*innen und
-Gastwissenschaftler*innen ](zur-forschung.html#)
+Hinweise für internationale Wissenschaftler*innen und
+Gastwissenschaftler*innen
 
 ## Hinweise für internationale Wissenschaftler*innen und
 Gastwissenschaftler*innen
@@ -146,8 +145,8 @@ center).
 Informationen zu den aktuellen Einreisebestimmungen nach Deutschland [finden
 Sie hier](http://www.juno.hhu.de/covid19-entry).
 
-## [ Informationen für Promovierende, Promotionsbetreuende, Postdocs,
-Nachwuchsgruppenleitungen und Juniorprofessuren ](zur-forschung.html#)
+Informationen für Promovierende, Promotionsbetreuende, Postdocs,
+Nachwuchsgruppenleitungen und Juniorprofessuren
 
 ## Informationen für Promovierende, Promotionsbetreuende, Postdocs,
 Nachwuchsgruppenleitungen und Juniorprofessuren
@@ -187,7 +186,7 @@ Nachwuchsgruppenleitungen und Juniorprofessuren
 
   * [Corona-Notfallhilfen für Promovierende und Postdoktorand*innen](http://www.hera.hhu.de/corona-notfallhilfen)
 
-## [ Kongressreisen und Projekttreffen (Dienstreisen) ](zur-forschung.html#)
+Kongressreisen und Projekttreffen (Dienstreisen)
 
 ## Kongressreisen und Projekttreffen (Dienstreisen)
 
@@ -243,11 +242,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 

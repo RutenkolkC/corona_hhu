@@ -1,37 +1,33 @@
-[Jump to content](for-students.html#content)[General information](for-
-students.html#c450916)[Further information](for-
-students.html#c450979)[Teaching and studying](for-
-students.html#c450922)[Exams](for-students.html#c450924)[Course
-organisation](for-students.html#c450965)[Information for international
-students](for-students.html#c450971)[Information for students with
-disabilities or chronic illnesses](for-students.html#c450972)[Services of the
-central institutions](for-students.html#c450973)[Faculty information](for-
-students.html#c450974)[Main points for students in brief](for-
-students.html#c438638)[Students](for-students.html#c450915)[Still have
-questions?](for-students.html#c439254)[Main points for students in brief](for-
-students.html#c438637)[Dates & Deadlines](for-students.html#c0)
+[Jump to content](for-students.html#content)[Jump to search](for-
+students.html#searchanchor)
 
   * [DE](../fuer-studierende.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/en/)
+
+Open menu
+
+Close menu
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
+  * [HHU information on coronavirus](index.html) Open next level
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
@@ -40,22 +36,25 @@ Willkommen!
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * [DE](../fuer-studierende.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -63,7 +62,7 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+Close menu [To homepage: HHU information on coronavirus](index.html)
 
     * [Information ...](index.html)
     * [for students](for-students.html)
@@ -75,14 +74,14 @@ Willkommen!
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
+[Home](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
 **for students**
 
 # Students
 
 ## Main points for students in brief
 
-  * Postponed and planned written examinations may take place after approval by the responsible dean of studies. The mandatory use of face masks has been extended in the case of written exams – this means that a medical face mask must be worn throughout the exam. Please bring your own mask to the exam and wear it non-stop from the time you enter building until you leave the building, this also includes the time during which you are writing the exam.
+  * Provided that strict hygiene and social distancing measures are observed, written examinations may take place in person. A medical face mask must be worn throughout the whole in-person written exam. Final theses and projects may continue and be registered, provided they do not require on-campus presence or that the laboratory work, which must be in preparation of or part of an examination, has already begun und the responsible supervisor has agreed to its being continued.  
 
   * As a reaction to the NRW state government’s rulings, HHU has adapted its regulations regarding teaching and examinations. For more information, please check the sections „teaching and studying“ and „examinations“.  
   * As a rule, in-person lectures are not allowed. Wherever possible, classes will take place online until the end of the lecture period. Laboratory placements and practical courses can only take place on-campus in exceptional cases and after authorisation by the responsible dean of studies.   
@@ -93,12 +92,12 @@ Willkommen!
   * A simple face covering must be worn everywhere on HHU campus as well as all inside all buildings used by HHU. The only exceptions are for employees in their own workspace, provided that the required hygiene measures (e.g. a minimum distance of 1.5m to other persons or separation by (acrylic) glass) can be maintained there.
   * The rectorate has passed [ new regulations to specify the Corona Pandemic Ordinance](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf). These regulations provide almost university-wide specifications regarding flexible teaching and examination formats, withdrawals from exams and additional attempts at passing examinations during the covid-19 pandemic.
 
-Last updated: 01 February 2021: dates and deadlines; teaching and studying;
-examinations
+Last updated: 03 February 2021: main points in brief; examinations;   01
+February 2021: dates and deadlines; teaching and studying;
 
 ## Students
 
-## [ General information ](for-students.html#)
+General information
 
 ## General information
 
@@ -127,7 +126,7 @@ four weeks to prevent unauthorised access and either be passed on to the
 appropriate authorities should this become necessary or destroyed after four
 weeks. 
 
-## [ Dates & Deadlines ](for-students.html#)
+Dates & Deadlines
 
 ## Dates & Deadlines
 
@@ -143,7 +142,7 @@ examinations before summer semester 2021 is planned to take place from 22
 March to 09 April 2021 (and includes the Easter holidays 2021: from 02 to 05
 April 2021). 
 
-## [ Teaching and studying ](for-students.html#)
+Teaching and studying
 
 ## Teaching and studying
 
@@ -193,7 +192,7 @@ has set up various services to request circulating media from the reading room
 collection. More detailed information will be made available successively on
 ULB’s website ([www.ulb.hhu.de](http://www.ulb.hhu.de)).
 
-## [ Study rooms on campus ](for-students.html#)
+Study rooms on campus
 
 [Last updated: 15 January 2021]
 
@@ -204,11 +203,11 @@ please only come to campus for exams or to attend one of the few in-person
 lectures.  We will inform you here when the study rooms become available
 again.
 
-## [ Exams ](for-students.html#)
+Exams
 
 ## Exams
 
-[Last updated: 01 February 2021]                                      
+[Last updated: 03 February 2021]                                 
 
 #### HHU regulations to specify the Coronavirus Epidemic Higher Education
 Ordinance
@@ -224,17 +223,38 @@ In addition to this, the individual prescribed period of study for students
 who have been enrolled in winter semester 2020/2021 will be extended by one
 semester, a continuation of the summer semester 2020 regulations. 
 
-#### Written exams  (01 February 2021)
+#### Written exams (03 February 2021)
 
-Written in-person exams are, as a rule, not permitted. They may only take
-place if the exam has been planned following a pre-determined schedule and an
-alternative format or re-scheduling the exam is not an option. In addition to
-that, the exam must be a mandatory component of a bachelor’s or master’s
-examination or a mandatory requirement to register for the examination to
-obtain a state examination degree. The necessity to have in-person written
-exams despite the ongoing pandemic and under strict observance of the hygiene
-and social distancing rules derives from the wish to enable HHU students to
-obtain a regular and recognised degree.
+At HHU, in-person teaching or oral exams are not permitted; in accordance with
+the NRW general decree, dated 22 January 2021, written exams may only then
+take place in person if there are no alternatives available, or if the exam
+cannot be postponed or if postponing it would mean too much of an
+inconvenience for the students. In addition to that, the in-person examination
+must be a component of a bachelor’s or master’s degree or a requirement to
+register for a state examination degree. 
+
+The necessity to have a limited number of in-person written exams despite the
+ongoing pandemic, under strict observance of the hygiene and social distancing
+rules,  is based exclusively on our  aim to make it possible for HHU students
+to obtain a regular and recognised degree. All HHU lecturers have been asked
+to check if an exam that had been planned to take place in-person can be
+preplaced by a digital format that does not require on-campus presence.
+However, in many cases this is not possible because the competences that are
+getting tested cannot be transferred into an online format that offers equal
+and fair chances to all students. 
+
+In compliance with strict safety measures, HHU wants to offer students the
+possibility to sit the written exams necessary to obtain their degree, but at
+the same time does not want to put pressure on anyone to actually hold or sit
+them.  For the rectorate this means finding the balance between the necessity
+of enabling the students to obtain a degree, and at the same time not exert
+pressure on the students to come to campus and sit these exams in person. To
+do justice to both aims, the following special regulations have been adopted
+for the current winter semester 2020/2021: 
+
+  * Written in-person examinations are possible in principle in those cases where an exam result cannot be obtained via digital means, provided strict hygiene and social distancing rules are being followed.
+  * Not showing up for an examination is treated like a regular withdrawal from the exam in all faculties.
+  * Students who fail their module exam under the current difficult conditions in the pandemic, will be granted an additional attempt to re-sit this module exam once in a semester.  
 
 In-person written exams will take place exclusively in lecture theatres or
 other well-ventilated rooms. All hygiene and social distancing rules must be
@@ -246,23 +266,18 @@ time you leave it, this includes the time you are writing the exam.
 Students from areas which have adopted restrictions to the freedom of movement
 may travel to HHU to attend in-person classes, internships/lab placements or
 examinations. If this applies to you, please contact the registrar’s office
-(Studierenden- und Prüfungsverwaltung) in case of questions.Dates for written
-examinations set to take place from February, will remain as they are for the
-time being. Lecturers are asked to check whether an alternative format, one
-that does not require on-campus presence, is an option. Please inform your
-lecturers about any changes in a timely manner. Please e-mail your respective
-dean of studies’ office in case of questions.
+(Studierenden- und Prüfungsverwaltung) in case of questions. Dates for written
+examinations set to take place in from February 2021 will remain as they are
+for the time being. In individual cases, there may occur exam date changes
+during the semester break, before the beginning of summer semester 2021 to
+untangle the exam phase. We will pass on any new regulations for NRW as soon
+as they are available to anyone concerned as soon as possible. If you have any
+questions, please e-mail your lecturer or the responsible dean of studies
+office. 
 
 In principle, online exams are permissible in all study programmes at present.
 For this purpose, HHU has passed university-wide guidelines which are
 currently being specified in the respective faculties.
-
-In winter semester 2020/2021, the failure to appear for an exam also counts as
-a permissible withdrawal from the exam, provided the [ regulations issued by
-the
-rectorate](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf)
-allow for this. In case of questions, please contact your dean of studies
-office or the appropriate examinations committee.
 
 #### Exam viewings (01 February 2021)
 
@@ -280,17 +295,18 @@ the examination. To withdraw from an exam, students can contact the examiner
 directly. In case of an acute illness, students may withdraw from the exam
 until the beginning of the exam if they can provide a doctor’s certificate.
 
-#### Final theses and projects
+#### Final theses and projects (03 February 2021)
 
 Final theses or projects may continue and can continue to be registered,
 provided that they either do not require on-campus presence or that the
 laboratory work is in preparation of or an integral part of an examination and
 provided that the lab practice has already begun and that its continuation has
-been approved by the respective supervisor. Final theses/projects that require
-laboratory practice but where the lab practice has not started yet, cannot
-take place and cannot be registered at the time being.
+been approved by the respective supervisor. This also applies to Faculty of
+Medicine doctoral theses. Final theses/projects that require laboratory
+practice but where the lab practice has not started yet, cannot take place and
+cannot be registered at the time being.  
 
-## [ Course organisation ](for-students.html#)
+Course organisation
 
 ## Course organisation
 
@@ -359,7 +375,7 @@ summer semester must re-apply for a scholarship by 01 November 2020 because
 the scholarships are granted by calendar year only. Please contact  in case of
 any questions.
 
-## [ Information for international students ](for-students.html#)
+Information for international students
 
 ## Information for international students
 
@@ -401,8 +417,7 @@ send any questions by .
 
 If you have general questions about starting your studies, please .
 
-## [ Information for students with disabilities or chronic illnesses ](for-
-students.html#)
+Information for students with disabilities or chronic illnesses
 
 ## Information for students with disabilities or chronic illnesses
 
@@ -421,7 +436,7 @@ barrierearm-HHU-EN.pdf) [PDF document] you can find more information on low-
 barrier teaching particularly with regard to students with disabilities or
 chronic diseases.
 
-## [ Faculty information ](for-students.html#)
+Faculty information
 
 ## Faculty information
 
@@ -445,7 +460,7 @@ Responsible for the content:
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -455,11 +470,17 @@ Responsible for the content:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+To the top
+
+_Open search Close search_
 
 Search
+
+Open quick-navigation of this siteClose quick-navigation of this site
 

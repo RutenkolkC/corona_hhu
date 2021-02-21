@@ -1,53 +1,34 @@
 [Jump to content](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#content)[Posters ‘General hygiene measures’, ‘obligation to wear a
-face covering’ and ‘airing of rooms’](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#c453067)[Coronavirus / SARS-CoV-2 /
-COVID-19](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453058)[How do you recognise the disease?](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453059)[How can we protect
-ourselves?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453060)[What should I do if I feel ill?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c453061)[What should I do if I had contact
-with an infected person or a person who is suspected to have contracted
-COVID-19?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453062)[Important telephone numbers and
-addresses](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453064)[Hygiene policy/protective measures at
-HHU](covid-19-suspected-and-confirmed-cases-hygiene-policy.html#c453066)[Who
-is most at risk?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c453063)[HHU coronavirus information videos](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453065)[Main points in brief on
-COVID-19 and on handling suspected and confirmed cases](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c439137)[COVID-19](covid-19-suspected-
-and-confirmed-cases-hygiene-policy.html#c453068)[Still have
-questions?](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c439138)[Main points in brief on COVID-19 and on handling
-suspected and confirmed cases](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#c439136)[As a supervisor – how do I proceed if one of my employees
-reports a (suspected) infection with COVID-19?](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#c0)
+policy.html#content)[Jump to search](covid-19-suspected-and-confirmed-cases-
+hygiene-policy.html#searchanchor)
 
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/en/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/en/)
+
+Open menu
+
+Close menu
 
 Willkommen!
 
-  * [HHU information on coronavirus](index.html)
+  * [HHU information on coronavirus](index.html) Open next level
     * [Information ...](index.html)
     * [for students](for-students.html)
     * [for lecturers](for-lecturers.html)
@@ -56,22 +37,25 @@ Willkommen!
     * [on university operations](university-operations.html)
     * [on COVID-19, Suspected and confirmed cases, Hygiene policy](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * [DE](../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
+/
+
   * EN
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portals](https://portale.hhu.de "Portals")
-  * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
+  * |[ULB Catalogue](https://katalog.ulb.hhu.de "ULB Catalogue")
 
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -79,7 +63,7 @@ Willkommen!
 
   * HHU information on coronavirus
 
-[To homepage: HHU information on coronavirus](index.html)
+Close menu [To homepage: HHU information on coronavirus](index.html)
 
     * [Information ...](index.html)
     * [for students](for-students.html)
@@ -91,8 +75,8 @@ Willkommen!
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=)
 
-[HHU](https://www.hhu.de/en/)[HHU information on coronavirus](index.html) **on
-COVID-19, Suspected and confirmed cases, Hygiene policy**
+[Home](https://www.hhu.de/en/)[HHU information on coronavirus](index.html)
+**on COVID-19, Suspected and confirmed cases, Hygiene policy**
 
 # COVID-19, Suspected and confirmed cases, Hygiene policy
 
@@ -100,7 +84,7 @@ COVID-19, Suspected and confirmed cases, Hygiene policy**
 cases
 
   * Close contacts are those who have had face-to-face contact for at least 15 minutes cumulatively with a person ill with COVID-19 or those who had direct contact with secretions or bodily fluids of a confirmed case of COVID-19. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation).
-  * Such close contacts must follow the instructions on this site [ instructions of this page.](covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should.html)
+  * Such close contacts must follow the instructions on this site [ instructions of this page.](https://www.corona.hhu.de/en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19)
 
 Last updated: 30 October 2020: Coronavirus / SARS-Cov-2 / COVID-19; How do you
 recognise the disease? How can we protect ourselves?; What should I do if I
@@ -109,8 +93,7 @@ hygiene measures at HHU.
 
 ## COVID-19
 
-## [ Coronavirus / SARS-CoV-2 / COVID-19 ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+Coronavirus / SARS-CoV-2 / COVID-19
 
 ## Coronavirus / SARS-CoV-2 / COVID-19
 
@@ -129,8 +112,7 @@ authorities and continuously re-assesses the situation following the
 recommendations made by the Robert Koch Institute (RKI), the local Düsseldorf
 health authorities and the State and Federal Ministries of Health. 
 
-## [ How do you recognise the disease? ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+How do you recognise the disease?
 
 ## How do you recognise the disease?
 
@@ -143,8 +125,7 @@ Sense of smell and/or of taste may also be affected.
 
   * In some patients, the infection appears to take a severe course, leading to respiratory problems and pneumonia. Deaths occurred mainly in elderly patients and/or patients with pre-existing, chronic health conditions. The definition of ‘close contact’ may also apply if a person was very likely exposed to a high concentration of aerosols in a room (e.g. at parties, when singing together or doing sports inside in rooms without adequate ventilation). For more information [visit this RKI site on hospitalised COVID-19 patients](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText12) and also their [epidemiologic bulletin 41/2020](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile).
 
-## [ How can we protect ourselves? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+How can we protect ourselves?
 
 ## How can we protect ourselves?
 
@@ -171,8 +152,7 @@ SARS-CoV-2 include:
 These measures are also a protection against other respiratory diseases (such
 as the flu).
 
-## [ What should I do if I feel ill? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+What should I do if I feel ill?
 
 ## What should I do if I feel ill?
 
@@ -196,9 +176,8 @@ appointment can be made at the central diagnostic facility (Witzelstraße
 54-56), the drive-in test centre or the mobile pap test service of the city of
 Düsseldorf.
 
-## [ What should I do if I had contact with an infected person or a person who
-is suspected to have contracted COVID-19? ](covid-19-suspected-and-confirmed-
-cases-hygiene-policy.html#)
+What should I do if I had contact with an infected person or a person who is
+suspected to have contracted COVID-19?
 
 ## What should I do if I had contact with an infected person or a person who
 is suspected to have contracted COVID-19?
@@ -213,9 +192,8 @@ below:
   * [ Fact sheet Symptomkontrolle](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktperson_Symptomkontrolle_SARS-CoV-2_2020-03-26.pdf) (Download)
   * [ Form Ermittlung Kontaktpersonen](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Kontaktpersonen_Ermittlung-SARS-CoV-2_2020-03-27.pdf) (Download)
 
-## [ As a supervisor – how do I proceed if one of my employees reports a
-(suspected) infection with COVID-19? ](covid-19-suspected-and-confirmed-cases-
-hygiene-policy.html#)
+As a supervisor – how do I proceed if one of my employees reports a
+(suspected) infection with COVID-19?
 
 ## As a supervisor – how do I proceed if one of my employees reports a
 (suspected) infection with COVID-19?
@@ -227,8 +205,7 @@ As a supervisor – how do I proceed if one of my employees reports a
 
   * Information for supervisors ([Download PDF](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Hinweise_fuer_Fachvorgesetzte_Infektions-_und_Kontaktfaelle_2020-10-06_GB.pdf))
 
-## [ Who is most at risk? ](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#)
+Who is most at risk?
 
 ## Who is most at risk?
 
@@ -246,8 +223,7 @@ The group of people with a higher risk includes:
 To [RKI’s COVID-19
 pages](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html)
 
-## [ Important telephone numbers and addresses ](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#)
+Important telephone numbers and addresses
 
 ## Important telephone numbers and addresses
 
@@ -265,8 +241,7 @@ Düsseldorf.
 The state government of North Rhine-Westphalia has introduced a new
 coronavirus service hotline for its citizens: 0211-91191001.
 
-## [ Hygiene policy/protective measures at HHU ](covid-19-suspected-and-
-confirmed-cases-hygiene-policy.html#)
+Hygiene policy/protective measures at HHU
 
 ## Hygiene policy/protective measures at HHU
 
@@ -289,8 +264,7 @@ To the downloads:
 
 In case of further questions on hygiene measures, please write to .
 
-## [ Information posters ](covid-19-suspected-and-confirmed-cases-hygiene-
-policy.html#)
+Information posters
 
 ## Posters ‘General hygiene measures’, ‘obligation to wear a face covering’
 and ‘airing of rooms’
@@ -328,7 +302,7 @@ Responsible for the content:
   * [Contact](https://www.hhu.de/en/about-hhu/contact-and-services)
   * [Imprint](https://www.hhu.de/en/imprint)
   * [Privacy statement](https://www.hhu.de/datenschutzerklaerung)
-  * [Barrierefreiheit](https://www.hhu.de/en/erklaerung-zur-barrierefreiheit)
+  * [Accessibility](https://www.hhu.de/erklaerung-zur-barrierefreiheit)
   * [Emergency](https://www.hhu.de/en/emergency-1)
   * [ Press](https://www.hhu.de/en/about-hhu/press-and-marketing/press-contact-persons)
 
@@ -338,11 +312,17 @@ Responsible for the content:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+To the top
+
+_Open search Close search_
 
 Search
+
+Open quick-navigation of this siteClose quick-navigation of this site
 

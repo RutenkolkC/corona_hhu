@@ -1,26 +1,34 @@
-[Zum Inhalt springen](kontakt-mit-infizierten-verdachtsfaellen.html#content)
+[Zum Inhalt springen](kontakt-mit-infizierten-
+verdachtsfaellen.html#content)[Zur Suche springen](kontakt-mit-infizierten-
+verdachtsfaellen.html#searchanchor)
 
   * DE
+/
+
   * [ EN](../../../en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../../../../corona.hhu.de/index.html)
+  * [HHU-Informationen zu Corona](../../../../corona.hhu.de/index.html) Nächste Ebene öffnen
     * [Informationen ...](../../../../corona.hhu.de/index.html)
     * [für Studierende](../../../fuer-studierende.html)
     * [für Lehrende](../../../fuer-lehrende.html)
@@ -29,13 +37,16 @@ Willkommen!
     * [zum Universitätsbetrieb](../../../zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../../../zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [ EN](../../../en/covid-19-suspected-and-confirmed-cases-hygiene-policy/covid-19-sitemap/corona-19-inhalte/what-should-i-do-if-i-had-contact-with-an-infected-person-or-a-person-who-is-suspected-to-have-contracted-covid-19.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -52,7 +63,7 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu
 Corona](../../../../corona.hhu.de/index.html)
 
     * [Informationen ...](../../../../corona.hhu.de/index.html)
@@ -87,11 +98,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 

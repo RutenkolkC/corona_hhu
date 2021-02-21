@@ -1,40 +1,33 @@
-[Zum Inhalt springen](fuer-studierende.html#content)[Prüfungen](fuer-
-studierende.html#c450965)[Studienorganisation](fuer-
-studierende.html#c450971)[Services der zentralen Einrichtungen](fuer-
-studierende.html#c450974)[Allgemeine Informationen](fuer-
-studierende.html#c450916)[Lehr- und Studienbetrieb](fuer-
-studierende.html#c450922)[Termine](fuer-
-studierende.html#c450924)[Internationale Studierende](fuer-
-studierende.html#c450972)[Informationen der Fakultäten](fuer-
-studierende.html#c450979)[Weitere Informationen](fuer-
-studierende.html#c450983)[Informationen für Studierende mit Behinderung oder
-chronischen Erkrankungen](fuer-studierende.html#c450973)[Das Wichtigste für
-Studierende in Kürze](fuer-studierende.html#c438638)[Noch unbeantwortete
-Fragen?](fuer-studierende.html#c439254)[Das Wichtigste für Studierende in
-Kürze](fuer-studierende.html#c438637)[Lernräume auf dem Campus](fuer-
-studierende.html#c513981)
+[Zum Inhalt springen](fuer-studierende.html#content)[Zur Suche springen](fuer-
+studierende.html#searchanchor)
 
   * DE
+/
+
   * [EN](en/for-students.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html) Nächste Ebene öffnen
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
@@ -43,13 +36,16 @@ Willkommen!
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [EN](en/for-students.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -66,7 +62,7 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu
 Corona](../corona.hhu.de/index.html)
 
     * [Informationen ...](../corona.hhu.de/index.html)
@@ -103,7 +99,7 @@ Corona](../corona.hhu.de/index.html) **für Studierende**
 Letzte Aktualisierungen: 03.02.2021: Das Wichtigste in Kürze; Prüfungen;
 01.02.2021: Termine; Lehr- und Studienbetrieb.
 
-## [ Allgemeine Informationen ](fuer-studierende.html#)
+Allgemeine Informationen
 
 ## Allgemeine Informationen
 
@@ -133,7 +129,7 @@ vier Wochen vor dem Zugriff Unbefugter gesichert aufbewahrt, im Bedarfsfall
 der zuständigen Behörde zur Verfügung gestellt und nach Ablauf der vier Wochen
 vernichtet.
 
-## [ Termine ](fuer-studierende.html#)
+Termine
 
 ## Termine
 
@@ -149,7 +145,7 @@ Klausurphase vor dem Sommersemester 2021 liegt nach dem jetzigen Stand der
 Planung in der Zeit vom 22. März bis 9. April 2021 (in diesem Zeitraum liegt
 auch Ostern 2021: vom 2. bis 5. April 2021).
 
-## [ Lehr- und Studienbetrieb ](fuer-studierende.html#)
+Lehr- und Studienbetrieb
 
 ## Lehr- und Studienbetrieb
 
@@ -199,7 +195,7 @@ verschiedene Bestellservices für den ausleihbaren Lesesaalbestand
 eingerichtet. Detaillierte Informationen finden Sie auf der [Webseite der
 ULB](https://www.ulb.hhu.de/).
 
-## [ Lernräume auf dem Campus ](fuer-studierende.html#)
+Lernräume auf dem Campus
 
 ## Lernräume auf dem Campus
 
@@ -212,7 +208,7 @@ Bitte kommen Sie nach Möglichkeit nur für Prüfungen und die wenigen
 stattfindenden Präsenzveranstaltungen an den Campus. Wir informieren Sie an
 dieser Stelle, wenn wieder Lernräume zur Verfügung gestellt werden können.
 
-## [ Prüfungen ](fuer-studierende.html#)
+Prüfungen
 
 ## Prüfungen
 
@@ -315,7 +311,7 @@ Promotionen in der Medizinischen Fakultät. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 
-## [ Studienorganisation ](fuer-studierende.html#)
+Studienorganisation
 
 ## Studienorganisation
 
@@ -386,7 +382,7 @@ Sommersemester verschieben, zum 01.11.2020 erneut für ein Stipendium bewerben,
 da die Stipendien an das Kalenderjahr gebunden sind. Fragen hierzu beantwortet
 .
 
-## [ Internationale Studierende ](fuer-studierende.html#)
+Internationale Studierende
 
 ## Internationale Studierende
 
@@ -432,8 +428,7 @@ Studienabschluss an der HHU anstreben, wenn sich bei Fragen per E-Mail an den
 Mit generellen Fragen zum Studieneinstieg wenden Sie sich bitte per E-Mail an
 den .
 
-## [ Informationen für Studierende mit Behinderung oder chronischen
-Erkrankungen ](fuer-studierende.html#)
+Informationen für Studierende mit Behinderung oder chronischen Erkrankungen
 
 ## Informationen für Studierende mit Behinderung oder chronischen Erkrankungen
 
@@ -451,7 +446,7 @@ digitale Lehre für
 Studierende“](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/studierende-
 barrierefrei-hhu_Juli2020erg.pdf) [PDF-Dokument]
 
-## [ Informationen der Fakultäten ](fuer-studierende.html#)
+Informationen der Fakultäten
 
 ## Informationen der Fakultäten
 
@@ -488,11 +483,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 

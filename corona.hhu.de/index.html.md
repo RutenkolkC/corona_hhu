@@ -1,32 +1,33 @@
-[Zum Inhalt springen](index.html#content)[HHU-Informationen zu
-Corona](index.html#c438623)[Das Wichtigste in
-Kürze](index.html#c438625)[Aktuelle Informationen. Bitte wählen Sie
-aus:](index.html#c438626)[Layout](index.html#c438630)[Layout](index.html#c438636)[Das
-Wichtigste in
-Kürze](index.html#c438624)[Studierende](index.html#c450914)[Lehrende](index.html#c452734)[Beschäftigte](index.html#c551073)[Forschung](index.html#c551084)[Universitätsbetrieb](index.html#c551079)[COVID-19
-Verdachts- und Kontaktfälle Hygienekonzept](index.html#c551076)
+[Zum Inhalt springen](index.html#content)[Zur Suche
+springen](index.html#searchanchor)
 
   * DE
+/
+
   * [EN](../www.corona.hhu.de/en/index.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](index.html)
+  * [HHU-Informationen zu Corona](index.html) Nächste Ebene öffnen
     * [Informationen ...](index.html)
     * [für Studierende](../www.corona.hhu.de/fuer-studierende.html)
     * [für Lehrende](../www.corona.hhu.de/fuer-lehrende.html)
@@ -35,13 +36,16 @@ Willkommen!
     * [zum Universitätsbetrieb](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [EN](../www.corona.hhu.de/en/index.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -58,7 +62,7 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu Corona](index.html)
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu Corona](index.html)
 
     * [Informationen ...](index.html)
     * [für Studierende](../www.corona.hhu.de/fuer-studierende.html)
@@ -78,12 +82,12 @@ Willkommen!
 
 [letzte Aktualisierungen]
 
+  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder bis zum 19. März 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus für die Aufrechterhaltung des Universitätsbetriebs erforderlich ist, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus in dem erforderlichen Umfang verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Angesichts des aktuellen Infektionsgeschehens sollten alle Beschäftigten die Möglichkeiten des mobilen Arbeitens so weit wie möglich nutzen und ihre Präsenz auf dem Campus auf das wirklich erforderliche Maß reduzieren. Die jeweiligen Fachvorgesetzten haben die Aufgabe in ihrem jeweiligen Verantwortungsbereich den Dienstbetrieb unter diesen Bedingungen zu organisieren und gleichzeitig die Präsenz auf dem Campus in ihren Teams auf das erforderliche Maß zu reduzieren.
+
+
+
   * Mündliche Prüfungen müssen online stattfinden. Schriftliche Präsenzprüfungen dürfen unter Einhaltung strenger Hygiene- und Abstandsregeln und nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden, wenn die Prüfungsleistung nicht auf digitalem Wege erbracht werden kann. Während der gesamten Klausur in Präsenz muss eine medizinische Maske getragen werden. Abschlussarbeiten dürfen fortgeführt und neu angemeldet werden, wenn sie entweder keine Präsenz erfordern oder aber, wenn prüfungsbezogene und –vorbereitende Labortätigkeiten bereits begonnen wurden und dies mit der/dem Betreuer*in abgestimmt ist.
-
-
-
   * Aufgrund der Vorgaben der [SARS-CoV-2-Arbeitsschutzverordnung des Bundesarbeitsministeriums vom 21. Januar 2021](https://www.bmas.de/DE/Service/Gesetze/sars-cov-2-arbeitsschutzverordnung.html), die zunächst bis zum 14. März 2021 gilt, sind in den dort aufgeführten Ausnahmefällen (Anforderungen an Raumbelegung; Mindestabstand nicht einhaltbar; Gefährdung durch erhöhten Aerosolaustausch) einfache Mund-Nasen-Bedeckungen nicht ausreichend. Stattdessen sind dann zwingend medizinische Gesichtsmasken oder FFP2-Masken zu tragen. Derartige Masken sind im Lyreco-Webshop der HHU erhältlich. Aufgrund der nachdrücklichen Aufforderung zur Heim- und Telearbeit und der allgemeinen Vorsichts- und Hygienehinweise kann es jedoch nur in absoluten Ausnahmefällen zur Notwendigkeit kommen, medizinische oder FFP2-Masken zu tragen. Für die Beschäftigten der Medizinischen Fakultät und des UKD gelten aufgrund der besonderen Anforderungen der Tätigkeiten im Zusammenhang mit der Krankenversorgung die Regelungen des UKD und der Medizinischen Fakultät.
-  * Die Regelungen zur Heim- und Telearbeit der einschlägigen Dienstvereinbarungen sind vor dem Hintergrund der einschlägigen Beschlüsse des Bundes und der Länder bis zum 19. Februar 2021 ausgesetzt. Diejenigen, deren Anwesenheit auf dem Campus für die Aufrechterhaltung des Universitätsbetriebs erforderlich ist, sind weiterhin zur Erbringung ihrer Arbeitsleistung auf dem Campus in dem erforderlichen Umfang verpflichtet. Alle anderen haben die Möglichkeit, ganz oder teilweise mobil oder in Heim- und Telearbeit zu arbeiten. Angesichts des aktuellen Infektionsgeschehens sollten alle Beschäftigten die Möglichkeiten des mobilen Arbeitens so weit wie möglich nutzen und ihre Präsenz auf dem Campus auf das wirklich erforderliche Maß reduzieren. Die jeweiligen Fachvorgesetzten haben die Aufgabe in ihrem jeweiligen Verantwortungsbereich den Dienstbetrieb unter diesen Bedingungen zu organisieren und gleichzeitig die Präsenz auf dem Campus in ihren Teams auf das erforderliche Maß zu reduzieren.
   * Präsenzlehrveranstaltungen sind in der Regel untersagt. Lehrveranstaltungen werden bis zum Vorlesungsende weitgehend digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden. Informationen finden Sie auf den Webseiten für Studierende und Lehrende.
   * Details zur Öffnung, zum Zugang und zu den Services der Universitäts- und Landesbibliothek finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/).
   * Das Rektorat hat [ neue Regelungen zur Konkretisierung der Corona-Epidemie-Verordnung](https://www.corona.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2020/2020_12_10_AB_66.pdf) beschlossen. Durch die Regelungen werden flexible Lehr- und Prüfungsformate, Rücktrittsregelungen und zusätzliche Wiederholungsmöglichkeiten für Prüfungen während der Corona-Pandemie weitgehend universitätsweit geregelt.
@@ -96,7 +100,7 @@ Willkommen!
   * Das Studierendenwerk teilte mit, dass die Mensa an der Universitätsstraße und alle Essensausgaben auf dem Campus der HHU sind seit dem 16.12. bis auf Weiteres geschlossen. Weitere Informationen finden Sie auf den [Internetseiten des Studierendenwerks](https://www.stw-d.de/).
   * Derzeit kommen viele gefälschte Mails an der HHU an, Absender ist angeblich das ZIM oder die WHO – bitte seien Sie wachsam.  
   
-[Letztes Update: 03.02.2021]
+[Letztes Update: 11.02.2021]
 
 ## Aktuelle Informationen. Bitte wählen Sie aus:
 
@@ -112,38 +116,38 @@ Willkommen!
 
 
 
-](../www.corona.hhu.de/fuer-studierende.html "Teaserlink")
+](../www.corona.hhu.de/fuer-studierende.html)
 
 [
 
 ## Lehrende
 
-](../www.corona.hhu.de/fuer-lehrende.html "Teaserlink")
+](../www.corona.hhu.de/fuer-lehrende.html)
 
 [
 
 ## Beschäftigte
 
-](../www.corona.hhu.de/fuer-beschaeftigte.html "Teaserlink")
+](../www.corona.hhu.de/fuer-beschaeftigte.html)
 
 [
 
 ## Forschung
 
-](../www.corona.hhu.de/zur-forschung.html "Teaserlink")
+](../www.corona.hhu.de/zur-forschung.html)
 
 [
 
 ## Universitätsbetrieb
 
-](../www.corona.hhu.de/zum-universitaetsbetrieb.html "Teaserlink")
+](../www.corona.hhu.de/zum-universitaetsbetrieb.html)
 
 [
 
 ## COVID-19 Verdachts- und Kontaktfälle Hygienekonzept
 
 ](../www.corona.hhu.de/zu-covid-19-verdachts-und-kontaktfaellen-
-hygienekonzept.html "Teaserlink")
+hygienekonzept.html)
 
 Verantwortlichkeit:
 
@@ -160,11 +164,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 

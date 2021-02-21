@@ -1,35 +1,33 @@
-[Zum Inhalt springen](fuer-lehrende.html#content)[Termine](fuer-
-lehrende.html#c452908)[Prüfungen](fuer-lehrende.html#c452909)[Hilfestellungen
-für die digitale Lehre](fuer-lehrende.html#c452910)[Raumbuchungen](fuer-
-lehrende.html#c452911)[Informationsseiten der Fakultäten](fuer-
-lehrende.html#c452912)[Lehr- und Studienbetrieb](fuer-
-lehrende.html#c452907)[Das Wichtigste für Lehrende in Kürze](fuer-
-lehrende.html#c438668)[Lehrende](fuer-lehrende.html#c452917)[Noch
-unbeantwortete Fragen?](fuer-lehrende.html#c439228)[Das Wichtigste für
-Lehrende in Kürze](fuer-lehrende.html#c438667)[Rückverfolgbarkeit](fuer-
-lehrende.html#c520798)
+[Zum Inhalt springen](fuer-lehrende.html#content)[Zur Suche springen](fuer-
+lehrende.html#searchanchor)
 
   * DE
+/
+
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
   * |[ULB-Katalog](https://katalog.ulb.hhu.de "ULB-Katalog")
 
-  * [](https://www.facebook.com/HHU.de/ "Facebook")
-  * [](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
-  * [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
-  * [](https://twitter.com/HHU_de "Twitter")
-  * [](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
 [![Logo Heinrich-Heine-Universität
 Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo.png)](https://www.hhu.de/)
 
 [![Logo Heinrich-Heine-Universität
-Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de)
+Düsseldorf](https://www.corona.hhu.de/typo3conf/ext/wiminno/Resources/Public/img/hhu_logo_mobil.png)](https://www.hhu.de/)
+
+Menü öffnen
+
+Menü schließen
 
 Willkommen!
 
-  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html)
+  * [HHU-Informationen zu Corona](../corona.hhu.de/index.html) Nächste Ebene öffnen
     * [Informationen ...](../corona.hhu.de/index.html)
     * [für Studierende](fuer-studierende.html)
     * [für Lehrende](fuer-lehrende.html)
@@ -38,13 +36,16 @@ Willkommen!
     * [zum Universitätsbetrieb](zum-universitaetsbetrieb.html)
     * [zu COVID-19, Verdachts- und Kontaktfällen, Hygienekonzept](zu-covid-19-verdachts-und-kontaktfaellen-hygienekonzept.html)
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+[Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+[LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-
+dusseldorf/ "LinkedIn")
+[YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+[Twitter](https://twitter.com/HHU_de "Twitter")
+[Instagram](https://www.instagram.com/hhu_de/ "Instagram")
 
   * DE
+/
+
   * [EN](en/for-lecturers.html)
   * |[Intranet](https://www.mitarbeiter.hhu.de/ "Intranet")
   * |[Portale](https://portale.hhu.de "Portale")
@@ -61,7 +62,7 @@ Willkommen!
 
   * HHU-Informationen zu Corona
 
-[Zur Übersichtsseite: HHU-Informationen zu
+Menü schließen [Zur Übersichtsseite: HHU-Informationen zu
 Corona](../corona.hhu.de/index.html)
 
     * [Informationen ...](../corona.hhu.de/index.html)
@@ -83,7 +84,7 @@ Corona](../corona.hhu.de/index.html) **für Lehrende**
 
 [letzte Aktualisierungen]
 
-  * Schriftliche Präsenzprüfungen dürfen unter Einhaltung strenger Hygiene- und Abstandsregeln und nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden, wenn die Prüfungsleistung nicht auf digitalem Wege erbracht werden kann. Während der gesamten Klausur in Präsenz muss eine medizinische Maske getragen werden, die von den Studierenden zur Prüfung mitzubringen und während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch während der B
+  * Schriftliche Präsenzprüfungen dürfen unter Einhaltung strenger Hygiene- und Abstandsregeln und nach Genehmigung durch die/den zuständige/n Studiendekan/in stattfinden, wenn die Prüfungsleistung nicht auf digitalem Wege erbracht werden kann. Während der gesamten Klausur in Präsenz muss eine medizinische Maske getragen werden, die von den Studierenden zur Prüfung mitzubringen und während der gesamten Zeit vom Betreten bis zum Verlassen des Gebäudes, auch während der Bearbeitungszeit, zu tragen ist.
   * Präsenzlehrveranstaltungen sind weitgehend untersagt. Lehrveranstaltungen werden daher bis zum Vorlesungsende so weit wie möglich digital durchgeführt. Laborpraktika und praktische Kurse können nur in Ausnahmefällen und nach Genehmigung durch die/den zuständigen Studiendekan/in in Präsenz durchgeführt werden.
 
 
@@ -99,7 +100,7 @@ Letzte Aktualisierungen: 03.02.2021: Das Wichtigste in Kürze; Prüfungen;
 
 ## Lehrende
 
-## [ Termine ](fuer-lehrende.html#)
+Termine
 
 ## Termine
 
@@ -115,7 +116,7 @@ Sommersemester 2021 liegt nach dem jetzigen Stand der Planung in der Zeit vom
 22. März bis 9. April 2021 (in diesem Zeitraum liegt auch Ostern 2021: vom 2.
 bis 5. April 2021).
 
-## [ Lehr- und Studienbetrieb ](fuer-lehrende.html#)
+Lehr- und Studienbetrieb
 
 ## Lehr- und Studienbetrieb
 
@@ -176,7 +177,7 @@ finden Sie auf der [Webseite der ULB](https://www.ulb.hhu.de/). Die Nutzung
 von Präsenzbeständen ist leider im Rahmen der derzeit geltenden Regeln nicht
 möglich.
 
-## [ Rückverfolgbarkeit ](fuer-lehrende.html#)
+Rückverfolgbarkeit
 
 ## Rückverfolgbarkeit
 
@@ -193,7 +194,7 @@ und in [
 englischer](https://www.corona.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Presse/Pressemeldungen/Dokumente/Coronavirus_2020/Informationsblatt_Datenschutzhinweise_Kontaktnachverfolgung_2020-10-13_GB.pdf)
 Sprache.
 
-## [ Prüfungen ](fuer-lehrende.html#)
+Prüfungen
 
 ## Prüfungen
 
@@ -302,7 +303,7 @@ Promotionen in der Medizinischen Fakultät. Abschlussarbeiten, die
 Labortätigkeit erfordern, aber für die noch keine Labortätigkeiten begonnen
 wurden, können derzeit nicht durchgeführt oder angemeldet werden.
 
-## [ Hilfestellungen für die digitale Lehre ](fuer-lehrende.html#)
+Hilfestellungen für die digitale Lehre
 
 ## Hilfestellungen für die digitale Lehre
 
@@ -343,7 +344,7 @@ zum-urheberrecht) sowie auf der [Webseite der Stabsstelle
 Datenschutz](https://www.hhu.de/die-hhu/organisation-und-gremien/die-zentrale-
 universitaetsverwaltung-zuv/stabsstellen-der-hhu/stabsstelle-datenschutz).
 
-## [ Raumbuchungen ](fuer-lehrende.html#)
+Raumbuchungen
 
 ## Raumbuchungen
 
@@ -353,7 +354,7 @@ Raumbuchungen in zentral verwalteten Räumen werden bis auf Weiteres zentral
 koordiniert und können nur in Absprache mit den Studiendekanaten oder dem
 Raumbuchungsmanagement durchgeführt werden.
 
-## [ Informationsseiten der Fakultäten ](fuer-lehrende.html#)
+Informationsseiten der Fakultäten
 
 ## Informationsseiten der Fakultäten
 
@@ -387,11 +388,17 @@ Verantwortlichkeit:
 
 Heinrich-Heine-Universität Düsseldorf
 
-[](https://www.facebook.com/HHU.de/ "Facebook")
-[](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/
-"LinkedIn") [](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw
-"YouTube") [](https://twitter.com/HHU_de "Twitter")
-[](https://www.instagram.com/hhu_de/ "Instagram")
+  * [Facebook](https://www.facebook.com/HHU.de/ "Facebook")
+  * [LinkedIn](https://www.linkedin.com/school/heinrich-heine-universitat-dusseldorf/ "LinkedIn")
+  * [YouTube](https://www.youtube.com/channel/UCz78Aka2Ukfo2S5KfXApTiw "YouTube")
+  * [Twitter](https://twitter.com/HHU_de "Twitter")
+  * [Instagram](https://www.instagram.com/hhu_de/ "Instagram")
+
+Nach oben
+
+_Suche öffnen Suche schließen_
 
 Suche
+
+Schnellnavigation dieser Seite öffnenSchnellnavigation dieser Seite schließen
 
